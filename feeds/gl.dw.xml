@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-09-30T04:18:39Z</dc:date>
+  <dc:date>2026-09-30T04:47:57Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed-with-high-profile-arrests/a-79473714?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/north-korea-denies-south-s-claim-calls-dmz-blast-a-farce/a-79481164?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-says-ai-companies-agree-to-self-police/a-79480781?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/estonia-blames-russia-for-arson-attack-on-defense-company/a-79478937?maca=en-rss-en-all-1573-rdf"/>
@@ -88,7 +90,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/summer-of-2026-broke-records-in-europe-and-caused-deaths/a-79339630?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/oktoberfest-2026-everything-you-need-to-know/a-79311285?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ever-more-israelis-moving-to-and-investing-in-cyprus/a-79330240?maca=en-rss-en-all-1573-rdf"/>
@@ -151,6 +152,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed-with-high-profile-arrests/a-79473714?maca=en-rss-en-all-1573-rdf">
+  <title>Hungary&apos;s reckoning with Orban&apos;s corrupt system picks up speed with high-profile arrests</title>
+  <link>https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed-with-high-profile-arrests/a-79473714?maca=en-rss-en-all-1573-rdf</link>
+  <description>Hungary&apos;s Prime Minister Peter Magyar vowed to dismantle Orban&apos;s corrupt networks. High-profile figures are being arrested and many Hungarians are pushing for swift accountability, but the rule of law takes time.</description>
+  <dc:date>2026-09-30T04:37:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79473714</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/north-korea-denies-south-s-claim-calls-dmz-blast-a-farce/a-79481164?maca=en-rss-en-all-1573-rdf">
+  <title>North Korea denies South&apos;s claim, calls DMZ blast a &apos;farce&apos;</title>
+  <link>https://www.dw.com/en/north-korea-denies-south-s-claim-calls-dmz-blast-a-farce/a-79481164?maca=en-rss-en-all-1573-rdf</link>
+  <description>North Korean leader Kim Jong Un&apos;s sister Kim Yo Jong has accused Seoul of conspiracy after it blamed Pyongyang for the blast in the DMZ.</description>
+  <dc:date>2026-09-30T04:27:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79481164</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/trump-says-ai-companies-agree-to-self-police/a-79480781?maca=en-rss-en-all-1573-rdf">
   <title>Trump says AI companies agree to &apos;self-police&apos;</title>
   <link>https://www.dw.com/en/trump-says-ai-companies-agree-to-self-police/a-79480781?maca=en-rss-en-all-1573-rdf</link>
@@ -323,7 +342,7 @@
   <dwsyn:contentID>79407981</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf">
-  <title>Spain grows fruit and vegetables for Europe — but it&apos;s running out of water</title>
+  <title>Spain grows fruit and vegetables for Europe, but it&apos;s running out of water</title>
   <link>https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf</link>
   <description>Spain&apos;s southern coast produces up to 25% of Europe&apos;s fruit and vegetables. But amid intensive farming, climate change and illegal wells, the water it takes to grow them is drying up.</description>
   <dc:date>2026-09-29T09:51:00Z</dc:date>
@@ -843,15 +862,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79339087</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-all-1573-rdf">
-  <title>Mecklenburg-Western Pomerania: Will economy shape the vote?</title>
-  <link>https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-all-1573-rdf</link>
-  <description>Voters in the eastern state of Mecklenburg-Western Pomerania head to the polls on Sunday, with the Social Democrats and far-right AfD neck and neck. Here&apos;s a look at key economic issues that could influence the election.</description>
-  <dc:date>2026-09-19T14:51:00Z</dc:date>
-  <dc:subject>Germany</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79298904</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/oktoberfest-2026-everything-you-need-to-know/a-79311285?maca=en-rss-en-all-1573-rdf">
   <title>Oktoberfest 2026: Everything you need to know</title>

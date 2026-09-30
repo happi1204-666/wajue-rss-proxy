@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Wed, 30 Sep 2026 06:01:15 +0200</lastBuildDate>
-  <pubDate>Wed, 30 Sep 2026 06:01:15 +0200</pubDate>
+  <lastBuildDate>Wed, 30 Sep 2026 06:21:51 +0200</lastBuildDate>
+  <pubDate>Wed, 30 Sep 2026 06:21:51 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Morocco's King Mohammed VI appoints Fatima Mansouri as the country's first female prime minister</title>
+   <link>https://www.euronews.com/2026/09/30/moroccos-king-mohammed-vi-appoints-fatima-mansouri-as-the-countrys-first-female-prime-mini</link>
+   <guid>https://www.euronews.com/2026/09/30/moroccos-king-mohammed-vi-appoints-fatima-mansouri-as-the-countrys-first-female-prime-mini</guid>
+   <pubDate>Wed, 30 Sep 2026 06:21:51 +0200</pubDate>
+   <description>Mansouri is only the second woman in the Arab world to hold the office of prime minister. Her established political career has seen her serve as mayor of Marrakesh and member of parliament previously.</description>
+  </item>
   <item>
    <title>Top AI and tech firms sign 'morally binding' accord to 'self-police' development after meeting at White House</title>
    <link>https://www.euronews.com/2026/09/30/top-ai-and-tech-firms-sign-morally-binding-accord-to-self-police-development-after-meeting</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/09/29/estonia-slams-russian-sabotage-after-arson-attack-on-defence-company-milrem-robotics</guid>
    <pubDate>Tue, 29 Sep 2026 11:29:02 +0200</pubDate>
    <description>European countries have already faced multiple incursions by Russian drones as well as a campaign of covert Russian disruption which began after Putin’s invasion of Ukraine.</description>
-  </item>
-  <item>
-   <title>Frugal countries pile on pressure to shrink EU budget</title>
-   <link>https://www.euronews.com/2026/09/29/frugal-countries-pile-on-pressure-to-shrink-eu-budget</link>
-   <guid>https://www.euronews.com/2026/09/29/frugal-countries-pile-on-pressure-to-shrink-eu-budget</guid>
-   <pubDate>Tue, 29 Sep 2026 11:09:57 +0200</pubDate>
-   <description>Six &quot;frugal&quot; EU leaders have stepped up pressure on the Irish presidency to slash the next long-term budget by &quot;several hundred billion euros&quot; in its new compromise text.</description>
   </item>
  </channel>
 </rss>

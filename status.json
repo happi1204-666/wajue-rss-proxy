@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T04:19:43Z",
+  "updated": "2026-09-30T04:49:03Z",
   "status": {
     "gl.nhk": {
       "ok": true,
@@ -128,16 +128,11 @@
     "gl.mee": {
       "ok": true,
       "name": "Middle East Eye (中东)",
-      "src": "https://www.middleeasteye.net/rss",
+      "src": "https://www.middleeasteye.net/rss.xml",
       "error": null,
       "tried": [
         {
           "url": "https://www.middleeasteye.net/rss.xml",
-          "ok": false,
-          "err": "non-xml body: \b\u0000\u0000\u0000\u0000\u0000\u0004\u0003r\u001bWw*G3\t+(A,-U\u0016Y%\u001d\u0004XD\u0000B\u0002X΄Dt_\\|\u0013_<\u0000\u0004R:%\u0010Y?s/v2ޤ|Ml\u001bQ:ftpgc1}/gy\u001eq4\u0018\u001bl\u0006"
-        },
-        {
-          "url": "https://www.middleeasteye.net/rss",
           "ok": true,
           "err": null
         }

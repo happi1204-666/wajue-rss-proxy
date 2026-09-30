@@ -1,0 +1,204 @@
+{
+  "updated": "2026-09-30T04:49:04Z",
+  "backend": "https://rsshub.app",
+  "status": {
+    "rsshub.bbc.world": {
+      "ok": false,
+      "name": "BBC World (RSSHub 全文)",
+      "route": "/bbc/world",
+      "conf": "high",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/bbc/world",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.bbc.business": {
+      "ok": false,
+      "name": "BBC Business",
+      "route": "/bbc/business",
+      "conf": "high",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/bbc/business",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.bbc.chinese": {
+      "ok": false,
+      "name": "BBC 中文网",
+      "route": "/bbc/chinese",
+      "conf": "high",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/bbc/chinese",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.guardian.world": {
+      "ok": false,
+      "name": "The Guardian World",
+      "route": "/theguardian/world",
+      "conf": "high",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/theguardian/world",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.guardian.china": {
+      "ok": false,
+      "name": "The Guardian China",
+      "route": "/theguardian/china",
+      "conf": "high",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/theguardian/china",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.nyt.dual": {
+      "ok": false,
+      "name": "NYT 中英对照",
+      "route": "/nytimes/dual",
+      "conf": "high",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/nytimes/dual",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.nyt.en": {
+      "ok": false,
+      "name": "NYT English",
+      "route": "/nytimes/en",
+      "conf": "high",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/nytimes/en",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.aljazeera": {
+      "ok": false,
+      "name": "Al Jazeera",
+      "route": "/aljazeera/news",
+      "conf": "med",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/aljazeera/news",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.economist": {
+      "ok": false,
+      "name": "The Economist (full)",
+      "route": "/economist/full",
+      "conf": "med",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/economist/full",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.bloomberg": {
+      "ok": false,
+      "name": "Bloomberg",
+      "route": "/bloomberg",
+      "conf": "med",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/bloomberg",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.apnews": {
+      "ok": false,
+      "name": "AP News (RSSHub)",
+      "route": "/apnews/topics/apf-topnews",
+      "conf": "high",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/apnews/topics/apf-topnews",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.caixinglobal": {
+      "ok": false,
+      "name": "Caixin Global",
+      "route": "/caixinglobal/latest",
+      "conf": "high",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/caixinglobal/latest",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.reuters.world": {
+      "ok": false,
+      "name": "Reuters World (待验证)",
+      "route": "/reuters/world",
+      "conf": "low",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/reuters/world",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    },
+    "rsshub.ft.chinese": {
+      "ok": false,
+      "name": "FT 中文网 (待验证)",
+      "route": "/ft/chinese",
+      "conf": "low",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        [
+          "https://rsshub.app/ft/chinese",
+          "HTTPError: HTTP Error 403: Forbidden"
+        ]
+      ]
+    }
+  },
+  "ok_count": 0,
+  "total": 14
+}
