@@ -21,9 +21,6 @@ jobs:
       - name: Fetch blocked feeds (境外 runner 出网)
         run: python deploy/gh_rss_proxy/fetch_feeds.py
 
-      - name: Fetch RSSHub routes (解锁被墙主流媒体)
-        run: python deploy/gh_rss_proxy/fetch_rsshub.py
-
       - name: Publish to GitHub Pages (gh-pages)
         uses: peaceiris/actions-gh-pages@v4
         with:
