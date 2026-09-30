@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "purpose": "RSSHub 路由清单：解锁被 GFW 墙/自身不发 RSS 的主流媒体",
+    "backend": "https://rsshub.app （公共实例，由 GitHub Actions runner / Cloudflare Worker 服务端抓取后转发）",
+    "note": "conf=high 路由已对 RSSHub 仓库核实存在；conf=low 为待运行时验证（可能已被上游移除）",
+    "updated": "2026-09-30"
+  },
+  "routes": {
+    "rsshub.bbc.world":     { "name": "BBC World (RSSHub 全文)",        "route": "/bbc/world",                    "tags": ["国际", "权威"],                       "conf": "high" },
+    "rsshub.bbc.business":  { "name": "BBC Business",                   "route": "/bbc/business",                 "tags": ["国际", "财经"],                       "conf": "high" },
+    "rsshub.bbc.chinese":   { "name": "BBC 中文网",                     "route": "/bbc/chinese",                  "tags": ["国际", "中文"],                       "conf": "high" },
+    "rsshub.guardian.world":{"name": "The Guardian World",              "route": "/theguardian/world",            "tags": ["国际"],                               "conf": "high" },
+    "rsshub.guardian.china":{ "name": "The Guardian China",             "route": "/theguardian/china",            "tags": ["国际", "中国"],                       "conf": "high" },
+    "rsshub.nyt.dual":      { "name": "NYT 中英对照",                   "route": "/nytimes/dual",                 "tags": ["国际", "权威"],                       "conf": "high" },
+    "rsshub.nyt.en":        { "name": "NYT English",                    "route": "/nytimes/en",                   "tags": ["国际", "权威"],                       "conf": "high" },
+    "rsshub.aljazeera":     { "name": "Al Jazeera",                     "route": "/aljazeera/news",               "tags": ["国际", "中东"],                       "conf": "med"  },
+    "rsshub.economist":     { "name": "The Economist (full)",           "route": "/economist/full",               "tags": ["国际", "权威", "深度"],               "conf": "med"  },
+    "rsshub.bloomberg":     { "name": "Bloomberg",                      "route": "/bloomberg",                    "tags": ["国际", "财经"],                       "conf": "med"  },
+    "rsshub.apnews":        { "name": "AP News (RSSHub)",               "route": "/apnews/topics/apf-topnews",    "tags": ["国际", "通讯社"],                     "conf": "high" },
+    "rsshub.caixinglobal":  { "name": "Caixin Global",                  "route": "/caixinglobal/latest",          "tags": ["中国", "财经", "深度"],               "conf": "high" },
+    "rsshub.reuters.world": { "name": "Reuters World (待验证)",          "route": "/reuters/world",                "tags": ["国际", "通讯社"],                     "conf": "low"  },
+    "rsshub.ft.chinese":    { "name": "FT 中文网 (待验证)",             "route": "/ft/chinese",                   "tags": ["国际", "财经", "中文"],               "conf": "low"  }
+  }
+}
