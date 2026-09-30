@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-30T04:17:23Z",
+  "updated": "2026-09-30T04:19:43Z",
   "status": {
     "gl.nhk": {
-      "ok": false,
+      "ok": true,
       "name": "NHK World (日本国际台·英文)",
-      "src": null,
-      "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>",
+      "src": "https://news.google.com/rss/search?q=NHK%20World&hl=en-US&gl=US&ceid=US:en",
+      "error": null,
       "tried": [
         {
           "url": "https://www3.nhk.or.jp/nhkworld/en/news/rss/news.xml",
@@ -31,6 +31,11 @@
           "url": "https://feeds.nhk.or.jp/nhkworld/en/news/rss",
           "ok": false,
           "err": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+        },
+        {
+          "url": "https://news.google.com/rss/search?q=NHK%20World&hl=en-US&gl=US&ceid=US:en",
+          "ok": true,
+          "err": null
         }
       ],
       "tags": [
@@ -202,10 +207,10 @@
       ]
     },
     "gl.thehindu": {
-      "ok": false,
+      "ok": true,
       "name": "The Hindu (印度英文大报)",
-      "src": null,
-      "error": "HTTPError: HTTP Error 404: Not Found",
+      "src": "https://news.google.com/rss/search?q=site:thehindu.com&hl=en-IN&gl=IN&ceid=IN:en",
+      "error": null,
       "tried": [
         {
           "url": "https://www.thehindu.com/news/national/feeds/",
@@ -236,6 +241,11 @@
           "url": "https://www.thehindu.com/news/business/feeds/",
           "ok": false,
           "err": "HTTPError: HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://news.google.com/rss/search?q=site:thehindu.com&hl=en-IN&gl=IN&ceid=IN:en",
+          "ok": true,
+          "err": null
         }
       ],
       "tags": [
