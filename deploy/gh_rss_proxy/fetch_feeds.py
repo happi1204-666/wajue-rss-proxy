@@ -32,7 +32,7 @@ CTX.verify_mode = ssl.CERT_NONE
 
 def fetch(url: str) -> tuple[bool, bytes | str]:
     """返回 (ok, body_bytes_or_error_str)。"""
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*", "Accept-Encoding": "identity"})
     try:
         with urllib.request.urlopen(req, timeout=TIMEOUT, context=CTX) as r:
             data = r.read()
@@ -52,7 +52,10 @@ def main() -> None:
     status = {}
     rows = []
     for fid, meta in feeds.items():
-        candidates = [meta["url"]] + ([meta["fallback"]] if meta.get("fallback") else [])
+        candidates = [meta["url"]]
+        if meta.get("fallback"):
+            candidates.append(meta["fallback"])
+        candidates.extend(meta.get("fallbacks") or [])
         ok = False
         src = None
         err = None
