@@ -1,0 +1,30 @@
+name: wajue-feeds-proxy
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"      # 每 30 分钟抓取一次（GitHub 免费版可能有数分钟延迟，属正常）
+  workflow_dispatch:            # 允许手动在 Actions 页点 Run workflow 立即触发
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch blocked feeds (境外 runner 出网)
+        run: python deploy/gh_rss_proxy/fetch_feeds.py
+
+      - name: Publish to GitHub Pages (gh-pages)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
+          commit_message: "feat: refresh proxied feeds [skip ci]"
