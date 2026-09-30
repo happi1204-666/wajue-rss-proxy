@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T05:48:57Z",
+  "updated": "2026-09-30T05:55:49Z",
   "status": {
     "gl.nhk": {
       "ok": true,
@@ -126,20 +126,15 @@
       ]
     },
     "gl.mee": {
-      "ok": false,
+      "ok": true,
       "name": "Middle East Eye (中东)",
-      "src": null,
-      "error": "non-xml body: \b\u0000\u0000\u0000\u0000\u0000\u0004\u0003r\u001bg\u0014쮖\u001d$\bp\u0011IKPe[,Rp$\u0004\"3\u0001QtDCLtļ\\]ϛԓ/\u0017\u0016\u0012=ꨖ\t mgηoGMI:\\\u000bq'&ݵٴ\u0017}\u0017w<\u000fr\u001ft;w\u0006ј̲",
+      "src": "https://www.middleeasteye.net/rss.xml",
+      "error": null,
       "tried": [
         {
           "url": "https://www.middleeasteye.net/rss.xml",
-          "ok": false,
-          "err": "non-xml body: \b\u0000\u0000\u0000\u0000\u0000\u0004\u0003r\u001bWw*G3\t+(A,-U\u0016Y%\u001d\u0004XD\u0000B\u0002X΄Dt_\\|\u0013_<\u0000\u0004R:%\u0010Y?s/v2ޤ|Ml\u001bQ:ftpgc1}/gy\u001eq4\u0018\u001bl\u0006"
-        },
-        {
-          "url": "https://www.middleeasteye.net/rss",
-          "ok": false,
-          "err": "non-xml body: \b\u0000\u0000\u0000\u0000\u0000\u0004\u0003r\u001bg\u0014쮖\u001d$\bp\u0011IKPe[,Rp$\u0004\"3\u0001QtDCLtļ\\]ϛԓ/\u0017\u0016\u0012=ꨖ\t mgηoGMI:\\\u000bq'&ݵٴ\u0017}\u0017w<\u000fr\u001ft;w\u0006ј̲"
+          "ok": true,
+          "err": null
         }
       ],
       "tags": [
@@ -393,10 +388,10 @@
       ]
     },
     "mp.bloomberg": {
-      "ok": false,
+      "ok": true,
       "name": "Bloomberg (arc RSS)",
-      "src": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "src": "https://news.google.com/rss/search?q=bloomberg&hl=en-US&gl=US&ceid=US:en",
+      "error": null,
       "tried": [
         {
           "url": "https://www.bloomberg.com/arc/outboundfeeds/rss/",
@@ -407,6 +402,11 @@
           "url": "https://www.bloomberg.com/feed/rss",
           "ok": false,
           "err": "HTTPError: HTTP Error 403: Forbidden"
+        },
+        {
+          "url": "https://news.google.com/rss/search?q=bloomberg&hl=en-US&gl=US&ceid=US:en",
+          "ok": true,
+          "err": null
         }
       ],
       "tags": [

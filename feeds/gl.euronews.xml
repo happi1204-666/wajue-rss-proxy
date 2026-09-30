@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Wed, 30 Sep 2026 07:30:00 +0200</lastBuildDate>
-  <pubDate>Wed, 30 Sep 2026 07:30:00 +0200</pubDate>
+  <lastBuildDate>Wed, 30 Sep 2026 07:47:02 +0200</lastBuildDate>
+  <pubDate>Wed, 30 Sep 2026 07:47:02 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Seoul suspects Zelenskyy revealed North Korean POW transfer to win arms support</title>
+   <link>https://www.euronews.com/2026/09/30/seoul-suspects-zelenskyy-revealed-north-korean-pow-transfer-to-win-arms-support</link>
+   <guid>https://www.euronews.com/2026/09/30/seoul-suspects-zelenskyy-revealed-north-korean-pow-transfer-to-win-arms-support</guid>
+   <pubDate>Wed, 30 Sep 2026 07:47:02 +0200</pubDate>
+   <description>South Korea has so far not provided lethal weapons to Ukraine, citing a domestic ban on militarily aiding countries at war.</description>
+  </item>
   <item>
    <title>What does it mean to be an 'associate member' of the EU?</title>
    <link>https://www.euronews.com/2026/09/30/what-does-it-mean-to-be-an-eu-associate-member-of-the-eu</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/09/29/central-europe-should-be-marketed-as-one-destination-tourism-leaders-tell-euronews-travel-</guid>
    <pubDate>Tue, 29 Sep 2026 12:43:40 +0200</pubDate>
    <description>Hungarian and French tourism leaders say closer cross-border cooperation could create richer experiences for visitors, while better use of data and greater protection of nature are vital to the region’s future.</description>
-  </item>
-  <item>
-   <title>Euronews Travel &amp; Tourism Summit: US envoy says Global Entry for Belgians could come by end of 2026</title>
-   <link>https://www.euronews.com/2026/09/29/euronews-travel-tourism-summit-us-envoy-says-global-entry-for-belgians-could-come-by-end-o</link>
-   <guid>https://www.euronews.com/2026/09/29/euronews-travel-tourism-summit-us-envoy-says-global-entry-for-belgians-could-come-by-end-o</guid>
-   <pubDate>Tue, 29 Sep 2026 12:19:54 +0200</pubDate>
-   <description>Bill White, Ambassador of the United States to Belgium, told Euronews that Belgian travellers could soon breeze through major US airports as Global Entry plans move forward.</description>
   </item>
  </channel>
 </rss>
