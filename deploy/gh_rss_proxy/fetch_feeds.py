@@ -8,6 +8,9 @@
 #
 # 纯标准库实现（无第三方依赖），适配 GitHub Actions ubuntu-latest。
 # 运行：python deploy/gh_rss_proxy/fetch_feeds.py   （在仓库根执行）
+#
+# v2: 加 Accept-Encoding: identity（解决 MEE 等 gzip 压缩乱码）；
+#     支持 fallbacks 候选列表；status 记录每个候选的 tried 结果便于探针调试。
 # =============================================================================
 import json
 import os
@@ -32,7 +35,14 @@ CTX.verify_mode = ssl.CERT_NONE
 
 def fetch(url: str) -> tuple[bool, bytes | str]:
     """返回 (ok, body_bytes_or_error_str)。"""
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*", "Accept-Encoding": "identity"})
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": UA,
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+            "Accept-Encoding": "identity",  # 禁止 gzip，避免 urllib 未解压导致乱码
+        },
+    )
     try:
         with urllib.request.urlopen(req, timeout=TIMEOUT, context=CTX) as r:
             data = r.read()
@@ -59,8 +69,10 @@ def main() -> None:
         ok = False
         src = None
         err = None
+        tried = []
         for u in candidates:
             ok, body = fetch(u)
+            tried.append({"url": u, "ok": ok, "err": (None if ok else str(body)[:140])})
             if ok:
                 src = u
                 (OUT_DIR / f"{fid}.xml").write_bytes(body)  # type: ignore[arg-type]
@@ -71,6 +83,7 @@ def main() -> None:
             "name": meta["name"],
             "src": src,
             "error": (None if ok else err),
+            "tried": tried,
             "tags": meta.get("tags", []),
         }
         state = "OK" if ok else "FAIL"
