@@ -9,10 +9,11 @@
       "fallbacks": [
         "https://www3.nhk.or.jp/nhkworld/en/news/rss/top.xml",
         "https://www.nhk.or.jp/rss/english/news.rdf",
-        "https://feeds.nhk.or.jp/nhkworld/en/news/rss"
+        "https://feeds.nhk.or.jp/nhkworld/en/news/rss",
+        "https://news.google.com/rss/search?q=NHK%20World&hl=en-US&gl=US&ceid=US:en"
       ],
       "tags": ["国际", "日本", "东亚", "官方"],
-      "note": "NHK World 英文 RSS 路径待 GitHub runner 实测；候选已列多源（www3 域名 DNS 可达）。"
+      "note": "NHK World 官方 RSS 已停（候选全 404）；末位 Google News 聚合作为替代。"
     },
     "gl.dw": {
       "name": "Deutsche Welle (德国之声·英文全量)",
@@ -74,10 +75,11 @@
         "https://www.thehindu.com/feeds/",
         "https://www.thehindu.com/news/feeds/",
         "https://www.thehindu.com/feeds/news/",
-        "https://www.thehindu.com/news/business/feeds/"
+        "https://www.thehindu.com/news/business/feeds/",
+        "https://news.google.com/rss/search?q=site:thehindu.com&hl=en-IN&gl=IN&ceid=IN:en"
       ],
       "tags": ["国际", "南亚", "印度", "深度"],
-      "note": "The Hindu RSS 路径待 GitHub runner 实测；候选已列多源。"
+      "note": "The Hindu 官方 RSS 已停（候选全 404）；末位 Google News 聚合作为替代。"
     },
     "gl.toi": {
       "name": "Times of India (印度·World)",
