@@ -7,10 +7,17 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-09-30T07:03:20Z</dc:date>
+  <dc:date>2026-09-30T10:37:14Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/eurovision-seeks-to-expand-brand-despite-frictions/a-79401752?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/south-korea-lost-shark-draws-over-half-a-million-visitors/a-79482014?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/eiffel-tower-chief-patrick-branco-ruivo-to-step-down-after-female-staff-excluded-during-hindu-group-s-visit/a-79482406?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-key-opposition-leaders-meet-to-discuss-poll-body-row/live-79481549?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/alternative-nobel-honors-women-s-rights-activists-ai-researcher/a-79481171?maca=en-rss-en-all-1573-rdf"/>
@@ -25,12 +32,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/satirist-launches-site-naming-cornell-students-accused-in-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/senegal-s-youth-olympics-makes-olympics-in-africa-logical/a-79468975?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/north-korea-has-recently-completed-two-road-bridges-easing-transport-to-strategic-allies-russia-and-china/a-79473981?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/women-and-children-displaced-by-nepal-s-floods-say-safe-housing-privacy-and-stability-remain-out-of-reach/a-79474014?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/spain-agrees-on-measures-to-fix-housing-crisis-ban-eviction/a-79467953?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/israel-bans-arab-parties-from-election-what-you-need-to-know/a-79461211?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-ban-on-canadian-alcohol-dairy-products-and-motorcycles-takes-effect-as-trade-dispute-escalates/a-79471701?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf"/>
@@ -96,8 +98,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ever-more-israelis-moving-to-and-investing-in-cyprus/a-79330240?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/canada-and-eu-a-look-at-the-bloc-s-special-relationships/a-79328797?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dual-citizenship-means-germany-now-in-competition-for-talent/a-79330797?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/beethoven-and-andy-warhol-rebel-icons-on-show-in-bonn/a-79296944?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/var-s-mission-creep-a-problem-for-football/a-79272642?maca=en-rss-en-all-1573-rdf"/>
@@ -153,6 +153,69 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-rdf">
+  <title>Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight</title>
+  <link>https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-rdf</link>
+  <description>Israeli media say authorities are investigating whether a Flydubai pilot tried to crash an Israel-bound plane before it diverted to Saudi Arabia.</description>
+  <dc:date>2026-09-30T09:37:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79484761</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-all-1573-rdf">
+  <title>Is US President Donald Trump right to rename AI as &apos;Super Intelligence&apos;?</title>
+  <link>https://www.dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-all-1573-rdf</link>
+  <description>Donald Trump thinks the name artificial intelligence sounds &quot;fake&quot; and has ordered US agencies to use &quot;Super Intelligence&quot; instead. Yet, tech firms and researchers have little reason to play along.</description>
+  <dc:date>2026-09-30T09:33:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79430388</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/eurovision-seeks-to-expand-brand-despite-frictions/a-79401752?maca=en-rss-en-all-1573-rdf">
+  <title>Eurovision seeks to expand brand despite frictions</title>
+  <link>https://www.dw.com/en/eurovision-seeks-to-expand-brand-despite-frictions/a-79401752?maca=en-rss-en-all-1573-rdf</link>
+  <description>The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel&apos;s participation in the midst of its war on Gaza. It still aims to keep growing.</description>
+  <dc:date>2026-09-30T09:18:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79401752</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/south-korea-lost-shark-draws-over-half-a-million-visitors/a-79482014?maca=en-rss-en-all-1573-rdf">
+  <title>South Korea: Lost shark draws over half a million visitors</title>
+  <link>https://www.dw.com/en/south-korea-lost-shark-draws-over-half-a-million-visitors/a-79482014?maca=en-rss-en-all-1573-rdf</link>
+  <description>The South Korean port of Busan says that a stranded shark has become a major tourist draw. It&apos;s also named the ocean predator an honorary ambassador to the city.</description>
+  <dc:date>2026-09-30T09:07:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79482014</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/eiffel-tower-chief-patrick-branco-ruivo-to-step-down-after-female-staff-excluded-during-hindu-group-s-visit/a-79482406?maca=en-rss-en-all-1573-rdf">
+  <title>Eiffel Tower chief Patrick Branco Ruivo to step down after female staff excluded during Hindu group&apos;s visit</title>
+  <link>https://www.dw.com/en/eiffel-tower-chief-patrick-branco-ruivo-to-step-down-after-female-staff-excluded-during-hindu-group-s-visit/a-79482406?maca=en-rss-en-all-1573-rdf</link>
+  <description>An investigation found management failures led to female Eiffel Tower staff being excluded during a Hindu group&apos;s visit.</description>
+  <dc:date>2026-09-30T08:54:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79482406</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-key-opposition-leaders-meet-to-discuss-poll-body-row/live-79481549?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Key opposition leaders meet to discuss poll body row</title>
+  <link>https://www.dw.com/en/india-news-key-opposition-leaders-meet-to-discuss-poll-body-row/live-79481549?maca=en-rss-en-all-1573-rdf</link>
+  <description>India&apos;s opposition leaders meet in New Delhi to push back against voter roll revisions and discuss poll body chief Gyanesh Kumar. DW has more.</description>
+  <dc:date>2026-09-30T08:39:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79481549</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Cabinet approves care reform bill</title>
+  <link>https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-all-1573-rdf</link>
+  <description>The German Cabinet has approved a draft bill on reforming the care system after long debate. Police have launched raids across Germany targeting Hells Angels gangs and a money-laundering network. DW has more.</description>
+  <dc:date>2026-09-30T08:10:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79481802</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-rdf">
   <title>El Nino is a &apos;postcard from the future&apos; — and could cause 451,000 excess heat deaths</title>
   <link>https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-rdf</link>
@@ -279,33 +342,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79473376</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/north-korea-has-recently-completed-two-road-bridges-easing-transport-to-strategic-allies-russia-and-china/a-79473981?maca=en-rss-en-all-1573-rdf">
-  <title>North Korea has recently completed two road bridges easing transport to strategic allies Russia and China</title>
-  <link>https://www.dw.com/en/north-korea-has-recently-completed-two-road-bridges-easing-transport-to-strategic-allies-russia-and-china/a-79473981?maca=en-rss-en-all-1573-rdf</link>
-  <description>Two recently opened bridges are expected to ease trade and transport between North Korea and its powerful neighbors. The new connections come as Pyongyang builds strategic ties with China and Russia.</description>
-  <dc:date>2026-09-29T13:35:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79473981</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/women-and-children-displaced-by-nepal-s-floods-say-safe-housing-privacy-and-stability-remain-out-of-reach/a-79474014?maca=en-rss-en-all-1573-rdf">
-  <title>Women and children displaced by Nepal&apos;s floods say safe housing, privacy and stability remain out of reach</title>
-  <link>https://www.dw.com/en/women-and-children-displaced-by-nepal-s-floods-say-safe-housing-privacy-and-stability-remain-out-of-reach/a-79474014?maca=en-rss-en-all-1573-rdf</link>
-  <description>Families living in temporary shelters in northern Nepal say safety and privacy remain out of reach as concerns about trafficking and abuse mount.</description>
-  <dc:date>2026-09-29T13:29:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79474014</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/spain-agrees-on-measures-to-fix-housing-crisis-ban-eviction/a-79467953?maca=en-rss-en-all-1573-rdf">
-  <title>Spain agrees on measures to fix housing crisis, ban eviction</title>
-  <link>https://www.dw.com/en/spain-agrees-on-measures-to-fix-housing-crisis-ban-eviction/a-79467953?maca=en-rss-en-all-1573-rdf</link>
-  <description>Spain&apos;s cabinet ministers said they have consensus on new measures to curb the housing crisis in the country after the eviction of 87-year-old Maricarmen last week from her apartment sparked protests.</description>
-  <dc:date>2026-09-29T12:01:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79467953</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-all-1573-rdf">
   <title>Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms.</title>
   <link>https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-all-1573-rdf</link>
@@ -314,24 +350,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79473031</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/israel-bans-arab-parties-from-election-what-you-need-to-know/a-79461211?maca=en-rss-en-all-1573-rdf">
-  <title>Israel bans Arab parties from election: What you need to know</title>
-  <link>https://www.dw.com/en/israel-bans-arab-parties-from-election-what-you-need-to-know/a-79461211?maca=en-rss-en-all-1573-rdf</link>
-  <description>Israel&apos;s push to ban Arab parties from standing in the upcoming election has been called &quot;another nail in the coffin of democracy.&quot; Is there a legal basis for doing this, and what could it mean for Arab voters?</description>
-  <dc:date>2026-09-29T11:42:00Z</dc:date>
-  <dc:subject>TOP STORIES</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79461211</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-ban-on-canadian-alcohol-dairy-products-and-motorcycles-takes-effect-as-trade-dispute-escalates/a-79471701?maca=en-rss-en-all-1573-rdf">
-  <title>US ban on Canadian alcohol, dairy products and motorcycles takes effect as trade dispute escalates</title>
-  <link>https://www.dw.com/en/us-ban-on-canadian-alcohol-dairy-products-and-motorcycles-takes-effect-as-trade-dispute-escalates/a-79471701?maca=en-rss-en-all-1573-rdf</link>
-  <description>Donald Trump&apos;s ban on nearly $1 billion worth of Canadian goods has come into force, further escalating a trade dispute between the longtime allies.</description>
-  <dc:date>2026-09-29T11:18:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79471701</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf">
   <title>Global trade weathers Iran, Ukraine and Trump&apos;s tariffs</title>
@@ -917,24 +935,6 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79327092</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-all-1573-rdf">
-  <title>Airport malaria in Germany remains infrequent</title>
-  <link>https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-all-1573-rdf</link>
-  <description>An outbreak of malaria at Frankfurt Airport this summer has raised alarm. Experts believe parasites probably arrived in a passenger&apos;s luggage. But with the onset of fall, the risks of contracting the disease are low.</description>
-  <dc:date>2026-09-18T18:23:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79333920</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/canada-and-eu-a-look-at-the-bloc-s-special-relationships/a-79328797?maca=en-rss-en-all-1573-rdf">
-  <title>Canada and EU: A look at the bloc&apos;s special relationships</title>
-  <link>https://www.dw.com/en/canada-and-eu-a-look-at-the-bloc-s-special-relationships/a-79328797?maca=en-rss-en-all-1573-rdf</link>
-  <description>Though Canada may be some distance from Europe geographically, closer political ties are in the cards. With talk of an associate membership, DW takes a look at other arrangements the EU has with particular countries.</description>
-  <dc:date>2026-09-18T14:26:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79328797</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/dual-citizenship-means-germany-now-in-competition-for-talent/a-79330797?maca=en-rss-en-all-1573-rdf">
   <title>Dual citizenship means Germany now in competition for talent</title>

@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 07:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 10:37:59 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Regulating AI 'not the right place to start' says Bailey]]></title>
+            <description><![CDATA[AI needs "rigorous" testing and safeguards to contain risk, Andrew Bailey says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvzez7k0pn40o#0</guid>
+            <pubDate>Wed, 30 Sep 2026 10:20:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg"/>
+        </item>
         <item>
             <title><![CDATA[OpenAI unveils AI assistant 'dots' while safety worries delay new model]]></title>
             <description><![CDATA[Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq0m373ee0v0o#0</guid>
             <pubDate>Fri, 25 Sep 2026 09:48:33 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[X-planes: Are they needed in the new era of drones?]]></title>
-            <description><![CDATA[Where do America's X-plane projects fit in an era of cheap drones?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9q92x359xdo#0</guid>
-            <pubDate>Thu, 24 Sep 2026 23:03:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d0/live/25738d60-97e9-11f1-a7ab-8b30adf0800a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
