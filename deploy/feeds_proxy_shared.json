@@ -1,0 +1,76 @@
+{
+  "_comment": "wajue 境外媒体出网代理 · 11 个被 GFW 拦截源的 feed 清单（路线 B）。本文件为 Cloudflare Worker 与 GitHub Actions 两套方案共用的单一事实源。注意：Worker 端 FEEDS 为内嵌常量（Cloudflare 无法直接读仓库文件），改动本清单后需同步更新 deploy/cf_rss_proxy/worker.js 的 FEEDS 对象。",
+  "updated": "2026-09-30",
+  "feeds": {
+    "gl.nhk": {
+      "name": "NHK World (日本国际台·英文)",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/news/rss/",
+      "fallback": "https://www.nhk.or.jp/rss/english/news.rdf",
+      "tags": ["国际", "日本", "东亚", "官方"],
+      "note": "NHK World 英文 RSS 实际目录为 rss/（非 rss.xml）。fallback 为旧版 rdf。"
+    },
+    "gl.dw": {
+      "name": "Deutsche Welle (德国之声·英文全量)",
+      "url": "https://rss.dw.com/rdf/rss-en-all",
+      "fallback": null,
+      "tags": ["国际", "欧洲", "德国", "官方"],
+      "note": "2026-09-30 已核验 rss.dw.com 域名可用。"
+    },
+    "gl.euronews": {
+      "name": "Euronews (泛欧·World)",
+      "url": "https://www.euronews.com/rss/world",
+      "fallback": "https://www.euronews.com/rss",
+      "tags": ["国际", "欧洲", "泛欧"],
+      "note": "站点确认有 MRSS 系统，world 频道优先，失败回退根 rss。"
+    },
+    "gl.scmp": {
+      "name": "South China Morning Post (南华早报·全站)",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "fallback": "https://www.scmp.com/rss",
+      "tags": ["国际", "中国", "香港", "东亚"],
+      "note": "RSS 按栏目，91 为 News 全站栏目 ID；失败回退 /rss 栏目列表页（需人工确认可用栏目）。"
+    },
+    "gl.diplomat": {
+      "name": "The Diplomat (亚太地缘)",
+      "url": "https://thediplomat.com/feed/",
+      "fallback": null,
+      "tags": ["国际", "亚太", "地缘", "深度"]
+    },
+    "gl.mee": {
+      "name": "Middle East Eye (中东)",
+      "url": "https://www.middleeasteye.net/rss.xml",
+      "fallback": null,
+      "tags": ["国际", "中东", "地缘", "深度"]
+    },
+    "gl.warontherocks": {
+      "name": "War on the Rocks (安全·军事)",
+      "url": "https://warontherocks.com/feed/",
+      "fallback": null,
+      "tags": ["国际", "安全", "地缘", "军事", "深度"]
+    },
+    "gl.bellingcat": {
+      "name": "Bellingcat (开源调查)",
+      "url": "https://www.bellingcat.com/feed/",
+      "fallback": null,
+      "tags": ["国际", "调查", "开源情报", "OSINT"]
+    },
+    "gl.hackernews": {
+      "name": "The Hacker News (网安突发)",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "fallback": "https://thehackernews.com/feeds/posts/default",
+      "tags": ["网安", "突发", "技术"]
+    },
+    "gl.thehindu": {
+      "name": "The Hindu (印度英文大报)",
+      "url": "https://www.thehindu.com/feeds/",
+      "fallback": "https://www.thehindu.com/news/national/feeds/",
+      "tags": ["国际", "南亚", "印度", "深度"]
+    },
+    "gl.toi": {
+      "name": "Times of India (印度·World)",
+      "url": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+      "fallback": "https://timesofindia.indiatimes.com/rss.cms",
+      "tags": ["国际", "南亚", "印度"]
+    }
+  }
+}
