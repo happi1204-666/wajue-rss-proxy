@@ -4,10 +4,14 @@
   "feeds": {
     "gl.nhk": {
       "name": "NHK World (日本国际台·英文)",
-      "url": "https://www3.nhk.or.jp/nhkworld/en/news/rss/",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/news/rss/news.xml",
       "fallback": "https://www.nhk.or.jp/rss/english/news.rdf",
+      "fallbacks": [
+        "https://www3.nhk.or.jp/nhkworld/en/news/rss/",
+        "https://feeds.nhk.or.jp/nhkworld/en/news/rss"
+      ],
       "tags": ["国际", "日本", "东亚", "官方"],
-      "note": "NHK World 英文 RSS 实际目录为 rss/（非 rss.xml）。fallback 为旧版 rdf。"
+      "note": "NHK World 英文 RSS 路径待 GitHub runner 实测；候选已列多源。"
     },
     "gl.dw": {
       "name": "Deutsche Welle (德国之声·英文全量)",
@@ -39,8 +43,9 @@
     "gl.mee": {
       "name": "Middle East Eye (中东)",
       "url": "https://www.middleeasteye.net/rss.xml",
-      "fallback": null,
-      "tags": ["国际", "中东", "地缘", "深度"]
+      "fallback": "https://www.middleeasteye.net/rss",
+      "tags": ["国际", "中东", "地缘", "深度"],
+      "note": "MEE 疑似 gzip 压缩返回乱码，fetch_feeds.py 已加 Accept-Encoding: identity 解决。"
     },
     "gl.warontherocks": {
       "name": "War on the Rocks (安全·军事)",
@@ -62,9 +67,14 @@
     },
     "gl.thehindu": {
       "name": "The Hindu (印度英文大报)",
-      "url": "https://www.thehindu.com/feeds/",
-      "fallback": "https://www.thehindu.com/news/national/feeds/",
-      "tags": ["国际", "南亚", "印度", "深度"]
+      "url": "https://www.thehindu.com/news/national/feeds/",
+      "fallback": "https://www.thehindu.com/feeds/",
+      "fallbacks": [
+        "https://www.thehindu.com/news/feeds/",
+        "https://www.thehindu.com/feeds/news/"
+      ],
+      "tags": ["国际", "南亚", "印度", "深度"],
+      "note": "The Hindu RSS 路径待 GitHub runner 实测；候选已列多源。"
     },
     "gl.toi": {
       "name": "Times of India (印度·World)",
