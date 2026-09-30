@@ -86,6 +86,73 @@
       "url": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "fallback": "https://timesofindia.indiatimes.com/rss.cms",
       "tags": ["国际", "南亚", "印度"]
+    },
+
+    "mp.bbc.world": {
+      "name": "BBC World (官方 RSS)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "fallback": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "tags": ["国际", "权威"],
+      "note": "BBC 官方 RSS 从墙外(Cloudflare/GitHub)可达；用户侧被 GFW 挡故需代理。"
+    },
+    "mp.bbc.tech": {
+      "name": "BBC Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "fallback": null,
+      "tags": ["国际", "科技"]
+    },
+    "mp.bbc.business": {
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "fallback": null,
+      "tags": ["国际", "财经"]
+    },
+    "mp.guardian.world": {
+      "name": "The Guardian World (官方 RSS)",
+      "url": "https://www.theguardian.com/world/rss",
+      "fallback": "https://www.theguardian.com/world/rss.xml",
+      "tags": ["国际"],
+      "note": "Guardian 官方 RSS 从墙外可达。"
+    },
+    "mp.nyt.world": {
+      "name": "New York Times World (官方 RSS)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "fallback": null,
+      "tags": ["国际", "权威"],
+      "note": "NYT 官方 RSS 从墙外可达。"
+    },
+    "mp.aljazeera": {
+      "name": "Al Jazeera (官方 RSS)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "fallback": "https://www.aljazeera.com/xml/rss/world.xml",
+      "tags": ["国际", "中东"],
+      "note": "Al Jazeera 官方 RSS 从墙外可达。"
+    },
+    "mp.economist": {
+      "name": "The Economist (官方 RSS)",
+      "url": "https://www.economist.com/latest/rss.xml",
+      "fallback": "https://www.economist.com/books/rss.xml",
+      "tags": ["国际", "权威", "深度"],
+      "note": "Economist 官方 RSS 从墙外可达。"
+    },
+    "mp.bloomberg": {
+      "name": "Bloomberg (arc RSS)",
+      "url": "https://www.bloomberg.com/arc/outboundfeeds/rss/",
+      "fallback": "https://www.bloomberg.com/feed/rss",
+      "tags": ["国际", "财经"],
+      "note": "Bloomberg arc/outboundfeeds 通用 RSS（与 DefenseNews 同款模式）。"
+    },
+    "mp.coindesk": {
+      "name": "CoinDesk (arc RSS)",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "fallback": null,
+      "tags": ["加密货币", "财经"]
+    },
+    "mp.huggingface.blog": {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "fallback": null,
+      "tags": ["AI", "一手", "技术"]
     }
   }
 }
