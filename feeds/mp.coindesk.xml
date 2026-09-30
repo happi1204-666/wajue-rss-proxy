@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 05:47:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:00:41 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps]]></title>
+      <link>https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/444f7a787b146a0e468e858e32f1f9d80f6c9c32-3600x2400.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ca7c5726-b83c-4cc8-a5e2-461fdcac00e0</guid>
+      <pubDate>Wed, 30 Sep 2026 05:59:31 +0000</pubDate>
+      <description><![CDATA[Robinhood users could soon access an AI agent that trades on behalf of them even at 2 am. Plus, they will get to trade crypto perpetuals. ]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Robinhood]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion]]></title>
       <link>https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion</link>
@@ -350,21 +364,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Tokenization]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin falls to $83,000 while altcoins unwind Friday's rally]]></title>
-      <link>https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a9b2334bbdd72659a819b0cd5f242c7fb85126fd-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">19e0c7e3-1cce-4303-8ffa-c3fd13a93108</guid>
-      <pubDate>Mon, 28 Sep 2026 10:15:04 +0000</pubDate>
-      <description><![CDATA[Bitcoin fell 1.7% to $83,000, though the CoinDesk 100 dropped 2.6% as Friday's biggest gainers reversed and oil climbed back above $100.]]></description>
-      <dc:creator>Oliver Knight</dc:creator>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

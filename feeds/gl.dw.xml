@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-09-30T05:55:10Z</dc:date>
+  <dc:date>2026-09-30T07:01:14Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/alternative-nobel-honors-women-s-rights-activists-ai-researcher/a-79481171?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed-with-high-profile-arrests/a-79473714?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/north-korea-denies-south-s-claim-calls-dmz-blast-a-farce/a-79481164?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-says-ai-companies-agree-to-self-police/a-79480781?maca=en-rss-en-all-1573-rdf"/>
@@ -28,9 +31,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/israel-bans-arab-parties-from-election-what-you-need-to-know/a-79461211?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-ban-on-canadian-alcohol-dairy-products-and-motorcycles-takes-effect-as-trade-dispute-escalates/a-79471701?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years/a-79462926?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/malaysia-repatriates-myanmar-migrants-despite-un-warnings/a-79470814?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-all-1573-rdf"/>
@@ -152,6 +153,33 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-rdf">
+  <title>El Nino is a &apos;postcard from the future&apos; — and could cause 451,000 excess heat deaths</title>
+  <link>https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-rdf</link>
+  <description>The current El Nino could cause 451,000 excess heat deaths. Researchers warn it offers a glimpse of temperatures that may become normal within 20 years.</description>
+  <dc:date>2026-09-30T06:49:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79430945</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-all-1573-rdf">
+  <title>US troops exit Iraq after more than a decade</title>
+  <link>https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-all-1573-rdf</link>
+  <description>The current deployment began in 2014 in an effort to combat &apos;Islamic State&apos; extremists. Iran, which has sought a complete removal of the US military from the Middle East, celebrated the withdrawal.</description>
+  <dc:date>2026-09-30T06:22:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79481523</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/alternative-nobel-honors-women-s-rights-activists-ai-researcher/a-79481171?maca=en-rss-en-all-1573-rdf">
+  <title>&apos;Alternative Nobel&apos; honors women&apos;s rights activists, AI researcher</title>
+  <link>https://www.dw.com/en/alternative-nobel-honors-women-s-rights-activists-ai-researcher/a-79481171?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Right Livelihood Award has gone to a female AI researcher and women fighting repression. The Sweden-based prize has been dubbed an &quot;alternative Nobel.&quot;</description>
+  <dc:date>2026-09-30T06:14:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79481171</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed-with-high-profile-arrests/a-79473714?maca=en-rss-en-all-1573-rdf">
   <title>Hungary&apos;s reckoning with Orban&apos;s corrupt system picks up speed with high-profile arrests</title>
   <link>https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed-with-high-profile-arrests/a-79473714?maca=en-rss-en-all-1573-rdf</link>
@@ -305,15 +333,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79471701</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years/a-79462926?maca=en-rss-en-all-1573-rdf">
-  <title>Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years</title>
-  <link>https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years/a-79462926?maca=en-rss-en-all-1573-rdf</link>
-  <description>As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country&apos;s future security.</description>
-  <dc:date>2026-09-29T11:08:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79462926</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf">
   <title>Global trade weathers Iran, Ukraine and Trump&apos;s tariffs</title>
   <link>https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf</link>
@@ -322,15 +341,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79352643</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/malaysia-repatriates-myanmar-migrants-despite-un-warnings/a-79470814?maca=en-rss-en-all-1573-rdf">
-  <title>Malaysia repatriates Myanmar migrants despite UN warnings</title>
-  <link>https://www.dw.com/en/malaysia-repatriates-myanmar-migrants-despite-un-warnings/a-79470814?maca=en-rss-en-all-1573-rdf</link>
-  <description>Malaysia has started repatriating about 1,500 Myanmar nationals, defying warnings from the UN and rights groups. Malaysia, facing an uptick in anti-migrant sentiment, says the program is strictly voluntary.</description>
-  <dc:date>2026-09-29T10:26:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79470814</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-all-1573-rdf">
   <title>AI: Concern as Germany plans to double data center capacity</title>
