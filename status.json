@@ -1,0 +1,135 @@
+{
+  "updated": "2026-09-30T04:03:50Z",
+  "status": {
+    "gl.nhk": {
+      "ok": false,
+      "name": "NHK World (日本国际台·英文)",
+      "src": null,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "tags": [
+        "国际",
+        "日本",
+        "东亚",
+        "官方"
+      ]
+    },
+    "gl.dw": {
+      "ok": true,
+      "name": "Deutsche Welle (德国之声·英文全量)",
+      "src": "https://rss.dw.com/rdf/rss-en-all",
+      "error": null,
+      "tags": [
+        "国际",
+        "欧洲",
+        "德国",
+        "官方"
+      ]
+    },
+    "gl.euronews": {
+      "ok": true,
+      "name": "Euronews (泛欧·World)",
+      "src": "https://www.euronews.com/rss",
+      "error": null,
+      "tags": [
+        "国际",
+        "欧洲",
+        "泛欧"
+      ]
+    },
+    "gl.scmp": {
+      "ok": true,
+      "name": "South China Morning Post (南华早报·全站)",
+      "src": "https://www.scmp.com/rss/91/feed",
+      "error": null,
+      "tags": [
+        "国际",
+        "中国",
+        "香港",
+        "东亚"
+      ]
+    },
+    "gl.diplomat": {
+      "ok": true,
+      "name": "The Diplomat (亚太地缘)",
+      "src": "https://thediplomat.com/feed/",
+      "error": null,
+      "tags": [
+        "国际",
+        "亚太",
+        "地缘",
+        "深度"
+      ]
+    },
+    "gl.mee": {
+      "ok": false,
+      "name": "Middle East Eye (中东)",
+      "src": null,
+      "error": "non-xml body: \b\u0000\u0000\u0000\u0000\u0000\u0004\u0003r\u001bWw*G3\t+(A,-U\u0016Y%\u001d\u0004XD\u0000B\u0002X΄Dt_\\|\u0013_<\u0000\u0004R:%\u0010Y?s/v2ޤ|Ml\u001bQ:ftpgc1}/gy\u001eq4\u0018\u001bl\u0006",
+      "tags": [
+        "国际",
+        "中东",
+        "地缘",
+        "深度"
+      ]
+    },
+    "gl.warontherocks": {
+      "ok": true,
+      "name": "War on the Rocks (安全·军事)",
+      "src": "https://warontherocks.com/feed/",
+      "error": null,
+      "tags": [
+        "国际",
+        "安全",
+        "地缘",
+        "军事",
+        "深度"
+      ]
+    },
+    "gl.bellingcat": {
+      "ok": true,
+      "name": "Bellingcat (开源调查)",
+      "src": "https://www.bellingcat.com/feed/",
+      "error": null,
+      "tags": [
+        "国际",
+        "调查",
+        "开源情报",
+        "OSINT"
+      ]
+    },
+    "gl.hackernews": {
+      "ok": true,
+      "name": "The Hacker News (网安突发)",
+      "src": "https://feeds.feedburner.com/TheHackersNews",
+      "error": null,
+      "tags": [
+        "网安",
+        "突发",
+        "技术"
+      ]
+    },
+    "gl.thehindu": {
+      "ok": false,
+      "name": "The Hindu (印度英文大报)",
+      "src": null,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "tags": [
+        "国际",
+        "南亚",
+        "印度",
+        "深度"
+      ]
+    },
+    "gl.toi": {
+      "ok": true,
+      "name": "Times of India (印度·World)",
+      "src": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+      "error": null,
+      "tags": [
+        "国际",
+        "南亚",
+        "印度"
+      ]
+    }
+  }
+}
