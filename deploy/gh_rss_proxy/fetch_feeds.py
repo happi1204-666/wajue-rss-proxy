@@ -16,6 +16,8 @@ import json
 import os
 import socket
 import ssl
+import gzip
+import zlib
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -40,12 +42,23 @@ def fetch(url: str) -> tuple[bool, bytes | str]:
         headers={
             "User-Agent": UA,
             "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
-            "Accept-Encoding": "identity",  # 禁止 gzip，避免 urllib 未解压导致乱码
+            "Accept-Encoding": "identity",  # 优先要求不压缩；若服务端仍返回 gzip 则下方自动解压
         },
     )
     try:
         with urllib.request.urlopen(req, timeout=TIMEOUT, context=CTX) as r:
             data = r.read()
+            # 自动解压：部分源（如 MEE）忽略 identity 仍返回 gzip/deflate
+            if data[:2] == b"\x1f\x8b":
+                try:
+                    data = gzip.decompress(data)
+                except Exception:
+                    pass
+            elif data[:2] in (b"\x78\x9c", b"\x78\x01", b"\x78\xda"):
+                try:
+                    data = zlib.decompress(data)
+                except Exception:
+                    pass
             text = data[:200].decode("utf-8", "ignore").lstrip()
             if text.startswith("<") or text.startswith("<?"):
                 return True, data
