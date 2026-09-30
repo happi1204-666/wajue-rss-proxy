@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 10:34:47 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 10:32:07 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:35:24 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 16:35:01 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html" rel="standout"></atom:link>
       <description>Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.</description>
       <dc:creator>Erika Solomon, Falih Hassan and Eric Schmitt</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 09:31:01 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 12:29:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -36,15 +36,51 @@
       <media:description>A giant Iraqi flag hung from the Great Mosque of al-Nuri in Mosul’s old city on Tuesday. With the end of Operation Inherent Resolve, the last of the 2,500 U.S. forces stationed in Iraq this year are now gone.</media:description>
     </item>
     <item>
-      <title>Live Updates: Clash in Cockpit Prompts Distress Signal on Israel-Bound Flight</title>
+      <title>Live Updates: Passengers Arrive in Israel After Cockpit Clash on FlyDubai Flight</title>
       <link>https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots</guid>
       <atom:link href="https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots" rel="standout"></atom:link>
-      <description>Israel and Saudi Arabia scrambled jets over fears of a hijacking on a flight from Dubai to Tel Aviv. The plane landed in Saudi Arabia with more than 160 passengers safe and accounted for, officials said.</description>
+      <description>Passengers intervened and “prevented a disaster” after one pilot stabbed another during a flight from Dubai, Prime Minister Benjamin Netanyahu said. The plane landed safely in Saudi Arabia. The motive for the attack was not clear.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 10:32:07 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-0515ET-qpwl/30israel-plane-0515ET-qpwl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <pubDate>Wed, 30 Sep 2026 16:35:01 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-0750ET-kpgt/30israel-plane-0750ET-kpgt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Hundreds Detained in France as Some Student Protests Turn Violent</title>
+      <link>https://www.nytimes.com/2026/09/30/world/europe/france-student-protest-arrests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/europe/france-student-protest-arrests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/30/world/europe/france-student-protest-arrests.html" rel="standout"></atom:link>
+      <description>French high schoolers are protesting teacher shortages and overcrowded classrooms, in France’s latest flare-up over education and public services.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 16:19:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30int-france-protests-02-tmfb/30int-france-protests-02-tmfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Olivier Chassignole/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Police officials detain a protester outside a secondary school in Lyon, France, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>American Forces Withdraw From Iraq 23 Years After Invading</title>
+      <link>https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html" rel="standout"></atom:link>
+      <description>The Americans did not understand the country when they invaded in 2003. Over a correspondent’s many trips there, it was not clear that this ever changed much.</description>
+      <dc:creator>Alissa J. Rubin</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 12:58:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iraq War (2003-11)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hussein, Saddam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunni Muslims</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shiite Muslims</category>
+      <media:content height="1534" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30int-iraq-us-reflections-wtgb/30int-iraq-us-reflections-wtgb-mediumSquareAt3X.jpg" width="1534"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>In March 2003, a statue of Saddam Hussein was still standing near a communications center in Baghdad that had been bombed two days earlier. A month later, the statue would be downed as well.</media:description>
     </item>
     <item>
       <title>A Way Out of the A.I. Arms Race?</title>
@@ -85,22 +121,37 @@
       <media:description>The U.N. Security Council convened its first meeting on artificial intelligence last week.</media:description>
     </item>
     <item>
-      <title>American Forces Withdraw From Iraq 23 Years After Invading</title>
-      <link>https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html" rel="standout"></atom:link>
-      <description>The Americans did not understand the country when they invaded in 2003. Over a correspondent’s many trips there, it was not clear that this ever changed much.</description>
-      <dc:creator>Alissa J. Rubin</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 09:31:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iraq War (2003-11)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hussein, Saddam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunni Muslims</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shiite Muslims</category>
-      <media:content height="1534" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30int-iraq-us-reflections-wtgb/30int-iraq-us-reflections-wtgb-mediumSquareAt3X.jpg" width="1534"></media:content>
-      <media:credit>Tyler Hicks/The New York Times</media:credit>
-      <media:description>In March 2003, a statue of Saddam Hussein was still standing near a communications center in Baghdad that had been bombed two days earlier. A month later, the statue would be downed as well.</media:description>
+      <title>Eiffel Tower Chief Resigns After Female Staff Moved for Hindu Group’s Visit</title>
+      <link>https://www.nytimes.com/2026/09/30/world/europe/eiffel-tower-director-resigns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/europe/eiffel-tower-director-resigns.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/30/world/europe/eiffel-tower-director-resigns.html" rel="standout"></atom:link>
+      <description>Patrick Branco Ruivo, who ran the tower’s operating company, will step down after an internal inquiry cited “problems and shortcomings” over the moving of female employees.</description>
+      <dc:creator>Giulia Imbert</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 15:27:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eiffel Tower (Paris)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/30/world/30int-france-eiffel-director/30int-france-eiffel-director-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Thomas Padilla/Associated Press</media:credit>
+      <media:description>The Eiffel Tower in May. Staff at the landmark went on strike over a decision to sideline female employees during a group’s tour.</media:description>
+    </item>
+    <item>
+      <title>Moth Swarms Sweep Across Australia. That’s Good News.</title>
+      <link>https://www.nytimes.com/2026/09/30/world/australia/bogong-moth-migration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/australia/bogong-moth-migration.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/30/world/australia/bogong-moth-migration.html" rel="standout"></atom:link>
+      <description>Bogong moths have been in decline since the 1980s, but this spring the insects have been sighted in the thousands across southeastern Australia, delighting scientists.</description>
+      <dc:creator>Laura Chung</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 13:10:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Migration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
     </item>
     <item>
       <title>In Fractious France, Politicians Agree on One Thing: Pope Leo Was a Hit</title>
@@ -151,20 +202,18 @@
       <description>The prospect of an attack on an air base used by U.S. forces prompted stepped-up protections across Europe, but confusion shrouds the case, in which the suspects were released on bail.</description>
       <dc:creator>Eric Schmitt, Michael D. Shear, Adam Goldman and Christopher F. Schuetze</dc:creator>
       <pubDate>Tue, 29 Sep 2026 20:31:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harakat Ashab al-Yamin al-Islamiyya</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-uk-airbase--plot-1-czfl/29int-uk-airbase--plot-1-czfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Toby Shepheard/Reuters</media:credit>
@@ -256,64 +305,87 @@
       <media:description>Jordan Bardella, the president of France’s main far-right party, National Rally, in Paris this month. </media:description>
     </item>
     <item>
-      <title>Malaysia Begins Repatriation of Migrants to War-Torn Myanmar Despite Critics’ Warnings</title>
-      <link>https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html" rel="standout"></atom:link>
-      <description>Malaysia says it is repatriating undocumented migrants from Myanmar who want to return. Critics say it is putting their lives at risk.</description>
-      <dc:creator>Zunaira Saieed</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 06:43:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ibrahim, Anwar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Min Aung Hlaing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/29/multimedia/29malaysia-rohyngia-01-pqmz/29malaysia-rohyngia-01-pqmz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arif Kartono/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A bus carrying Myanmar nationals being repatriated from Malaysia to their homeland, seen heading toward the Lumut Naval Base, on the outskirts of Kuala Lumpur, on Tuesday. </media:description>
+      <title>Panic and Heroics on FlyDubai Flight: ‘We Felt That This Was It’</title>
+      <link>https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-israel-dubai-flight-pilots-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-israel-dubai-flight-pilots-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-israel-dubai-flight-pilots-attack.html" rel="standout"></atom:link>
+      <description>A routine flight turned terrifying when a violent altercation broke out inside the cockpit and the aircraft dropped 17,000 feet in two minutes. Passengers subdued a knife-wielding attacker.</description>
+      <dc:creator>Karla Adam, Aaron Boxerman and Natan Odenheimer</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 16:19:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <media:content height="899" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-testimonials-pzhf/30israel-plane-testimonials-pzhf-mediumSquareAt3X.jpg" width="900"></media:content>
+      <media:credit>vie Agence France-Presse</media:credit>
+      <media:description>Passengers from FlyDubai Flight 1073 at the Prince Sultan bin Abdulaziz Airport in Tabuk, Saudi Arabia, on Wednesday.</media:description>
     </item>
     <item>
-      <title>Prime Minister Andy Burnham Lays Out Plan to Change UK in Emotional Speech at Labour Conference</title>
-      <link>https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html" rel="standout"></atom:link>
-      <description>Andy Burnham set out a range of policies on Tuesday in his biggest speech since becoming prime minister of Britain. “I accept people will not agree with every part of it,” he said.</description>
-      <dc:creator>Michael D. Shear and Stephen Castle</dc:creator>
-      <pubDate>Tue, 29 Sep 2026 17:22:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Healey, John (1960- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liverpool (England)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-uk-burnham-hkwq/29int-uk-burnham-hkwq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Temilade Adelaja/Reuters</media:credit>
-      <media:description>Prime Minister Andy Burnham of Britain during his speech on Tuesday. “The British right talk about taking back control,” he said, while speaking about privatization. “Never let them forget, they are the ones that gave it away in the first place.”</media:description>
+      <title>FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know</title>
+      <link>https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html" rel="standout"></atom:link>
+      <description>Prime Minister Benjamin Netanyahu of Israel said one pilot stabbed another and may have attempted to crash the flight from Dubai to Tel Aviv. The plane landed in Saudi Arabia and all passengers were safe.</description>
+      <dc:creator>Leo Sands</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 16:18:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-wwk-pvch/30israel-plane-wwk-pvch-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>A FlyDubai jet at Dubai International Airport on Tuesday.</media:description>
     </item>
     <item>
-      <title>AMLO Son Poses Political Problems for Mexico’s President Sheinbaum</title>
-      <link>https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html" rel="standout"></atom:link>
-      <description>Andrés Manuel López Beltrán has joined the list of figures who, critics say, may end up harming the left-wing movement his father founded, as well as the president who succeeded him.</description>
-      <dc:creator>Paulina Villegas, Emiliano Rodríguez Mega, Jack Nicas and Steve Fisher</dc:creator>
-      <pubDate>Tue, 29 Sep 2026 09:02:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/29/world/29int-mexico-assess-top/29int-mexico-assess-top-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cristian Leyva/Alamy</media:credit>
-      <media:description>Andrés Manuel López Beltrán, a politician and son of former President Andrés Manuel López Obrador, at Mexico’s National Palace.</media:description>
+      <title>Israel and Saudi Arabia don’t have formal ties, but Israelis have occasionally landed there.</title>
+      <link>https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/israel-and-saudi-arabia-dont-have-formal-ties-but-israelis-have-occasionally-landed-there</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/israel-and-saudi-arabia-dont-have-formal-ties-but-israelis-have-occasionally-landed-there</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/israel-and-saudi-arabia-dont-have-formal-ties-but-israelis-have-occasionally-landed-there" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Johnatan Reiss</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 14:18:58 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-saudi-relations-bqgz/30israel-plane-saudi-relations-bqgz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>The airport in Tabuk, Saudi Arabia, on Wednesday where a FlyDubai flight made an emergency landing.</media:description>
+    </item>
+    <item>
+      <title>FlyDubai Provides Key Link for Israeli Air Travelers</title>
+      <link>https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flights-dubai-tel-aviv-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flights-dubai-tel-aviv-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flights-dubai-tel-aviv-israel.html" rel="standout"></atom:link>
+      <description>The low-cost carrier operates up to 10 daily flights between Dubai and Tel Aviv.</description>
+      <dc:creator>Ismaeel Naar</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 13:04:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dubai International Airport</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-flydubai-flights/30israel-plane-flydubai-flights-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Emil Salman/Pool, via Associated Press</media:credit>
+      <media:description>The first FlyDubai commercial flight from Dubai arrives at Ben Gurion Airport in Israel on Nov. 26, 2020.</media:description>
+    </item>
+    <item>
+      <title>Passenger Describes Chaos Aboard FlyDubai Flight</title>
+      <link>https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html" rel="standout"></atom:link>
+      <description>The passenger, Miriam Ohayon, said people on board felt the jet lose control and heard screams. “When they opened the cockpit, there was a lot of blood,” she told Israeli television.</description>
+      <dc:creator>David M. Halbfinger and Natan Odenheimer</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 16:32:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <media:content height="1655" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-passenger-account-qlmp/30israel-plane-passenger-account-qlmp-mediumSquareAt3X.jpg" width="1655"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Security vehicles outside Prince Sultan bin Abdulaziz Airport in Tabuk, Saudi Arabia, on Wednesday.</media:description>
     </item>
     <item>
       <title>How Ukraine’s Naval Drones Are Remaking War at Sea</title>
@@ -337,13 +409,13 @@
       <media:description>A Magura sea drone at a test site in central Ukraine in June.</media:description>
     </item>
     <item>
-      <title>FlyDubai Flight to Tel Aviv Issues Distress Signal Before Landing in Saudi Arabia</title>
+      <title>Here’s the latest.</title>
       <link>https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/flydubai-flight-tel-aviv-israel-fz1073-diverted-pilots</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/flydubai-flight-tel-aviv-israel-fz1073-diverted-pilots</guid>
       <atom:link href="https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/flydubai-flight-tel-aviv-israel-fz1073-diverted-pilots" rel="standout"></atom:link>
       <description>The plane was traveling from Dubai to Israel when the pilot and co-pilot appear to have gotten into a fight, Israeli officials said.</description>
-      <dc:creator>David M. Halbfinger</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 09:28:42 +0000</pubDate>
+      <dc:creator>David M. Halbfinger, Aaron Boxerman, Natan Odenheimer and Max Bearak</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 16:22:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ben-Gurion International Airport</category>
@@ -435,14 +507,15 @@
       <atom:link href="https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html" rel="standout"></atom:link>
       <description>Fatima Ezzahra El Mansouri, a lawyer and politician from the centrist Authenticity and Modernity Party, is only the second woman to lead the government of a North African country.</description>
       <dc:creator>Aida Alami and Ephrat Livni</dc:creator>
-      <pubDate>Tue, 29 Sep 2026 20:40:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <pubDate>Wed, 30 Sep 2026 14:14:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2030 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El Mansouri, Fatima Ezzahra</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed VI, King of Morocco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marrakesh (Morocco)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-morocco-pm-1-bfqz/29int-morocco-pm-1-bfqz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Abdel Majid Bziouat/Agence France-Presse — Getty Images</media:credit>
       <media:description>Morocco’s new prime minister, Fatima Ezzahra El Mansouri, celebrating election results with members of her party last week in Rabat, Morocco.</media:description>
@@ -478,6 +551,29 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/29/multimedia/29sci-ukraine-science-wgmp/29sci-ukraine-science-wgmp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>A Russian drone strike on the National Academy of Sciences in Kyiv, Ukraine, killed at least two people on Monday.</media:description>
+    </item>
+    <item>
+      <title>Malaysia Begins Repatriation of Migrants to War-Torn Myanmar Despite Critics’ Warnings</title>
+      <link>https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html" rel="standout"></atom:link>
+      <description>Malaysia says it is repatriating undocumented migrants from Myanmar who want to return. Critics say it is putting their lives at risk.</description>
+      <dc:creator>Zunaira Saieed</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 06:43:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ibrahim, Anwar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Min Aung Hlaing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/29/multimedia/29malaysia-rohyngia-01-pqmz/29malaysia-rohyngia-01-pqmz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arif Kartono/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A bus carrying Myanmar nationals being repatriated from Malaysia to their homeland, seen heading toward the Lumut Naval Base, on the outskirts of Kuala Lumpur, on Tuesday. </media:description>
     </item>
     <item>
       <title>Estonia Says Arson at Defense Company Was ‘Deliberate’ Attack by Russia</title>
@@ -561,17 +657,40 @@
       <media:description>President Javier Milei at the United Nations last week where he asserted Argentina’s “commitment to not preemptively regulate A.I.”</media:description>
     </item>
     <item>
+      <title>AMLO Son Poses Political Problems for Mexico’s President Sheinbaum</title>
+      <link>https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html" rel="standout"></atom:link>
+      <description>Andrés Manuel López Beltrán has joined the list of figures who, critics say, may end up harming the left-wing movement his father founded, as well as the president who succeeded him.</description>
+      <dc:creator>Paulina Villegas, Emiliano Rodríguez Mega, Jack Nicas and Steve Fisher</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 09:02:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/29/world/29int-mexico-assess-top/29int-mexico-assess-top-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cristian Leyva/Alamy</media:credit>
+      <media:description>Andrés Manuel López Beltrán, a politician and son of former President Andrés Manuel López Obrador, at Mexico’s National Palace.</media:description>
+    </item>
+    <item>
       <title>What Life Looks Like in the ‘Fortress Cities’ Russia Is Trying to Break</title>
       <link>https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html</guid>
       <atom:link href="https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html" rel="standout"></atom:link>
       <description>Emergency workers have to move fast after Russian attacks in eastern Ukraine. Another could come at any moment.</description>
       <dc:creator>Tyler Hicks and Marc Santora</dc:creator>
-      <pubDate>Tue, 29 Sep 2026 13:18:14 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 10:39:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kramatorsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Slovyansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
     </item>
     <item>
       <title>OpenAI Apologizes for Australia Medicare Hack</title>
@@ -591,6 +710,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-oz-openai-htkq/29int-oz-openai-htkq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lucas Foglia for The New York Times</media:credit>
       <media:description>OpenAI’s offices in San Francisco. The company said it would work to rebuild trust with Australians.</media:description>
+    </item>
+    <item>
+      <title>Prime Minister Andy Burnham Lays Out Plan to Change UK in Emotional Speech at Labour Conference</title>
+      <link>https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html" rel="standout"></atom:link>
+      <description>Andy Burnham set out a range of policies on Tuesday in his biggest speech since becoming prime minister of Britain. “I accept people will not agree with every part of it,” he said.</description>
+      <dc:creator>Michael D. Shear and Stephen Castle</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 17:22:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Healey, John (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liverpool (England)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-uk-burnham-hkwq/29int-uk-burnham-hkwq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Temilade Adelaja/Reuters</media:credit>
+      <media:description>Prime Minister Andy Burnham of Britain during his speech on Tuesday. “The British right talk about taking back control,” he said, while speaking about privatization. “Never let them forget, they are the ones that gave it away in the first place.”</media:description>
     </item>
     <item>
       <title>A Turkish Doughnut Maker Whose Sweets Honor the Dead</title>
@@ -925,7 +1063,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/28/world/asia/china-jane-eyre-required-reading-literature.html" rel="standout"></atom:link>
       <description>The Victorian heroine has long been celebrated in China for her independence and insistence on equality.</description>
       <dc:creator>Yan Zhuang and Li You</dc:creator>
-      <pubDate>Tue, 29 Sep 2026 12:10:43 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 12:10:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jane Eyre (Book)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
@@ -966,185 +1104,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/27/multimedia/27dc-trump-china-mglw/27dc-trump-china-mglw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>President Xi Jinping of China arriving for a state visit last week. China has the world’s fastest-growing military.</media:description>
-    </item>
-    <item>
-      <title>Serbia’s Longtime President Aleksandar Vucic Resigns Post</title>
-      <link>https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html" rel="standout"></atom:link>
-      <description>Aleksandar Vucic, one of Europe’s longest-serving leaders, resigned as president, paving the way for him to become prime minister after elections next month.</description>
-      <dc:creator>Andrew Higgins and Alisa Dogramadzieva</dc:creator>
-      <pubDate>Sun, 27 Sep 2026 21:22:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Serbian Progressive Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vucic, Aleksandar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brnabic, Ana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mladic, Ratko</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Serbia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/27/multimedia/27int-serbia-vucic-htcl/27int-serbia-vucic-htcl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vladimir Zivojinovic for The New York Times</media:credit>
-      <media:description>President Aleksandar Vucic of Serbia in his office in Belgrade, Serbia.</media:description>
-    </item>
-    <item>
-      <title>A Growing North Korea Problem</title>
-      <link>https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html" rel="standout"></atom:link>
-      <description>In an interview with The New York Times, South Korea’s president dropped a bold proposal for how to curb North Korea’s nuclear program.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 05:04:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Jae-myung</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/28/multimedia/28int-theworld-top-kcgj/28int-theworld-top-kcgj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chang W. Lee/The New York Times</media:credit>
-      <media:description>South Korea’s president, Lee Jae Myung, during an interview earlier this month.</media:description>
-    </item>
-    <item>
-      <title>A Transcript From The Times Interview with Prime Minister Mark Carney of Canada</title>
-      <link>https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html" rel="standout"></atom:link>
-      <description>New York Times journalists pressed the Canadian prime minister about a range of topics in an hourlong interview last week. Here’s a transcript of their conversation.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 27 Sep 2026 22:11:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States-Mexico-Canada Agreement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Potash</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/27/multimedia/27int-canada-carney-transcript-photo-hglz/27int-canada-carney-transcript-photo-hglz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniel Berehulak/The New York Times</media:credit>
-      <media:description>Canadian Prime Minister Mark Carney at The New York Times on Sept. 23, 2026.</media:description>
-    </item>
-    <item>
-      <title>Standoff Rocks a Northern Irish Town Over Contentious Sectarian March</title>
-      <link>https://www.nytimes.com/2026/09/27/world/europe/northern-ireland-protestant-parade-catholic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/27/world/europe/northern-ireland-protestant-parade-catholic.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/27/world/europe/northern-ireland-protestant-parade-catholic.html" rel="standout"></atom:link>
-      <description>A court ruled that a parade by a Protestant group could pass through a largely Catholic area for the first time in three decades. Protesters blocked the route.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Sun, 27 Sep 2026 20:05:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Unionist Party (Northern Ireland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Orange Order</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Good Friday Agreement (1998)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portadown (Northern Ireland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protestant Churches</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/27/multimedia/27int-nireland-march-01-zmfp/27int-nireland-march-01-zmfp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cathal Mcnaughton/Reuters</media:credit>
-      <media:description>People blocked the Garvaghy Road area, a Catholic enclave in the town of Portadown in Northern Ireland, on Sunday as a Protestant group was expected to march through.</media:description>
-    </item>
-    <item>
-      <title>Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta</title>
-      <link>https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html" rel="standout"></atom:link>
-      <description>A male named Ping Ping and a female named Fu Shuang landed on Sunday, days after China’s leader said he would dispatch “envoys of friendship” to the United States.</description>
-      <dc:creator>Leo Sands and Sean Keenan</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 08:10:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pandas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoo Atlanta</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/27/multimedia/27xp-pandas-topart-01-gmbh/27xp-pandas-topart-01-gmbh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ariana Drehsler for The New York Times</media:credit>
-      <media:description>Yun Chuan, a 5-year-old male panda, at the San Diego Zoo in 2024. Two pandas were sent on Sunday to Zoo Atlanta, bringing the total number of giant pandas in the United States to six.</media:description>
-    </item>
-    <item>
-      <title>Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer</title>
-      <link>https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html" rel="standout"></atom:link>
-      <description>Abbas Araghchi, Iran’s foreign minister, said a history of contradictory messaging meant that President Trump’s rejection might not be a final position.</description>
-      <dc:creator>Erika Solomon and Alan Rappeport</dc:creator>
-      <pubDate>Sun, 27 Sep 2026 21:36:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araghchi, Abbas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/27/multimedia/00int-iran-talks-1-jvkl/00int-iran-talks-1-jvkl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>Abbas Araghchi, Iran’s foreign minister, at the United Nations in New York on Friday. </media:description>
-    </item>
-    <item>
-      <title>At Least 27 Killed in 2 Overnight Mass Shootings in South Africa</title>
-      <link>https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html" rel="standout"></atom:link>
-      <description>These were the latest deadly incidents at bars or taverns in a nation with one of the world’s highest murder rates.</description>
-      <dc:creator>John Eligon</dc:creator>
-      <pubDate>Sun, 27 Sep 2026 11:37:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaphosa, Cyril</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Town (South Africa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Johannesburg (South Africa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/27/multimedia/27int-safrica-shootings-top-czmh/27int-safrica-shootings-top-czmh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emmanuel Croset/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Members of South Africa’s Forensic Pathology Service and South African National Defence Force on Sunday at the scene of the shooting near Johannesburg.</media:description>
-    </item>
-    <item>
-      <title>5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK</title>
-      <link>https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html" rel="standout"></atom:link>
-      <description>The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.</description>
-      <dc:creator>Michael D. Shear and Amelia Nierenberg</dc:creator>
-      <pubDate>Sun, 27 Sep 2026 20:20:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/27/multimedia/27int-uk-airbase-sub-wglm/27int-uk-airbase-sub-wglm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Justin Tallis/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Th police were posted outside an entrance to the R.A.F. Fairford base in southwest England on Sunday.</media:description>
     </item>
   </channel>
 </rss>

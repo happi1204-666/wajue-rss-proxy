@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 10:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 16:39:00 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,8 +19,16 @@
             <description><![CDATA[AI needs "rigorous" testing and safeguards to contain risk, Andrew Bailey says.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvzez7k0pn40o#0</guid>
-            <pubDate>Wed, 30 Sep 2026 10:20:20 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 14:00:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WhatsApp introduces optional parental controls for teenagers]]></title>
+            <description><![CDATA[The social messaging app will let parents decide on privacy settings for their child's account.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm986x65we88o#0</guid>
+            <pubDate>Wed, 30 Sep 2026 13:01:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b8/live/e7f33150-bcc5-11f1-ae14-0b840f99ba59.jpg"/>
         </item>
         <item>
             <title><![CDATA[OpenAI unveils AI assistant 'dots' while safety worries delay new model]]></title>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw62me2vlj07o#0</guid>
             <pubDate>Fri, 25 Sep 2026 13:56:16 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US backs Elon Musk's bid to overturn €120m EU fine against X]]></title>
-            <description><![CDATA[The EU had said X "deceives users" by selling blue ticks without "meaningfully verifying" accounts.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq0m373ee0v0o#0</guid>
-            <pubDate>Fri, 25 Sep 2026 09:48:33 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
