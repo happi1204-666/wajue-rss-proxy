@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-30T04:03:50Z",
+  "updated": "2026-09-30T04:10:31Z",
   "status": {
     "gl.nhk": {
       "ok": false,
       "name": "NHK World (日本国际台·英文)",
       "src": null,
-      "error": "HTTPError: HTTP Error 404: Not Found",
+      "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>",
       "tags": [
         "国际",
         "日本",
@@ -61,10 +61,10 @@
       ]
     },
     "gl.mee": {
-      "ok": false,
+      "ok": true,
       "name": "Middle East Eye (中东)",
-      "src": null,
-      "error": "non-xml body: \b\u0000\u0000\u0000\u0000\u0000\u0004\u0003r\u001bWw*G3\t+(A,-U\u0016Y%\u001d\u0004XD\u0000B\u0002X΄Dt_\\|\u0013_<\u0000\u0004R:%\u0010Y?s/v2ޤ|Ml\u001bQ:ftpgc1}/gy\u001eq4\u0018\u001bl\u0006",
+      "src": "https://www.middleeasteye.net/rss",
+      "error": null,
       "tags": [
         "国际",
         "中东",
