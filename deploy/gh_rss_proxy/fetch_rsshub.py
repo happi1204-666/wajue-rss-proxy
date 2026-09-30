@@ -15,7 +15,14 @@ import urllib.request
 import urllib.error
 
 UA = "Mozilla/5.0 (compatible; wajue-rss-proxy/1.0; +https://github.com/happi1204-666/wajue-rss-proxy)"
-RSSHUB = "https://rsshub.app"
+# 多公共 RSSHub 实例容错：rsshub.app 会封 GitHub 云 IP，故逐个尝试镜像，谁通用谁
+INSTANCES = [
+    "https://rsshub.app",
+    "https://rsshub.rssforever.com",
+    "https://hub.slarker.me",
+    "https://rsshub.pseudoyu.com",
+    "https://rsshub.woodland.cafe",
+]
 
 
 def repo_root():
@@ -62,33 +69,35 @@ def main():
     status = {}
     for rid, meta in routes.items():
         route = meta["route"]
-        url = RSSHUB + route
         ok = False
         err = None
         src = None
         tried = []
-        try:
-            data, ct = fetch(url)
-            tried.append([url, "len=%d ct=%s" % (len(data), ct)])
-            if looks_like_feed(data):
-                xml = data.decode("utf-8", "replace")
-                with open(os.path.join(out_dir, rid + ".xml"), "w", encoding="utf-8") as f:
-                    f.write(xml)
-                ok = True
-                src = url
-            else:
-                err = "non-feed response ct=%s len=%d" % (ct, len(data))
-                tried.append([url, "NON_FEED:%s" % ct])
-        except Exception as e:  # noqa: BLE001
-            err = "%s: %s" % (type(e).__name__, e)
-            tried.append([url, err])
+        for base in INSTANCES:
+            url = base + route
+            try:
+                data, ct = fetch(url)
+                tried.append([url, "len=%d ct=%s" % (len(data), ct)])
+                if looks_like_feed(data):
+                    xml = data.decode("utf-8", "replace")
+                    with open(os.path.join(out_dir, rid + ".xml"), "w", encoding="utf-8") as f:
+                        f.write(xml)
+                    ok = True
+                    src = url
+                    break
+                else:
+                    err = "non-feed ct=%s len=%d" % (ct, len(data))
+                    tried.append([url, "NON_FEED:%s" % ct])
+            except Exception as e:  # noqa: BLE001
+                err = "%s: %s" % (type(e).__name__, e)
+                tried.append([url, err])
         status[rid] = {
             "ok": ok,
             "name": meta["name"],
             "route": route,
             "conf": meta.get("conf", "?"),
             "src": src,
-            "error": err,
+            "error": None if ok else err,
             "tried": tried,
         }
         print(("OK   " if ok else "FAIL ") + rid + " | " + meta["name"] + " | " + (src or err or "")[:90])
