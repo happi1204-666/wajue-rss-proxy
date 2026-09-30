@@ -139,8 +139,11 @@
       "name": "Bloomberg (arc RSS)",
       "url": "https://www.bloomberg.com/arc/outboundfeeds/rss/",
       "fallback": "https://www.bloomberg.com/feed/rss",
+      "fallbacks": [
+        "https://news.google.com/rss/search?q=bloomberg&hl=en-US&gl=US&ceid=US:en"
+      ],
       "tags": ["国际", "财经"],
-      "note": "Bloomberg arc/outboundfeeds 通用 RSS（与 DefenseNews 同款模式）。"
+      "note": "Bloomberg 官方 RSS 反爬 403；末位 Google News 聚合(bloomberg)作兜底，非一手源，分析时标注。"
     },
     "mp.coindesk": {
       "name": "CoinDesk (arc RSS)",
