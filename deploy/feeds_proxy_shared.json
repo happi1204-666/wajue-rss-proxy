@@ -156,6 +156,28 @@
       "url": "https://huggingface.co/blog/feed.xml",
       "fallback": null,
       "tags": ["AI", "一手", "技术"]
+    },
+
+    "gn.reuters": {
+      "name": "Reuters (Google News 聚合兜底)",
+      "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+      "fallback": "https://news.google.com/rss/search?q=Reuters&hl=en-US&gl=US&ceid=US:en",
+      "tags": ["国际", "通讯社", "财经", "聚合兜底"],
+      "note": "Reuters 无官方 RSS、RSSHub 公共实例在边缘也不可达；改用 Google News 聚合(经 GitHub Actions 墙外抓取发 github.io)。非一手源，分析时标注。"
+    },
+    "gn.ft": {
+      "name": "Financial Times (Google News 聚合兜底)",
+      "url": "https://news.google.com/rss/search?q=site:ft.com&hl=en-US&gl=US&ceid=US:en",
+      "fallback": "https://news.google.com/rss/search?q=Financial%20Times&hl=en-US&gl=US&ceid=US:en",
+      "tags": ["国际", "财经", "深度", "聚合兜底"],
+      "note": "FT 付费墙无免费 RSS、RSSHub 公共实例无路由；改用 Google News 聚合兜底。非一手源，分析时标注。"
+    },
+    "gn.apnews": {
+      "name": "Associated Press (Google News 聚合兜底)",
+      "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+      "fallback": "https://news.google.com/rss/search?q=Associated%20Press&hl=en-US&gl=US&ceid=US:en",
+      "tags": ["国际", "通讯社", "聚合兜底"],
+      "note": "AP 官方 RSS 已关闭、RSSHub 公共实例无路由；改用 Google News 聚合兜底。非一手源，分析时标注。"
     }
   }
 }
