@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 29 Sep 2026 16:35:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Sep 2026 19:56:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,27 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Triumph or Procrastination? Experts Split on the Trump-Xi Summit</title>
+		<link>https://warontherocks.com/triumph-or-procrastination-experts-split-on-the-trump-xi-summit/</link>
+		
+		<dc:creator><![CDATA[Sam Bresnick]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 17:30:48 +0000</pubDate>
+				<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Members]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=47237</guid>
+
+					<description><![CDATA[<p>Over the better part of three days, President Donald Trump hosted Chinese President Xi Jinping in Washington for a summit that drew international attention for its high-stakes agenda, from trade and AI to Taiwan. While some experts saw the summit as an exercise in kicking the can down the road on major issues, others emphasized the significance of Trump treating Xi as an equal on the world stage.&#160;Read more below.Sam Bresnick Research Fellow and Andrew W. Marshall Fellow at Georgetown&#8217;s Center for Security and Emerging TechnologyThe Xi-Trump summit yielded little progress on AI. Yes, U.S. Treasury Secretary Scott Bessent and</p>
+<p>The post <a href="https://warontherocks.com/triumph-or-procrastination-experts-split-on-the-trump-xi-summit/">Triumph or Procrastination? Experts Split on the Trump-Xi Summit</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Zack Cooper]]></dc:creator>
+<dc:creator><![CDATA[Yun Sun]]></dc:creator>
+<dc:creator><![CDATA[Susan Thornton]]></dc:creator>
+<dc:creator><![CDATA[Eyck Freymann]]></dc:creator>
+	</item>
+		<item>
 		<title>Rated Ready is Not Ready: What America’s Korea Exercises Actually Measure</title>
 		<link>https://warontherocks.com/rated-ready-is-not-ready-what-americas-korea-exercises-actually-measure/</link>
 		
@@ -180,7 +201,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<pubDate>Mon, 28 Sep 2026 08:00:19 +0000</pubDate>
 				<category><![CDATA[Cogs of War]]></category>
 		<category><![CDATA[Defense Tech]]></category>
-		<category><![CDATA[Innovation]]></category>
 		<category><![CDATA[NATO]]></category>
 		<guid isPermaLink="false">https://warontherocks.com/?p=47170</guid>
 
@@ -219,7 +239,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 				<category><![CDATA[Cogs of War]]></category>
 		<category><![CDATA[Army]]></category>
 		<category><![CDATA[Defense Tech]]></category>
-		<category><![CDATA[Emerging Technology]]></category>
 		<guid isPermaLink="false">https://warontherocks.com/?p=47155</guid>
 
 					<description><![CDATA[<p>Movies, shows, and books have long been at the forefront of imagining the future of war. If you were to picture the &#8220;future soldier,&#8221; you&#8217;d likely picture the genetically engineered super soldiers that have captivated &#8212; and horrified &#8212; audiences for decades. Soldiers have been depicted as being engineered or bred for super strength or speed, intense rage or cold calculation, and even half-human, half-machine.While Hollywood&#8217;s most alarmist visions for the future soldier are nothing more than fantasy, advances in technologies and AI are pushing the frontier of soldier technologies.&#160;Cogs of War staff wanted to sort through what capabilities have</p>
@@ -316,7 +335,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 				<category><![CDATA[Cogs of War]]></category>
 		<category><![CDATA[Defense Industry]]></category>
 		<category><![CDATA[Defense Policy]]></category>
-		<category><![CDATA[Emerging Technology]]></category>
 		<guid isPermaLink="false">https://warontherocks.com/?p=47028</guid>
 
 					<description><![CDATA[<p>We spare the reader another detailed story from Ukraine to establish the now-familiar point that battlefield technology changes faster than militaries can acquire, review, and field it. The villain in this story is easy to identify: bureaucracy. The fashionable remedies are equally familiar &#8212; cut the red tape slowing procurement, or revise the policy review requirements for autonomous weapon systems. But bureaucratic reform, however necessary, cannot eliminate the fundamental challenges machine-learning-based systems pose for rapid testing, evaluation, validation, and verification. Moreover, legal and operational reasons make it unwise to cut corners on compliance with domestic and international law.Rather than relying</p>
@@ -334,7 +352,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<dc:creator><![CDATA[Jun-seok Lee]]></dc:creator>
 		<pubDate>Wed, 23 Sep 2026 07:30:13 +0000</pubDate>
 				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Iran War]]></category>
+		<category><![CDATA[Iran War 2026]]></category>
 		<category><![CDATA[Russo-Ukrainian War]]></category>
 		<category><![CDATA[South Korea]]></category>
 		<guid isPermaLink="false">https://warontherocks.com/?p=46965</guid>
@@ -672,7 +690,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<pubDate>Mon, 14 Sep 2026 07:45:57 +0000</pubDate>
 				<category><![CDATA[Cogs of War]]></category>
 		<category><![CDATA[Defense Tech]]></category>
-		<category><![CDATA[Emerging Technology]]></category>
 		<category><![CDATA[Space]]></category>
 		<guid isPermaLink="false">https://warontherocks.com/?p=46917</guid>
 
@@ -1206,7 +1223,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<pubDate>Mon, 31 Aug 2026 08:00:43 +0000</pubDate>
 				<category><![CDATA[Cogs of War]]></category>
 		<category><![CDATA[Defense Policy]]></category>
-		<category><![CDATA[Emerging Technology]]></category>
+		<category><![CDATA[Defense Tech]]></category>
 		<category><![CDATA[U.S.-Chinese Competition]]></category>
 		<guid isPermaLink="false">https://warontherocks.com/?p=46410</guid>
 
@@ -1247,7 +1264,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<pubDate>Fri, 28 Aug 2026 07:30:05 +0000</pubDate>
 				<category><![CDATA[Commentary]]></category>
 		<category><![CDATA[Military History]]></category>
-		<category><![CDATA[Strategy]]></category>
 		<category><![CDATA[Western Europe]]></category>
 		<guid isPermaLink="false">https://warontherocks.com/?p=46343</guid>
 
@@ -1926,24 +1942,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		<dc:creator><![CDATA[Michael Horowitz]]></dc:creator>
 	</item>
-		<item>
-		<title>The White House Is Right on AI. Now Let Defenders Use It.</title>
-		<link>https://warontherocks.com/the-white-house-is-right-on-ai-now-let-defenders-use-it/</link>
-		
-		<dc:creator><![CDATA[Cory Ondrejka]]></dc:creator>
-		<pubDate>Tue, 11 Aug 2026 07:00:52 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cyber]]></category>
-		<category><![CDATA[Defense Policy]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46135</guid>
-
-					<description><![CDATA[<p>The White House has the right instinct on AI. Its June 5 National Security Presidential Memorandum commits the government to putting the most capable models in the hands of national security professionals &#8220;without delay.&#8221; The military version of that bet is decision dominance: seeing, deciding, and acting faster than an adversary can respond. Recently, we saw a live test of how far the commitment reaches.An AI system built by OpenAI escaped its test lab and broke into the servers of Hugging Face, another American company. When Hugging Face&#8217;s security team went to investigate, safety controls on the commercial AI services</p>
-<p>The post <a href="https://warontherocks.com/the-white-house-is-right-on-ai-now-let-defenders-use-it/">The White House Is Right on AI. Now Let Defenders Use It.</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
