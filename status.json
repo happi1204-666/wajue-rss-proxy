@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T04:49:03Z",
+  "updated": "2026-09-30T05:48:57Z",
   "status": {
     "gl.nhk": {
       "ok": true,
@@ -126,15 +126,20 @@
       ]
     },
     "gl.mee": {
-      "ok": true,
+      "ok": false,
       "name": "Middle East Eye (中东)",
-      "src": "https://www.middleeasteye.net/rss.xml",
-      "error": null,
+      "src": null,
+      "error": "non-xml body: \b\u0000\u0000\u0000\u0000\u0000\u0004\u0003r\u001bg\u0014쮖\u001d$\bp\u0011IKPe[,Rp$\u0004\"3\u0001QtDCLtļ\\]ϛԓ/\u0017\u0016\u0012=ꨖ\t mgηoGMI:\\\u000bq'&ݵٴ\u0017}\u0017w<\u000fr\u001ft;w\u0006ј̲",
       "tried": [
         {
           "url": "https://www.middleeasteye.net/rss.xml",
-          "ok": true,
-          "err": null
+          "ok": false,
+          "err": "non-xml body: \b\u0000\u0000\u0000\u0000\u0000\u0004\u0003r\u001bWw*G3\t+(A,-U\u0016Y%\u001d\u0004XD\u0000B\u0002X΄Dt_\\|\u0013_<\u0000\u0004R:%\u0010Y?s/v2ޤ|Ml\u001bQ:ftpgc1}/gy\u001eq4\u0018\u001bl\u0006"
+        },
+        {
+          "url": "https://www.middleeasteye.net/rss",
+          "ok": false,
+          "err": "non-xml body: \b\u0000\u0000\u0000\u0000\u0000\u0004\u0003r\u001bg\u0014쮖\u001d$\bp\u0011IKPe[,Rp$\u0004\"3\u0001QtDCLtļ\\]ϛԓ/\u0017\u0016\u0012=ꨖ\t mgηoGMI:\\\u000bq'&ݵٴ\u0017}\u0017w<\u000fr\u001ft;w\u0006ј̲"
         }
       ],
       "tags": [
@@ -266,6 +271,182 @@
         "国际",
         "南亚",
         "印度"
+      ]
+    },
+    "mp.bbc.world": {
+      "ok": true,
+      "name": "BBC World (官方 RSS)",
+      "src": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "error": null,
+      "tried": [
+        {
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "ok": true,
+          "err": null
+        }
+      ],
+      "tags": [
+        "国际",
+        "权威"
+      ]
+    },
+    "mp.bbc.tech": {
+      "ok": true,
+      "name": "BBC Technology",
+      "src": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "error": null,
+      "tried": [
+        {
+          "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+          "ok": true,
+          "err": null
+        }
+      ],
+      "tags": [
+        "国际",
+        "科技"
+      ]
+    },
+    "mp.bbc.business": {
+      "ok": true,
+      "name": "BBC Business",
+      "src": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "error": null,
+      "tried": [
+        {
+          "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+          "ok": true,
+          "err": null
+        }
+      ],
+      "tags": [
+        "国际",
+        "财经"
+      ]
+    },
+    "mp.guardian.world": {
+      "ok": true,
+      "name": "The Guardian World (官方 RSS)",
+      "src": "https://www.theguardian.com/world/rss",
+      "error": null,
+      "tried": [
+        {
+          "url": "https://www.theguardian.com/world/rss",
+          "ok": true,
+          "err": null
+        }
+      ],
+      "tags": [
+        "国际"
+      ]
+    },
+    "mp.nyt.world": {
+      "ok": true,
+      "name": "New York Times World (官方 RSS)",
+      "src": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "error": null,
+      "tried": [
+        {
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "ok": true,
+          "err": null
+        }
+      ],
+      "tags": [
+        "国际",
+        "权威"
+      ]
+    },
+    "mp.aljazeera": {
+      "ok": true,
+      "name": "Al Jazeera (官方 RSS)",
+      "src": "https://www.aljazeera.com/xml/rss/all.xml",
+      "error": null,
+      "tried": [
+        {
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "ok": true,
+          "err": null
+        }
+      ],
+      "tags": [
+        "国际",
+        "中东"
+      ]
+    },
+    "mp.economist": {
+      "ok": true,
+      "name": "The Economist (官方 RSS)",
+      "src": "https://www.economist.com/latest/rss.xml",
+      "error": null,
+      "tried": [
+        {
+          "url": "https://www.economist.com/latest/rss.xml",
+          "ok": true,
+          "err": null
+        }
+      ],
+      "tags": [
+        "国际",
+        "权威",
+        "深度"
+      ]
+    },
+    "mp.bloomberg": {
+      "ok": false,
+      "name": "Bloomberg (arc RSS)",
+      "src": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "tried": [
+        {
+          "url": "https://www.bloomberg.com/arc/outboundfeeds/rss/",
+          "ok": false,
+          "err": "HTTPError: HTTP Error 403: Forbidden"
+        },
+        {
+          "url": "https://www.bloomberg.com/feed/rss",
+          "ok": false,
+          "err": "HTTPError: HTTP Error 403: Forbidden"
+        }
+      ],
+      "tags": [
+        "国际",
+        "财经"
+      ]
+    },
+    "mp.coindesk": {
+      "ok": true,
+      "name": "CoinDesk (arc RSS)",
+      "src": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "error": null,
+      "tried": [
+        {
+          "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+          "ok": true,
+          "err": null
+        }
+      ],
+      "tags": [
+        "加密货币",
+        "财经"
+      ]
+    },
+    "mp.huggingface.blog": {
+      "ok": true,
+      "name": "Hugging Face Blog",
+      "src": "https://huggingface.co/blog/feed.xml",
+      "error": null,
+      "tried": [
+        {
+          "url": "https://huggingface.co/blog/feed.xml",
+          "ok": true,
+          "err": null
+        }
+      ],
+      "tags": [
+        "AI",
+        "一手",
+        "技术"
       ]
     }
   }
