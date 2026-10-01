@@ -179,7 +179,7 @@ Although many of Hasan’s students and friends were unable to say goodbye to hi
 &lt;/span&gt;
             &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
                   &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/Screen%20Shot%202016-08-18%20at%2019.11.23.png.webp?itok=Svv-4LkQ 1x" type="image/webp" width="728" height="545"&gt;
-                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/Screen%20Shot%202016-08-18%20at%2019.11.23.png.webp?itok=Svv-4LkQ 1x" width="728" height="545" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/Screen%20Shot%202016-08-18%20at%2019.11.23.png.jpg?itok=Svv-4LkQ" alt typeof="foaf:Image" fetchpriority="high"&gt;
+                  &lt;img loading="lazy" srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/Screen%20Shot%202016-08-18%20at%2019.11.23.png.webp?itok=Svv-4LkQ 1x" width="728" height="545" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/Screen%20Shot%202016-08-18%20at%2019.11.23.png.jpg?itok=Svv-4LkQ" alt typeof="foaf:Image"&gt;
 
   &lt;/picture&gt;
 
@@ -336,7 +336,7 @@ Although many of Hasan’s students and friends were unable to say goodbye to hi
 &lt;/span&gt;
             &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
                   &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/Main%20photo%20calligraphy.jpg.webp?itok=TLTWrCKV 1x" type="image/webp" width="620" height="413"&gt;
-                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/Main%20photo%20calligraphy.jpg.webp?itok=TLTWrCKV 1x" width="620" height="413" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/Main%20photo%20calligraphy.jpg.jpg?itok=TLTWrCKV" alt typeof="foaf:Image" fetchpriority="high"&gt;
+                  &lt;img loading="lazy" srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/Main%20photo%20calligraphy.jpg.webp?itok=TLTWrCKV 1x" width="620" height="413" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/Main%20photo%20calligraphy.jpg.jpg?itok=TLTWrCKV" alt typeof="foaf:Image"&gt;
 
   &lt;/picture&gt;
 
@@ -593,7 +593,7 @@ Although many of Hasan’s students and friends were unable to say goodbye to hi
 &lt;/span&gt;
             &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
                   &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/IRAQ_NAGHAM%20main%20photo.jpg.webp?itok=L8V7Wy59 1x" type="image/webp" width="1273" height="855"&gt;
-                  &lt;img loading="lazy" srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/IRAQ_NAGHAM%20main%20photo.jpg.webp?itok=L8V7Wy59 1x" width="1273" height="855" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/IRAQ_NAGHAM%20main%20photo.jpg.jpg?itok=L8V7Wy59" typeof="foaf:Image"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/IRAQ_NAGHAM%20main%20photo.jpg.webp?itok=L8V7Wy59 1x" width="1273" height="855" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/IRAQ_NAGHAM%20main%20photo.jpg.jpg?itok=L8V7Wy59" typeof="foaf:Image" fetchpriority="high"&gt;
 
   &lt;/picture&gt;
 
