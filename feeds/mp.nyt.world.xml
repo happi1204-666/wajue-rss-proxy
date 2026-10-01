@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 00:39:53 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 00:22:09 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:45:23 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 06:31:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots" rel="standout"></atom:link>
       <description>Passengers said that they entered the cockpit and subdued the attacker, who Israeli officials said was one of the pilots. The motive for the attack was not clear.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:22:09 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 05:08:06 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-promo8p-bgpj/30israel-plane-promo8p-bgpj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Erik Marmor/Getty Images</media:credit>
     </item>
@@ -53,7 +53,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html" rel="standout"></atom:link>
       <description>Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.</description>
       <dc:creator>Erika Solomon, Falih Hassan and Eric Schmitt</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 23:09:19 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 23:09:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -74,7 +74,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/30/world/europe/france-student-protest-arrests.html" rel="standout"></atom:link>
       <description>French high schoolers are protesting teacher shortages and overcrowded classrooms, in France’s latest flare-up over education and public services.</description>
       <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 20:58:25 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 20:58:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -147,7 +147,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/30/world/europe/eiffel-tower-director-resigns.html" rel="standout"></atom:link>
       <description>Patrick Branco Ruivo, who ran the tower’s operating company, will step down after an internal inquiry cited “problems and shortcomings” over the moving of female employees.</description>
       <dc:creator>Giulia Imbert</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 15:27:48 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:27:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eiffel Tower (Paris)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
@@ -303,13 +303,53 @@
       <media:description>The aftermath of the attack in Kyauktaw, Rakhine State, in Myanmar, on Monday.</media:description>
     </item>
     <item>
-      <title>Passenger Who Helped Subdue Pilot Describes Bloody Scene in Cockpit</title>
+      <title>Japan Raises Residency Fees 2,000 Percent Amid ‘Anxiety’ Over Foreigners</title>
+      <link>https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html" rel="standout"></atom:link>
+      <description>Prime Minister Sanae Takaichi is making it harder for immigrants to stay in the country. Critics say she is hurting Japan’s ability to address labor shortages.</description>
+      <dc:creator>Javier C. Hernández and Hisako Ueno</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 04:39:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Japanese Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01int-japan-immigration-01-cwfp/01int-japan-immigration-01-cwfp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kentaro Takahashi for The New York Times</media:credit>
+      <media:description>Tourists in April in Fujiyoshida, Japan, in the foothills of Mount Fuji, in April.</media:description>
+    </item>
+    <item>
+      <title>Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?</title>
+      <link>https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html" rel="standout"></atom:link>
+      <description>Capt. Smit Machchhar from India suffered stab wounds while fending off an attack from his co-pilot, saving the lives of around 170 people on board, officials said.</description>
+      <dc:creator>Mujib Mashal</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 04:38:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <media:content height="928" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01INT-FLYDUBAI-PILOT-wkvm/01INT-FLYDUBAI-PILOT-wkvm-mediumSquareAt3X.jpg" width="928"></media:content>
+      <media:credit>Israel Foreign Ministry, via Reuters</media:credit>
+      <media:description>A photograph provided by the Israeli government shows Smit Machchhar, an Indian pilot, in an undated handout image released on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>FlyDubai Passenger Who Helped Subdue Pilot Describes Stabbing Attack in Cockpit</title>
       <link>https://www.nytimes.com/2026/09/30/world/middleeast/israel-plane-flydubai-passenger-eyewitness-account.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/middleeast/israel-plane-flydubai-passenger-eyewitness-account.html</guid>
       <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/israel-plane-flydubai-passenger-eyewitness-account.html" rel="standout"></atom:link>
       <description>A passenger on a flight to Tel Aviv on Wednesday said he watched in horror as the plane’s pilots tumbled out of the cockpit, locked in a bloody brawl.</description>
       <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:15:52 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 01:21:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
@@ -345,7 +385,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/30/world/iraq-war-us-pilot-israel-flight.html" rel="standout"></atom:link>
       <description>After two decades, American military forces formally withdrew from the battered nation. Our correspondent was there from the beginning.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 20:51:46 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 04:28:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iraq War (2003-11)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hussein, Saddam</category>
@@ -364,7 +404,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html" rel="standout"></atom:link>
       <description>“I don’t deserve to die like this,” said one passenger on Flight 1073 from Dubai to Tel Aviv. The motive of the cockpit stabbing remains unknown, officials said.</description>
       <dc:creator>David M. Halbfinger, Aaron Boxerman, Natan Odenheimer, Adam Rasgon and Thomas Fuller</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 21:38:12 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 01:56:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
@@ -374,9 +414,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30int-Israel-plane-ledeall-gbjc/30int-Israel-plane-ledeall-gbjc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
-      <media:description>A FlyDubai plane carrying Israeli passengers approaching Ben-Gurion International Airport near Tel Aviv on Wednesday. The passengers had been aboard another FlyDubai aircraft that made an emergency landing in Saudi Arabia.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-vid-cover/30israel-plane-vid-cover-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>Panic and Heroics on FlyDubai Flight: ‘We Felt That This Was It’</title>
@@ -475,7 +514,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/30/world/europe/ukraine-naval-drones-russia.html" rel="standout"></atom:link>
       <description>They began as modified motorboats. Now, Ukrainian sea drones act as miniature aircraft carriers, and other countries want in.</description>
       <dc:creator>Maria Varenikova and Nicholas Kulish</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 18:09:03 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 18:09:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -588,7 +627,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html" rel="standout"></atom:link>
       <description>Morocco became the second North African country to have a woman lead the government with the selection of Fatima Ezzahra El Mansouri, a lawyer and politician from the centrist Authenticity and Modernity Party.</description>
       <dc:creator>Aida Alami and Ephrat Livni</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 21:23:45 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 21:23:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
@@ -1031,76 +1070,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/28/multimedia/28pope-metz-qvhm/28pope-metz-qvhm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alberto Pizzoli/Agence France-Presse — Getty Images</media:credit>
       <media:description>In Metz, in northeastern France, Pope Leo XIV spoke of a Europe that would “continue to flourish and to inspire the whole world.” President Emmanuel Macron of France looked on.</media:description>
-    </item>
-    <item>
-      <title>Release of Suspects in U.K. Prompts New Questions Over Possible Terror Plot at RAF Fairford Base</title>
-      <link>https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html" rel="standout"></atom:link>
-      <description>The British counterterrorism police said the five British nationals arrested near R.A.F. Fairford on Sunday were being released on bail but remained under investigation.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 20:05:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/28/multimedia/28int-uk-airbase-01-lqhf/28int-uk-airbase-01-lqhf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Toby Shepheard/Reuters</media:credit>
-      <media:description>Armed police officers stand guard on a road outside the perimeter of R.A.F. Fairford air base in southern England on Monday.</media:description>
-    </item>
-    <item>
-      <title>Brazil’s Biggest Election Question?: Donald Trump’s Next Move</title>
-      <link>https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html" rel="standout"></atom:link>
-      <description>As Brazil prepares to hold elections next month, Latin America’s biggest nation is taking steps to shield its democracy from potential American meddling.</description>
-      <dc:creator>Ana Ionova and Adam B. Ellick</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 21:54:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amorim, Celso L N</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/28/multimedia/28int-brazil-us-election-lgjb/28int-brazil-us-election-lgjb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andre Penner/Associated Press</media:credit>
-      <media:description>Supporters of the right-wing presidential candidate Flávio Bolsonaro waved American flags and brandished a blowup doll of President Trump clutching an imprisoned President Luiz Inácio Lula da Silva at a rally this month in São Paulo, Brazil. </media:description>
-    </item>
-    <item>
-      <title>What We Saw in One Venezuelan Gold Town</title>
-      <link>https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html" rel="standout"></atom:link>
-      <description>With U.S. support, traders arrived and cut deals. That investment has so far failed to improve the bleak conditions in the mining industry.</description>
-      <dc:creator>Anatoly Kurmanaev and Mariana Martínez</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 14:08:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Callao (Venezuela)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/00int-venezuela-gold-takeaways-gqkc/00int-venezuela-gold-takeaways-gqkc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
-      <media:description>El Callao, the town at the heart of Venezuela’s gold mining industry.</media:description>
     </item>
   </channel>
 </rss>
