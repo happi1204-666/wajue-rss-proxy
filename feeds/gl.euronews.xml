@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Thu, 01 Oct 2026 21:28:32 +0200</lastBuildDate>
-  <pubDate>Thu, 01 Oct 2026 21:28:32 +0200</pubDate>
+  <lastBuildDate>Thu, 01 Oct 2026 23:01:25 +0200</lastBuildDate>
+  <pubDate>Thu, 01 Oct 2026 23:01:25 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Danish military admits flaws in report about 2025 drone incursions</title>
+   <link>https://www.euronews.com/2026/10/01/danish-military-admits-flaws-in-report-about-2025-drone-incursions</link>
+   <guid>https://www.euronews.com/2026/10/01/danish-military-admits-flaws-in-report-about-2025-drone-incursions</guid>
+   <pubDate>Thu, 01 Oct 2026 23:01:25 +0200</pubDate>
+   <description>In a revised report of the incident at Skrydstrup air base released Thursday, the military admitted that their account might have been mistaken.</description>
+  </item>
   <item>
    <title>Manchester City not 'above the rules', says Downing Street</title>
    <link>https://www.euronews.com/2026/10/01/manchester-city-not-above-the-rules-says-downing-street</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/video/2026/10/01/onboard-videos-show-chaotic-scenes-on-flydubai-flight</guid>
    <pubDate>Thu, 01 Oct 2026 10:18:18 +0200</pubDate>
    <description>An Israeli passenger filmed scenes of panic aboard a FlyDubai flight after an alleged attack in the cockpit forced the plane to make an emergency landing in Tabuk, Saudi Arabia.</description>
-  </item>
-  <item>
-   <title>Russia's jury reform draws fire for handing verdicts back to the state</title>
-   <link>https://www.euronews.com/2026/10/01/russias-jury-reform-draws-fire-for-handing-verdicts-back-to-the-state</link>
-   <guid>https://www.euronews.com/2026/10/01/russias-jury-reform-draws-fire-for-handing-verdicts-back-to-the-state</guid>
-   <pubDate>Thu, 01 Oct 2026 10:16:20 +0200</pubDate>
-   <description>The Supreme Court proposals would allow presiding judges to &quot;clarify&quot; questions during deliberations and reduce jury panels from six or eight members to four, changes lawyers say undermine the independence of a system that acquits at 60 times the national average in non-jury trials.</description>
   </item>
  </channel>
 </rss>
