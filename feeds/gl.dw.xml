@@ -7,30 +7,32 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-02T04:03:00Z</dc:date>
+  <dc:date>2026-10-02T10:37:35Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-reform-row-raises-fears-for-merz-s-coalition/live-79512757?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-delhi-protesters-turn-up-heat-on-election-chief-police-tightens-security/live-79509860?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/turkey-s-stock-market-scandal-affects-nearly-half-a-million-investors-police-have-made-several-arrests-and-an-akp-politician-has-resigned/a-79494710?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-crew-makes-the-quickest-us-flight-to-iss/a-79509556?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/klopp-wins-first-game-as-germany-coach-without-top-dogs/a-79508898?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-police-make-another-arrest-in-raf-fairford-case/a-79508050?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/on-october-3-latvians-will-elect-a-new-parliament-―-with-russia-looming-large-over-the-campaign/a-79477614?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ethiopia-and-eritrea-sever-ties-amid-tigray-fighting/a-79507052?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/after-2-years-in-office-how-has-claudia-sheinbaum-changed-mexico/a-79506055?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/finland-probes-suspected-break-ins-at-politicians-homes/a-79506236?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/renee-good-s-family-sues-trump-admin-over-fatal-ice-shooting/a-79504836?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-expresses-optimism-over-montenegro-s-eu-ambitions/a-79504069?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/zimbabwe-tycoon-wicknell-chivayo-dies-in-helicopter-crash/a-79501691?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/trump-unveils-south-korean-investment-in-us-energy-projects/a-79502998?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/a-brutal-assault-reignites-fears-over-women-s-safety-in-india/a-79501471?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/uae-launches-flydubai-hijacking-and-terrorism-investigation/a-79497746?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/pakistan-launches-deadly-airstrikes-on-afghanistan/a-79498092?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf"/>
@@ -97,7 +99,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/afd-makes-gains-in-state-elections-but-has-no-government-options/a-79348308?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/summer-of-2026-broke-records-in-europe-and-caused-deaths/a-79339630?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/oktoberfest-2026-everything-you-need-to-know/a-79311285?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-rdf"/>
@@ -154,6 +155,87 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/germany-news-reform-row-raises-fears-for-merz-s-coalition/live-79512757?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Reform row raises fears for Merz&apos;s coalition</title>
+  <link>https://www.dw.com/en/germany-news-reform-row-raises-fears-for-merz-s-coalition/live-79512757?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany&apos;s conservatives are dialing up the pressure on their center-left partners ahead of crunch talks next week. Meanwhile, Volkswagen&apos;s latest cost-cutting push has triggered a furious response. DW has the latest.</description>
+  <dc:date>2026-10-02T09:53:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79512757</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine: Kyiv bridges shut after fatal Russian drone assault</title>
+  <link>https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf</link>
+  <description>The latest Russian attacks killed at least one person and severely disrupted traffic in the Ukrainian capital. Several bridges over the Dnipro River connect western and eastern Kyiv.</description>
+  <dc:date>2026-10-02T09:28:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79510950</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf">
+  <title>France: 400 schools closed as student protests continue</title>
+  <link>https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf</link>
+  <description>Police have made around 2,000 arrests and scores of people have been injured as student protests spread across France. Ministers have called for a &quot;day of dialogue&quot; but students have called for further strike action.</description>
+  <dc:date>2026-10-02T09:17:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79512732</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf">
+  <title>Ethiopia: Who could bring the warring sides to the negotiation table?</title>
+  <link>https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf</link>
+  <description>Ethiopia might be facing its most complex armed conflict in contemporary times. The fragile 2022 peace deal has collapsed. International mediators have failed. How will the country return to normal?</description>
+  <dc:date>2026-10-02T09:00:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79475529</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-rdf">
+  <title>Taiwan: first new F-16V fighters arrive amid China threat</title>
+  <link>https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US-made jets, part of an order made in 2019, touched down as concerns grow in Taiwan that support from the United States could be wavering. Washington insists its policy towards Taiwan and China hasn&apos;t changed.</description>
+  <dc:date>2026-10-02T07:25:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79510328</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-delhi-protesters-turn-up-heat-on-election-chief-police-tightens-security/live-79509860?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Delhi protesters turn up heat on election chief, police tightens security</title>
+  <link>https://www.dw.com/en/india-news-delhi-protesters-turn-up-heat-on-election-chief-police-tightens-security/live-79509860?maca=en-rss-en-all-1573-rdf</link>
+  <description>Hundreds have gathered in central Delhi to demand the resignation of India&apos;s Chief Election Commissioner Gyanesh Kumar, over the deletion of voters from electoral rolls. Follow DW.</description>
+  <dc:date>2026-10-02T07:02:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79509860</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf">
+  <title>South Korea demands Ukraine apology over POW disclosure</title>
+  <link>https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf</link>
+  <description>Ukrainian President Volodymyr Zelenskyy&apos;s disclosure of the transfer of North Korean prisoners of war (POWs) to Seoul has caused a major diplomatic spat between Seoul and Kyiv.</description>
+  <dc:date>2026-10-02T06:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79510305</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine, South Korea clash over transfer of 2 North Korean prisoners</title>
+  <link>https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf</link>
+  <description>A diplomatic scandal has erupted over two North Korean prisoners of war, with South Korea demanding an apology from Ukraine. What&apos;s been the reaction in Kyiv?</description>
+  <dc:date>2026-10-02T04:40:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79508601</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/turkey-s-stock-market-scandal-affects-nearly-half-a-million-investors-police-have-made-several-arrests-and-an-akp-politician-has-resigned/a-79494710?maca=en-rss-en-all-1573-rdf">
+  <title>Turkey&apos;s stock market scandal affects nearly half a million investors. Police have made several arrests and an AKP politician has resigned.</title>
+  <link>https://www.dw.com/en/turkey-s-stock-market-scandal-affects-nearly-half-a-million-investors-police-have-made-several-arrests-and-an-akp-politician-has-resigned/a-79494710?maca=en-rss-en-all-1573-rdf</link>
+  <description>Nearly half a million investors are affected, arrests have been made, and a female politician from the ruling party has resigned. What is behind the stock market manipulation scandal in Turkey?</description>
+  <dc:date>2026-10-02T04:32:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79494710</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf">
   <title>US pressures EU allies to release diesel stockpiles</title>
   <link>https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf</link>
@@ -199,12 +281,12 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79508050</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/on-october-3-latvians-will-elect-a-new-parliament-―-with-russia-looming-large-over-the-campaign/a-79477614?maca=en-rss-en-all-1573-rdf">
-  <title>On October 3, Latvians will elect a new parliament ― with Russia looming large over the campaign</title>
-  <link>https://www.dw.com/en/on-october-3-latvians-will-elect-a-new-parliament-―-with-russia-looming-large-over-the-campaign/a-79477614?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-rdf">
+  <title>Latvians head to the polls with Russia on their minds</title>
+  <link>https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-rdf</link>
   <description>On October 3, Latvians will elect a new parliament with Russia looming large over the campaign. Security fears dominate the agenda, but so does a debate over the economic cost of cutting ties with Moscow.</description>
   <dc:date>2026-10-01T17:57:00Z</dc:date>
-  <dc:subject>NRS-Import</dc:subject>
+  <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79477614</dwsyn:contentID>
  </item>
@@ -225,15 +307,6 @@
   <dc:subject>TOP STORIES</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79506055</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf">
-  <title>Ethiopia: Who could bring the warring sides to the negotiation table?</title>
-  <link>https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ethiopia might be facing its most complex armed conflict in contempary times. The fragile 2022 peace deal has collapsed. International mediators have failed. How will the country manage to return to normal?</description>
-  <dc:date>2026-10-01T16:02:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79475529</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/finland-probes-suspected-break-ins-at-politicians-homes/a-79506236?maca=en-rss-en-all-1573-rdf">
   <title>Finland probes suspected break-ins at politicians&apos; homes</title>
@@ -262,42 +335,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79504069</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf">
-  <title>North and South Korea trade accusations over landmines that injured three soldiers</title>
-  <link>https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf</link>
-  <description>A mine blast that injured three South Korean soldiers has renewed scrutiny of North Korea&apos;s actions along the border and raised questions about its strategic goals.</description>
-  <dc:date>2026-10-01T13:57:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79503854</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/zimbabwe-tycoon-wicknell-chivayo-dies-in-helicopter-crash/a-79501691?maca=en-rss-en-all-1573-rdf">
-  <title>Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash</title>
-  <link>https://www.dw.com/en/zimbabwe-tycoon-wicknell-chivayo-dies-in-helicopter-crash/a-79501691?maca=en-rss-en-all-1573-rdf</link>
-  <description>Zimbabwe&apos;s President Emmerson Mnangagwa has confirmed the death of businessman Wicknell Chivayo and his wife in a helicopter crash, calling the high-rollers with a lavish lifestyle &quot;consummately philanthropic.&quot;</description>
-  <dc:date>2026-10-01T13:35:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79501691</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/trump-unveils-south-korean-investment-in-us-energy-projects/a-79502998?maca=en-rss-en-all-1573-rdf">
-  <title>Trump unveils South Korean investment in US energy projects</title>
-  <link>https://www.dw.com/en/trump-unveils-south-korean-investment-in-us-energy-projects/a-79502998?maca=en-rss-en-all-1573-rdf</link>
-  <description>Donald Trump said South Korea has agreed to invest in an LNG project in Alaska, but Seoul has said it will only proceed once certain conditions are met.</description>
-  <dc:date>2026-10-01T13:25:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79502998</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/a-brutal-assault-reignites-fears-over-women-s-safety-in-india/a-79501471?maca=en-rss-en-all-1573-rdf">
-  <title>A brutal assault reignites fears over women&apos;s safety in India</title>
-  <link>https://www.dw.com/en/a-brutal-assault-reignites-fears-over-women-s-safety-in-india/a-79501471?maca=en-rss-en-all-1573-rdf</link>
-  <description>A string of sexual assault cases has revived questions about women&apos;s safety in India, fuelling fear, protests and demands for action.</description>
-  <dc:date>2026-10-01T12:31:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79501471</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-rdf">
   <title>Weakened US fuel-efficiency rules and promises of cheaper cars could see drivers pay higher running costs while also increasing carbon emissions.</title>
   <link>https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-rdf</link>
@@ -307,15 +344,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79496554</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/uae-launches-flydubai-hijacking-and-terrorism-investigation/a-79497746?maca=en-rss-en-all-1573-rdf">
-  <title>UAE launches Flydubai hijacking and terrorism investigation</title>
-  <link>https://www.dw.com/en/uae-launches-flydubai-hijacking-and-terrorism-investigation/a-79497746?maca=en-rss-en-all-1573-rdf</link>
-  <description>The UAE&apos;s chief prosecutor said it&apos;s looking at the possibility of &quot;terrorist activity or intent&quot; in the alleged attempted hijacking of a Flydubai commercial flight to Tel Aviv. It says it has jurisdiction in the case.</description>
-  <dc:date>2026-10-01T10:06:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79497746</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf">
   <title>Germans&apos; biggest fear is the high cost of living, an annual study finds</title>
   <link>https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf</link>
@@ -324,15 +352,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79497762</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/pakistan-launches-deadly-airstrikes-on-afghanistan/a-79498092?maca=en-rss-en-all-1573-rdf">
-  <title>Pakistan launches deadly airstrikes on Afghanistan</title>
-  <link>https://www.dw.com/en/pakistan-launches-deadly-airstrikes-on-afghanistan/a-79498092?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Taliban government in Afghanistan said at least nine civilians were killed in Pakistani airstrikes on two provinces overnight. Pakistan said it had struck militant hideouts, killing 22 fighters.</description>
-  <dc:date>2026-10-01T09:22:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79498092</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Merz lauds NATO with Westphalian Peace Prize</title>
@@ -927,15 +946,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79320422</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-all-1573-rdf">
-  <title>In cosmopolitan Berlin, elections still closed to foreigners</title>
-  <link>https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-all-1573-rdf</link>
-  <description>A quarter of Berlin residents will have no say in the German capital&apos;s city-state election because they lack citizenship. That&apos;s the highest proportion of residents excluded from the election yet, and many are unhappy.</description>
-  <dc:date>2026-09-20T07:11:00Z</dc:date>
-  <dc:subject>Germany</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>78744579</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/summer-of-2026-broke-records-in-europe-and-caused-deaths/a-79339630?maca=en-rss-en-all-1573-rdf">
   <title>Summer of 2026 broke records in Europe, and caused deaths</title>

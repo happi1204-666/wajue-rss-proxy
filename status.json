@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T04:03:45Z",
+  "updated": "2026-10-02T10:38:45Z",
   "status": {
     "gl.nhk": {
       "ok": true,
@@ -396,12 +396,12 @@
         {
           "url": "https://www.bloomberg.com/arc/outboundfeeds/rss/",
           "ok": false,
-          "err": "HTTPError: HTTP Error 403: Forbidden"
+          "err": "HTTPError: HTTP Error 404: Not Found"
         },
         {
           "url": "https://www.bloomberg.com/feed/rss",
           "ok": false,
-          "err": "HTTPError: HTTP Error 403: Forbidden"
+          "err": "HTTPError: HTTP Error 404: Not Found"
         },
         {
           "url": "https://news.google.com/rss/search?q=bloomberg&hl=en-US&gl=US&ceid=US:en",
