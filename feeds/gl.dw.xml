@@ -7,10 +7,15 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-02T16:28:47Z</dc:date>
+  <dc:date>2026-10-02T20:53:51Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/flydubai-hero-pilot-speaks-for-first-time/a-79524500?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/israel-s-top-court-allows-arab-parties-to-run-in-election/a-79519184?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-accused-of-blocking-sim-cards-digital-access-to-silence-dissent/a-79522440?maca=en-rss-en-all-1573-rdf"/>
@@ -25,11 +30,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ard-deutschlandtrend-survey-germans-unite-in-frustration-over-the-government/a-79515172?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-reform-row-raises-fears-for-merz-s-coalition/live-79512757?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-delhi-protesters-turn-up-heat-on-election-chief-police-tightens-security/live-79509860?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-all-1573-rdf"/>
@@ -72,7 +73,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/dw-shows-solidarity-with-georgians-commitment-to-democracy/a-79432731?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bundesliga-other-top-european-leagues-call-for-major-fifa-reforms/a-79431717?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/how-bulgaria-become-a-global-leader-in-battery-storage-and-what-this-means-for-the-country-s-grid-and-energy-market/a-79428289?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-all-1573-rdf"/>
@@ -155,6 +155,51 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf">
+  <title>UK: Man charged with planning to attack Nigel Farage</title>
+  <link>https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf</link>
+  <description>The suspect was already charged with the killing of Reform UK&apos;s Ann Widdecombe.</description>
+  <dc:date>2026-10-02T20:38:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79526078</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-all-1573-rdf">
+  <title>New York governor condemns handling of Cornell rape case</title>
+  <link>https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-all-1573-rdf</link>
+  <description>An 2024 alleged gang rape at the prestigious Cornell University has gained national attention after the accuser, identified only as Jane Doe, filed a lawsuit. A special prosecutor has been appointed to handle the case.</description>
+  <dc:date>2026-10-02T19:09:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79525431</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf">
+  <title>France: 400 schools closed as student protests continue</title>
+  <link>https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf</link>
+  <description>Police have made around 2,000 arrests and dozens of people have been injured as student protests spread across France. Ministers have called for a &quot;day of dialogue&quot; but students have called for further strike action.</description>
+  <dc:date>2026-10-02T17:46:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79512732</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/flydubai-hero-pilot-speaks-for-first-time/a-79524500?maca=en-rss-en-all-1573-rdf">
+  <title>FlyDubai &apos;hero&apos; pilot speaks for first time</title>
+  <link>https://www.dw.com/en/flydubai-hero-pilot-speaks-for-first-time/a-79524500?maca=en-rss-en-all-1573-rdf</link>
+  <description>India&apos;s Prime Minister Narendra Modi spoke with Captain Smit Machchhar via video call. Meanwhile, authorities in the UAE and Israel said an investigation is making progress.</description>
+  <dc:date>2026-10-02T17:15:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79524500</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-all-1573-rdf">
+  <title>Spain&apos;s parliament rejects housing bill as protests continue</title>
+  <link>https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-all-1573-rdf</link>
+  <description>Spain&apos;s minority government suffered defeat in parliament as it tried to push through a pair of emergency measures aimed at making housing more affordable. A pensioner&apos;s eviction and protests led to the bid.</description>
+  <dc:date>2026-10-02T16:39:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79522683</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-rdf">
   <title>&quot;NAZA&quot;: Israeli military issues statement on film</title>
   <link>https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-rdf</link>
@@ -281,15 +326,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79510950</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf">
-  <title>France: 400 schools closed as student protests continue</title>
-  <link>https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf</link>
-  <description>Police have made around 2,000 arrests and scores of people have been injured as student protests spread across France. Ministers have called for a &quot;day of dialogue&quot; but students have called for further strike action.</description>
-  <dc:date>2026-10-02T09:17:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79512732</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf">
   <title>Ethiopia: Who could bring the warring sides to the negotiation table?</title>
   <link>https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf</link>
@@ -298,33 +334,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79475529</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-rdf">
-  <title>Taiwan: first new F-16V fighters arrive amid China threat</title>
-  <link>https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-rdf</link>
-  <description>The US-made jets, part of an order made in 2019, touched down as concerns grow in Taiwan that support from the United States could be wavering. Washington insists its policy towards Taiwan and China hasn&apos;t changed.</description>
-  <dc:date>2026-10-02T07:25:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79510328</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-news-delhi-protesters-turn-up-heat-on-election-chief-police-tightens-security/live-79509860?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Delhi protesters turn up heat on election chief, police tightens security</title>
-  <link>https://www.dw.com/en/india-news-delhi-protesters-turn-up-heat-on-election-chief-police-tightens-security/live-79509860?maca=en-rss-en-all-1573-rdf</link>
-  <description>Hundreds have gathered in central Delhi to demand the resignation of India&apos;s Chief Election Commissioner Gyanesh Kumar, over the deletion of voters from electoral rolls. Follow DW.</description>
-  <dc:date>2026-10-02T07:02:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79509860</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf">
-  <title>South Korea demands Ukraine apology over POW disclosure</title>
-  <link>https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ukrainian President Volodymyr Zelenskyy&apos;s disclosure of the transfer of North Korean prisoners of war (POWs) to Seoul has caused a major diplomatic spat between Seoul and Kyiv.</description>
-  <dc:date>2026-10-02T06:33:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79510305</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine, South Korea clash over transfer of 2 North Korean prisoners</title>
@@ -703,15 +712,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79431717</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/how-bulgaria-become-a-global-leader-in-battery-storage-and-what-this-means-for-the-country-s-grid-and-energy-market/a-79428289?maca=en-rss-en-all-1573-rdf">
-  <title>How Bulgaria become a global leader in battery storage and what this means for the country&apos;s grid and energy market?</title>
-  <link>https://www.dw.com/en/how-bulgaria-become-a-global-leader-in-battery-storage-and-what-this-means-for-the-country-s-grid-and-energy-market/a-79428289?maca=en-rss-en-all-1573-rdf</link>
-  <description>In under two years, Bulgaria has become one of the world&apos;s most battery-intensive energy markets. Can the surge last — and what will it mean for conventional power generators?</description>
-  <dc:date>2026-09-25T11:38:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79428289</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-all-1573-rdf">
   <title>Jürgen Klopp starts Germany job with shaky Netherlands draw</title>
