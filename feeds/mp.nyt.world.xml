@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 15:09:47 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Oct 2026 15:04:10 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:42:41 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 18:40:49 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -87,7 +87,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html" rel="standout"></atom:link>
       <description>Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.</description>
       <dc:creator>Paulina Villegas and Adriana Zehbrauskas</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 14:37:31 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 18:40:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
@@ -109,7 +109,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html" rel="standout"></atom:link>
       <description>The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.</description>
       <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 11:59:06 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 17:47:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -187,7 +187,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html" rel="standout"></atom:link>
       <description>Our reporting revealed how Mexican criminal groups are relying on teenagers and young adults in border states like Arizona to help supply their weapons.</description>
       <dc:creator>Paulina Villegas</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 09:00:54 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 16:36:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
@@ -350,7 +350,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html" rel="standout"></atom:link>
       <description>A mysterious call last Sunday near a military base used by the U.S. set in motion a huge counterterrorism response and days of uncertainty in Britain.</description>
       <dc:creator>Michael D. Shear, Eric Schmitt, Megan Specia and Adam Goldman</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 13:45:56 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 16:19:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
@@ -380,7 +380,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/03uk-airbase-reconstruct-01-bcvp/03uk-airbase-reconstruct-01-bcvp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Toby Shepheard/Reuters</media:credit>
-      <media:description>A police roadblock near RAF Fairford air base. Prime Minister Andy Burnham of Britain said on Wednesday that there were “strong indications that Iran played a part” in the weekend’s events at the air base, without providing more detail.</media:description>
+      <media:description>A police roadblock near the R.A.F. Fairford air base. Prime Minister Andy Burnham of Britain said on Wednesday that there were “strong indications that Iran played a part” in the previous weekend’s events there.</media:description>
     </item>
     <item>
       <title>Whale Batters a Yacht, Leaving Its Crew Stranded for 18 Hours</title>
@@ -399,6 +399,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1215" medium="image" url="https://static01.nyt.com/images/2026/10/01/obituaries/01xp-whale/01xp-whale-mediumSquareAt3X-v4.jpg" width="1215"></media:content>
       <media:credit>Royal New Zealand Air Force</media:credit>
       <media:description>Tai Tam, a 52-foot yacht, sinking in the South Pacific as the four people who had been on board await rescuing from their life raft.</media:description>
@@ -456,6 +457,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mumbai (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maharashtra (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/29/multimedia/00xp-inspector-promo-wjhb/00xp-inspector-promo-wjhb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Zishaan A Latif for The New York Times</media:credit>
     </item>
@@ -542,6 +544,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02xp-pilot-screening-02-bwzj/02xp-pilot-screening-02-bwzj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Spencer Platt/Getty Images</media:credit>
       <media:description>In the United States, pilots undergo a criminal history check as well as a threat assessment to see if they have ever been flagged as a “person of interest” in federal law enforcement databases.</media:description>
@@ -620,12 +623,19 @@
       <dc:creator>Lisa Friedman and Rebecca F. Elliott</dc:creator>
       <pubDate>Fri, 02 Oct 2026 18:28:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02Biz-Diesel-03-kthc/02Biz-Diesel-03-kthc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hilary Swift for The New York Times</media:credit>
       <media:description>The release of diesel and crude oil is designed to “stabilize immediate energy supplies,” the Group of 7 countries said in an announcement. </media:description>
@@ -813,15 +823,15 @@
       <atom:link href="https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html" rel="standout"></atom:link>
       <description>Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States.</description>
       <dc:creator>Steven Lee Myers</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 14:40:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <pubDate>Fri, 02 Oct 2026 14:40:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian-Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01biz-Russia-AI-Songs-1-fmbg/01biz-Russia-AI-Songs-1-fmbg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nanna Heitmann for The New York Times</media:credit>
       <media:description>Russian society is becoming increasingly militaristic since the war in Ukraine began. These soldiers marched in Moscow in a parade in 2023.</media:description>
