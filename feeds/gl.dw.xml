@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-02T20:53:51Z</dc:date>
+  <dc:date>2026-10-03T00:09:17Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/christa-pike-unconscious-after-failed-execution-attorneys/a-79526118?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/this-island-in-kiribati-could-be-the-key-to-solve-the-amelia-earhart-mystery/a-79517455?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ard-deutschlandtrend-survey-germans-unite-in-frustration-over-the-government/a-79515172?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-reform-row-raises-fears-for-merz-s-coalition/live-79512757?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-all-1573-rdf"/>
@@ -145,7 +145,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/2026-beethoven-festival-evokes-a-sense-of-home/a-78892997?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-costly-burden/a-77766154?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/is-germany-s-economic-slump-finally-over/a-78815447?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -155,6 +154,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/christa-pike-unconscious-after-failed-execution-attorneys/a-79526118?maca=en-rss-en-all-1573-rdf">
+  <title>Christa Pike unconscious after failed execution — attorneys</title>
+  <link>https://www.dw.com/en/christa-pike-unconscious-after-failed-execution-attorneys/a-79526118?maca=en-rss-en-all-1573-rdf</link>
+  <description>Lawyers for Christa Pike said she&apos;s unconscious and on a ventilator after a botched execution attempt. Pike is believed to be the first person to have survived the administration of lethal drugs in the modern era.</description>
+  <dc:date>2026-10-02T22:52:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79526118</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf">
+  <title>North Korea fires ballistic missile into sea, Seoul says</title>
+  <link>https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf</link>
+  <description>North Korea fired a ballistic missile toward the sea off its east coast, the South Korean military has said.</description>
+  <dc:date>2026-10-02T22:06:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79526243</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf">
   <title>UK: Man charged with planning to attack Nigel Farage</title>
   <link>https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf</link>
@@ -316,24 +333,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79512757</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine: Kyiv bridges shut after fatal Russian drone assault</title>
-  <link>https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-all-1573-rdf</link>
-  <description>The latest Russian attacks killed at least one person and severely disrupted traffic in the Ukrainian capital. Several bridges over the Dnipro River connect western and eastern Kyiv.</description>
-  <dc:date>2026-10-02T09:28:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79510950</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf">
-  <title>Ethiopia: Who could bring the warring sides to the negotiation table?</title>
-  <link>https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ethiopia might be facing its most complex armed conflict in contemporary times. The fragile 2022 peace deal has collapsed. International mediators have failed. How will the country return to normal?</description>
-  <dc:date>2026-10-02T09:00:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79475529</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine, South Korea clash over transfer of 2 North Korean prisoners</title>
@@ -1360,14 +1359,5 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77766154</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/is-germany-s-economic-slump-finally-over/a-78815447?maca=en-rss-en-all-1573-rdf">
-  <title>Is Germany&apos;s economic slump finally over?</title>
-  <link>https://www.dw.com/en/is-germany-s-economic-slump-finally-over/a-78815447?maca=en-rss-en-all-1573-rdf</link>
-  <description>Despite a slew of negative headlines, the German economy has posted its best figures in years. There are reasons for optimism, but structural issues remain.</description>
-  <dc:date>2026-09-03T12:30:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>78815447</dwsyn:contentID>
  </item>
 </rdf:RDF>

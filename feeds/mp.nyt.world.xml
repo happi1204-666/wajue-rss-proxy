@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 20:53:21 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 20:49:58 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 00:08:37 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 23:48:39 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html" rel="standout"></atom:link>
       <description>The program would grant citizenship to people who make major investments in Argentina. Similar efforts have yielded significant income for small economies, but have also led to risks.</description>
       <dc:creator>Emma Bubola</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 20:17:54 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 20:17:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Passports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
@@ -106,7 +106,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html" rel="standout"></atom:link>
       <description>Joshua Kerry, a 28-year-old British man accused of killing the former lawmaker Ann Widdecombe, was charged on Friday.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 19:00:05 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 21:15:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, Joshua (Murder Suspect)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
@@ -170,7 +170,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html" rel="standout"></atom:link>
       <description>Days of unrest have affected more than 1,000 schools across France as high school students push for better standards.</description>
       <dc:creator>Ségolène Le Stradic and Mark Landler</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 20:49:58 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 20:49:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
@@ -248,7 +248,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html" rel="standout"></atom:link>
       <description>Hundreds were detained in New Delhi as demonstrators expressed anger over the removal of 130 million people from the rolls. The government denies accusations of “vote theft.”</description>
       <dc:creator>Mujib Mashal, Pragati K.B. and Somini Sengupta</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 16:47:00 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 21:15:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
@@ -287,7 +287,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/02/world/europe/spain-housing-vote-elections.html" rel="standout"></atom:link>
       <description>The government had proposed more protections for tenants after outrage at the eviction of an 87-year-old woman in Madrid.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 13:34:19 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 20:57:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Together for Catalonia (Spanish Political Party)</category>
@@ -296,9 +296,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evictions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-Spain-Housing-mckw/02int-Spain-Housing-mckw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Juan Medina/Reuters</media:credit>
-      <media:description>Prime Minister Pedro Sánchez at the Spanish Parliament in Madrid on Friday. Legislation would have suspended evictions of vulnerable tenants until 2030.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/world/europe/02vid-spain-housing-cover-image/02vid-spain-housing-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anadolu, via Getty Images</media:credit>
     </item>
     <item>
       <title>Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine</title>
@@ -321,6 +320,84 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-ukraine-energy-wtbp/02int-ukraine-energy-wtbp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Overlooking the Dnipro River before the autumn and winter period in Kyiv, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Iran Jails Hard-Line Lawmaker, Exposing Deep Rifts in Its Leadership</title>
+      <link>https://www.nytimes.com/2026/10/02/world/middleeast/iran-hard-line-lawmaker-jail-rift.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/middleeast/iran-hard-line-lawmaker-jail-rift.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/02/world/middleeast/iran-hard-line-lawmaker-jail-rift.html" rel="standout"></atom:link>
+      <description>Hamid Rasaei, a vocal opponent of a diplomatic deal with the United States to end the war, was convicted of publishing false information with the intent to harm the Parliament speaker.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 23:28:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghalibaf, Mohammad Baqer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araghchi, Abbas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamid Rasaei</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-iran-arrests-tvlf/02int-iran-arrests-tvlf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>A pro-government rally in Tehran in April.</media:description>
+    </item>
+    <item>
+      <title>Bridal Shop Owner Who Put Child Onto a Coat Hook Cleared by Court</title>
+      <link>https://www.nytimes.com/2026/10/02/world/canada/newfoundland-bridal-shop-owner-boy-coat-hook.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/canada/newfoundland-bridal-shop-owner-boy-coat-hook.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/02/world/canada/newfoundland-bridal-shop-owner-boy-coat-hook.html" rel="standout"></atom:link>
+      <description>The “horseplay” was misguided, said the Canadian judge, but not malicious.</description>
+      <dc:creator>Pranav Baskar</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 22:09:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newfoundland (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+    </item>
+    <item>
+      <title>What to Know About Fighting Between Ethiopia and Rebels in Tigray</title>
+      <link>https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html" rel="standout"></atom:link>
+      <description>The conflict is raising fears of a regional war in the Horn of Africa, drawing in foreign powers including Eritrea, Egypt the United Arab Emirates and Saudi Arabia.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 22:05:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eritrea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tigray People&#39;s Liberation Front</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Addis Ababa (Ethiopia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Afwerki, Isaias</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmed, Abiy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gebremichael, Debretsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/03int-ethiopia-wtk-1-btwq/03int-ethiopia-wtk-1-btwq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>via Reuters</media:credit>
+      <media:description>A shattered window of Tigray Television Station after a drone strike in Mekelle, Ethiopia, last week.</media:description>
+    </item>
+    <item>
+      <title>2 Iranian Men Charged in U.K. Over Suspected Plot to Target Jews</title>
+      <link>https://www.nytimes.com/2026/10/02/world/europe/uk-manchester-terror-plot-iranians-jews.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/europe/uk-manchester-terror-plot-iranians-jews.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/02/world/europe/uk-manchester-terror-plot-iranians-jews.html" rel="standout"></atom:link>
+      <description>The British police said the two Iranian nationals were charged Friday with terrorism offenses.</description>
+      <dc:creator>Pranav Baskar</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 21:54:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harakat Ashab al-Yamin al-Islamiyya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manchester (England)</category>
     </item>
     <item>
       <title>Israel Lists 170 Killed in Gaza It Says Were Militants Posing as Media Workers</title>
@@ -347,13 +424,14 @@
       <description>Health screenings and criminal background checks may go only so far in identifying pilots who have become radicalized or try to hide their mental health issues, experts said.</description>
       <dc:creator>Michael Levenson</dc:creator>
       <pubDate>Fri, 02 Oct 2026 19:12:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emerson, Joseph D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
@@ -1068,84 +1146,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/00int-brazil-election-debt-zklt-promo/00int-brazil-election-debt-zklt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
       <media:description>A storefront offering personal loans in Niteroi, Brazil. Brazil is grappling with widespread household indebtedness, fueled by a combination of easy credit, the rapid expansion of legal and illegal online betting, and instant digital payments that have made borrowing, gambling and spending faster and easier.</media:description>
-    </item>
-    <item>
-      <title>Japan Raises Residency Fees 2,000 Percent Amid ‘Anxiety’ Over Foreigners</title>
-      <link>https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html" rel="standout"></atom:link>
-      <description>Prime Minister Sanae Takaichi is making it harder for immigrants to stay in the country. Critics say she is hurting Japan’s ability to address labor shortages.</description>
-      <dc:creator>Javier C. Hernández and Hisako Ueno</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 14:41:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Japanese Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01int-japan-immigration-01-cwfp/01int-japan-immigration-01-cwfp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kentaro Takahashi for The New York Times</media:credit>
-      <media:description>Tourists in April in Fujiyoshida, Japan, in the foothills of Mount Fuji, in April.</media:description>
-    </item>
-    <item>
-      <title>Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?</title>
-      <link>https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html" rel="standout"></atom:link>
-      <description>Capt. Smit Machchhar suffered stab wounds while fending off an attack from his co-pilot, saving the lives of around 170 people on board, officials said.</description>
-      <dc:creator>Somini Sengupta, Suhasini Raj and Mujib Mashal</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 05:15:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <media:content height="928" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01INT-FLYDUBAI-PILOT-wkvm/01INT-FLYDUBAI-PILOT-wkvm-mediumSquareAt3X.jpg" width="928"></media:content>
-      <media:credit>Israel Foreign Ministry, via Reuters</media:credit>
-      <media:description>A photograph provided by the Israeli government shows Smit Machchhar, an Indian pilot, in an undated handout image released on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>FlyDubai Passenger Who Helped Subdue Pilot Describes Stabbing Attack in Cockpit</title>
-      <link>https://www.nytimes.com/2026/09/30/world/middleeast/israel-plane-flydubai-passenger-eyewitness-account.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/middleeast/israel-plane-flydubai-passenger-eyewitness-account.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/30/world/middleeast/israel-plane-flydubai-passenger-eyewitness-account.html" rel="standout"></atom:link>
-      <description>A passenger on a flight to Tel Aviv on Wednesday said he watched in horror as the plane’s pilots tumbled out of the cockpit, locked in a bloody brawl.</description>
-      <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 01:21:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
-      <media:content height="1753" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-passenger-account2-wfhm/30israel-plane-passenger-account2-wfhm-mediumSquareAt3X.jpg" width="1753"></media:content>
-      <media:credit>Erik Marmor/Getty Images</media:credit>
-      <media:description>Passengers of the FlyDubai flight walking out of the terminal at Ben Gurion Airport in Tzafria, Israel, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Driver Strikes 4 People Outside a Mall in British Columbia, Killing 2, Police Say</title>
-      <link>https://www.nytimes.com/2026/09/30/world/canada/british-columbia-crash-medical-emergency.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/world/canada/british-columbia-crash-medical-emergency.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/30/world/canada/british-columbia-crash-medical-emergency.html" rel="standout"></atom:link>
-      <description>The accident occurred as hundreds of people were gathering nearby for a National Day of Truth and Reconciliation march near Delta, a city south of Vancouver, the authorities said.</description>
-      <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 22:14:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delta (British Columbia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vancouver (British Columbia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/30xp-bc-crash-cvkg/30xp-bc-crash-cvkg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chris Helgren/Reuters</media:credit>
-      <media:description>At least two people were killed near Delta, British Columbia, on Wednesday when a driver lost control of a vehicle and crashed into a crowd during an event observing the past suffering of Indigenous people in Canada.</media:description>
     </item>
   </channel>
 </rss>
