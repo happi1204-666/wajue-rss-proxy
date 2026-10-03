@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 11:05:30 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Oct 2026 10:26:46 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:09:47 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 15:04:10 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,13 +21,15 @@
       <atom:link href="https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html" rel="standout"></atom:link>
       <description>A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.</description>
       <dc:creator>David M. Halbfinger, Natan Odenheimer, Adam Rasgon, Johnatan Reiss and Aaron Boxerman</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 00:15:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <pubDate>Sat, 03 Oct 2026 14:59:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-israel-flydubai-ticktock-01-ftcq/02int-israel-flydubai-ticktock-01-ftcq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
       <media:description>A FlyDubai plane carrying Israeli passengers who had earlier been aboard another FlyDubai aircraft that made an emergency landing in Saudi Arabia approaches Ben Gurion International Airport near Tel Aviv on Wednesday.</media:description>
@@ -57,20 +59,26 @@
       <media:description>Supporters at the Québec Solidaire campaign office in Jean-Lesage watch Paul St-Pierre Plamondon, the leader of the Parti Québécois, during the leaders’ debate last month.</media:description>
     </item>
     <item>
-      <title>FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says</title>
-      <link>https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html" rel="standout"></atom:link>
-      <description>The violent midair assault on a FlyDubai flight to Tel Aviv has deepened concerns about the safety of Israelis traveling abroad.</description>
-      <dc:creator>Ismaeel Naar and Aaron Boxerman</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 09:18:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <title>Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views</title>
+      <link>https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html" rel="standout"></atom:link>
+      <description>It was unclear what background checks had been carried out before he was allowed to fly to Israel.</description>
+      <dc:creator>Julian E. Barnes, Aaron Boxerman and Jane Bradley</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 12:58:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/03int-flydubai-copilot/01int-Israel-plane-leadall-bqkz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ammar Awad/Reuters</media:credit>
-      <media:description>A FlyDubai plane carrying passengers from an earlier flight that had been forced to divert after a cockpit attack, arriving near Tel Aviv on Wednesday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machchhar, Smit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/00int-flydubai-copilot-qpgw/00int-flydubai-copilot-qpgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A FlyDubai aircraft that returned passengers who had been aboard Flight 1073, at Ben Gurion Airport in Tel Aviv on Wednesday.</media:description>
     </item>
     <item>
       <title>American High School Students Are Selling Guns Bound for Cartels</title>
@@ -79,7 +87,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html" rel="standout"></atom:link>
       <description>Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.</description>
       <dc:creator>Paulina Villegas and Adriana Zehbrauskas</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 09:00:19 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 14:37:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
@@ -93,6 +101,41 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/10/multimedia/00int-mexico-guns-promo/00int-mexico-guns-jbkp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
       <media:description>Two teenage American weapons traffickers — who provide weapons to Mexico’s deadly drug cartels — practice shooting at targets in the desert outside of Phoenix, Ariz.</media:description>
+    </item>
+    <item>
+      <title>Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline</title>
+      <link>https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html" rel="standout"></atom:link>
+      <description>The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 11:59:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dnipro River (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/03int-ukraine-bridges-qcpk/03int-ukraine-bridges-qcpk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Valentyn Ogirenko/Reuters</media:credit>
+      <media:description>A Russian drone striking a bridge, in Kyiv, Ukraine, on Friday.</media:description>
+    </item>
+    <item>
+      <title>FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says</title>
+      <link>https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html" rel="standout"></atom:link>
+      <description>The violent midair assault on a FlyDubai flight to Tel Aviv has deepened concerns about the safety of Israelis traveling abroad.</description>
+      <dc:creator>Ismaeel Naar and Aaron Boxerman</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 14:52:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/03int-flydubai-copilot/01int-Israel-plane-leadall-bqkz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ammar Awad/Reuters</media:credit>
+      <media:description>A FlyDubai plane carrying passengers from an earlier flight that had been forced to divert after a cockpit attack, arriving near Tel Aviv on Wednesday.</media:description>
     </item>
     <item>
       <title>Argentina’s ‘Golden Passport’ Program Offers Citizenship in Exchange for Foreign Cash</title>
@@ -116,25 +159,6 @@
       <media:description>President Javier Milei of Argentina in July.</media:description>
     </item>
     <item>
-      <title>Ukraine Reports First Combat Use of Its Own Ballistic Missile</title>
-      <link>https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html" rel="standout"></atom:link>
-      <description>While the missile fired on Thursday has a limited range, Kyiv is developing a larger weapon that could strike Moscow.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 15:23:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fire Point LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02ukraine-missile-wzmv/02ukraine-missile-wzmv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Genya Savilov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Volodymyr Zelensky of Ukraine trumpeted the launch of the country’s first domestically made ballistic missile.</media:description>
-    </item>
-    <item>
       <title>Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says</title>
       <link>https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html</guid>
@@ -155,28 +179,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/03int-iran-iraq-flights-hzlq/03int-iran-iraq-flights-hzlq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alaa Al-Marjani/Reuters</media:credit>
       <media:description>An airport in Najaf, Iraq, last month. Flights will be allowed to resume between the holy city and Iran, according to Iraq’s prime minister.</media:description>
-    </item>
-    <item>
-      <title>India Faces Fresh Protests, This Time Over Voter Rolls</title>
-      <link>https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html" rel="standout"></atom:link>
-      <description>Hundreds were detained in New Delhi as demonstrators expressed anger over the removal of 130 million people from the rolls. The government denies accusations of “vote theft.”</description>
-      <dc:creator>Mujib Mashal, Pragati K.B. and Somini Sengupta</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 21:15:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mumbai (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-india-protests-tvhf/02int-india-protests-tvhf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manish Swarup/Associated Press</media:credit>
-      <media:description>Protesters demanding the resignation of India’s election chief were put onto buses by the police in New Delhi on Friday.</media:description>
     </item>
     <item>
       <title>What We Learned About American Teenagers Supplying Guns to Cartels</title>
@@ -221,6 +223,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-france-schools-04-bqlw/02int-france-schools-04-bqlw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Abdul Saboor/Reuters</media:credit>
       <media:description>Trying to kick a tear-gas canister during clashes with the police on Thursday in Seine-Saint-Denis, near Paris. Students in about 1,000 French schools are protesting a lack of resources in education. </media:description>
+    </item>
+    <item>
+      <title>India Faces Fresh Protests, This Time Over Voter Rolls</title>
+      <link>https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html" rel="standout"></atom:link>
+      <description>Hundreds were detained in New Delhi as demonstrators expressed anger over the removal of 130 million people from the rolls. The government denies accusations of “vote theft.”</description>
+      <dc:creator>Mujib Mashal, Pragati K.B. and Somini Sengupta</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 21:15:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mumbai (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-india-protests-tvhf/02int-india-protests-tvhf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manish Swarup/Associated Press</media:credit>
+      <media:description>Protesters demanding the resignation of India’s election chief were put onto buses by the police in New Delhi on Friday.</media:description>
     </item>
     <item>
       <title>What to Know About Fighting Between Ethiopia and Rebels in Tigray</title>
@@ -298,26 +322,86 @@
       <media:description>The Chinese government is imposing regulations on the use of A.I. apps and chatbots out of concern that the technology could interfere with human relationships and undermine social order.</media:description>
     </item>
     <item>
-      <title>Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine</title>
-      <link>https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html" rel="standout"></atom:link>
-      <description>Ukraine showed European partners what it said were intercepted Russian plans to cut off major cities from power, heat and water this winter.</description>
-      <dc:creator>Constant Méheut and Jędrzej Nowicki</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 11:25:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DTEK</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-ukraine-energy-wtbp/02int-ukraine-energy-wtbp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Overlooking the Dnipro River before the autumn and winter period in Kyiv, Ukraine.</media:description>
+      <title>What to Know About France’s High School Protests</title>
+      <link>https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html" rel="standout"></atom:link>
+      <description>Students angry over the state of the country’s education system have blockaded hundreds of schools. Thousands of protesters have been arrested and dozens of people injured.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darmanin, Gerald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Denis (France)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/03int-france-schools-wtk-hjvp/03int-france-schools-wtk-hjvp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lou Benoist/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Police officers and student protesters facing off outside a school in Paris on Thursday.</media:description>
+    </item>
+    <item>
+      <title>How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint</title>
+      <link>https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html" rel="standout"></atom:link>
+      <description>A mysterious call last Sunday near a military base used by the U.S. set in motion a huge counterterrorism response and days of uncertainty in Britain.</description>
+      <dc:creator>Michael D. Shear, Eric Schmitt, Megan Specia and Adam Goldman</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 13:45:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Service (MI5)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCallum, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/03uk-airbase-reconstruct-01-bcvp/03uk-airbase-reconstruct-01-bcvp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Toby Shepheard/Reuters</media:credit>
+      <media:description>A police roadblock near RAF Fairford air base. Prime Minister Andy Burnham of Britain said on Wednesday that there were “strong indications that Iran played a part” in the weekend’s events at the air base, without providing more detail.</media:description>
+    </item>
+    <item>
+      <title>Whale Batters a Yacht, Leaving Its Crew Stranded for 18 Hours</title>
+      <link>https://www.nytimes.com/2026/10/03/world/australia/sperm-whales-sink-yacht-sailors-rescued.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/australia/sperm-whales-sink-yacht-sailors-rescued.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/03/world/australia/sperm-whales-sink-yacht-sailors-rescued.html" rel="standout"></atom:link>
+      <description>Four people were rescued after being adrift in a life raft in the South Pacific. One of them said he thought he had a better chance of winning the lottery than of being hit by a whale.</description>
+      <dc:creator>Ishani Desai</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 12:54:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sailboats and Sailing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fiji</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <media:content height="1215" medium="image" url="https://static01.nyt.com/images/2026/10/01/obituaries/01xp-whale/01xp-whale-mediumSquareAt3X-v4.jpg" width="1215"></media:content>
+      <media:credit>Royal New Zealand Air Force</media:credit>
+      <media:description>Tai Tam, a 52-foot yacht, sinking in the South Pacific as the four people who had been on board await rescuing from their life raft.</media:description>
     </item>
     <item>
       <title>Understanding Canada’s Europe Pivot</title>
@@ -364,7 +448,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/03/world/asia/tukaram-mundhe-india-mumbai-food-raids.html" rel="standout"></atom:link>
       <description>Tukaram Mundhe’s surprise raids of Mumbai kitchens have made him an unlikely celebrity and set off a conversation about food standards in India.</description>
       <dc:creator>Suhasini Raj, Jonathan Wolfe and Zishaan a Latif</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 09:00:56 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 09:00:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indian Food (Cuisine)</category>
@@ -384,18 +468,11 @@
       <dc:creator>Farnaz Fassihi</dc:creator>
       <pubDate>Sat, 03 Oct 2026 01:14:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rasaei, Hamid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghalibaf, Mohammad Baqer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araghchi, Abbas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamid Rasaei</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-iran-arrests-tvlf/02int-iran-arrests-tvlf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
       <media:description>A pro-government rally in Tehran in April.</media:description>
@@ -476,18 +553,15 @@
       <atom:link href="https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html" rel="standout"></atom:link>
       <description>Joshua Kerry, a 28-year-old British man accused of killing the former lawmaker Ann Widdecombe, was charged on Friday.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 21:15:50 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 21:15:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, Joshua (Murder Suspect)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Widdecombe, Ann (1947-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Criminal Justice</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-uk-terror-farage-jtlh/02int-uk-terror-farage-jtlh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Temilade Adelaja/Reuters</media:credit>
       <media:description>A photo of Ann Widdecombe, a former Conservative lawmaker who became a spokeswoman for the Reform U.K. party, during a party conference in Birmingham, England, last month where Nigel Farage spoke.</media:description>
@@ -555,6 +629,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02Biz-Diesel-03-kthc/02Biz-Diesel-03-kthc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hilary Swift for The New York Times</media:credit>
       <media:description>The release of diesel and crude oil is designed to “stabilize immediate energy supplies,” the Group of 7 countries said in an announcement. </media:description>
+    </item>
+    <item>
+      <title>Ukraine Reports First Combat Use of Its Own Ballistic Missile</title>
+      <link>https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html" rel="standout"></atom:link>
+      <description>While the missile fired on Thursday has a limited range, Kyiv is developing a larger weapon that could strike Moscow.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 15:23:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fire Point LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02ukraine-missile-wzmv/02ukraine-missile-wzmv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Genya Savilov/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Volodymyr Zelensky of Ukraine trumpeted the launch of the country’s first domestically made ballistic missile.</media:description>
     </item>
     <item>
       <title>Fighting Intensifies in Yemen, Raising Fresh Fears of All-Out War</title>
@@ -629,9 +722,9 @@
       <link>https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html" rel="standout"></atom:link>
-      <description>The Coast Guard has intercepted two small boats it says was carrying illegal fuel to Cuba as the United States enforces an fuel blockade aimed at Cuba’s Communist government.</description>
+      <description>The Coast Guard has intercepted two small boats it says were carrying illegal fuel to Cuba as the United States enforces a fuel blockade aimed at Cuba’s Communist government.</description>
       <dc:creator>David C. Adams</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 20:32:05 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 14:34:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -783,6 +876,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/world/02int-latvia-russia-border-immigrants/02int-latvia-russia-border-immigrants-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ints Kalnins/Reuters</media:credit>
       <media:description>A Latvian guard patrols the border with Belarus. Migrants have streamed into Latvia, many through considerable border defenses, cutting gaps in fencing or burrowing under it.</media:description>
+    </item>
+    <item>
+      <title>Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine</title>
+      <link>https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html" rel="standout"></atom:link>
+      <description>Ukraine showed European partners what it said were intercepted Russian plans to cut off major cities from power, heat and water this winter.</description>
+      <dc:creator>Constant Méheut and Jędrzej Nowicki</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 11:25:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DTEK</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-ukraine-energy-wtbp/02int-ukraine-energy-wtbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Overlooking the Dnipro River before the autumn and winter period in Kyiv, Ukraine.</media:description>
     </item>
     <item>
       <title>Investigators Seek Motive for FlyDubai Cockpit Attack</title>
@@ -1088,79 +1203,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01russia-budget-chvw/01russia-budget-chvw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nanna Heitmann for The New York Times</media:credit>
       <media:description>A Russian military recruitment poster in Moscow says “Who, if not you.” Russia intends to spend more than $200 billion on its military in 2027, a sharp increase.</media:description>
-    </item>
-    <item>
-      <title>Israeli Politicians Trade Barbs Over FlyDubai Attack</title>
-      <link>https://www.nytimes.com/2026/10/01/world/middleeast/israel-flydubai-netanyahu-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/world/middleeast/israel-flydubai-netanyahu-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/01/world/middleeast/israel-flydubai-netanyahu-elections.html" rel="standout"></atom:link>
-      <description>Prime Minister Benjamin Netanyahu’s campaign for a coming election was already dominated by discussion of the policy, military and intelligence failures leading up to the Hamas-led attacks on Oct. 7, 2023.</description>
-      <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 19:51:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Katz, Israel (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01israel-plane-politicization-01-hpjb/01israel-plane-politicization-01-hpjb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nir Elias/Reuters</media:credit>
-      <media:description>Prime Minister Benjamin Netanyahu is in a tight race for his political future, with national elections this month that are widely seen as the most consequential in the country’s history.</media:description>
-    </item>
-    <item>
-      <title>A Flashy Zimbabwean Tycoon Who Befriended Presidents Dies in Crash</title>
-      <link>https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html" rel="standout"></atom:link>
-      <description>Wicknell Chivayo was riding in a helicopter with his wife when it plunged into a field. Dogged by corruption allegations, the businessman drew polarizing reactions even in death.</description>
-      <dc:creator>John Eligon</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 20:41:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zimbabwe African National Union-Patriotic Front (ZANU-PF)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/world/africa/01vid-zimbabwe-crash-cover-image/01vid-zimbabwe-crash-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mary Taruvinga for Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Finnish Lawmakers Report Suspicious Home Break-Ins</title>
-      <link>https://www.nytimes.com/2026/10/01/world/europe/finland-lawmakers-break-ins.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/world/europe/finland-lawmakers-break-ins.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/01/world/europe/finland-lawmakers-break-ins.html" rel="standout"></atom:link>
-      <description>The speaker of Parliament said there were a “considerable” number of mysterious entries in which perpetrators appeared to have taken nothing.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 15:59:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orpo, Petteri (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01INT-FINLAND-LAWMAKERS-pjfm/01INT-FINLAND-LAWMAKERS-pjfm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Essi Lehto/Reuters</media:credit>
-      <media:description>The Finnish Parliament building in Helsinki. Prime Minister Petteri Orpo said that it was “very possible” there was a foreign actor behind the suspected home entries, the national broadcaster reported.</media:description>
-    </item>
-    <item>
-      <title>Trump’s Threat to Ban Diesel Exports Sets Off Global Alarms</title>
-      <link>https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html" rel="standout"></atom:link>
-      <description>A reduction in refineries has already driven the price of diesel to record highs, threatening economies. An U.S. export ban would be “tremendous shock and blow.”</description>
-      <dc:creator>Lisa Friedman and River Akira Davis</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 12:36:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Energy Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01Biz-Diesel-Global-Vulnerability-01-mvkt/01Biz-Diesel-Global-Vulnerability-01-mvkt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jes Aznar for The New York Times</media:credit>
-      <media:description>Workers unloading produce in Manila, where soaring global diesel prices are driving up transport costs and pushing everyday food prices out of reach for consumers.</media:description>
     </item>
   </channel>
 </rss>
