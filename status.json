@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T18:46:07Z",
+  "updated": "2026-10-03T21:58:33Z",
   "status": {
     "gl.nhk": {
       "ok": true,
@@ -432,15 +432,15 @@
       ]
     },
     "mp.huggingface.blog": {
-      "ok": true,
+      "ok": false,
       "name": "Hugging Face Blog",
-      "src": "https://huggingface.co/blog/feed.xml",
-      "error": null,
+      "src": null,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests",
       "tried": [
         {
           "url": "https://huggingface.co/blog/feed.xml",
-          "ok": true,
-          "err": null
+          "ok": false,
+          "err": "HTTPError: HTTP Error 429: Too Many Requests"
         }
       ],
       "tags": [

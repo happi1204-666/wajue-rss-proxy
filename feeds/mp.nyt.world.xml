@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 18:42:41 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Oct 2026 18:40:49 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:58:08 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 20:20:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -109,7 +109,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html" rel="standout"></atom:link>
       <description>The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.</description>
       <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 17:47:09 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 20:17:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -1194,25 +1194,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01israel-plane-pilot-training-1-fcpg/01israel-plane-pilot-training-1-fcpg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
       <media:description>A FlyDubai jet on Wednesday near Tel Aviv at Ben Gurion International Airport, where passengers on the disrupted flight were flown after an emergency landing in Saudi Arabia. </media:description>
-    </item>
-    <item>
-      <title>Russia to Sharply Increase War Spending and Cut Social Programs</title>
-      <link>https://www.nytimes.com/2026/10/01/world/europe/russia-war-budget.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/world/europe/russia-war-budget.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/01/world/europe/russia-war-budget.html" rel="standout"></atom:link>
-      <description>Both sides are finding it increasingly difficult to finance the conflict in Ukraine. Russia’s 2027 budget envisions more debt, higher taxes and lower social benefits.</description>
-      <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 16:00:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01russia-budget-chvw/01russia-budget-chvw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nanna Heitmann for The New York Times</media:credit>
-      <media:description>A Russian military recruitment poster in Moscow says “Who, if not you.” Russia intends to spend more than $200 billion on its military in 2027, a sharp increase.</media:description>
     </item>
   </channel>
 </rss>
