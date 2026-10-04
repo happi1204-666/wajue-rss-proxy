@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 04 Oct 2026 00:25:30 +0000</lastBuildDate>
-    <pubDate>Sun, 04 Oct 2026 00:20:51 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:09:25 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2026 06:07:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -322,13 +322,32 @@
       <media:description>The Chinese government is imposing regulations on the use of A.I. apps and chatbots out of concern that the technology could interfere with human relationships and undermine social order.</media:description>
     </item>
     <item>
+      <title>Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa</title>
+      <link>https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html" rel="standout"></atom:link>
+      <description>The matter threatened to revive tensions over the American military presence on the Japanese archipelago.</description>
+      <dc:creator>Javier C. Hernández</dc:creator>
+      <pubDate>Sun, 04 Oct 2026 04:35:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Okinawa and Other Ryukyu Islands (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Marine Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koja, Genta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04int-japan-us-marine-gvpj/04int-japan-us-marine-gvpj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Marine Corps Air Station Futenma, where Lance Cpl. Devin J. Ballad was assigned, is seen in the background in Okinawa, Japan. </media:description>
+    </item>
+    <item>
       <title>What to Know About France’s High School Protests</title>
       <link>https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html" rel="standout"></atom:link>
       <description>Students angry over the state of the country’s education system have blockaded hundreds of schools. Thousands of protesters have been arrested and dozens of people injured.</description>
       <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 15:00:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
@@ -938,7 +957,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/01/world/lucien-lazare-dead.html" rel="standout"></atom:link>
       <description>He and a small troop of French Jews worked with the Allies to distribute supplies and fight the Nazis, ambushing a German train and liberating a city in the south.</description>
       <dc:creator>Adam Nossiter</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 21:32:47 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 21:32:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lazare, Lucien (1924-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
@@ -1179,21 +1198,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01xp-garbo-wvbp-promo/01xp-garbo-wvbp-promo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>The New York Times</media:credit>
       <media:description>Greta Garbo in 1925.</media:description>
-    </item>
-    <item>
-      <title>Investigators Seek to Determine How a Weapon Entered FlyDubai Cockpit</title>
-      <link>https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-weapon-cockpit-stabbing-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-weapon-cockpit-stabbing-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-weapon-cockpit-stabbing-attack.html" rel="standout"></atom:link>
-      <description>Prime Minister Benjamin Netanyahu of Israel said one possibility was that the assailant used an emergency crash ax, typically stored in the cockpit.</description>
-      <dc:creator>Leo Sands</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 19:35:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/01israel-plane-pilot-training-1-fcpg/01israel-plane-pilot-training-1-fcpg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A FlyDubai jet on Wednesday near Tel Aviv at Ben Gurion International Airport, where passengers on the disrupted flight were flown after an emergency landing in Saudi Arabia. </media:description>
     </item>
   </channel>
 </rss>
