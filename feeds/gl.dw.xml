@@ -7,17 +7,18 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-04T17:16:57Z</dc:date>
+  <dc:date>2026-10-04T20:18:24Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/brazil-polls-close-in-tight-race-between-lula-and-bolsonaro/a-79533857?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-s-catalonia-region/a-79536990?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-police-order-probe-amid-sexual-harassment-allegations-against-officers-at-delhi-protest/live-79527537?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/spain-floods-leave-102-year-old-woman-dead-in-southeast/a-79529983?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-reunification-how-inequality-is-shaping-a-new-east-german-identity/a-79518541?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-all-1573-rdf"/>
@@ -152,10 +152,37 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/brazil-polls-close-in-tight-race-between-lula-and-bolsonaro/a-79533857?maca=en-rss-en-all-1573-rdf">
+  <title>Brazil: Polls close in tight race between Lula and Bolsonaro</title>
+  <link>https://www.dw.com/en/brazil-polls-close-in-tight-race-between-lula-and-bolsonaro/a-79533857?maca=en-rss-en-all-1573-rdf</link>
+  <description>Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.</description>
+  <dc:date>2026-10-04T20:00:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79533857</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf">
+  <title>Polls close in Bosnia-Herzegovina&apos;s divisive election</title>
+  <link>https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf</link>
+  <description>Zeljka ​Cvijanovic, the Serb nationalist candidate backed by disqualified secessionist leader Milorad Dodik, took the lead for the Serb seat of the three-member presidency.</description>
+  <dc:date>2026-10-04T19:15:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79535336</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf">
+  <title>Pakistan: Imran Khan supporters demand ex-PM&apos;s release</title>
+  <link>https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf</link>
+  <description>Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan&apos;s political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay.</description>
+  <dc:date>2026-10-04T18:22:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79539221</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-rdf">
   <title>Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?</title>
   <link>https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-rdf</link>
-  <description>A new report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations have been made about propaganda in Democratic Republic of the Congo, Kenya, Sudan and Mali.</description>
+  <description>An Anthropic report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations were raised for the Democratic Republic of the Congo, Kenya, Sudan and Mali.</description>
   <dc:date>2026-10-04T17:15:00Z</dc:date>
   <dc:subject>Technology</dc:subject>
   <dc:language>en</dc:language>
@@ -188,15 +215,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79536990</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf">
-  <title>Voting in Brazil&apos;s 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied</title>
-  <link>https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf</link>
-  <description>Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.</description>
-  <dc:date>2026-10-04T11:28:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79533857</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-all-1573-rdf">
   <title>Japan: US Marine arrested in Okinawa on suspicion of murder</title>
   <link>https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-all-1573-rdf</link>
@@ -206,21 +224,12 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79536987</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-all-1573-rdf">
-  <title>Bosnia-Herzegovina votes amid divisive campaigns, EU bid</title>
-  <link>https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-all-1573-rdf</link>
-  <description>Polls have opened in Bosnia and Herzegovina, where voters are taking part in parliamentary, presidential and local elections.</description>
-  <dc:date>2026-10-04T09:30:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79535336</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/india-news-police-order-probe-amid-sexual-harassment-allegations-against-officers-at-delhi-protest/live-79527537?maca=en-rss-en-all-1573-rdf">
   <title>India news: Police order probe amid sexual harassment allegations against officers at Delhi protest</title>
   <link>https://www.dw.com/en/india-news-police-order-probe-amid-sexual-harassment-allegations-against-officers-at-delhi-protest/live-79527537?maca=en-rss-en-all-1573-rdf</link>
   <description>Three women journalists say police officers sexually harassed them as they covered protests demanding the resignation of India&apos;s election chief. Meanwhile, LGBTQIA influencer Mad Sandhu was shot dead in Amritsar.</description>
   <dc:date>2026-10-04T08:53:00Z</dc:date>
-  <dc:subject>News</dc:subject>
+  <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79527537</dwsyn:contentID>
  </item>
@@ -322,15 +331,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79530104</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/spain-floods-leave-102-year-old-woman-dead-in-southeast/a-79529983?maca=en-rss-en-all-1573-rdf">
-  <title>Spain: Floods leave 102-year-old woman dead in southeast</title>
-  <link>https://www.dw.com/en/spain-floods-leave-102-year-old-woman-dead-in-southeast/a-79529983?maca=en-rss-en-all-1573-rdf</link>
-  <description>Authorities in Spain rescued some 90 people after heavy rain sparked flooding in the town of Madrigueras. Prime Minister Pedro Sanchez expressed his condolences to the family of a 102-year-old woman who died.</description>
-  <dc:date>2026-10-03T12:01:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79529983</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf">
   <title>Bosnia and Herzegovina is still shaped by war, separatism, EU ambitions</title>
