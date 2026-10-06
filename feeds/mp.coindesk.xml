@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 18:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:21:22 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f2ac925a7a768a3a034001f0cf6c3ecdc6749b81-4000x2250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">04b9d168-4f37-4069-9325-62b62f9e7b42</guid>
+      <pubDate>Mon, 05 Oct 2026 19:21:06 +0000</pubDate>
+      <description><![CDATA[The super PAC shared a list of more than 30 incumbent candidates it's backing, with about a million dollars going to three names from each party.
+]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Election 2026]]></category>
+      <category domain="tag"><![CDATA[PACs]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works]]></title>
       <link>https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works</link>
@@ -369,19 +385,6 @@
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
       <category domain="https://www.coindesk.com/">Feature</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto's Sisyphean struggle]]></title>
-      <link>https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9c67f41829d4e98f8dbf16e4e85e83dc931e2d2b-4162x4724.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">2436bfb1-684c-4422-b89c-9cd7eb55c08e</guid>
-      <pubDate>Sat, 03 Oct 2026 13:00:00 +0000</pubDate>
-      <description><![CDATA[Progress will effectively reset when the new Congress is sworn in, because key senators who quarterbacked the bill will not be on the ballot again, writes the Cato Institute's Ryan Chan-Wei.]]></description>
-      <dc:creator>Ryan Chan-Wei</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
-      <category domain="https://www.coindesk.com/">Opinion</category>
     </item>
   </channel>
 </rss>

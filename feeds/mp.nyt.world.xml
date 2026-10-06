@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 18:42:32 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 18:40:25 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:35:02 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 00:27:52 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,15 +19,15 @@
       <link>https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html" rel="standout"></atom:link>
-      <description>The country’s consumer watchdog has said only that “an employee of an anti-plague institute in the Irkutsk Region” contracted pneumonia. Rumors and unconfirmed reports sounded a more ominous note.</description>
+      <description>The country’s consumer watchdog has said only that “an employee of an anti-plague institute in the Irkutsk Region” contracted pneumonia.</description>
       <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 15:49:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Irkutsk (Russia)</category>
+      <pubDate>Mon, 05 Oct 2026 21:29:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plague</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Irkutsk (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Siberia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05Russia-Plague-wkgf/05Russia-Plague-wkgf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>An infectious-diseases hospital in the town of Shelekhov, Russia, on Monday. The mayor has urged residents “not to spread rumors.”</media:description>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html" rel="standout"></atom:link>
       <description>Flávio Bolsonaro, now the favorite to win Brazil’s presidency, would give President Trump a critical new ally in Latin America, particularly on security.</description>
       <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 18:40:25 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 20:27:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
@@ -69,21 +69,23 @@
       <atom:link href="https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html" rel="standout"></atom:link>
       <description>A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.</description>
       <dc:creator>Ismaeel Naar</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 15:32:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <pubDate>Mon, 05 Oct 2026 15:32:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islah (United Arab Emirates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Southern Transitional Council (Yemen)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Al Hudaydah (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sana (Yemen)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiz (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/00int-saudi-yemen-wtk-1-jbvq/00int-saudi-yemen-wtk-1-jbvq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Smoke billowing from the fuel storage area at King Khalid International Airport in Riyadh, Saudi Arabia, last month after the Houthis claimed to have attacked the facility.</media:description>
@@ -95,7 +97,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/05/world/americas/bolsanaro-lula-brazil-presidency-trump.html" rel="standout"></atom:link>
       <description>Flávio Bolsonaro’s first round lead leaves President Luiz Inácio Lula da Silva three weeks to find the votes to stop Brazil’s, and Latin America’s, rightward shift.</description>
       <dc:creator>Ana Ionova and Adam B. Ellick</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 18:31:26 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 21:42:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
@@ -138,7 +140,8 @@
       <atom:link href="https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html" rel="standout"></atom:link>
       <description>What happened in Mangala, where residents were left with little outside support, helps explain how this outbreak became the worst seen in the Democratic Republic of Congo.</description>
       <dc:creator>Matthew Mpoke Bigg, Arlette Bashizi and Adina Renner</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 04:01:26 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 23:03:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mangala (Congo, Democratic Republic of)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bunia (Congo, Democratic Republic of)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mongbwalu (Congo, Democratic Republic of)</category>
@@ -146,6 +149,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/00int-ebola-congo-town-promo-lvcz/00int-ebola-congo-town-promo-lvcz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
     </item>
@@ -182,7 +188,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frechette, Christine (1970- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Legault, Francois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Coalition Avenir Quebec</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Party (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Parti Quebecois (Canada)</category>
@@ -191,7 +196,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">French Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-canada-quebec-vote-qwvk/05int-canada-quebec-vote-qwvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrej Ivanov/Agence France-Presse — Getty Images</media:credit>
       <media:description>Paul St-Pierre Plamondon, the leader of the separatist Parti Québécois, arriving to cast his ballot on Monday during Quebec’s provincial election in Montreal.</media:description>
@@ -205,11 +209,12 @@
       <dc:creator>Laura Chung</dc:creator>
       <pubDate>Mon, 05 Oct 2026 04:01:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telstra Communications Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New South Wales (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/world/05int-oz-phonebox/05int-oz-phonebox-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Telstra</media:credit>
       <media:description>A public phone booth in Narooma on Australia’s east coast has been awarded heritage status for the role it played during and after wildfires in the region.</media:description>
@@ -295,6 +300,65 @@
       <media:description>Flames at a facility belonging to the Saudi oil giant Aramco, south of Riyadh on Saturday.</media:description>
     </item>
     <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Victoria Kim and Daniel Victor</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 00:27:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>A.I. hacking in Australia prompts a concern: Can the law keep up?</title>
+      <link>https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/ai-hacking-in-australia-prompts-a-concern-can-the-law-keep-up</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/ai-hacking-in-australia-prompts-a-concern-can-the-law-keep-up</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/ai-hacking-in-australia-prompts-a-concern-can-the-law-keep-up" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 00:27:51 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05oz-ai-hacking-concern-VERSION1-zfvj/05oz-ai-hacking-concern-VERSION1-zfvj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>Prime Minister Anthony Albanese of Australia at the U.N. General Assembly in New York last month. He has called for international standards to govern A.I.</media:description>
+    </item>
+    <item>
+      <title>Nigeria Military Helicopter Crashes With 32 Onboard</title>
+      <link>https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html" rel="standout"></atom:link>
+      <description>The crash was one of Nigeria’s worst military aviation accidents in years. The country has a history of fatal military aircraft crashes.</description>
+      <dc:creator>Emmanuel Akinwotu</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 21:20:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <media:content height="960" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-nigeria-crash-fcvt/05int-nigeria-crash-fcvt-mediumSquareAt3X.jpg" width="960"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>Wreckage of a military aircraft that crashed in Ondo State, Nigeria, on Monday.</media:description>
+    </item>
+    <item>
+      <title>The Rise of Gig Economy Warfare</title>
+      <link>https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html" rel="standout"></atom:link>
+      <description>An incident at a British air base may demonstrate a new era of low-intensity conflict.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 20:34:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-theworld-uk-airbase-01-zkvt-promo/06int-theworld-uk-airbase-01-zkvt-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Leon Neal/Getty Images</media:credit>
+    </item>
+    <item>
       <title>British Museum Says It’s Extending Bayeux Tapestry Viewing Hours</title>
       <link>https://www.nytimes.com/2026/10/05/arts/design/bayeux-tapestry-british-museum.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/arts/design/bayeux-tapestry-british-museum.html</guid>
@@ -319,16 +383,17 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html" rel="standout"></atom:link>
       <description>The offensive is an effort to wrest control of the Bab al-Mandab Strait from the Houthis, a militia in Yemen backed by Iran.</description>
-      <dc:creator>Vivian Nereim, Saeed Al-Batati and Sanjana Varghese</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 18:17:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <dc:creator>Vivian Nereim, Saeed Al-Batati, Sanjana Varghese and Zane Irwin</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 21:22:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-yemen-houthis-hbtj/05int-yemen-houthis-hbtj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mohammed Huwais/Agence France-Presse — Getty Images</media:credit>
@@ -370,6 +435,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Galaxy Corp</category>
       <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/09/29/xp-robot-park-topart-cover/xp-robot-park-topart-cover-mediumSquareAt3X-v2.jpg" width="1080"></media:content>
       <media:credit>Jiwoong Hong/The New York Times</media:credit>
     </item>
@@ -561,6 +628,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scottsdale (Ariz)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/00Iran-HybridWarfare-cktg/00Iran-HybridWarfare-cktg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Justin Tallis/Agence France-Presse — Getty Images</media:credit>
       <media:description>A roadblock outside R.A.F. Fairford base in England on Sept. 27, as the counterterrorism police investigated a murky plot.</media:description>
@@ -642,9 +711,9 @@
       <link>https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html</guid>
       <atom:link href="https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html" rel="standout"></atom:link>
-      <description>Our reporter Ivan Nechepurenko looks at gas stations in Moscow to see how severe the shortages have become as Ukrainian attacks target Russian refineries.</description>
+      <description>Our reporter Ivan Nechepurenko looks at gas stations in Moscow to see how severe the shortages have become as Ukrainian attacks target Russian refineries. An earlier version of this video misidentified Yandex. While it is a Russian app, it is not state-run.</description>
       <dc:creator>Ivan Nechepurenko, Rebecca Suner and Joey Sendaydiego</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 10:23:03 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 20:44:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
@@ -1041,96 +1110,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-Gaza-Journalists-ztvb/02int-Gaza-Journalists-ztvb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saher Alghorra for The New York Times</media:credit>
       <media:description>The site, near a hospital in Gaza City, was hit by an Israeli strike that killed an Al Jazeera reporter and several of his colleagues in August last year. </media:description>
-    </item>
-    <item>
-      <title>Argentina’s ‘Golden Passport’ Program Offers Citizenship in Exchange for Foreign Cash</title>
-      <link>https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html" rel="standout"></atom:link>
-      <description>The program would grant citizenship to people who make major investments in Argentina. Similar efforts have yielded significant income for small economies, but have also led to risks.</description>
-      <dc:creator>Emma Bubola</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 20:17:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Passports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Court of Justice</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Twenty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">London School of Economics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milei, Javier</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/00int-Argentina-golden-visa-jthz/00int-Argentina-golden-visa-jthz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Victor Moriyama for The New York Times</media:credit>
-      <media:description>President Javier Milei of Argentina in July.</media:description>
-    </item>
-    <item>
-      <title>FlyDubai Attack Raises Questions About Pilot Background Checks</title>
-      <link>https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html" rel="standout"></atom:link>
-      <description>Health screenings and criminal background checks may go only so far in identifying pilots who have become radicalized or try to hide their mental health issues, experts said.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 19:12:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emerson, Joseph D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02xp-pilot-screening-02-bwzj/02xp-pilot-screening-02-bwzj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Spencer Platt/Getty Images</media:credit>
-      <media:description>In the United States, pilots undergo a criminal history check as well as a threat assessment to see if they have ever been flagged as a “person of interest” in federal law enforcement databases.</media:description>
-    </item>
-    <item>
-      <title>Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage</title>
-      <link>https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html" rel="standout"></atom:link>
-      <description>Joshua Kerry, a 28-year-old British man accused of killing the former lawmaker Ann Widdecombe, was charged on Friday.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 21:15:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, Joshua (Murder Suspect)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Widdecombe, Ann (1947-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-uk-terror-farage-jtlh/02int-uk-terror-farage-jtlh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Temilade Adelaja/Reuters</media:credit>
-      <media:description>A photo of Ann Widdecombe, a former Conservative lawmaker who became a spokeswoman for the Reform U.K. party, during a party conference in Birmingham, England, last month where Nigel Farage spoke.</media:description>
-    </item>
-    <item>
-      <title>Mass Shootings Surge in South Africa as Illegal Guns Flood Streets</title>
-      <link>https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html" rel="standout"></atom:link>
-      <description>The country was shaken after nearly 30 people were killed in two separate mass shootings. South Africans are demanding greater government intervention.</description>
-      <dc:creator>Zimasa Matiwane</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 18:52:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaphosa, Cyril</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Johannesburg (South Africa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Town (South Africa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-safrica-shooting-1-jtpm/02int-safrica-shooting-1-jtpm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emmanuel Croset/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Residents stood behind police tape near the scene where gunmen armed with assault rifles stormed a bar in Johannesburg on Sunday.</media:description>
     </item>
   </channel>
 </rss>

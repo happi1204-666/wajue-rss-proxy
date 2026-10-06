@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Fri, 02 Oct 2026 15:39:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Oct 2026 19:36:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,23 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Certainty is a Luxury Ukrainians Must Create</title>
+		<link>https://warontherocks.com/certainty-is-a-luxury-ukrainians-must-create/</link>
+		
+		<dc:creator><![CDATA[Nicole Wiley]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 19:40:35 +0000</pubDate>
+				<category><![CDATA[Members]]></category>
+		<category><![CDATA[The Ukraine Compass]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=47955</guid>
+
+					<description><![CDATA[<p>Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.Western coverage often narrows the view to the battlefield &#8212; these pieces widen it, revealing the texture of daily life, politics, and public argument in a nation at war. The perspectives gathered here are varied, candid, and often surprising, together forming a more complete picture of Ukraine as it really is.Frontline</p>
+<p>The post <a href="https://warontherocks.com/certainty-is-a-luxury-ukrainians-must-create/">Certainty is a Luxury Ukrainians Must Create</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The AI-Assisted Strategic Own Goal in the Kill Chain</title>
 		<link>https://warontherocks.com/cogs-of-war/the-ai-assisted-strategic-own-goal-in-the-kill-chain/</link>
 		
@@ -1920,27 +1937,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 		<dc:creator><![CDATA[Morgan D. Bazilian]]></dc:creator>
-	</item>
-		<item>
-		<title>The Commercial Space Race</title>
-		<link>https://warontherocks.com/the-commercial-space-race/</link>
-		
-		<dc:creator><![CDATA[Rebekah Reed]]></dc:creator>
-		<pubDate>Thu, 13 Aug 2026 18:14:06 +0000</pubDate>
-				<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Members]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46247</guid>
-
-					<description><![CDATA[<p>A strong commercial space industry is an important partner for the U.S. government, as it contributes to building more robust space and defense capabilities and facilitates innovation more broadly. As competition between the United States and China heats up, both countries look to the commercial space sector to help them get ahead in both the space race and defense technologies. We asked five experts: What is a crucial step for the United States to take now to stay ahead in commercial space competition with China?Read more below.Rebekah ReedAssociate Director in the Belfer Center&#8217;s Program on Emerging Technology, Scientific Advancement, and</p>
-<p>The post <a href="https://warontherocks.com/the-commercial-space-race/">The Commercial Space Race</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Kari A. Bingen]]></dc:creator>
-<dc:creator><![CDATA[Katherine Melbourne]]></dc:creator>
-<dc:creator><![CDATA[Lincoln Hines]]></dc:creator>
-<dc:creator><![CDATA[Jonathan Roll]]></dc:creator>
 	</item>
 	</channel>
 </rss>
