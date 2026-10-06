@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 19:39:39 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 19:24:16 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 23:30:12 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 23:12:43 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools" rel="standout"></atom:link>
       <description>Union members, parents and teachers joined the demonstrations, broadening the student-led protest movement that has closed hundreds of French high schools since late September.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 19:09:19 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 22:27:42 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06france-protests-live--01-ckbp/06france-protests-live--01-ckbp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alain Jocard/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -154,15 +154,16 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html" rel="standout"></atom:link>
       <description>The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread.</description>
       <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 17:38:13 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 21:02:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/world/africa/06vid-kenya-ebola-cover-image/06vid-kenya-ebola-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Simon Maina for Getty Images</media:credit>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-kenya-ebola-kfqz/06int-kenya-ebola-kfqz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Simon Maina/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Kenyan cabinet secretary for health, Aden Duale, at a news conference in Nairobi on Tuesday. He said the man with Ebola had lived in Congo for seven years, and fell sick a month ago.</media:description>
     </item>
     <item>
       <title>Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says</title>
@@ -189,13 +190,13 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html" rel="standout"></atom:link>
       <description>August Hanning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot.</description>
       <dc:creator>Jim Tankersley</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 12:49:34 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 12:49:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hanning, August</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Intelligence Service (Germany)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">August Henning</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06germany-spy-jgmw/06germany-spy-jgmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Abdelhak Senna/Agence France-Presse — Getty Images</media:credit>
       <media:description>August Hanning in 2007, after he left the German intelligence service. </media:description>
@@ -287,6 +288,85 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-japan-census-mvgl/05int-japan-census-mvgl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Faulk for The New York Times</media:credit>
       <media:description>The city of Toyama in 2024.</media:description>
+    </item>
+    <item>
+      <title>F.B.I. Charges American in Plot Behind Canada’s Tumbler Ridge School Shooting</title>
+      <link>https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html" rel="standout"></atom:link>
+      <description>The U.S. police say a 30-year-old offered the killer advice and cash for supplies at least six months before the rampage in British Columbia that left eight dead.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 22:42:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tumbler Ridge, British Columbia, Shootings (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tumbler Ridge (British Columbia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van Rootselaar, Jesse (d 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Canadian Mounted Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Discord Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bellingham (Wash)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/11/multimedia/06int-canada-tumbler-ridge/11canada-shooting-livememorial-cwhz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alana Paterson for The New York Times</media:credit>
+      <media:description>A memorial for the victims of the mass shooting at Tumbler Ridge Secondary School in British Columbia, in February.</media:description>
+    </item>
+    <item>
+      <title>What We Saw at the French Protests</title>
+      <link>https://www.nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html" rel="standout"></atom:link>
+      <description>Our reporter Ségolène Le Stradic reports from Paris as labor unions rally in solidarity with high school students protesting school conditions.</description>
+      <dc:creator>Ségolène Le Stradic and Leila Medina</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 21:13:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+    </item>
+    <item>
+      <title>Understanding France’s Polycrisis</title>
+      <link>https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html" rel="standout"></atom:link>
+      <description>An autumn of discontent has gripped the country ahead of its presidential election.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 20:22:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Graduate Schools and Students</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yellow Vests Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-theworld-france-protests-promo/07int-theworld-france-protests-promo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Paris yesterday.</media:description>
+    </item>
+    <item>
+      <title>Bolsonaro Family Emerges Triumphant in Brazil’s Elections, Mounting a Surprising Resurrection</title>
+      <link>https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html" rel="standout"></atom:link>
+      <description>The Bolsonaro family emerged triumphant in Brazil’s elections, mounting a surprising political resurrection in Latin America’s largest nation.</description>
+      <dc:creator>Ana Ionova</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 23:10:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="1570" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-brazil-bolsonaro-family-lhwj/06int-brazil-bolsonaro-family-lhwj-mediumSquareAt3X.jpg" width="1570"></media:content>
+      <media:credit>Diego Herculano/Reuters</media:credit>
+      <media:description>The presidential candidate Flávio Bolsonaro in Brasília on Sunday.</media:description>
     </item>
     <item>
       <title>Trump-Appointed Judge Accuses ICE of Lying and Fabricating Records</title>
@@ -443,16 +523,15 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html" rel="standout"></atom:link>
       <description>The rallies are a test of the strength of the student-led protest movement that has escalated at French high schools since late September.</description>
       <dc:creator>Catherine Porter, Ségolène Le Stradic and Giulia Imbert</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 15:32:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
+      <pubDate>Tue, 06 Oct 2026 15:32:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06vid-france-bhct/06vid-france-bhct-mediumSquareAt3X.jpg" width="1800"></media:content>
     </item>
     <item>
@@ -469,9 +548,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jamaica (West Indies)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Confederation of African Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mpasi, Lionel (1994- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-fifa-congo-jbhk/06int-fifa-congo-jbhk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ulises Ruiz/Agence France-Presse — Getty Images</media:credit>
       <media:description>Members of the Democratic Republic of Congo squad warming up before their World Cup match against Colombia in June.</media:description>
@@ -483,14 +563,16 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/business/china-exports-currency.html" rel="standout"></atom:link>
       <description>Huge tax breaks and a weak currency sustain exports, widen the government budget deficit and complicate the country’s efforts to rebalance its economy.</description>
       <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 11:45:44 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 11:45:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05biz-china-currency-01-hwjm/05biz-china-currency-01-hwjm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Qilai Shen for The New York Times</media:credit>
       <media:description>Workers in a garment-making district in Guangzhou, China, last year.</media:description>
@@ -1017,78 +1099,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1547" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-theworld-hormuz-lwqh-promo/05int-theworld-hormuz-lwqh-promo-mediumSquareAt3X.jpg" width="1548"></media:content>
       <media:credit>Reuters</media:credit>
-    </item>
-    <item>
-      <title>U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats</title>
-      <link>https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html" rel="standout"></atom:link>
-      <description>The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.</description>
-      <dc:creator>Eric Schmitt</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 07:01:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04dc-ukbase-plot-lwbh/04dc-ukbase-plot-lwbh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Bown/Getty Images</media:credit>
-      <media:description>A B-1 bomber at R.A.F. Fairford in Britain taking off on Sunday. All 12 B-1s were moved from the base in a highly unusual withdrawal.</media:description>
-    </item>
-    <item>
-      <title>Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died</title>
-      <link>https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html" rel="standout"></atom:link>
-      <description>Biljana Plavsic, a Bosnian Serb, pleaded guilty to one count of crimes against humanity. She later recanted and said she “would do the same again.”</description>
-      <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 09:42:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Tribunal for the former Yugoslavia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karadzic, Radovan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milosevic, Slobodan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mladic, Ratko</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Balkan States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Croatia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prague (Czech Republic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Srebrenica (Bosnia and Herzegovina)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yugoslavia</category>
-      <media:content height="1504" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05obit-plavsic-topart-gfqc/05obit-plavsic-topart-gfqc-mediumSquareAt3X.jpg" width="1504"></media:content>
-      <media:credit>Raphael Gaillarde/Gamma-Rapho, via Getty Images</media:credit>
-      <media:description>Biljana Plavsic during her first appearance at the International Criminal Tribunal in The Hague in 2001.</media:description>
-    </item>
-    <item>
-      <title>Iran’s Top Security Official Warns of Dire Economic Crisis</title>
-      <link>https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html" rel="standout"></atom:link>
-      <description>The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.</description>
-      <dc:creator>Erika Solomon, Sanam Mahoozi and Zane Irwin</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 00:18:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iranian Rial (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04int-iran-economy-01-whtg/04int-iran-economy-01-whtg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>People shopping in a bazaar in Tehran in July. Iran’s currency has plunged since the war began.</media:description>
     </item>
   </channel>
 </rss>

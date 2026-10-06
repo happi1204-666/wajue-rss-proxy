@@ -7,21 +7,22 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-06T19:40:25Z</dc:date>
+  <dc:date>2026-10-06T23:32:10Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/french-ai-company-announces-new-private-model/a-79569597?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/naked-trump-statue-goes-on-display-in-strasbourg/a-79568640?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-denies-anti-plague-measures-after-pneumonia-death/a-79567922?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-seventh-arrest-made-after-air-base-plot/a-79566985?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spain-court-lifts-puigdemont-arrest-warrant-clearing-way-for-his-return-home-ahead-of-november-elections/a-79565853?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/southeast-asia-s-haze-crisis-have-lessons-been-learned/a-79564992?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ai-models-keep-hacking-real-systems-during-tests-what-does-this-mean/a-79471943?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf"/>
@@ -155,6 +155,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-rdf">
+  <title>Munich up against at least six competitors for 2036 Olympics</title>
+  <link>https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-rdf</link>
+  <description>The International Olympic Committee has revealed the six other countries intending to bid for the 2036 Olympic Games. This comes after Germany selected Munich as its Olympic candidate.</description>
+  <dc:date>2026-10-06T19:54:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79566678</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/french-ai-company-announces-new-private-model/a-79569597?maca=en-rss-en-all-1573-rdf">
+  <title>French AI company announces new, private model</title>
+  <link>https://www.dw.com/en/french-ai-company-announces-new-private-model/a-79569597?maca=en-rss-en-all-1573-rdf</link>
+  <description>The company&apos;s new model, named &quot;Le Chonk,&quot; is its first release in five months. Mistral says it outruns some of its Chinese competitors in several areas.</description>
+  <dc:date>2026-10-06T19:53:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79569597</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/naked-trump-statue-goes-on-display-in-strasbourg/a-79568640?maca=en-rss-en-all-1573-rdf">
   <title>Naked Trump statue goes on display in Strasbourg</title>
   <link>https://www.dw.com/en/naked-trump-statue-goes-on-display-in-strasbourg/a-79568640?maca=en-rss-en-all-1573-rdf</link>
@@ -163,6 +181,15 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79568640</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-rdf">
+  <title>Germany shaken by espionage and treason allegations</title>
+  <link>https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-rdf</link>
+  <description>The former head of Germany&apos;s foreign intelligence service, the BND, has been accused of spying for a foreign country. Never before has a German official of August Hanning&apos;s stature been accused of treason.</description>
+  <dc:date>2026-10-06T18:11:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79566578</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-rdf">
   <title>EU seeks ways to make expansion more palatable to members</title>
@@ -200,24 +227,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79566985</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-rdf">
-  <title>Munich up against at least six competitors for 2036 Olympics</title>
-  <link>https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-rdf</link>
-  <description>The International Olympic Committee has revealed the six other countries intending to bid for the 2036 Olympic Games. This comes after Germany selected Munich as its Olympic candidate.</description>
-  <dc:date>2026-10-06T14:57:00Z</dc:date>
-  <dc:subject>Sports</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79566678</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-rdf">
-  <title>Germany shaken by espionage and treason allegations</title>
-  <link>https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-rdf</link>
-  <description>The former head of Germany&apos;s foreign intelligence service, the BND, has been accused of spying for a foreign country. Never before has a German official of August Hanning&apos;s stature been accused of treason.</description>
-  <dc:date>2026-10-06T14:45:00Z</dc:date>
-  <dc:subject>Germany</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79566578</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf">
   <title>Paramount and Warner Bros merge into one Hollywood giant</title>
   <link>https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf</link>
@@ -236,15 +245,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79565853</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-all-1573-rdf">
-  <title>As more Iranian women reject hijab rules, regime looks at new ways to force compliance</title>
-  <link>https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-all-1573-rdf</link>
-  <description>As more women in Iran reject rules on wearing hijab headscarves, hardliners are shifting focus from &quot;morality police&quot; street enforcement towards social pressure in workplaces, services and businesses.</description>
-  <dc:date>2026-10-06T13:50:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79564962</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/southeast-asia-s-haze-crisis-have-lessons-been-learned/a-79564992?maca=en-rss-en-all-1573-rdf">
   <title>Southeast Asia&apos;s haze crisis: Have lessons been learned?</title>
   <link>https://www.dw.com/en/southeast-asia-s-haze-crisis-have-lessons-been-learned/a-79564992?maca=en-rss-en-all-1573-rdf</link>
@@ -253,6 +253,15 @@
   <dc:subject>NRS-Import</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79564992</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-all-1573-rdf">
+  <title>As more Iranian women reject hijab rules, regime looks at new ways to force compliance</title>
+  <link>https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-all-1573-rdf</link>
+  <description>As more women in Iran reject rules on wearing hijab headscarves, hardliners are shifting focus from &quot;morality police&quot; street enforcement towards social pressure in workplaces, services and businesses.</description>
+  <dc:date>2026-10-06T13:50:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79564962</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-all-1573-rdf">
   <title>Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed&apos;s rhetoric</title>
@@ -325,15 +334,6 @@
   <dc:subject>Science</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79471943</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-all-1573-rdf">
-  <title>Nobel Physics Prize goes to Francis Halzen for neutrino work</title>
-  <link>https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-all-1573-rdf</link>
-  <description>Halzen got the Nobel for his contributions to the IceCube neutrino Observatory and discovery of high-energy neutrinos, described as &quot;ghostly messengers from space.&quot;</description>
-  <dc:date>2026-10-06T09:54:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79561506</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-all-1573-rdf">
   <title>Germany faces a triple threat from Russia, China and domestic far-right extremists</title>
