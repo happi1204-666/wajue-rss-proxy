@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 14:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 19:41:22 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Asos confirms hackers sent 'unauthorised' notification to app users]]></title>
+            <description><![CDATA[Asos confirmed an "unauthorised customer notification" was sent out via its app on Tuesday, after users raised alarm.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#0</guid>
+            <pubDate>Tue, 06 Oct 2026 17:50:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finland orders halt to work on two Google data centres]]></title>
+            <description><![CDATA[The order affecting two planned data centres follows concerns over forest clearance.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o#0</guid>
+            <pubDate>Tue, 06 Oct 2026 17:15:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8809/live/12b85c00-c1a6-11f1-8fa2-19a1e9b6288f.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Italian PM files to trademark her voice against AI threats]]></title>
             <description><![CDATA[Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.]]></description>
@@ -21,14 +37,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo#0</guid>
             <pubDate>Tue, 06 Oct 2026 11:24:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc57/live/ceb63ea0-c15f-11f1-ae7b-cfc528a6c828.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ASOS app users receive push notifications apparently sent by hackers]]></title>
-            <description><![CDATA[Dozens of people appear to have received a strange message from the clothing and beauty store's app.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#0</guid>
-            <pubDate>Tue, 06 Oct 2026 10:37:50 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ofcom investigates Meta over Instagram Instants feature]]></title>
@@ -111,12 +119,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0645/live/cb36dd30-bd80-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Regulating AI 'not the right place to start' says Bailey]]></title>
-            <description><![CDATA[AI needs "rigorous" testing and safeguards to contain risk, Andrew Bailey says.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvzez7k0pn40o#0</guid>
-            <pubDate>Wed, 30 Sep 2026 14:00:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg"/>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[What is a supercomputer for? How does it work? And who gets to use it? We explain all.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/live:bbc_world_service#2</guid>
+            <pubDate>Tue, 06 Oct 2026 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pf8pjc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
@@ -141,14 +149,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyf#2</guid>
             <pubDate>Tue, 15 Sep 2026 19:30:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p9s5kz.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech Life]]></title>
-            <description><![CDATA[Scammers demand money from Instagram users over fake copyright claims.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyd#2</guid>
-            <pubDate>Tue, 08 Sep 2026 20:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p8m9xk.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Now]]></title>

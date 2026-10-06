@@ -7,30 +7,51 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 14:18:30 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 14:15:58 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:39:39 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 19:24:16 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Kenya Records Ebola Case for First Time</title>
-      <link>https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html" rel="standout"></atom:link>
-      <description>The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 11:18:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-kenya-ebola-kfqz/06int-kenya-ebola-kfqz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Simon Maina/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Kenyan cabinet secretary for health, Aden Duale, at a news conference in Nairobi on Tuesday. He said the man with Ebola had lived in Congo for seven years, and fell sick a month ago.</media:description>
+      <title>Student Protests Expand to More Than 40 French Cities</title>
+      <link>https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools" rel="standout"></atom:link>
+      <description>Union members, parents and teachers joined the demonstrations, broadening the student-led protest movement that has closed hundreds of French high schools since late September.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 19:09:19 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06france-protests-live--01-ckbp/06france-protests-live--01-ckbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alain Jocard/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>UK Security Adviser Jonathan Powell Traveled to Israel Ahead of Consulate Closure</title>
+      <link>https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html" rel="standout"></atom:link>
+      <description>Jonathan Powell, Britain’s national security adviser, visited Israel last week to try to negotiate over the looming closure of his country’s consulate in Jerusalem, according to three officials.</description>
+      <dc:creator>Michael D. Shear, Adam Rasgon and Aaron Boxerman</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 19:24:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miliband, Edward S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">E1 (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Jerusalem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-uk=israel-1-pklh/06int-uk=israel-1-pklh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Niklas Halle&#39;N/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Jonathan Powell, Britain’s national security adviser, on Downing Street last year.</media:description>
     </item>
     <item>
       <title>U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels</title>
@@ -39,7 +60,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html" rel="standout"></atom:link>
       <description>MQ-9 Reaper drones — known for high-profile deadly strikes — have been shifted from Africa to Colombia and Ecuador, U.S. officials said.</description>
       <dc:creator>Annie Correal and Eric Schmitt</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 09:03:34 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 15:13:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -51,21 +72,97 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-reaper-drones-latin-america-twpl/05int-reaper-drones-latin-america-twpl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-reaper-drones-latin-america-twpl/05int-reaper-drones-latin-america-twpl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Heather Ainsworth for The New York Times</media:credit>
       <media:description>An MQ-9 Reaper drone at Hancock Field Air National Guard base near Syracuse, N.Y.</media:description>
     </item>
     <item>
-      <title>Live Updates: Protests Spread Across France as Unions Join Student Demonstrations</title>
-      <link>https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools" rel="standout"></atom:link>
-      <description>The rallies are a test of the strength of the student-led protest movement that has closed hundreds of French high schools since late September.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 14:15:58 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-france-protests-pvbl/06int-france-protests-pvbl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Miguel Medina/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Students blockading their school in Marseille on Monday, part of nationwide protests of conditions at French schools.</media:description>
+      <title>Live From the Barracks: Three Juntas Launch TV Channel</title>
+      <link>https://www.nytimes.com/2026/10/06/world/africa/russia-africa-propaganda-sahel-tafouk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/africa/russia-africa-propaganda-sahel-tafouk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/africa/russia-africa-propaganda-sahel-tafouk.html" rel="standout"></atom:link>
+      <description>Three African countries have started Tafouk TV, a Russia-partnered broadcast channel, after throwing out Western journalists and cracking down on local media.</description>
+      <dc:creator>Ruth Maclean and Saikou Jammeh</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 18:32:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bamako (Mali)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burkina Faso</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Niger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sahel (Africa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-sahel-tv-1-clbz/06int-sahel-tv-1-clbz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>At a news conference in Bamako, Mali, in May. Military juntas have taken over Mali, Burkina Faso and Niger in recent years, cracking down on journalists and struggling to stop extremist groups like Al Qaeda.</media:description>
+    </item>
+    <item>
+      <title>Man Arrested in Connection With Incident at UK Air Base RAF Fairford</title>
+      <link>https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html" rel="standout"></atom:link>
+      <description>A 22-year-old from London was the seventh person to be arrested by the counterterrorism police investigating an incident at R.A.F. Fairford last month.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 14:28:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06uk-airbase-arrest-wjfz/06uk-airbase-arrest-wjfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Toby Shepheard/Reuters</media:credit>
+      <media:description>Armed police officers stood guard on a road outside the perimeter of the R.A.F. Fairford air base last month.</media:description>
+    </item>
+    <item>
+      <title>Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader</title>
+      <link>https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html" rel="standout"></atom:link>
+      <description>The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.</description>
+      <dc:creator>Carlos Barragán</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 16:03:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Puigdemont, Carles (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Catalonia (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06Int-Spain-Puigdemont-kjpf/06Int-Spain-Puigdemont-kjpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stephanie Lecocq/Reuters</media:credit>
+      <media:description>The Catalan separatist leader Carles Puigdemont before a news conference on Tuesday in Belgium, where he has lived since 2017.</media:description>
+    </item>
+    <item>
+      <title>Kenya Records Ebola Case for First Time</title>
+      <link>https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html" rel="standout"></atom:link>
+      <description>The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 17:38:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/world/africa/06vid-kenya-ebola-cover-image/06vid-kenya-ebola-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Simon Maina for Getty Images</media:credit>
     </item>
     <item>
       <title>Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says</title>
@@ -74,7 +171,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html" rel="standout"></atom:link>
       <description>A rescue effort was underway, Prime Minister Rumen Radev said, after one of the two ships sank. It was not immediately clear where the drones originated.</description>
       <dc:creator>Boryana Dzhambazova and Aurelien Breeden</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 13:57:13 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 19:15:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
@@ -110,7 +207,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html" rel="standout"></atom:link>
       <description>Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government.</description>
       <dc:creator>Mujib Mashal, Pragati K.B. and Hari Kumar</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 07:02:29 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 15:55:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
@@ -131,7 +228,7 @@
       <media:description>A protest in New Delhi on Sunday, demanding the resignation of India’s chief election commissioner, Gyanesh Kumar. More protests are planned for this week.</media:description>
     </item>
     <item>
-      <title>An 87-Year-Old’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?</title>
+      <title>As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause</title>
       <link>https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html" rel="standout"></atom:link>
@@ -151,24 +248,24 @@
       <media:description>People at a bar in La Cabrera, on the outskirts of Madrid, watching a televised speech on Monday in which Prime Minister Pedro Sánchez announced national elections.</media:description>
     </item>
     <item>
-      <title>Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France</title>
-      <link>https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html" rel="standout"></atom:link>
+      <title>France Student Protests Escalate Amid Fiscal Crisis and an Election</title>
+      <link>https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html" rel="standout"></atom:link>
       <description>Chaos in schools, on the streets and in the markets is rooted in France’s struggles to fund its social welfare state, with a presidential election approaching.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 04:01:14 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 17:37:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardella, Jordan (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-france-assess-1-cpvh/06int-france-assess-1-cpvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yves Herman/Reuters</media:credit>
       <media:description>The damaged entrance to a high school in Paris on Monday. Unrest at French schools has compounded a sense of crisis in France.</media:description>
@@ -192,13 +289,105 @@
       <media:description>The city of Toyama in 2024.</media:description>
     </item>
     <item>
+      <title>Trump-Appointed Judge Accuses ICE of Lying and Fabricating Records</title>
+      <link>https://www.nytimes.com/2026/10/06/nyregion/ice-judge-condemns-arrests-falsified-records.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/nyregion/ice-judge-condemns-arrests-falsified-records.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/nyregion/ice-judge-condemns-arrests-falsified-records.html" rel="standout"></atom:link>
+      <description>Two men were mistakenly arrested in the Bronx by Immigration and Customs Enforcement agents. Gary R. Brown, a federal judge, condemned the agency’s actions.</description>
+      <dc:creator>Luis Ferré-Sadurní</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 17:57:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Gary R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Torres, Ritchie (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06met-ice-judge-01-czgl/06met-ice-judge-01-czgl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Todd Heisler/The New York Times</media:credit>
+      <media:description>Immigration arrests have swept across the New York region as part of the Trump administration’s crackdown.</media:description>
+    </item>
+    <item>
+      <title>People of All Ages Join French Student Protests, as Movement Broadens</title>
+      <link>https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html" rel="standout"></atom:link>
+      <description>Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.</description>
+      <dc:creator>Ségolène Le Stradic</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 16:14:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06france-protests-live-broadening-lfgm/06france-protests-live-broadening-lfgm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kiran Ridley/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Demonstrators gathered in Paris to protest ailing schools.</media:description>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Catherine Porter and Ségolène Le Stradic</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 17:55:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers</title>
+      <link>https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html" rel="standout"></atom:link>
+      <description>China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.</description>
+      <dc:creator>Zeyi Yang</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 17:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jade Gao/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Chinese A.I. companies like Deepseek and Moonshot have made a name for themselves internationally. But China still struggles to recruit foreign researchers.</media:description>
+    </item>
+    <item>
+      <title>Melting Swiss Glaciers Release Archaeological Treasures</title>
+      <link>https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html" rel="standout"></atom:link>
+      <description>Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice.</description>
+      <dc:creator>Raymond Zhong, Giacomo d’Orlando and Mira Rojanasakul</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 15:01:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alps Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04cli-glacier-archaeology-01-tzlw/04cli-glacier-archaeology-01-tzlw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Fragments of wood found recently around a fast-melting ice patch in the Swiss Alps.</media:description>
+    </item>
+    <item>
       <title>Germany’s Far Right Claims Its First Statehouse Speaker Since 1945</title>
       <link>https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html" rel="standout"></atom:link>
       <description>After winning a state election last month, the Alternative for Germany is the first far-right party to oversee a state legislature since the Nazi era.</description>
       <dc:creator>Christopher F. Schuetze</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 11:04:54 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 15:54:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
@@ -211,25 +400,22 @@
       <media:description>Tobias Rausch was chosen as the first far-right leader of a German statehouse since 1945.</media:description>
     </item>
     <item>
-      <title>FIFA Found Congo Player Ineligible but Let Him Play in World Cup</title>
-      <link>https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html" rel="standout"></atom:link>
-      <description>Officials determined that a goalkeeper from the Democratic Republic of Congo did not have the correct paperwork, documents show. But no action was taken, renewing questions about FIFA’s governance.</description>
-      <dc:creator>Tariq Panja</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 10:54:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jamaica (West Indies)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Confederation of African Football</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-fifa-congo-jbhk/06int-fifa-congo-jbhk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ulises Ruiz/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Members of the Democratic Republic of Congo squad warming up before their World Cup match against Colombia in June.</media:description>
+      <title>Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders</title>
+      <link>https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html" rel="standout"></atom:link>
+      <description>Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”</description>
+      <dc:creator>Laura Chung</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 14:03:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06xp-trump-strikes-mflg/06xp-trump-strikes-mflg-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump at a campaign rally in Grand Island, Neb., on Monday.</media:description>
     </item>
     <item>
       <title>South Korea Investigates Possible Use of A.I. in Hackings on Its Banks</title>
@@ -257,7 +443,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html" rel="standout"></atom:link>
       <description>The rallies are a test of the strength of the student-led protest movement that has escalated at French high schools since late September.</description>
       <dc:creator>Catherine Porter, Ségolène Le Stradic and Giulia Imbert</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 13:31:46 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 15:32:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
@@ -270,92 +456,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06vid-france-bhct/06vid-france-bhct-mediumSquareAt3X.jpg" width="1800"></media:content>
     </item>
     <item>
-      <title>The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push</title>
-      <link>https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html" rel="standout"></atom:link>
-      <description>The separatist party’s victory fell short of clinching a majority that would have all but guaranteed a potential showdown with Ottawa over Canada’s future.</description>
-      <dc:creator>Norimitsu Onishi</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 11:09:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">St-Pierre Plamondon, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Parti Quebecois (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">French Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Coalition Avenir Quebec</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frechette, Christine (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Legault, Francois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-canada-quebec-results-02-mwvl/05int-canada-quebec-results-02-mwvl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrej Ivanov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Paul St-Pierre Plamondon, the leader of the Parti Québécois, celebrated a provincial election victory in Montreal.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Catherine Porter and Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 13:49:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers</title>
-      <link>https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html" rel="standout"></atom:link>
-      <description>China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.</description>
-      <dc:creator>Zeyi Yang</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 09:03:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jade Gao/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Chinese A.I. companies like Deepseek and Moonshot have made a name for themselves internationally. But China still struggles to recruit foreign researchers.</media:description>
-    </item>
-    <item>
-      <title>Melting Swiss Glaciers Release Archaeological Treasures</title>
-      <link>https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html" rel="standout"></atom:link>
-      <description>Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice.</description>
-      <dc:creator>Raymond Zhong, Giacomo d’Orlando and Mira Rojanasakul</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 09:00:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alps Mountains</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04cli-glacier-archaeology-01-tzlw/04cli-glacier-archaeology-01-tzlw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Fragments of wood found recently around a fast-melting ice patch in the Swiss Alps.</media:description>
-    </item>
-    <item>
-      <title>Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders</title>
-      <link>https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html" rel="standout"></atom:link>
-      <description>Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”</description>
-      <dc:creator>Laura Chung</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 14:03:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06xp-trump-strikes-mflg/06xp-trump-strikes-mflg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump at a campaign rally in Grand Island, Neb., on Monday.</media:description>
+      <title>FIFA Found Congo Player Ineligible but Let Him Play in World Cup</title>
+      <link>https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html" rel="standout"></atom:link>
+      <description>Officials determined that a goalkeeper from the Democratic Republic of Congo did not have the correct paperwork, documents show. But no action was taken, renewing questions about FIFA’s governance.</description>
+      <dc:creator>Tariq Panja</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 10:54:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jamaica (West Indies)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Confederation of African Football</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-fifa-congo-jbhk/06int-fifa-congo-jbhk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ulises Ruiz/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Members of the Democratic Republic of Congo squad warming up before their World Cup match against Colombia in June.</media:description>
     </item>
     <item>
       <title>The Hidden Policies That Power China’s Export Boom</title>
@@ -416,6 +535,31 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05oz-ai-us-government-version1-qbvk/05oz-ai-us-government-version1-qbvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
       <media:description>OpenAI’s technology tried to hack the website of the U.S. Education Department to gather data from the department’s civil rights office but failed.</media:description>
+    </item>
+    <item>
+      <title>The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push</title>
+      <link>https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html" rel="standout"></atom:link>
+      <description>The separatist party’s victory fell short of clinching a majority that would have all but guaranteed a potential showdown with Ottawa over Canada’s future.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 11:09:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">St-Pierre Plamondon, Paul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Parti Quebecois (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">French Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Coalition Avenir Quebec</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frechette, Christine (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Legault, Francois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-canada-quebec-results-02-mwvl/05int-canada-quebec-results-02-mwvl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrej Ivanov/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Paul St-Pierre Plamondon, the leader of the Parti Québécois, celebrated a provincial election victory in Montreal.</media:description>
     </item>
     <item>
       <title>What to know about recent A.I. hacks.</title>
@@ -487,16 +631,18 @@
       <atom:link href="https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html" rel="standout"></atom:link>
       <description>An incident at a British air base may demonstrate a new era of low-intensity conflict.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 07:54:30 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 07:54:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-theworld-uk-airbase-01-zkvt-promo/06int-theworld-uk-airbase-01-zkvt-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Leon Neal/Getty Images</media:credit>
     </item>
@@ -508,12 +654,16 @@
       <description>Flávio Bolsonaro, now the favorite to win Brazil’s presidency, would give President Trump a critical new ally in Latin America, particularly on security.</description>
       <dc:creator>Jack Nicas</dc:creator>
       <pubDate>Mon, 05 Oct 2026 20:27:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monroe Doctrine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-brazil-trump-khcz/05int-brazil-trump-khcz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andre Penner/Associated Press</media:credit>
       <media:description>An effigy of President Trump carrying a depiction of an incarcerated President Luiz Inácio Lula da Silva during a rally in São Paulo last month in support of Flávio Bolsonaro, the right-wing opposition candidate.</media:description>
@@ -562,7 +712,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html" rel="standout"></atom:link>
       <description>A Saudi-led coalition launched a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.</description>
       <dc:creator>Ismaeel Naar</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 11:20:47 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 18:23:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
@@ -613,17 +763,18 @@
       <description>Flávio Bolsonaro’s first round lead leaves President Luiz Inácio Lula da Silva three weeks to find the votes to stop Brazil’s, and Latin America’s, rightward shift.</description>
       <dc:creator>Ana Ionova and Adam B. Ellick</dc:creator>
       <pubDate>Mon, 05 Oct 2026 21:42:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Federal Court (Brazil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Federal Court (Brazil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-brazil-elections-assess-01-lptb/05int-brazil-elections-assess-01-lptb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Evaristo Sa/Agence France-Presse — Getty Images</media:credit>
       <media:description>Flávio Bolsonaro, the son of Brazil’s former president Jair Bolsonaro, had the lead after Sunday’s vote. </media:description>
@@ -736,13 +887,13 @@
       <media:description>Paul St-Pierre Plamondon, the leader of the separatist Parti Québécois, arriving to cast his ballot on Monday during Quebec’s provincial election in Montreal.</media:description>
     </item>
     <item>
-      <title>The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.</title>
+      <title>Mixed Human Feelings After a Day at a Park Full of Robots</title>
       <link>https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html" rel="standout"></atom:link>
       <description>I went to Galaxy Robot Park in Seoul to see how we might one day live with robots. It was part cutting-edge technology, part theatrics.</description>
       <dc:creator>Yan Zhuang and Jiwoong Hong</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 12:57:32 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 17:51:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
@@ -763,12 +914,8 @@
       <description>By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us.</description>
       <dc:creator>Carl Zimmer</dc:creator>
       <pubDate>Mon, 05 Oct 2026 15:12:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trinity College (Dublin, Ireland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-design</category>
     </item>
     <item>
@@ -942,176 +1089,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04int-iran-economy-01-whtg/04int-iran-economy-01-whtg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
       <media:description>People shopping in a bazaar in Tehran in July. Iran’s currency has plunged since the war began.</media:description>
-    </item>
-    <item>
-      <title>Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot</title>
-      <link>https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html" rel="standout"></atom:link>
-      <description>The Omani co-pilot who officials said tried to crash the plane was said to have embraced extremist Islamist views.</description>
-      <dc:creator>Isabel Kershner and Johnatan Reiss</dc:creator>
-      <pubDate>Sun, 04 Oct 2026 19:07:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04int-israel-flydubai-debacle-01-zvlb/04int-israel-flydubai-debacle-01-zvlb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ammar Awad/Reuters</media:credit>
-      <media:description>A replacement FlyDubai plane, carrying passengers who were on an aircraft from Dubai to Tel Aviv that made an emergency landing in Saudi Arabia, arrives at Ben Gurion International Airport in Israel, last week. </media:description>
-    </item>
-    <item>
-      <title>Houthis Claim Attack on Aramco as Yemen Conflict Escalates</title>
-      <link>https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html" rel="standout"></atom:link>
-      <description>More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say.</description>
-      <dc:creator>Vivian Nereim, Eric Schmitt and Saeed Al-Batati</dc:creator>
-      <pubDate>Sun, 04 Oct 2026 21:11:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04int-yemen-saudi-01-zkgt/04int-yemen-saudi-01-zkgt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Flames at a facility belonging to the Saudi oil giant Aramco, south of Riyadh on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Who Were the Pilots on the FlyDubai Flight?</title>
-      <link>https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html" rel="standout"></atom:link>
-      <description>The co-pilot’s embrace of extreme Islamist views prompted Omani officials to scrutinize him, according to two people briefed on the investigation.</description>
-      <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Sun, 04 Oct 2026 21:35:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machchhar, Smit</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Hammami, Hamam</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04int-flydubai-pilots-wtk-glzh/04int-flydubai-pilots-wtk-glzh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ariel Schalit/Associated Press</media:credit>
-      <media:description>Officials are working to uncover the motives of a pilot who attacked his colleague during a flight to Tel Aviv.</media:description>
-    </item>
-    <item>
-      <title>U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare</title>
-      <link>https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html" rel="standout"></atom:link>
-      <description>The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.</description>
-      <dc:creator>Neil MacFarquhar</dc:creator>
-      <pubDate>Sun, 04 Oct 2026 22:30:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Saadi, Mohammad Baqer Saad Dawood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scottsdale (Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/00Iran-HybridWarfare-cktg/00Iran-HybridWarfare-cktg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Justin Tallis/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A roadblock outside R.A.F. Fairford base in England on Sept. 27, as the counterterrorism police investigated a murky plot.</media:description>
-    </item>
-    <item>
-      <title>Brazil Elections Head to Runoff Between Lula and Bolsonaro </title>
-      <link>https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html" rel="standout"></atom:link>
-      <description>Neither President Luiz Inácio Lula da Silva nor Flávio Bolsonaro, the son of a former president, won the first round, but Mr. Bolsonaro took more votes.</description>
-      <dc:creator>Ana Ionova and Adam B. Ellick</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 06:19:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05vid-brazil-elex-cover-gzhf/05vid-brazil-elex-cover-gzhf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Douglas Shineidr/Agence France-Presse — Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Nobel Prizes 2026: What to Know</title>
-      <link>https://www.nytimes.com/article/nobel-prizes-2026.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/nobel-prizes-2026.html</guid>
-      <atom:link href="https://www.nytimes.com/article/nobel-prizes-2026.html" rel="standout"></atom:link>
-      <description>The recipients of the six awards in science, literature, economics and peace work are being announced this week.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 10:24:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Six</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04xp-nobels-wwk-sub-vfkm/04xp-nobels-wwk-sub-vfkm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vincent Alban/The New York Times</media:credit>
-      <media:description>A Nobel Prize medal awarded in 1998. Six Nobels are given each year.</media:description>
-    </item>
-    <item>
-      <title>Who Owns the Moon?</title>
-      <link>https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html" rel="standout"></atom:link>
-      <description>A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless.</description>
-      <dc:creator>Selam Gebrekidan</dc:creator>
-      <pubDate>Sun, 04 Oct 2026 09:06:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Treaties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/00int-who-owns-the-moon-nasa-pcgm/00int-who-owns-the-moon-nasa-pcgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>NASA</media:credit>
-      <media:description>The moon in April, visible from NASA’s Orion spacecraft.</media:description>
-    </item>
-    <item>
-      <title>Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce</title>
-      <link>https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html" rel="standout"></atom:link>
-      <description>As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.</description>
-      <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 13:13:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Service and Charging Stations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/00int-russia-evs-01-wzgm/00int-russia-evs-01-wzgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pavel Bednyakov/Associated Press</media:credit>
-      <media:description>A line at a gas station in Moscow in June.</media:description>
-    </item>
-    <item>
-      <title>The Search for Gas in Moscow</title>
-      <link>https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html" rel="standout"></atom:link>
-      <description>Our reporter Ivan Nechepurenko looks at gas stations in Moscow to see how severe the shortages have become as Ukrainian attacks target Russian refineries. An earlier version of this video misidentified Yandex. While it is a Russian app, it is not state-run.</description>
-      <dc:creator>Ivan Nechepurenko, Rebecca Suner and Joey Sendaydiego</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 20:44:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
     </item>
   </channel>
 </rss>
