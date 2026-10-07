@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 06 Oct 2026 20:26:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Oct 2026 16:21:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,27 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence</title>
+		<link>https://warontherocks.com/the-atlantic-brief-u-s-and-european-perspectives-on-nuclear-deterrence/</link>
+		
+		<dc:creator><![CDATA[Ankit Panda]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 16:00:59 +0000</pubDate>
+				<category><![CDATA[Members]]></category>
+		<category><![CDATA[War on the Rocks Webinars]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=46580</guid>
+
+					<description><![CDATA[<p>For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks&#160;present a dialogue on U.S. and European Perspectives on Nuclear Deterrence. Participating experts from the United Kingdom, continental Europe, and the United States bring decades of first-hand experience in the armed forces, diplomacy, and foreign policy. They explore evolving views of America&#8217;s extended nuclear deterrence, the role of the British and French nuclear forces, and assess implications for NATO.Speakers: Ankit Panda: Stanton Senior Fellow in the Nuclear Policy Program at the Carnegie Endowment for International Peace and host of the War on the Rocks</p>
+<p>The post <a href="https://warontherocks.com/the-atlantic-brief-u-s-and-european-perspectives-on-nuclear-deterrence/">The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Paul van Hooft]]></dc:creator>
+<dc:creator><![CDATA[Tom McKane]]></dc:creator>
+<dc:creator><![CDATA[Kerry Boyd Anderson]]></dc:creator>
+<dc:creator><![CDATA[Matthew Savill]]></dc:creator>
+	</item>
+		<item>
 		<title>The Navy&#8217;s Missing Welders Are Stocking Shelves</title>
 		<link>https://warontherocks.com/cogs-of-war/the-navys-missing-welders-are-stocking-shelves/</link>
 		
@@ -840,23 +861,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		<dc:creator><![CDATA[Charles Sun]]></dc:creator>
 	</item>
-		<item>
-		<title>The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence</title>
-		<link>https://warontherocks.com/the-atlantic-brief-u-s-and-european-perspectives-on-nuclear-deterrence/</link>
-		
-		<dc:creator><![CDATA[WOTR Staff]]></dc:creator>
-		<pubDate>Tue, 15 Sep 2026 18:45:59 +0000</pubDate>
-				<category><![CDATA[Members]]></category>
-		<category><![CDATA[War on the Rocks Webinars]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46580</guid>
-
-					<description><![CDATA[<p>Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel.&#160;OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks will present a dialogue on U.S. and European Perspectives on Nuclear Deterrence. Participating experts from the United Kingdom, continental Europe, and the United States bring decades of first-hand experience in the armed forces, diplomacy, and foreign policy. They will explore evolving views of America&#8217;s extended nuclear deterrence, the role of the British</p>
-<p>The post <a href="https://warontherocks.com/the-atlantic-brief-u-s-and-european-perspectives-on-nuclear-deterrence/">The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 		<item>
 		<title>Three Patrons, Three Clients: The Mecca Alliance No One Owns</title>
 		<link>https://warontherocks.com/three-patrons-three-clients-the-mecca-alliance-no-one-owns/</link>
