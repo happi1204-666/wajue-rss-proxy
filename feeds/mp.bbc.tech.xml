@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 17:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 22:42:20 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk']]></title>
+            <description><![CDATA[The research found that important guardrails for teens using ChatGPT often failed. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o#0</guid>
+            <pubDate>Wed, 07 Oct 2026 20:34:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8459/live/4bc569a0-c27f-11f1-98ea-35e6bf307fc9.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rainmakers: The drones used to seed clouds]]></title>
             <description><![CDATA[Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0</guid>
             <pubDate>Thu, 01 Oct 2026 11:37:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI boom could trigger market shocks, Bank of England boss warns]]></title>
-            <description><![CDATA[Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence "very carefully".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv8e30enrkxyo#0</guid>
-            <pubDate>Thu, 01 Oct 2026 10:05:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
