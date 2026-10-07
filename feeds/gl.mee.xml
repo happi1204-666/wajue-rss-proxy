@@ -676,7 +676,7 @@ According to the Board of Relief and Humanitarian Affairs in Duhok (BRHA), &lt;a
 &lt;/span&gt;
             &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
                   &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images/abortionpills%20photo_1_0.jpg.webp?itok=nKRILXeo 1x" type="image/webp" width="600" height="400"&gt;
-                  &lt;img loading="lazy" srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images/abortionpills%20photo_1_0.jpg.webp?itok=nKRILXeo 1x" width="600" height="400" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images/abortionpills%20photo_1_0.jpg.jpg?itok=nKRILXeo" typeof="foaf:Image"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images/abortionpills%20photo_1_0.jpg.webp?itok=nKRILXeo 1x" width="600" height="400" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images/abortionpills%20photo_1_0.jpg.jpg?itok=nKRILXeo" typeof="foaf:Image" fetchpriority="high"&gt;
 
   &lt;/picture&gt;
 

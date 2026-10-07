@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 04:16:36 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 04:01:18 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:13:25 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 11:12:03 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools" rel="standout"></atom:link>
       <description>Union members, parents and teachers joined the demonstrations, broadening the student-led protest movement that has closed hundreds of French high schools since late September.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 03:04:10 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 09:50:56 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06france-protests-live--01-ckbp/06france-protests-live--01-ckbp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alain Jocard/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -290,13 +290,229 @@
       <media:description>The city of Toyama in 2024.</media:description>
     </item>
     <item>
+      <title>U.S. Formally Seeks Information From Russia About Possible Plague Death</title>
+      <link>https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html" rel="standout"></atom:link>
+      <description>The lack of details from the Russian authorities has unnerved U.S. officials and others around the world.</description>
+      <dc:creator>Paul Sonne and Edward Wong</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 11:12:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plague</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pneumonia</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-russia-plague-tmqh/07int-russia-plague-tmqh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tatyana Makeyeva/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The entrance to the grounds of the anti-plague institute in Irkutsk, Russia, on Wednesday. An employee of the institute died of a mysterious pneumonia.</media:description>
+    </item>
+    <item>
+      <title>The School Near Paris That Shows Why French Students Are Protesting</title>
+      <link>https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html" rel="standout"></atom:link>
+      <description>Angered by poor classroom conditions, students at Paul Éluard High School in a suburb of the capital were among the first to blockade their campus during an ongoing round of unrest.</description>
+      <dc:creator>Ségolène Le Stradic</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 09:55:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Denis (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eluard, Paul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pecresse, Valerie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-france-school-01-mtzk/07int-france-school-01-mtzk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Abdul Saboor/Reuters</media:credit>
+      <media:description>Students blocking access last week to Paul Éluard High School, during a protest for better learning conditions.</media:description>
+    </item>
+    <item>
+      <title>Europe’s Trade Tensions With China Are Coming to a Head</title>
+      <link>https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html" rel="standout"></atom:link>
+      <description>The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.</description>
+      <dc:creator>Keith Bradsher</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 09:06:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07Biz-China-Europe-Trade-01-pjzt/07Biz-China-Europe-Trade-01-pjzt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Pascal Bastien/Associated Press</media:credit>
+      <media:description>Ursula von der Leyen, the president of the European Commission, has warned that Europe’s trade deficit with China has reached a “tipping point.”</media:description>
+    </item>
+    <item>
+      <title>Mass Trials Put Hundreds in One Dock in El Salvador</title>
+      <link>https://www.nytimes.com/2026/10/07/world/americas/el-salvador-mass-trials-bukele.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/americas/el-salvador-mass-trials-bukele.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/americas/el-salvador-mass-trials-bukele.html" rel="standout"></atom:link>
+      <description>Lawyers warn that the mass trials of people imprisoned during President Nayib Bukele’s gang crackdown are marred by vague evidence and restrictions on a proper defense.</description>
+      <dc:creator>James Wagner</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 09:02:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Rights Watch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mara Salvatrucha (MS-13)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/world/07int-elsalvador-trials-top/07int-elsalvador-trials-top-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Peña/Getty Images</media:credit>
+      <media:description>Inmates during a mass hearing at the Terrorism Confinement Center, or CECOT, prison in April in Tecoluca, El Salvador.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push</title>
+      <link>https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html" rel="standout"></atom:link>
+      <description>Moscow says its capture of the region is inevitable. But Kyiv has so far stymied Russian efforts to encircle Ukrainian “fortress belt” cities.</description>
+      <dc:creator>Marc Santora and Josh Holder</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 09:02:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/2026-09-03-ukraine-frontline-maps-index/2026-09-03-ukraine-frontline-maps-index-mediumSquareAt3X-v3.png" width="1000"></media:content>
+      <media:credit>Josh Holder/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>How a Small Business Got Entangled in U.S. Sanctions on Iranian Oil</title>
+      <link>https://www.nytimes.com/2026/10/07/world/asia/malaysia-shipping-iran-oil-us-sanctions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/asia/malaysia-shipping-iran-oil-us-sanctions.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/asia/malaysia-shipping-iran-oil-us-sanctions.html" rel="standout"></atom:link>
+      <description>The case of a small Malaysian shipping agency illustrates the challenges Washington faces in its effort to stanch the flow of Iranian oil.</description>
+      <dc:creator>Max Kim</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 09:02:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of Foreign Assets Control (United States Treasury)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/00int-malaysia-dark-fleet-04-kmgv/00int-malaysia-dark-fleet-04-kmgv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ore Huiying for The New York Times</media:credit>
+      <media:description>Shahul Hamid Ahmad, the owner of Tefcas Marine, a small shipping agency that was hit with U.S. sanctions, standing in his empty office in Johor Bahru, Malaysia, in September.</media:description>
+    </item>
+    <item>
+      <title>How a Shadow Economy in Asia Is Keeping Iranian Oil Flowing</title>
+      <link>https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html" rel="standout"></atom:link>
+      <description>Companies continue to service a “dark fleet” of Iranian tankers in waters off Malaysia in spite of Washington’s threat to target them.</description>
+      <dc:creator>Max Kim</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 10:34:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Malacca</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/00int-malaysia-dark-fleet-01-kmgv/00int-malaysia-dark-fleet-01-kmgv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ore Huiying for The New York Times</media:credit>
+      <media:description>A tanker used as floating storage in the heavily trafficked waters off the Malaysian state of Johor in September.</media:description>
+    </item>
+    <item>
+      <title>Inheritances Can Shatter Families. Could a Therapist Help?</title>
+      <link>https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html" rel="standout"></atom:link>
+      <description>As the country faces the greatest wealth transfer in history, some people are turning to therapists to help them pass on their assets in a way that preserves harmony.</description>
+      <dc:creator>Susan Shain</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 09:00:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Family Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="">Inheritance</category>
+      <category domain="">assets</category>
+      <category domain="">therapists</category>
+      <category domain="">coach</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bill Martin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doug Martin</category>
+      <category domain="">wealth transfer</category>
+      <category domain="">sandwich generation</category>
+      <category domain="">generational wealth</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/00Inheritance-Caregiving-hwvm/00Inheritance-Caregiving-hwvm-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
+      <media:credit>Gilberto Terrazas for The New York Times</media:credit>
+      <media:description>Bill Martin doesn’t want his sons clashing over the future of the family farm in Rufus, Ore., as he did with his brother. He’s hired a coach to help.</media:description>
+    </item>
+    <item>
+      <title>Can Artificial Intelligence Learn the Art of Surgery?</title>
+      <link>https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html" rel="standout"></atom:link>
+      <description>Canada wants to leverage A.I. to improve its health care system. At a Toronto hospital, surgeons are training a machine to distinguish a safe incision from a catastrophic one.</description>
+      <dc:creator>Vjosa Isai and Cole Burston</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 09:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Toronto General Hospital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Toronto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/16/multimedia/16int-canada-ai-surgery-promo/16int-canada-ai-surgery-04-hpjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cole Burston for The New York Times</media:credit>
+      <media:description>Dr. Madani, left, and Dr. Timothy Jackson, perform laparoscopic cholecystectomy surgery on a patient at Toronto General Hospital, with the help of visual A.I. guides.</media:description>
+    </item>
+    <item>
+      <title>What Life in Gaza Is Like Now</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html" rel="standout"></atom:link>
+      <description>Nearly a year after Israel and Hamas agreed to end the war in Gaza, Saher Alghorra, a photographer for The New York Times, documents how residents are coping and working to rebuild their lives.</description>
+      <dc:creator>Saher Alghorra, Rebecca Suner, Coleman Lowndes, Mona Boshnaq and Nour Idriss</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 10:32:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+    </item>
+    <item>
+      <title>For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge</title>
+      <link>https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html" rel="standout"></atom:link>
+      <description>Gali and Ziv Berman were taken hostage when their kibbutz was attacked on Oct. 7, 2023. They were freed a year ago but are still adjusting to freedom and trying to rebuild their lives.</description>
+      <dc:creator>Avishag Shaar-Yashuv and Isabel Kershner</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 08:25:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kibbutz Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/00int-israel-hostage-twins-02-vplw/00int-israel-hostage-twins-02-vplw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:description>The twin brothers Gali and Ziv Berman were abducted by gunmen in the Oct. 7, 2023, attacks.</media:description>
+    </item>
+    <item>
       <title>Malawians Struggle to Survive After Fleeing Anti-Immigrant Violence</title>
       <link>https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html" rel="standout"></atom:link>
       <description>Anti-immigrant violence in South Africa has forced tens of thousands to return to Malawi, severing badly needed cash flows and leaving families hungry.</description>
       <dc:creator>John Eligon, Golden Matonga and Joao Silva</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 04:01:18 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:01:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malawi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
@@ -314,7 +530,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html" rel="standout"></atom:link>
       <description>Attendees at the party’s annual conference have been buoyed: both by leader Kemi Badenoch’s rising poll ratings and a mock Bayeux Tapestry. But the challenge from Reform U.K. remains.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 04:01:05 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 10:41:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
@@ -325,7 +541,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-uk-conservatives-ltjm/07int-uk-conservatives-ltjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-uk-conservatives-ltjm/07int-uk-conservatives-ltjm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Hannah Mckay/Reuters</media:credit>
       <media:description>The Conservative Party leader Kemi Badenoch in Birmingham on Sunday.</media:description>
     </item>
@@ -376,7 +592,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html" rel="standout"></atom:link>
       <description>An autumn of discontent has gripped the country ahead of its presidential election.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 20:22:47 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:34:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -397,7 +613,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html" rel="standout"></atom:link>
       <description>The Bolsonaro family emerged triumphant in Brazil’s elections, mounting a surprising political resurrection in Latin America’s largest nation.</description>
       <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 23:10:47 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 09:13:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
@@ -439,13 +655,13 @@
       <media:description>Immigration arrests have swept across the New York region as part of the Trump administration’s crackdown.</media:description>
     </item>
     <item>
-      <title>People of All Ages Join French Student Protests, as Movement Broadens</title>
+      <title>People of All Ages Join French Student Protests as Movement Broadens</title>
       <link>https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html" rel="standout"></atom:link>
       <description>Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 03:04:08 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 07:29:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
@@ -900,204 +1116,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-brazil-elections-assess-01-lptb/05int-brazil-elections-assess-01-lptb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Evaristo Sa/Agence France-Presse — Getty Images</media:credit>
       <media:description>Flávio Bolsonaro, the son of Brazil’s former president Jair Bolsonaro, had the lead after Sunday’s vote. </media:description>
-    </item>
-    <item>
-      <title>Housing, Corruption and a Migrant Surge: Why Spain Is Holding an Early Election</title>
-      <link>https://www.nytimes.com/2026/10/05/world/europe/spain-elections-housing-migrants-corruption.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/europe/spain-elections-housing-migrants-corruption.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/europe/spain-elections-housing-migrants-corruption.html" rel="standout"></atom:link>
-      <description>Spain’s prime minister, Pedro Sánchez, dissolved Parliament on Monday, after months of spiraling crises.</description>
-      <dc:creator>Lara Jakes</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 12:27:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ceuta (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Surge into Ceuta, Spain (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evictions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05spain-election-why-bckt/05spain-election-why-bckt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrea Comas/Associated Press</media:credit>
-      <media:description>People demonstrating on Saturday in Madrid for stronger protections for renters.</media:description>
-    </item>
-    <item>
-      <title>Former Prince Andrew Sues UK Police After Arrest Linked to Epstein Investigation</title>
-      <link>https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html" rel="standout"></atom:link>
-      <description>Andrew Mountbatten-Windsor is taking action over the warrants used to search two properties after his arrest in February, as part of a British investigation into his ties to Jeffrey Epstein.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 13:59:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrew, Duke of York</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05uk-andrew-02-mcwl/05uk-andrew-02-mcwl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
-      <media:description>Andrew Mountbatten-Windsor is challenging the legality of the search warrants that allowed the police to search two of his homes in February.</media:description>
-    </item>
-    <item>
-      <title>Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve</title>
-      <link>https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html" rel="standout"></atom:link>
-      <description>Evacuation is almost impossible and food is running out in Russian-occupied Oleshky, a city menaced by mines and drones.</description>
-      <dc:creator>Siobhán O’Grady, Liubov Sholudko and Yurii Shyvala</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 09:24:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oleshky (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dnipro River (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/00int-ukraine-oleshky-mflw/00int-ukraine-oleshky-mflw-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Sergei Supinsky/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A protester in Kyiv, the Ukrainian capital, last month calling for help for Oleshky, a city in southern Ukraine.</media:description>
-    </item>
-    <item>
-      <title>Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.</title>
-      <link>https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html" rel="standout"></atom:link>
-      <description>From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power.</description>
-      <dc:creator>Ben Hubbard</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 18:21:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Bans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican People&#39;s Party (Turkey)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Imamoglu, Ekrem</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/world/05int-turkey-banned-book-Imamoglu/05int-turkey-banned-book-Imamoglu-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emrah Gurel/Associated Press</media:credit>
-      <media:description>Ekrem Imamoglu addressing supporters in front of an Istanbul courthouse in January 2025. He was the city’s mayor, and had vowed to challenge President Recep Tayyip Erdogan.</media:description>
-    </item>
-    <item>
-      <title>Voters in Quebec Election Go to Polls as Separatist Parti Québécois Leads</title>
-      <link>https://www.nytimes.com/2026/10/05/world/canada/quebec-election-vote-parti-quebecois-cac-liberals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/canada/quebec-election-vote-parti-quebecois-cac-liberals.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/canada/quebec-election-vote-parti-quebecois-cac-liberals.html" rel="standout"></atom:link>
-      <description>The Parti Québécois, which promised an independence referendum if elected on Monday, could return to power after more than a decade.</description>
-      <dc:creator>Norimitsu Onishi</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 16:50:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frechette, Christine (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Legault, Francois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Coalition Avenir Quebec</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Party (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Parti Quebecois (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">French Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">St-Pierre Plamondon, Paul</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-canada-quebec-vote-qwvk/05int-canada-quebec-vote-qwvk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrej Ivanov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Paul St-Pierre Plamondon, the leader of the separatist Parti Québécois, arriving to cast his ballot on Monday during Quebec’s provincial election in Montreal.</media:description>
-    </item>
-    <item>
-      <title>Mixed Human Feelings After a Day at a Park Full of Robots</title>
-      <link>https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html" rel="standout"></atom:link>
-      <description>I went to Galaxy Robot Park in Seoul to see how we might one day live with robots. It was part cutting-edge technology, part theatrics.</description>
-      <dc:creator>Yan Zhuang and Jiwoong Hong</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 17:51:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Galaxy Corp</category>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/09/29/xp-robot-park-topart-cover/xp-robot-park-topart-cover-mediumSquareAt3X-v2.jpg" width="1080"></media:content>
-      <media:credit>Jiwoong Hong/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Are Babies Conscious?</title>
-      <link>https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html" rel="standout"></atom:link>
-      <description>By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us.</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 15:12:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-design</category>
-    </item>
-    <item>
-      <title>Spain’s Leader Calls Early Election After Housing Crisis Roils Government</title>
-      <link>https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html" rel="standout"></atom:link>
-      <description>Pedro Sánchez, the Spanish prime minister, has faced challenges including a migration crisis and several corruption scandals involving his inner circle.</description>
-      <dc:creator>Carlos Barragán and Jason Horowitz</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 18:16:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-spain-live-hqtl-cop-promo/05int-spain-live-hqtl-cop-promo-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Violeta Santos Moura/Reuters</media:credit>
-      <media:description>Prime Minister Pedro Sánchez of Spain called an early election on Nov. 29.</media:description>
-    </item>
-    <item>
-      <title>How Congo’s Ebola Epidemic Got So Bad So Quickly</title>
-      <link>https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html" rel="standout"></atom:link>
-      <description>What happened in Mangala, where residents were left with little outside support, helps explain how this outbreak became the worst seen in the Democratic Republic of Congo.</description>
-      <dc:creator>Matthew Mpoke Bigg, Arlette Bashizi and Adina Renner</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 23:03:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mangala (Congo, Democratic Republic of)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bunia (Congo, Democratic Republic of)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mongbwalu (Congo, Democratic Republic of)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/00int-ebola-congo-town-promo-lvcz/00int-ebola-congo-town-promo-lvcz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arlette Bashizi for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Pay Phone, a Lifeline During 2019 Australia Wildfires, Gains Heritage Status</title>
-      <link>https://www.nytimes.com/2026/10/05/world/australia/narooma-pay-phone-heritage-listing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/australia/narooma-pay-phone-heritage-listing.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/australia/narooma-pay-phone-heritage-listing.html" rel="standout"></atom:link>
-      <description>Hundreds lined up to call loved ones as the internet went down and the flames closed in on the Australian town of Narooma in 2019.</description>
-      <dc:creator>Laura Chung</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 04:01:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telstra Communications Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New South Wales (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/world/05int-oz-phonebox/05int-oz-phonebox-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Telstra</media:credit>
-      <media:description>A public phone booth in Narooma on Australia’s east coast has been awarded heritage status for the role it played during and after wildfires in the region.</media:description>
     </item>
   </channel>
 </rss>
