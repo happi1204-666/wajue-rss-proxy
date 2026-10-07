@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 23:30:12 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 23:12:43 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:16:36 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 04:01:18 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools" rel="standout"></atom:link>
       <description>Union members, parents and teachers joined the demonstrations, broadening the student-led protest movement that has closed hundreds of French high schools since late September.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 22:27:42 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 03:04:10 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06france-protests-live--01-ckbp/06france-protests-live--01-ckbp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alain Jocard/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -290,6 +290,46 @@
       <media:description>The city of Toyama in 2024.</media:description>
     </item>
     <item>
+      <title>Malawians Struggle to Survive After Fleeing Anti-Immigrant Violence</title>
+      <link>https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html" rel="standout"></atom:link>
+      <description>Anti-immigrant violence in South Africa has forced tens of thousands to return to Malawi, severing badly needed cash flows and leaving families hungry.</description>
+      <dc:creator>John Eligon, Golden Matonga and Joao Silva</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 04:01:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malawi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-malawi-returnees-promo/07int-malawi-returnees-1-mqbf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Women wait to buy fish from fisherman on the banks of Lake Malawi in Mangochi District, Southern Malawi, last month.</media:description>
+    </item>
+    <item>
+      <title>The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?</title>
+      <link>https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html" rel="standout"></atom:link>
+      <description>Attendees at the party’s annual conference have been buoyed: both by leader Kemi Badenoch’s rising poll ratings and a mock Bayeux Tapestry. But the challenge from Reform U.K. remains.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 04:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Birmingham (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Badenoch, Kemi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-uk-conservatives-ltjm/07int-uk-conservatives-ltjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hannah Mckay/Reuters</media:credit>
+      <media:description>The Conservative Party leader Kemi Badenoch in Birmingham on Sunday.</media:description>
+    </item>
+    <item>
       <title>F.B.I. Charges American in Plot Behind Canada’s Tumbler Ridge School Shooting</title>
       <link>https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html</guid>
@@ -405,7 +445,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html" rel="standout"></atom:link>
       <description>Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 16:14:08 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 03:04:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
@@ -1058,47 +1098,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/world/05int-oz-phonebox/05int-oz-phonebox-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Telstra</media:credit>
       <media:description>A public phone booth in Narooma on Australia’s east coast has been awarded heritage status for the role it played during and after wildfires in the region.</media:description>
-    </item>
-    <item>
-      <title>U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying</title>
-      <link>https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html" rel="standout"></atom:link>
-      <description>The Trump administration says all Iranian airlines are being “shut down.” So why is this jumbo jet still flying from Tehran to Southeast Asia?</description>
-      <dc:creator>Damien Cave</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 07:01:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mahan Air</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/01/multimedia/00int-vietnam-iran-01-zpbh/00int-vietnam-iran-01-zpbh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Reuters</media:credit>
-      <media:description>A Mahan Air Boeing 777 with the tail sign EP-MTE arrived at Najaf International Airport in July, carrying the casket of Iran’s supreme leader, Ayatollah Ali Khamenei, who was killed in U.S.-Israeli strikes in February.</media:description>
-    </item>
-    <item>
-      <title>The Return of Middle East Oil</title>
-      <link>https://www.nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html" rel="standout"></atom:link>
-      <description>More oil is moving through the Strait of Hormuz. What does that mean for Iran’s wartime leverage?</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 05:16:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1547" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-theworld-hormuz-lwqh-promo/05int-theworld-hormuz-lwqh-promo-mediumSquareAt3X.jpg" width="1548"></media:content>
-      <media:credit>Reuters</media:credit>
     </item>
   </channel>
 </rss>
