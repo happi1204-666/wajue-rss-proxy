@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 16:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:24:49 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -19,7 +19,71 @@
       <link>https://www.coindesk.com/</link>
     </image>
     <item>
-      <title><![CDATA[U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated]]></title>
+      <title><![CDATA[Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0d4750d3f8f3c81400ccc4e2d27b12458bbf99db-4928x2772.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">9bc490c2-b328-41f4-a775-1891a17e076c</guid>
+      <pubDate>Thu, 08 Oct 2026 21:22:58 +0000</pubDate>
+      <description><![CDATA[As Democrats steadily rise in their potential to take back a Senate majority, Senator Richard Blumenthal is digging into Tether's U.S. financial partnership.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Cantor Fitzgerald]]></category>
+      <category domain="tag"><![CDATA[Tether]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">f557ec10-1599-4840-b178-fcda5786f6fd</guid>
+      <pubDate>Thu, 08 Oct 2026 19:46:15 +0000</pubDate>
+      <description><![CDATA[The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit.]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Tokenization]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Crypto crumbles as anniversary of flash crash nears]]></title>
+      <link>https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears</link>
+      <guid isPermaLink="false">56529b99-fa66-4524-addc-d88cdf2a0d88</guid>
+      <pubDate>Thu, 08 Oct 2026 18:14:39 +0000</pubDate>
+      <description><![CDATA[It was October 10, 2025, when bitcoin plunged from about $122,000 to $105,000, with much of the decline occurring within minutes.]]></description>
+      <dc:creator>Stephen Alpher</dc:creator>
+      <dc:creator>Helene Braun</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="tag"><![CDATA[Breaking News]]></category>
+      <category domain="tag"><![CDATA[Top Stories]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[NFL joins pushback against prediction markets as U.S. Supreme Court asked to act]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/459994f24f35f95aa2218e1300d30d2f1ea94875-4982x3323.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">d47b57f3-ec95-405a-882f-0d2cd3550fbd</guid>
+      <pubDate>Thu, 08 Oct 2026 18:06:41 +0000</pubDate>
+      <description><![CDATA[In opposition to federal oversight of the prediction markets, the National Football League has sided with states, Gary Gensler and one of the authors of the relevant law.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <dc:creator>Helene Braun</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Prediction Markets]]></category>
+      <category domain="tag"><![CDATA[Polymarket]]></category>
+      <category domain="tag"><![CDATA[Kalshi]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale]]></title>
       <link>https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d7547a7b55a45fba2e93597a31f6a8893d945b6a-1920x1080.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">66afec93-965c-48b6-82c7-0e83723006a3</guid>
@@ -182,13 +246,14 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin breaks lower from recent trading range, sliding back to $81,000]]></title>
+      <title><![CDATA[Live updates: Bitcoin pulls off worst levels late in Thursday session]]></title>
       <link>https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify</link>
       <guid isPermaLink="false">4111a5ec-5790-4c83-bdb4-348eb18f6767</guid>
       <pubDate>Thu, 08 Oct 2026 10:44:47 +0000</pubDate>
-      <description><![CDATA[Rising Treasury yields, surging energy prices and a stronger dollar weigh on bitcoin and tech, while silver falls below $59 an ounce.]]></description>
+      <description><![CDATA[Crypto markets tumbled on Thursday, with cryptography fears, rising oil prices and interest rates, and the one-year anniversary of last October's flash crash on traders' radar.]]></description>
       <dc:creator>James Van Straten</dc:creator>
       <dc:creator>Stephen Alpher</dc:creator>
+      <dc:creator>Helene Braun</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
@@ -321,68 +386,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto news site Cointelegraph seeks buyer after web traffic plunges]]></title>
-      <link>https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/69ed00cb4ec4e063082ec14eff25a2ceaf999315-1500x901.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">a0faa340-9549-45fe-87d2-981c1c3e5306</guid>
-      <pubDate>Thu, 08 Oct 2026 00:35:24 +0000</pubDate>
-      <description><![CDATA[The amount of money the crypto media firm has been shopping itself for was not revealed.]]></description>
-      <dc:creator>Ian Allison</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Exclusive]]></category>
-      <category domain="tag"><![CDATA[Breaking News]]></category>
-      <category domain="tag"><![CDATA[Cointelegraph]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity]]></title>
-      <link>https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ed683cdb87684e6ca349d6f2efd15060d7dd27d5-5196x3464.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">cdc6c035-b1d1-4990-b252-92453c30b540</guid>
-      <pubDate>Wed, 07 Oct 2026 18:59:32 +0000</pubDate>
-      <description><![CDATA[The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.]]></description>
-      <dc:creator>Will Canny</dc:creator>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Payward]]></category>
-      <category domain="tag"><![CDATA[Exclusive]]></category>
-      <category domain="tag"><![CDATA[Prime Broker]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers]]></title>
-      <link>https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/668ddf0a6700461c079e904e028b81fb43904882-2044x1150.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">7be655cb-9767-4d4e-ac3a-396a8d739e58</guid>
-      <pubDate>Wed, 07 Oct 2026 16:30:00 +0000</pubDate>
-      <description><![CDATA[Polygon said businesses can also move the world’s largest stablecoin USDT between TRON and EVM networks without connecting to a wallet provider, bridge or fiat-ramp operator.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Tron]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next]]></title>
-      <link>https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8c477c3bc88480959211472435364f3324b766b4-4000x3000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">ea308241-aa8a-45cf-9829-c748a13a8c71</guid>
-      <pubDate>Wed, 07 Oct 2026 15:13:15 +0000</pubDate>
-      <description><![CDATA[Gate rebrands around Gate Money, which combines accounts, asset conversion, savings and card payments as the exchange broadens beyond its trading base.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Crypto Trading]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

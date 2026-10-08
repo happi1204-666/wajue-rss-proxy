@@ -7,14 +7,18 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-08T17:19:38Z</dc:date>
+  <dc:date>2026-10-08T22:15:22Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-suspends-microsoft-adobe-from-filing-for-green-cards/a-79605053?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-prosecutors-add-new-torture-charge-against-maduro/a-79588019?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/how-the-houthi-conflict-is-affecting-countries-along-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rodrigo-duterte-ruled-fit-to-stand-trial-by-icc-judges/a-79599372?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +34,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden-aims-to-enhance-germany-s-defense-capabilities/a-79561414?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-the-eu/a-79584530?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-all-1573-rdf"/>
@@ -82,8 +85,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-debates-alleged-antisemitism-in-the-left-party/a-79493282?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/senegal-s-youth-olympics-makes-olympics-in-africa-logical/a-79468975?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/servers-at-munich-s-iconic-oktoberfest-call-for-more-respect/a-79491207?maca=en-rss-en-all-1573-rdf"/>
@@ -146,7 +147,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/corals-as-climate-archive-are-el-nino-events-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-end-of-an-era-as-goethe-institut-in-russia-closes/a-79224321?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/how-celine-dion-became-a-pop-culture-icon-across-generations/a-79213779?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-we-re-still-looking-for-dark-matter/a-79189395?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/conspiracy-theories-can-provide-answers-but-not-peace/a-79022756?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-billion-euro-trade-driving-europe-s-eels-to-extinction/a-78523145?maca=en-rss-en-all-1573-rdf"/>
@@ -159,10 +159,46 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-rdf">
+  <title>Afghan women facing arrest for dress code violations: UN</title>
+  <link>https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-rdf</link>
+  <description>In recent months, the Taliban authorities in Afghanistan have arrested or detained dozens of women for alleged violations of dress codes and for appearing in public without a male guardian.</description>
+  <dc:date>2026-10-08T20:37:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79605758</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-suspends-microsoft-adobe-from-filing-for-green-cards/a-79605053?maca=en-rss-en-all-1573-rdf">
+  <title>US suspends Microsoft, Adobe from filing for green cards</title>
+  <link>https://www.dw.com/en/us-suspends-microsoft-adobe-from-filing-for-green-cards/a-79605053?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Trump administration cut off tech firms, including Microsoft and Adobe, from filing for green cards for their foreign workers.</description>
+  <dc:date>2026-10-08T20:04:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79605053</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf">
+  <title>South Africa: Anti-migrant protests turn violent</title>
+  <link>https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf</link>
+  <description>A court order requiring the government to resume processing asylum applications reignited violent protests against immigration in South Africa.</description>
+  <dc:date>2026-10-08T18:42:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79605037</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-rdf">
+  <title>US will not resume strikes on Iran before midterms — Trump</title>
+  <link>https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-rdf</link>
+  <description>President Donald Trump said the US will not resume strikes on Iran before the midterm elections on November 3. High gas and grocery prices are top concerns for voters.</description>
+  <dc:date>2026-10-08T18:18:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79603731</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf">
   <title>France: Police clash with protesters at Paris student rally</title>
   <link>https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf</link>
-  <description>Police fired tear gas and used batons against protesters in Paris again as students continue to voice their grievances about school conditions across France.</description>
+  <description>Police fired tear gas at protesters in Paris again as students continue to voice grievances about school conditions across France. The education minister has said 3,000 substitute teachers will reach schools soon.</description>
   <dc:date>2026-10-08T17:10:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -186,10 +222,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79599615</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/how-the-houthi-conflict-is-affecting-countries-along-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf">
-  <title>How the Houthi conflict is affecting countries along Africa&apos;s Red Sea coast — and beyond</title>
-  <link>https://www.dw.com/en/how-the-houthi-conflict-is-affecting-countries-along-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf</link>
-  <description>The latest escalation in the Middle East is taking place just a few kilometers off the coast of Africa, at the Bab el-Mandeb Strait. Djibouti and its neighbors are particularly exposed.</description>
+ <item rdf:about="https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf">
+  <title>How the Houthi-Saudi conflict is affecting countries on Africa&apos;s Red Sea coast — and beyond</title>
+  <link>https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.</description>
   <dc:date>2026-10-08T16:11:00Z</dc:date>
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
@@ -252,7 +288,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: UK&apos;s Burnham visits Berlin for talks with Merz</title>
   <link>https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf</link>
-  <description>UK Prime Minister Andy Burnham is visiting Berlin to launch a new bilateral treaty and hold talks with Chancellor Friedrich Merz. President Steinmeier is on a state visit to France. DW has more.</description>
+  <description>UK Prime Minister Andy Burnham is visiting Berlin to launch a new bilateral treaty and hold talks with Chancellor Friedrich Merz. President Steinmeier is on a state visit to France.</description>
   <dc:date>2026-10-08T13:23:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -329,15 +365,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79582503</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine says 30 killed, 18 wounded in Russian attack on passenger buses in Kramatorsk</title>
-  <link>https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf</link>
-  <description>Authorities in the eastern Ukrainian city of Kramatorsk have suspended public transport following the deadly attack near the front line.</description>
-  <dc:date>2026-10-08T10:30:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79592331</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden-aims-to-enhance-germany-s-defense-capabilities/a-79561414?maca=en-rss-en-all-1573-rdf">
   <title>German Bundeswehr: A new naval port in Emden aims to enhance Germany&apos;s defense capabilities</title>
@@ -797,24 +824,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79496180</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-rdf">
-  <title>France: Hundreds arrested as student protests escalate</title>
-  <link>https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-rdf</link>
-  <description>Student protests have grown in scale and intensity, with violent clashes in some places leading to hundreds of arrests and dozens of injuries.</description>
-  <dc:date>2026-09-30T23:02:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79495633</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf">
-  <title>Five EU states plan first deportation center in Africa for 2027</title>
-  <link>https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf</link>
-  <description>Greece, Germany, Austria, Denmark and the Netherlands are moving forward with plans to establish deportation centers for rejected asylum seekers outside the EU.</description>
-  <dc:date>2026-09-30T19:16:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79490162</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-debates-alleged-antisemitism-in-the-left-party/a-79493282?maca=en-rss-en-all-1573-rdf">
   <title>Germany debates alleged antisemitism in the Left Party</title>
@@ -1373,15 +1382,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79224321</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/how-celine-dion-became-a-pop-culture-icon-across-generations/a-79213779?maca=en-rss-en-all-1573-rdf">
-  <title>How Celine Dion became a pop culture icon across generations</title>
-  <link>https://www.dw.com/en/how-celine-dion-became-a-pop-culture-icon-across-generations/a-79213779?maca=en-rss-en-all-1573-rdf</link>
-  <description>As the global star kicks off her anticipated Paris residency, here&apos;s how Celine Dion managed to gain younger followers while keeping her loyal older fans.</description>
-  <dc:date>2026-09-10T13:51:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79213779</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/why-we-re-still-looking-for-dark-matter/a-79189395?maca=en-rss-en-all-1573-rdf">
   <title>Why we&apos;re still looking for dark matter</title>
