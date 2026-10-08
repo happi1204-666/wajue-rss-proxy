@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 22:37:39 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 21:44:31 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:30:00 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 02:23:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -64,7 +64,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html" rel="standout"></atom:link>
       <description>Gali and Ziv Berman were taken hostage when their kibbutz was attacked on Oct. 7, 2023. They were freed a year ago but are still adjusting to freedom and trying to rebuild their lives.</description>
       <dc:creator>Avishag Shaar-Yashuv and Isabel Kershner</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 13:29:26 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:00:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kibbutz Movement</category>
@@ -203,7 +203,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html" rel="standout"></atom:link>
       <description>The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.</description>
       <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 09:06:15 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:22:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
@@ -328,8 +328,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html" rel="standout"></atom:link>
       <description>The Saudi government said the dead included two women and a Sudanese man, and that its capital’s airport was hit. A Houthi spokesman said the militia had attacked the airports.</description>
-      <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 20:40:12 +0000</pubDate>
+      <dc:creator>Pranav Baskar, Eric Schmitt and Salman Masood</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 23:03:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
@@ -1026,13 +1026,13 @@
       <atom:link href="https://www.nytimes.com/2026/10/05/obituaries/cheikh-hamidou-dead.html" rel="standout"></atom:link>
       <description>The Senegalese writer was lauded as one of the founding fathers of African literature who subtly captured the shock of colonization from the perspective of the continent’s people.</description>
       <dc:creator>Adam Nossiter</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 13:55:46 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 13:55:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Senegal</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kane, Cheikh Hamidou (1928-2026)</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/05/obituaries/05obit-KANE-top/05obit-KANE-top-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/08/obituaries/05obit-KANE-top-print1/05obit-KANE-top-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sophie Bassouls/Bridgeman</media:credit>
       <media:description>Cheikh Hamidou Kane in 2011. Mr. Kane subtly captured the shock of colonization from the perspective of the African people.</media:description>
     </item>

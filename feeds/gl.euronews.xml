@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Wed, 07 Oct 2026 23:04:13 +0200</lastBuildDate>
-  <pubDate>Wed, 07 Oct 2026 23:04:13 +0200</pubDate>
+  <lastBuildDate>Thu, 08 Oct 2026 00:45:15 +0200</lastBuildDate>
+  <pubDate>Thu, 08 Oct 2026 00:45:15 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Russian man who swam from Kaliningrad to Lithuania in asylum attempt sentenced to six years hard labour</title>
+   <link>https://www.euronews.com/2026/10/08/russian-man-who-swam-from-kaliningrad-to-lithuania-in-asylum-attempt-sentenced-to-six-year</link>
+   <guid>https://www.euronews.com/2026/10/08/russian-man-who-swam-from-kaliningrad-to-lithuania-in-asylum-attempt-sentenced-to-six-year</guid>
+   <pubDate>Thu, 08 Oct 2026 00:45:15 +0200</pubDate>
+   <description>A 68-year-old Russian man who swam across the Nemunas River from Russia's Kaliningrad exclave into neighbouring Lithuania in an attempt to seek asylum has been sentenced to six years in a strict-regime penal colony in Russia for &quot;publicly justifying terrorism.&quot;</description>
+  </item>
   <item>
    <title>French prime minister says government not indifferent to students' concerns in TV address</title>
    <link>https://www.euronews.com/2026/10/07/french-prime-minister-says-government-not-indifferent-to-students-concerns-in-tv-address</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/10/07/eu-to-put-energy-security-at-heart-of-cop31-push-for-faster-green-transition</guid>
    <pubDate>Wed, 07 Oct 2026 12:33:54 +0200</pubDate>
    <description>EU ministers are set to confirm their commitment to the green transition despite soaring energy prices and supply concerns, according to a draft COP31 position seen by Euronews.</description>
-  </item>
-  <item>
-   <title>İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition</title>
-   <link>https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition</link>
-   <guid>https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition</guid>
-   <pubDate>Wed, 07 Oct 2026 12:12:10 +0200</pubDate>
-   <description>Cemil Tugay, who won İzmir for the CHP with a 314,000-vote margin in 2024, received his AK Party badge from Erdoğan in Ankara on Wednesday, ending 27 years of centre-left rule in Turkey's third-largest city.</description>
   </item>
  </channel>
 </rss>

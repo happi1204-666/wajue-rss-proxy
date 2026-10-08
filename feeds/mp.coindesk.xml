@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:37:30 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Crypto news site Cointelegraph seeks buyer after web traffic plunges]]></title>
+      <link>https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/69ed00cb4ec4e063082ec14eff25a2ceaf999315-1500x901.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">a0faa340-9549-45fe-87d2-981c1c3e5306</guid>
+      <pubDate>Thu, 08 Oct 2026 00:35:24 +0000</pubDate>
+      <description><![CDATA[The amount of money the crypto media firm has been shopping itself for was not revealed.]]></description>
+      <dc:creator>Ian Allison</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Exclusive]]></category>
+      <category domain="tag"><![CDATA[Breaking News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity]]></title>
       <link>https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity</link>
@@ -372,21 +387,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Ethereum News]]></category>
       <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme]]></title>
-      <link>https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ac4dbd7392625e4b7d80a9d014d051d307a4d10c-3681x2071.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">3e345b60-a07b-4830-9280-402ab2b9c0c4</guid>
-      <pubDate>Tue, 06 Oct 2026 12:31:51 +0000</pubDate>
-      <description><![CDATA[Adam Iza’s sentence runs concurrently with a 15-year term imposed last month for his role in an attempted bitcoin robbery.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Fraud]]></category>
-      <category domain="tag"><![CDATA[Crime]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

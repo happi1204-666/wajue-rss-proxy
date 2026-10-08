@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-07T22:40:25Z</dc:date>
+  <dc:date>2026-10-08T02:29:01Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/imf-reaches-tentative-1-21-billion-bailout-deal-with-pakistan/a-79587047?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-rdf"/>
@@ -81,7 +83,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ireland-will-boycott-eurovision-again-because-of-israel-s-participation-but-the-song-contest-is-still-expanding/a-79401752?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-volkswagen-ends-collective-wage-agreements/live-79481802?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed/a-79473714?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/south-park-satirist-pushes-for-accountability-in-cornell-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-all-1573-rdf"/>
@@ -126,7 +127,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/klopp-wants-germany-s-football-team-to-reclaim-the-flag/a-79307610?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/jews-once-lived-lived-here-when-houses-tell-stories/a-79264813?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/jürgen-klopp-s-first-germany-squad-includes-44-players/a-79289254?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/saint-sinner-or-feminist-icon-how-mary-magdalene-s-image-evolved-through-time/a-79293868?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/global-gender-gap-report-women-s-hard-won-gains-fragile/a-79280086?maca=en-rss-en-all-1573-rdf"/>
@@ -158,6 +158,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/imf-reaches-tentative-1-21-billion-bailout-deal-with-pakistan/a-79587047?maca=en-rss-en-all-1573-rdf">
+  <title>IMF reaches tentative $1.21 billion bailout deal with Pakistan</title>
+  <link>https://www.dw.com/en/imf-reaches-tentative-1-21-billion-bailout-deal-with-pakistan/a-79587047?maca=en-rss-en-all-1573-rdf</link>
+  <description>Pakistan&apos;s dependence on Gulf energy imports, remittances and regional financing has left the economy exposed to the fallout from the Middle East conflict.</description>
+  <dc:date>2026-10-08T02:24:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79587047</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf">
+  <title>Brazil: Thousands of students march against Bolsonaro</title>
+  <link>https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf</link>
+  <description>After Flavio Bolsonaro came out on top in the first round of Brazil&apos;s presidential election, thousands of people joined student-led protests against the far-right in Rio de Janeiro.</description>
+  <dc:date>2026-10-08T00:50:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79586626</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf">
   <title>Christa Pike &apos;angry and confused&apos; after botched execution</title>
   <link>https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf</link>
@@ -233,7 +251,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Merz rails against extremism, AfD sympathizers</title>
   <link>https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-all-1573-rdf</link>
-  <description>Political extremism threatens Germany&apos;s existing social order, Chancellor Merz has said. The Transport Ministry has proposed a five-year plan to improve Germany&apos;s ailing railroad infrastructure. DW has more.</description>
+  <description>Political extremism threatens Germany&apos;s existing social order, Chancellor Merz has said. The Transport Ministry has proposed a five-year plan to improve Germany&apos;s ailing railroad infrastructure.</description>
   <dc:date>2026-10-07T15:17:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -788,15 +806,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79430945</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed/a-79473714?maca=en-rss-en-all-1573-rdf">
-  <title>Hungary&apos;s reckoning with Orban&apos;s corrupt system picks up speed</title>
-  <link>https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed/a-79473714?maca=en-rss-en-all-1573-rdf</link>
-  <description>Hungary&apos;s Prime Minister Peter Magyar vowed to dismantle Orban&apos;s corrupt networks. High-profile figures are being arrested and many Hungarians are pushing for swift accountability, but the rule of law takes time.</description>
-  <dc:date>2026-09-30T04:37:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79473714</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/south-park-satirist-pushes-for-accountability-in-cornell-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-rdf">
   <title>South Park satirist pushes for accountability in Cornell gang-rape lawsuit</title>
   <link>https://www.dw.com/en/south-park-satirist-pushes-for-accountability-in-cornell-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-rdf</link>
@@ -1192,15 +1201,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79264813</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/jürgen-klopp-s-first-germany-squad-includes-44-players/a-79289254?maca=en-rss-en-all-1573-rdf">
-  <title>Jürgen Klopp&apos;s first Germany squad includes 44 players</title>
-  <link>https://www.dw.com/en/jürgen-klopp-s-first-germany-squad-includes-44-players/a-79289254?maca=en-rss-en-all-1573-rdf</link>
-  <description>Germany&apos;s new head coach Jürgen Klopp has named a huge squad for his first four games, splitting them into two groups. A host of new faces is included.</description>
-  <dc:date>2026-09-17T08:50:00Z</dc:date>
-  <dc:subject>Sports</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79289254</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/saint-sinner-or-feminist-icon-how-mary-magdalene-s-image-evolved-through-time/a-79293868?maca=en-rss-en-all-1573-rdf">
   <title>Saint, sinner or feminist icon: How Mary Magdalene&apos;s image evolved through time</title>
