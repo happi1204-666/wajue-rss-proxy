@@ -9,11 +9,36 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 09:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 16:26:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Prize-winning image which sparked backlash was AI-generated, Nikon rules]]></title>
+            <description><![CDATA[The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr86z33pdy9vo#0</guid>
+            <pubDate>Fri, 09 Oct 2026 15:32:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic bans users from being 'cruel' to its AI systems]]></title>
+            <description><![CDATA[The firm said users can no longer engage in "sustained and needless" abusive behaviour towards the tech.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#0</guid>
+            <pubDate>Fri, 09 Oct 2026 12:34:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fired OpenAI researchers say they were let go for 'prioritising safety']]></title>
+            <description><![CDATA[The AI firm instead claims the researchers were fired for mishandling sensitive information.
+]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo#0</guid>
+            <pubDate>Fri, 09 Oct 2026 09:30:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0e/live/a2f6be20-c3c1-11f1-9798-abffda1e61e7.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen]]></title>
             <description><![CDATA[Firmus said it had made the decision due to "recent market volatility and prevailing market conditions".]]></description>
@@ -93,30 +118,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3vqxldglepo#0</guid>
             <pubDate>Tue, 06 Oct 2026 23:01:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb59/live/11c39bd0-be71-11f1-8a45-cd59664d243b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asos confirms hackers sent 'unauthorised' notification to app users]]></title>
-            <description><![CDATA[Asos confirmed an "unauthorised customer notification" was sent out via its app on Tuesday, after users raised alarm.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#0</guid>
-            <pubDate>Tue, 06 Oct 2026 17:50:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebee/live/d275dfa0-c218-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Finland orders halt to work on two Google data centres]]></title>
-            <description><![CDATA[The order affecting two planned data centres follows concerns over forest clearance.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o#0</guid>
-            <pubDate>Tue, 06 Oct 2026 17:15:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8809/live/12b85c00-c1a6-11f1-8fa2-19a1e9b6288f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Italian PM files to trademark her voice against AI threats]]></title>
-            <description><![CDATA[Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo#0</guid>
-            <pubDate>Tue, 06 Oct 2026 11:24:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc57/live/ceb63ea0-c15f-11f1-ae7b-cfc528a6c828.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
