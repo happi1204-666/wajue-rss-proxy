@@ -7,21 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 16:22:08 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 16:06:00 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:07:52 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 20:51:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Live Updates: Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize</title>
+      <title>Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize</title>
       <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026</guid>
       <atom:link href="https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026" rel="standout"></atom:link>
       <description>Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli government rejected.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 16:06:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 19:57:52 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-promo-1145a-cljm/09nobel-promo-1145a-cljm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Karmann/DPA, via Associated Press</media:credit>
     </item>
@@ -90,6 +90,54 @@
       <media:content height="1691" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08europe-hybrid-01-jwfg/08europe-hybrid-01-jwfg-mediumSquareAt3X.jpg" width="1691"></media:content>
       <media:credit>Axel Schmidt/Reuters</media:credit>
       <media:description>Gathering evidence at the Leipzig-Halle airport, Germany, in August after an explosive-laden drone was found. </media:description>
+    </item>
+    <item>
+      <title>Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say</title>
+      <link>https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html" rel="standout"></atom:link>
+      <description>The attorney general of the United Arab Emirates said that the co-pilot had been inspired by the Sept. 11 attacks after  years of developing extreme Islamist views.</description>
+      <dc:creator>Pranav Baskar</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 20:08:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Hammami, Hamam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-uae-flydubai-1-fctk/09int-uae-flydubai-1-fctk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ammar Awad/Reuters</media:credit>
+      <media:description>Emirati investigators said that the co-pilot in the FlyDubai flight had intended to crash into Ben Gurion Airport in Tel Aviv “with the aim of causing the greatest possible loss of life.”</media:description>
+    </item>
+    <item>
+      <title>Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay</title>
+      <link>https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay-un-genocide-report-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay-un-genocide-report-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay-un-genocide-report-israel.html" rel="standout"></atom:link>
+      <description>Ms. Pillay, a human rights lawyer, was drawn into the international spotlight last year as chair of a commission that found that Israel had committed genocide in Gaza.</description>
+      <dc:creator>Johnatan Reiss</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 16:40:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pillay, Navi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Danon, Danny (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Court of Justice (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Nobel Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-gaza-report-fhcj/09nobel-gaza-report-fhcj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saher Alghorra for The New York Times</media:credit>
+      <media:description>Palestinians waiting for food distribution in Gaza City last year.</media:description>
     </item>
     <item>
       <title>Nobel Peace Prize Choice Amounts to Implicit Rebuke of Trump</title>
@@ -236,28 +284,6 @@
       <media:description>A student attacking the police in Paris during the May 1968 student uprising.</media:description>
     </item>
     <item>
-      <title>Labour Holds Off Green Party in Election for Starmer’s Former London Seat</title>
-      <link>https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html" rel="standout"></atom:link>
-      <description>Sagal Abdi-Wali won a special election in central London that was seen as an early test for Prime Minister Andy Burnham.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 10:24:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green Party (Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdi-Wali, Sagal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polanski, Zack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-uk-election-1-hblj/09int-uk-election-1-hblj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Peter Nicholls/Getty Images</media:credit>
-      <media:description>Labour’s candidate Sagal Abdi-Wali takes a selfie with supporters during her campaign launch in London last month.</media:description>
-    </item>
-    <item>
       <title>India’s Young Put Their Bodies on the Line to Be Heard</title>
       <link>https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html</guid>
@@ -279,33 +305,91 @@
       <media:credit>Adnan Abidi/Reuters</media:credit>
     </item>
     <item>
-      <title>French Student Protests Continue as Government Seeks Way Out of Crisis</title>
-      <link>https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html" rel="standout"></atom:link>
-      <description>Mass protests over decrepit schools and absent teachers are in their third week, with more planned. Officials have failed so far to quell a movement drawing many adult supporters.</description>
-      <dc:creator>Catherine Porter, Mark Landler and Ségolène Le Stradic</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 19:31:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08int-france-protest-leadall-vphg/08int-france-protest-leadall-vphg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stephane Mahe/Reuters</media:credit>
-      <media:description>Protesters in Nantes, France, clashed with the police on Thursday as part of a wave of demonstrations across the country.</media:description>
+      <title>Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia</title>
+      <link>https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html" rel="standout"></atom:link>
+      <description>Government planes reported to be carrying the Russian president and his aides home from Turkmenistan were forced to circle or divert to another city.</description>
+      <dc:creator>Paul Sonne</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 20:15:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Petersburg (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkmenistan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-russia-putin-hfbw/09int-russia-putin-hfbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gavriil Grigorov/Sputnik, via Reuters</media:credit>
+      <media:description>A photo released by state media on Friday showing President Vladimir Putin of Russia in Turkmenbashi.</media:description>
+    </item>
+    <item>
+      <title>7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks</title>
+      <link>https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html" rel="standout"></atom:link>
+      <description>The quake, which had a preliminary magnitude of 7.7, was centered in the country’s southern region. Authorities canceled a tsunami alert for the region.</description>
+      <dc:creator>Mark Walker and James Wagner</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 20:51:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tidal Waves and Tsunamis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama City (Panama)</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v12.jpeg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize</title>
+      <link>https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html" rel="standout"></atom:link>
+      <description>The choice drew condemnation from Israel over Ms. Pillay’s role leading a U.N. commission that said the country had committed genocide against Palestinians.</description>
+      <dc:creator>Zane Irwin</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 18:26:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apartheid (Policy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Nobel Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-nobel-leadall-plzh/09int-nobel-leadall-plzh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Karmann/DPA, via Associated Press</media:credit>
+      <media:description>Navi Pillay in Nuremberg, Germany, on Friday.</media:description>
+    </item>
+    <item>
+      <title>30,000 Bottles of Italian Red Wine Stolen in Brazen Tuscan Heist</title>
+      <link>https://www.nytimes.com/2026/10/09/world/europe/wine-heist-italy-marchesi-antinori.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/wine-heist-italy-marchesi-antinori.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/wine-heist-italy-marchesi-antinori.html" rel="standout"></atom:link>
+      <description>As many as 10 men made off with more than $5 million of first-rate Italian red wine.</description>
+      <dc:creator>Victor Mather</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 17:33:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marchesi Antinori Srl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cortona (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tuscany (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
     </item>
     <item>
       <title>Trump Administration Hits International Criminal Court With Severe Sanctions</title>
       <link>https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html" rel="standout"></atom:link>
-      <description>U.S. officials announced new punishments aimed at the court, just hours after the Nobel Peace Prize committee gave its annual honor to a former court judge.</description>
+      <description>U.S. officials announced the new, sweeping punishments just hours after the Nobel Peace Prize committee gave its annual honor to a former court judge.</description>
       <dc:creator>Edward Wong and Jeanna Smialek</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 15:23:16 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 17:51:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
@@ -326,6 +410,14 @@
       <description></description>
       <dc:creator>Jonathan Wolfe</dc:creator>
       <pubDate>Fri, 09 Oct 2026 15:23:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pillay, Navi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apartheid (Policy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Court of Justice (UN)</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-biography-jfgh/09nobel-biography-jfgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Frank Boxler/Agence France-Presse — Getty Images</media:credit>
       <media:description>Navi Pillay received the news that she had been awarded the 2026 Nobel Peace Prize on Friday while atttending an annual conference of human rights lawyers and judges in Nuremberg, Germany.</media:description>
@@ -369,6 +461,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milgrom, Paul Robert</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mokyr, Joel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramsdell, Frederick J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-peace-prize-when-notified-vfkw/09nobel-peace-prize-when-notified-vfkw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
       <media:description>The winners of the Nobel Prizes remain a secret, even to the winners themselves until shortly before the public announcement.</media:description>
@@ -458,6 +551,28 @@
       <pubDate>Fri, 09 Oct 2026 15:01:49 +0000</pubDate>
     </item>
     <item>
+      <title>Labour Holds Off Green Party in Election for Starmer’s Former London Seat</title>
+      <link>https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html" rel="standout"></atom:link>
+      <description>Sagal Abdi-Wali won a special election in central London that was seen as an early test for Prime Minister Andy Burnham.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 10:24:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green Party (Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdi-Wali, Sagal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polanski, Zack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-uk-election-1-hblj/09int-uk-election-1-hblj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Peter Nicholls/Getty Images</media:credit>
+      <media:description>Labour’s candidate Sagal Abdi-Wali takes a selfie with supporters during her campaign launch in London last month.</media:description>
+    </item>
+    <item>
       <title>Spain’s Protesters See ‘Madness’ of Rising Rent and a ‘Martyr’ in Maricarmen</title>
       <link>https://www.nytimes.com/2026/10/08/world/europe/spain-protests-maricarmen-housing.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/europe/spain-protests-maricarmen-housing.html</guid>
@@ -530,6 +645,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Secretaries, Stenographers and Typists</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>French Student Protests Continue as Government Seeks Way Out of Crisis</title>
+      <link>https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html" rel="standout"></atom:link>
+      <description>Mass protests over decrepit schools and absent teachers are in their third week, with more planned. Officials have failed so far to quell a movement drawing many adult supporters.</description>
+      <dc:creator>Catherine Porter, Mark Landler and Ségolène Le Stradic</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 19:31:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08int-france-protest-leadall-vphg/08int-france-protest-leadall-vphg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stephane Mahe/Reuters</media:credit>
+      <media:description>Protesters in Nantes, France, clashed with the police on Thursday as part of a wave of demonstrations across the country.</media:description>
     </item>
     <item>
       <title>Margaret Papandreou, American-Born First Lady of Greece, Dies at 102</title>
@@ -900,6 +1035,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milstein, David A (1989- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/multimedia/00int-usembassy-jerusalem-ltvc/00int-usembassy-jerusalem-ltvc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Go Nakamura/Reuters</media:credit>
       <media:description>David Milstein, a top official in the U.S. Embassy in Jerusalem, has been entrusted with much of the mission’s portfolio by Ambassador Mike Huckabee.</media:description>
@@ -979,7 +1115,7 @@
       <atom:link href="https://www.nytimes.com/video/world/asia/100000011164923/india-school-protests-gen-alpha.html" rel="standout"></atom:link>
       <description>India’s youngest students are staging sit-ins and protesting the run-down conditions of their schools, drawing inspiration from the Gen Z protests that roiled the country this summer.</description>
       <dc:creator>Nailah Morgan, Ahmer Khan and Jon Hazell</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 10:22:38 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:30:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -1004,115 +1140,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/ITALY-ELECTORAL-LAW-hfbv/ITALY-ELECTORAL-LAW-hfbv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Antonio Bronic/Reuters</media:credit>
       <media:description>Prime Minister Giorgia Meloni of Italy speaking on Wednesday at a summit meeting in Split, Croatia. She has set a record for leading Italy’s longest-serving government.</media:description>
-    </item>
-    <item>
-      <title>For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat</title>
-      <link>https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html" rel="standout"></atom:link>
-      <description>Far-left leaders are cheering on the students. Government officials accuse them of stirring up the unrest for political gain.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 14:45:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bagayoko, Bally</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08int-france-far-left-kpfg/08int-france-far-left-kpfg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Geoffroy Van Der Hasselt/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Jean-Luc Mélenchon at a demonstration in Paris on Tuesday. The protests have provided him with both opportunity and peril.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools/france-protests-unrest-students</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools/france-protests-unrest-students</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools/france-protests-unrest-students" rel="standout"></atom:link>
-      <description>French activists were set to rally across France on Thursday, in another test of whether a nationwide pro</description>
-      <dc:creator>Mark Landler, Ségolène Le Stradic and Catherine Porter</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 17:42:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yellow Vests Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-    </item>
-    <item>
-      <title>A Plague Mystery in Siberia</title>
-      <link>https://www.nytimes.com/2026/10/07/world/plague-siberia-russia-sports-betting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/plague-siberia-russia-sports-betting.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/07/world/plague-siberia-russia-sports-betting.html" rel="standout"></atom:link>
-      <description>The death of a Russian lab worker has spawned rumors. Here are the facts.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 05:06:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plague</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bubonic Plague</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Siberia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DraftKings Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Messi, Lionel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ronaldo, Cristiano</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08int-theworld-russia-plague-01-gkjq-promo/08int-theworld-russia-plague-01-gkjq-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tatyana Makeyeva/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A hospital in Shelekhov yesterday, where an employee of the Irkutsk Anti-Plague Research Institute died.</media:description>
-    </item>
-    <item>
-      <title>3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes</title>
-      <link>https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html" rel="standout"></atom:link>
-      <description>Residents of Saudi Arabia’s capital reported hearing booms on Thursday, a day after the Saudi government said two women and a Sudanese man died in strikes on two airports.</description>
-      <dc:creator>Pranav Baskar, Eric Schmitt and Salman Masood</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 08:33:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-saudi-attacks-1-hktz/07int-saudi-attacks-1-hktz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mohammed Huwais/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A poster showing the Houthi leader Abdul-Malik al-Houthi during a rally to recruit more fighters, in Sanaa, Yemen, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87</title>
-      <link>https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html" rel="standout"></atom:link>
-      <description>María del Carmen Abascal, aged and ailing, became a symbol of the country’s housing crisis when she was evicted two weeks ago, prompting mass protests and triggering national elections.</description>
-      <dc:creator>Carlos Barragán</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 14:11:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abascal, Maria del Carmen (Maricarmen) (d 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evictions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-spain-top-ztqj/07int-spain-top-ztqj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fernando Sanchez/Europa Press, via Getty Images</media:credit>
-      <media:description>María del Carmen Abascal packs a bag with her belongings in Madrid last month.</media:description>
     </item>
   </channel>
 </rss>

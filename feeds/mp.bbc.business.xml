@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 16:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 21:07:47 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin']]></title>
+            <description><![CDATA[Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm1dwgr666wno#0</guid>
+            <pubDate>Fri, 09 Oct 2026 20:32:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Burnham promises to curb non-compete rules in job contracts]]></title>
             <description><![CDATA[The prime minister says restrictions on what workers can do after leaving roles have "gone too far".]]></description>
@@ -35,8 +43,8 @@
             <description><![CDATA[The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv2d6x749lwro#0</guid>
-            <pubDate>Fri, 09 Oct 2026 04:55:14 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b1a/live/12929650-c32c-11f1-9981-cf94ea240e40.jpg"/>
+            <pubDate>Fri, 09 Oct 2026 19:32:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/146c/live/3ab50800-c33d-11f1-b521-0bbd7e4f1f2e.jpg"/>
         </item>
         <item>
             <title><![CDATA[I've been with my boyfriend for two years and don't know his salary]]></title>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="142" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc3/live/94309dd0-b36c-11f1-b1d1-571ed4d7ff2c.png"/>
         </item>
         <item>
-            <title><![CDATA[Anthropic bans users from being 'cruel' to its AI systems]]></title>
-            <description><![CDATA[The firm said users can no longer engage in "sustained and needless" abusive behaviour towards the tech.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#0</guid>
-            <pubDate>Fri, 09 Oct 2026 12:34:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Why are more roofs not made of solar tiles?]]></title>
             <description><![CDATA[Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?]]></description>
             <link>https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -63,10 +63,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Anthropic bans users from being 'cruel' to its AI systems]]></title>
+            <description><![CDATA[The firm said users can no longer engage in "sustained and needless" abusive behaviour towards the tech.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#0</guid>
+            <pubDate>Fri, 09 Oct 2026 12:34:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Add me on WhatsApp' scam calls to be investigated]]></title>
             <description><![CDATA[The UK's data watchdog is investigating a spike in complaints about "robo calls" that appear to lead to a recruitment scam.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo#1</guid>
             <pubDate>Thu, 08 Oct 2026 23:05:09 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c7c/live/774c4850-c31a-11f1-bd97-fbe5a3482cde.jpg"/>
         </item>
@@ -288,6 +296,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin']]></title>
+            <description><![CDATA[Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm1dwgr666wno#3</guid>
+            <pubDate>Fri, 09 Oct 2026 20:32:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump wants to reduce the cost of fuel as the midterms loom - will it work?]]></title>
+            <description><![CDATA[The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv2d6x749lwro#3</guid>
+            <pubDate>Fri, 09 Oct 2026 19:32:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/146c/live/3ab50800-c33d-11f1-b521-0bbd7e4f1f2e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[I've been with my boyfriend for two years and don't know his salary]]></title>
             <description><![CDATA[Talking about salary, spending habits and debt can be some of dating's trickier conversations.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -304,28 +328,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a53/live/ef8a7b40-c331-11f1-9981-cf94ea240e40.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trump wants to reduce the cost of fuel as the midterms loom - will it work?]]></title>
-            <description><![CDATA[The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv2d6x749lwro#3</guid>
-            <pubDate>Fri, 09 Oct 2026 04:55:14 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b1a/live/12929650-c32c-11f1-9981-cf94ea240e40.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Protesters blame 'vulture funds' for Spain's housing crisis]]></title>
             <description><![CDATA[Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3j4790elkx7o#3</guid>
             <pubDate>Thu, 08 Oct 2026 19:10:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6230/live/587d61f0-c353-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How soon into dating do you talk about your salary?]]></title>
-            <description><![CDATA[You've met someone and it's going well so far. But bringing up how much you both earn can be a tricky conversation.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cry4x353vz2eo#3</guid>
-            <pubDate>Thu, 08 Oct 2026 18:26:41 GMT</pubDate>
-            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82fa/live/262b9f90-c0b6-11f1-babe-4199b0e7ccea.png"/>
         </item>
         <item>
             <title><![CDATA[My hometown shows that high streets have to change or die]]></title>
