@@ -9,17 +9,25 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 22:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 02:23:48 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Fort Hood shooter's execution by firing squad will be livestreamed, Pentagon says]]></title>
-            <description><![CDATA["We'll make sure that people are able to watch it," the US Defence Secretary Pete Hegseth said on Thursday.]]></description>
+            <title><![CDATA[Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison]]></title>
+            <description><![CDATA[Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgel9044vqeo#0</guid>
+            <pubDate>Thu, 08 Oct 2026 23:11:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094f/live/d71eb240-c34c-11f1-a323-895aa67440d0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says]]></title>
+            <description><![CDATA[The US Defence Secretary says the execution will be public, but a legal expert says the "unprecedented" decision is on "uncertain legal terrain".]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#0</guid>
-            <pubDate>Thu, 08 Oct 2026 21:55:22 GMT</pubDate>
+            <pubDate>Fri, 09 Oct 2026 01:25:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg"/>
         </item>
         <item>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690e/live/fcec4c60-c33a-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture]]></title>
-            <description><![CDATA[The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo#0</guid>
-            <pubDate>Thu, 08 Oct 2026 17:38:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd9/live/df938ae0-c329-11f1-9981-cf94ea240e40.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Protesters blame 'vulture funds' for Spain's housing crisis]]></title>
             <description><![CDATA[Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -69,6 +69,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4g1j54nepyo#0</guid>
             <pubDate>Thu, 08 Oct 2026 14:33:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1051/live/460511f0-c30b-11f1-babe-4199b0e7ccea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture]]></title>
+            <description><![CDATA[The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo#1</guid>
+            <pubDate>Thu, 08 Oct 2026 17:38:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd9/live/df938ae0-c329-11f1-9981-cf94ea240e40.jpg"/>
         </item>
         <item>
             <title><![CDATA[US deportations to African countries unlawful and exploit suffering, rights group says]]></title>
@@ -227,12 +235,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8e/live/f2a8e0a0-c2e1-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Former Venezuelan President Nicolás Maduro expected to face more charges this week]]></title>
-            <description><![CDATA[Federal prosecutors in New York filed an updated indictment on Thursday]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx62y37r1p8eo#1</guid>
-            <pubDate>Wed, 07 Oct 2026 22:50:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/194b/live/a826b5f0-c2e3-11f1-babe-4199b0e7ccea.jpg"/>
+            <title><![CDATA[Mark Zuckerberg has an image problem - so why is Meta's business booming?]]></title>
+            <description><![CDATA[A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo#2</guid>
+            <pubDate>Thu, 08 Oct 2026 23:14:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA['Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls]]></title>
@@ -265,14 +273,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5zjx7xx3487o#2</guid>
             <pubDate>Wed, 07 Oct 2026 16:00:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80cb/live/9b494cf0-c25f-11f1-babe-4199b0e7ccea.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Republican candidates walking a Trump tightrope]]></title>
-            <description><![CDATA[Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm93z74e0n9zo#2</guid>
-            <pubDate>Wed, 07 Oct 2026 05:00:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45a3/live/ce449040-c18f-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Why was the sign at the British consulate in East Jerusalem removed?]]></title>

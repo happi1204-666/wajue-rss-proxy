@@ -7,10 +7,14 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-08T22:15:22Z</dc:date>
+  <dc:date>2026-10-09T02:23:34Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/uk-two-latvian-men-arrested-for-breaking-into-raf-base/a-79606026?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-suspends-microsoft-adobe-from-filing-for-green-cards/a-79605053?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf"/>
@@ -27,9 +31,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/early-onset-cancer-rising-worldwide-causes-risk-prevention/a-79597097?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/south-korea-warns-of-ai-aided-hacking-after-bank-data-breaches/a-79592922?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/french-police-arrest-5-suspects-over-renoir-museum-theft/a-79595309?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf"/>
@@ -81,7 +83,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/klopp-wins-first-game-as-germany-coach-without-top-dogs/a-79508898?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180?maca=en-rss-en-all-1573-rdf"/>
@@ -147,9 +148,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/corals-as-climate-archive-are-el-nino-events-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-end-of-an-era-as-goethe-institut-in-russia-closes/a-79224321?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/why-we-re-still-looking-for-dark-matter/a-79189395?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/conspiracy-theories-can-provide-answers-but-not-peace/a-79022756?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/the-billion-euro-trade-driving-europe-s-eels-to-extinction/a-78523145?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -159,6 +157,42 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-rdf">
+  <title>Man injured after New York shooting involving ICE</title>
+  <link>https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-rdf</link>
+  <description>New York City Mayor Zohran Mamdani has condemned the incident and urged Donald Trump to end ICE actions in the city. The man was being treated at a nearby hospital, New York police said.</description>
+  <dc:date>2026-10-09T00:16:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79606159</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-rdf">
+  <title>US to livestream Fort Hood shooter&apos;s execution: Pentagon</title>
+  <link>https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-rdf</link>
+  <description>US Pentagon chief Pete Hegseth had said that Nidal Hasan would be executed by firing squad and that it would be done &quot;in public.&quot; Hasan&apos;s execution will be the first by the US military since 1961.</description>
+  <dc:date>2026-10-08T23:48:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79606395</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf">
+  <title>Ex-German Chancellor Schröder attends Putin&apos;s birthday bash</title>
+  <link>https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf</link>
+  <description>Former Chancellor Gerhard Schröder still maintains a friendship with Russian leader Vladimir Putin. Tensions are high between Germany and Russia as the invasion of Ukraine continues.</description>
+  <dc:date>2026-10-08T22:53:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79606017</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/uk-two-latvian-men-arrested-for-breaking-into-raf-base/a-79606026?maca=en-rss-en-all-1573-rdf">
+  <title>UK: Two Latvian men arrested for breaking into RAF base</title>
+  <link>https://www.dw.com/en/uk-two-latvian-men-arrested-for-breaking-into-raf-base/a-79606026?maca=en-rss-en-all-1573-rdf</link>
+  <description>The men were arrested for breaching a perimeter fence at a UK air base that houses US and NATO intelligence operations. The incident comes after an alleged terror plot at another air base in England was foiled recently.</description>
+  <dc:date>2026-10-08T22:19:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79606026</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-rdf">
   <title>Afghan women facing arrest for dress code violations: UN</title>
   <link>https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-rdf</link>
@@ -303,15 +337,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79592922</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Opposition doubles down against poll chief after detentions</title>
-  <link>https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-rdf</link>
-  <description>India&apos;s opposition alliance is gearing up for another day of protests after demonstrating lawmakers were detained for the second time. Meanwhile, India is seeking to repatriate its nationals working in Russian military.</description>
-  <dc:date>2026-10-08T12:16:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79587554</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf">
   <title>Security in the Black Sea region: is Bulgaria the weak link in Europe&apos;s defense against threats from Russia?</title>
   <link>https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf</link>
@@ -320,15 +345,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79592663</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/french-police-arrest-5-suspects-over-renoir-museum-theft/a-79595309?maca=en-rss-en-all-1573-rdf">
-  <title>French police arrest 5 suspects over Renoir museum theft</title>
-  <link>https://www.dw.com/en/french-police-arrest-5-suspects-over-renoir-museum-theft/a-79595309?maca=en-rss-en-all-1573-rdf</link>
-  <description>Thieves broke into the Renoir Museum on the French Riviera last month and made off with two paintings. The heist follows a string of high-profile robberies from European museums.</description>
-  <dc:date>2026-10-08T11:44:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79595309</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf">
   <title>How a multibillion-dollar oilfield has ignited the UK-Argentina feud over the Falklands</title>
@@ -788,15 +804,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79508898</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-rdf">
-  <title>Latvians head to the polls with Russia on their minds</title>
-  <link>https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-rdf</link>
-  <description>On October 3, Latvians will elect a new parliament with Russia looming large over the campaign. Security fears dominate the agenda, but so does a debate over the economic cost of cutting ties with Moscow.</description>
-  <dc:date>2026-10-01T17:57:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79477614</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-rdf">
   <title>Weakened US fuel-efficiency rules and promises of cheaper cars could see drivers pay higher running costs while also increasing carbon emissions.</title>
@@ -1382,32 +1389,5 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79224321</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/why-we-re-still-looking-for-dark-matter/a-79189395?maca=en-rss-en-all-1573-rdf">
-  <title>Why we&apos;re still looking for dark matter</title>
-  <link>https://www.dw.com/en/why-we-re-still-looking-for-dark-matter/a-79189395?maca=en-rss-en-all-1573-rdf</link>
-  <description>When physicists said they may have spotted evidence of dark matter almost 100 years after it was proposed as a theory, the internet lit up. Here&apos;s why we&apos;re searching for the thing that holds everything else together.</description>
-  <dc:date>2026-09-09T13:23:00Z</dc:date>
-  <dc:subject>Science</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79189395</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/conspiracy-theories-can-provide-answers-but-not-peace/a-79022756?maca=en-rss-en-all-1573-rdf">
-  <title>Conspiracy theories can provide answers but not peace</title>
-  <link>https://www.dw.com/en/conspiracy-theories-can-provide-answers-but-not-peace/a-79022756?maca=en-rss-en-all-1573-rdf</link>
-  <description>Twenty-five years after 9/11, conspiracy theories about the terrorist attacks persist. But even as an attempt to make sense of a tragedy, psychologists say the benefit in conspiracy ideation or belief is short-lived.</description>
-  <dc:date>2026-09-09T09:45:00Z</dc:date>
-  <dc:subject>Science</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79022756</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/the-billion-euro-trade-driving-europe-s-eels-to-extinction/a-78523145?maca=en-rss-en-all-1573-rdf">
-  <title>The billion-euro trade driving Europe&apos;s eels to extinction</title>
-  <link>https://www.dw.com/en/the-billion-euro-trade-driving-europe-s-eels-to-extinction/a-78523145?maca=en-rss-en-all-1573-rdf</link>
-  <description>Traffickers are making big bucks smuggling millions of critically endangered eels across continents, using suitcases on planes and legal loopholes to deliver them to dinnerplates. Where are the smuggling hotspots?</description>
-  <dc:date>2026-09-09T08:36:00Z</dc:date>
-  <dc:subject>Environment</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>78523145</dwsyn:contentID>
  </item>
 </rdf:RDF>

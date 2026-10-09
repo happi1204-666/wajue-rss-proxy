@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 22:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 02:23:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Why are more roofs not made of solar tiles?]]></title>
+            <description><![CDATA[Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdr7n610rmzo#0</guid>
+            <pubDate>Thu, 08 Oct 2026 23:09:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg"/>
+        </item>
         <item>
             <title><![CDATA[White House blocks Microsoft from foreign worker hiring program]]></title>
             <description><![CDATA[An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm86z9npj5deo#0</guid>
             <pubDate>Tue, 06 Oct 2026 07:03:35 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e41/live/98c51960-c0ba-11f1-9475-67b7bb314be1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon stops using Anthropic AI tools after blacklisting company, BBC told]]></title>
-            <description><![CDATA[It labelled Anthropic a "supply chain risk" in February after the firm refused to remove safety guardrails from its tools.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5j9x9pr0240o#0</guid>
-            <pubDate>Mon, 05 Oct 2026 16:13:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
