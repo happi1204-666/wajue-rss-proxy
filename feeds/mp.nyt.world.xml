@@ -7,13 +7,97 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 02:22:26 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 02:22:05 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:22:48 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 09:20:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Live Updates: Navi Pillay, Former U.N. Human Rights Commissioner, Wins Nobel Peace Prize</title>
+      <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026" rel="standout"></atom:link>
+      <description>Ms. Pillay, a South African lawyer, led an investigation that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli government rejected.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:20:06 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/arts/09nobel-header-winner/09nobel-header-winner-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
+      <media:description>South African judge Navi Pillay won the Nobel Peace prize on Friday.</media:description>
+    </item>
+    <item>
+      <title>As Putin Wages Shadow War, Europe Looks for a Way to Hit Back</title>
+      <link>https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html" rel="standout"></atom:link>
+      <description>Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 08:48:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chatham House (The Royal Institute of International Affairs)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for Strategic and International Studies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pistorius, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1691" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08europe-hybrid-01-jwfg/08europe-hybrid-01-jwfg-mediumSquareAt3X.jpg" width="1691"></media:content>
+      <media:credit>Axel Schmidt/Reuters</media:credit>
+      <media:description>Gathering evidence at the Leipzig-Halle airport, Germany, in August after an explosive-laden drone was found. </media:description>
+    </item>
+    <item>
+      <title>A Rural Village Voted to Leave the U.K., Stirring Britain’s Migration Debate</title>
+      <link>https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html" rel="standout"></atom:link>
+      <description>A plan to house 1,250 asylum seekers on the outskirts of Piddington prompted a symbolic independence vote, highlighting a growing dilemma for the government.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 04:01:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-UK-VILLAGE-IMMIGRATION-01-gvpz/06int-UK-VILLAGE-IMMIGRATION-01-gvpz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joe Giddens/Press Association, via Associated Press</media:credit>
+      <media:description>Local residents unveiled a “Principality of Piddington” sign in the village of Piddington, Oxfordshire, England, after they voted to become independent in a symbolic “referendum.”</media:description>
+    </item>
+    <item>
+      <title>Labour Holds Off Green Party in Election for Starmer’s Former London Seat</title>
+      <link>https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html" rel="standout"></atom:link>
+      <description>Sagal Abdi-Wali won a special election in central London that was seen as an early test for Prime Minister Andy Burnham, Keir Starmer’s successor.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 05:02:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green Party (Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polanski, Zack</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-uk-election-1-hblj/09int-uk-election-1-hblj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Peter Nicholls/Getty Images</media:credit>
+      <media:description>Labour’s candidate Sagal Abdi-Wali takes a selfie with supporters during her campaign launch in London last month.</media:description>
+    </item>
     <item>
       <title>French Student Protests Continue as Government Seeks Way Out of Crisis</title>
       <link>https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html</link>
@@ -214,92 +298,121 @@
       <media:description>A highway in the Saudi capital, Riyadh, in February. The Houthis have escalated their targeting of the city in recent days.</media:description>
     </item>
     <item>
-      <title>South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs</title>
-      <link>https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky of Ukraine revealed last month that two POWs defected to South Korea. South Korea accused him of breaking a confidentiality agreement.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 12:55:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <title>How the Epstein Files Forced the Nobel Peace Prize to Reckon With Impartiality</title>
+      <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/epstein-files-thorbjorn-jagland-committee</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/epstein-files-thorbjorn-jagland-committee</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/epstein-files-thorbjorn-jagland-committee" rel="standout"></atom:link>
+      <description>The five-person committee that hands out the award introduced ethics rules this year after a former member was linked to the convicted sex offender Jeffrey Epstein.</description>
+      <dc:creator>Lynsey Chutel and Henrik Pryser Libell</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:09:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisoners of War</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defectors (Political)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Jae-myung</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08int-skorea-ukraine-zmwg/08int-skorea-ukraine-zmwg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergei Supinsky/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Volodymyr Zelensky of Ukraine, who said last month that two North Korean soldiers had been transferred to South Korea, angering Seoul.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Nobel Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jagland, Thorbjorn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Juul, Mona (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mette-Marit, Crown Princess of Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brende, Borge (1965- )</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/arts/09nobel-peace-prize-committee-epstein/09nobel-peace-prize-committee-epstein-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eiko Junge/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Thorbjorn Jagland, former chairman of the Norwegian Nobel Committee, in Oslo in 2013. A tranche of emails released this year revealed ties between him and the convicted sex offender Jeffrey Epstein.</media:description>
     </item>
     <item>
-      <title>‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine</title>
-      <link>https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html" rel="standout"></atom:link>
-      <description>Middle-of-the-night evacuations and fears about death have become the norm for workers at Russian e-commerce companies targeted by Ukraine.</description>
-      <dc:creator>Paul Sonne, Anastasia Kuts and Milana Mazaeva</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 09:01:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wildberries OOO</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/world/01int-russia-wildberries-top-art-afpg/01int-russia-wildberries-top-art-afpg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>A warehouse for a Russian e-commerce company near St. Petersburg after it was hit by Ukrainian drones in July.</media:description>
-    </item>
-    <item>
-      <title>Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says</title>
-      <link>https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html" rel="standout"></atom:link>
-      <description>The cybersecurity firm said the attacker was likely a Chinese speaker and financially motivated, but did not attribute the attacks to a named individual or group.</description>
-      <dc:creator>Laura Chung and Pei-Lin Wu</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 09:53:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CrowdStrike Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08xp-crowdstrike-lfcb/08xp-crowdstrike-lfcb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Raphael Satter/Reuters</media:credit>
-      <media:description>CrowdStrike, a cybersecurity firm, said in a report on Wednesday that it had found evidence of the use of A.I. in the attacks.</media:description>
-    </item>
-    <item>
-      <title>Myanmar’s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.</title>
-      <link>https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html" rel="standout"></atom:link>
-      <description>After trading his military uniform for civilian clothes, Myanmar’s strongman president, U Min Aung Hlaing, is in Malaysia, his ninth stop on a search for international legitimacy.</description>
-      <dc:creator>Hannah Beech and Zunaira Saieed</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 16:13:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <title>France’s Long, Fervent History of Protest</title>
+      <link>https://www.nytimes.com/2026/10/09/world/europe/frances-long-fervent-history-of-protest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/frances-long-fervent-history-of-protest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/frances-long-fervent-history-of-protest.html" rel="standout"></atom:link>
+      <description>Student demonstrations in recent weeks re-lit a centuries-old torch of civil resistance. How do they compare to previous movements in France?</description>
+      <dc:creator>Zane Irwin</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:03:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ibrahim, Anwar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Min Aung Hlaing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of Southeast Asian Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08-int-malaysia-myanmar-01-jkct/08-int-malaysia-myanmar-01-jkct-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Azneal Ishak</media:credit>
-      <media:description>Myanmar’s U Min Aung Hlaing, left, and Prime Minister Anwar Ibrahim of Malaysia in Putrajaya, Malaysia, on Thursday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-france-protests-history-hwzk/09int-france-protests-history-hwzk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gamma-Keystone, via Getty Images</media:credit>
+      <media:description>A student attacking the police in Paris during the May 1968 student uprising.</media:description>
+    </item>
+    <item>
+      <title>In a Dead Hero’s Ashes, El Salvador’s Ruler Finds a New Spark</title>
+      <link>https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html" rel="standout"></atom:link>
+      <description>Sword in hand, Nayib Bukele is revamping Latin America’s rich tradition of political exhumations. A new crypt projects his power across Central America.</description>
+      <dc:creator>Simon Romero and Fred Ramos</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:02:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tombs and Tombstones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Hugo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Salvador (El Salvador)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09int-elsalvador-bukele-promo/09int-elsalvador-bukele-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fred Ramos for The New York Times</media:credit>
+      <media:description>A Salvadoran honor guard inside the new mausoleum of Francisco Morazán in San Salvador, the capital.</media:description>
+    </item>
+    <item>
+      <title>India’s Young Put Their Bodies on the Line to Be Heard</title>
+      <link>https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html" rel="standout"></atom:link>
+      <description>Despite police barricades and detentions, activists like Neha Bora say they are determined to keep up the pressure on Prime Minister Narendra Modi.</description>
+      <dc:creator>Mujib Mashal</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:02:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunger Strikes</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-india-crackdown-pzht/09int-india-crackdown-pzht-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adnan Abidi/Reuters</media:credit>
+    </item>
+    <item>
+      <title>New Delhi’s Crackdown on Protesters</title>
+      <link>https://www.nytimes.com/video/world/asia/100000011193986/india-protest-delhi-crackdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/asia/100000011193986/india-protest-delhi-crackdown.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/asia/100000011193986/india-protest-delhi-crackdown.html" rel="standout"></atom:link>
+      <description>The government in New Delhi is suppressing protests over the culling of 130 million names from India’s voter roll. Mujib Mashal, an India correspondent for The New York Times, reported from the heart of the demonstrations.</description>
+      <dc:creator>Mujib Mashal, Leila Medina, Coleman Lowndes and Shawn Paik</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:18:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+    </item>
+    <item>
+      <title>A Venezuelan opposition leader won the 2025 prize, setting off an unusual year.</title>
+      <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/a-venezuelan-opposition-leader-won-the-2025-prize-setting-off-an-unusual-year</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/a-venezuelan-opposition-leader-won-the-2025-prize-setting-off-an-unusual-year</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/a-venezuelan-opposition-leader-won-the-2025-prize-setting-off-an-unusual-year" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 08:16:07 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-peace-prize-2025-winner-wpzf/09nobel-peace-prize-2025-winner-wpzf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Odd Andersen/Agence France-Presse — Getty Images</media:credit>
+      <media:description>María Corina Machado, recipient of the 2025 Nobel Peace Prize, greeted supporters from a hotel balcony in Oslo, Norway, in 2025.</media:description>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:17:31 +0000</pubDate>
     </item>
     <item>
       <title>Spain’s Protesters See ‘Madness’ of Rising Rent and a ‘Martyr’ in Maricarmen</title>
@@ -327,7 +440,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/08/world/man-city-football-riyadh-houthis.html" rel="standout"></atom:link>
       <description>A conversation about the biggest financial scandal in football history.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 21:06:27 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 04:53:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Manchester City (Soccer Team)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Premier League</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
@@ -380,7 +493,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/08/world/europe/mussolini-corpse-photo.html" rel="standout"></atom:link>
       <description>It took a perilous trip through an Alpine blizzard to show the world the dictator was dead.</description>
       <dc:creator>Sarah Lyall</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 18:53:37 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 18:53:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
@@ -458,6 +571,94 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/00france-protest-stack-01-vkbc/00france-protest-stack-01-vkbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stephane Mahe/Reuters</media:credit>
       <media:description>Protesters in Nantes, France, clashed with the police on Thursday as part of a wave of demonstrations across the country.</media:description>
+    </item>
+    <item>
+      <title>South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs</title>
+      <link>https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html" rel="standout"></atom:link>
+      <description>President Volodymyr Zelensky of Ukraine revealed last month that two POWs defected to South Korea. South Korea accused him of breaking a confidentiality agreement.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 12:55:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisoners of War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defectors (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Jae-myung</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08int-skorea-ukraine-zmwg/08int-skorea-ukraine-zmwg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sergei Supinsky/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Volodymyr Zelensky of Ukraine, who said last month that two North Korean soldiers had been transferred to South Korea, angering Seoul.</media:description>
+    </item>
+    <item>
+      <title>Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says</title>
+      <link>https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html" rel="standout"></atom:link>
+      <description>The cybersecurity firm said the attacker was likely a Chinese speaker and financially motivated, but did not attribute the attacks to a named individual or group.</description>
+      <dc:creator>Laura Chung and Pei-Lin Wu</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 09:53:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CrowdStrike Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08xp-crowdstrike-lfcb/08xp-crowdstrike-lfcb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Raphael Satter/Reuters</media:credit>
+      <media:description>CrowdStrike, a cybersecurity firm, said in a report on Wednesday that it had found evidence of the use of A.I. in the attacks.</media:description>
+    </item>
+    <item>
+      <title>Myanmar’s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.</title>
+      <link>https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html" rel="standout"></atom:link>
+      <description>After trading his military uniform for civilian clothes, Myanmar’s strongman president, U Min Aung Hlaing, is in Malaysia, his ninth stop on a search for international legitimacy.</description>
+      <dc:creator>Hannah Beech and Zunaira Saieed</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 16:13:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ibrahim, Anwar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Min Aung Hlaing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of Southeast Asian Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08-int-malaysia-myanmar-01-jkct/08-int-malaysia-myanmar-01-jkct-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Azneal Ishak</media:credit>
+      <media:description>Myanmar’s U Min Aung Hlaing, left, and Prime Minister Anwar Ibrahim of Malaysia in Putrajaya, Malaysia, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine</title>
+      <link>https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html" rel="standout"></atom:link>
+      <description>Middle-of-the-night evacuations and fears about death have become the norm for workers at Russian e-commerce companies targeted by Ukraine.</description>
+      <dc:creator>Paul Sonne, Anastasia Kuts and Milana Mazaeva</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 09:01:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wildberries OOO</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/world/01int-russia-wildberries-top-art-afpg/01int-russia-wildberries-top-art-afpg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A warehouse for a Russian e-commerce company near St. Petersburg after it was hit by Ukrainian drones in July.</media:description>
     </item>
     <item>
       <title>At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land</title>
@@ -927,218 +1128,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/00int-malaysia-dark-fleet-04-kmgv/00int-malaysia-dark-fleet-04-kmgv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ore Huiying for The New York Times</media:credit>
       <media:description>Shahul Hamid Ahmad, the owner of Tefcas Marine, a small shipping agency that was hit with U.S. sanctions, standing in his empty office in Johor Bahru, Malaysia, in September.</media:description>
-    </item>
-    <item>
-      <title>How a Shadow Economy in Asia Is Keeping Iranian Oil Flowing</title>
-      <link>https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html" rel="standout"></atom:link>
-      <description>Companies continue to service a “dark fleet” of Iranian tankers in waters off Malaysia in spite of Washington’s threat to target them.</description>
-      <dc:creator>Max Kim</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 11:58:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Malacca</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/00int-malaysia-dark-fleet-01-kmgv/00int-malaysia-dark-fleet-01-kmgv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ore Huiying for The New York Times</media:credit>
-      <media:description>A tanker used as floating storage in the heavily trafficked waters off the Malaysian state of Johor in September.</media:description>
-    </item>
-    <item>
-      <title>Inheritances Can Shatter Families. Could a Therapist Help?</title>
-      <link>https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html" rel="standout"></atom:link>
-      <description>As the United States faces the greatest wealth transfer in history, some people are turning to therapists to help them pass on their assets in a way that preserves harmony.</description>
-      <dc:creator>Susan Shain</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 13:18:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Family Business</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches (Non-Sports)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baby Boomers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="">Inheritance</category>
-      <category domain="">assets</category>
-      <category domain="">wealth transfer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bill Martin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doug Martin</category>
-      <category domain="">sandwich generation</category>
-      <category domain="">generational wealth</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/00Inheritance-Caregiving-hwvm/00Inheritance-Caregiving-hwvm-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
-      <media:credit>Gilberto Terrazas for The New York Times</media:credit>
-      <media:description>Bill Martin doesn’t want his sons clashing over the future of the family farm in Rufus, Ore., as he did with his brother. He’s hired a coach to help.</media:description>
-    </item>
-    <item>
-      <title>Can Artificial Intelligence Learn the Art of Surgery?</title>
-      <link>https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html" rel="standout"></atom:link>
-      <description>Canada wants to leverage A.I. to improve its health care system. At a Toronto hospital, surgeons are training a machine to distinguish a safe incision from a catastrophic one.</description>
-      <dc:creator>Vjosa Isai and Cole Burston</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 09:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Toronto General Hospital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/16/multimedia/16int-canada-ai-surgery-promo/16int-canada-ai-surgery-04-hpjl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cole Burston for The New York Times</media:credit>
-      <media:description>Dr. Madani, left, and Dr. Timothy Jackson, perform laparoscopic cholecystectomy surgery on a patient at Toronto General Hospital, with the help of visual A.I. guides.</media:description>
-    </item>
-    <item>
-      <title>What Life in Gaza Is Like Now</title>
-      <link>https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html" rel="standout"></atom:link>
-      <description>Nearly a year after Israel and Hamas agreed to end the war in Gaza, Saher Alghorra, a photographer for The New York Times, documents how residents are coping and working to rebuild their lives.</description>
-      <dc:creator>Saher Alghorra, Rebecca Suner, Coleman Lowndes, Mona Boshnaq and Nour Idriss</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 21:44:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-    </item>
-    <item>
-      <title>For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge</title>
-      <link>https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html" rel="standout"></atom:link>
-      <description>Gali and Ziv Berman were taken hostage when their kibbutz was attacked on Oct. 7, 2023. They were freed a year ago but are still adjusting to freedom and trying to rebuild their lives.</description>
-      <dc:creator>Avishag Shaar-Yashuv and Isabel Kershner</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 02:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kibbutz Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/00int-israel-hostage-twins-02-vplw/00int-israel-hostage-twins-02-vplw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:description>The twin brothers Gali and Ziv Berman were abducted by gunmen in the Oct. 7, 2023, attacks.</media:description>
-    </item>
-    <item>
-      <title>Malawians Struggle to Survive After Fleeing Anti-Immigrant Violence</title>
-      <link>https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html" rel="standout"></atom:link>
-      <description>Anti-immigrant violence in South Africa has forced tens of thousands to return to Malawi, severing badly needed cash flows and leaving families hungry.</description>
-      <dc:creator>John Eligon, Golden Matonga and Joao Silva</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 11:36:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malawi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-malawi-returnees-promo/07int-malawi-returnees-1-mqbf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Women wait to buy fish from fisherman on the banks of Lake Malawi in Mangochi District, Southern Malawi, last month.</media:description>
-    </item>
-    <item>
-      <title>The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?</title>
-      <link>https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html" rel="standout"></atom:link>
-      <description>Attendees at the party’s annual conference have been buoyed: both by leader Kemi Badenoch’s rising poll ratings and by a mock Bayeux Tapestry. But the challenge from Reform U.K. remains.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 14:21:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Birmingham (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Badenoch, Kemi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-uk-conservatives-ltjm/07int-uk-conservatives-ltjm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Hannah McKay/Reuters</media:credit>
-      <media:description>The Conservative Party leader Kemi Badenoch in Birmingham, England, on Sunday.</media:description>
-    </item>
-    <item>
-      <title>F.B.I. Charges American in Plot Behind Canada’s Tumbler Ridge School Shooting</title>
-      <link>https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html" rel="standout"></atom:link>
-      <description>The U.S. police say a 30-year-old offered the killer advice and cash for supplies at least six months before the rampage in British Columbia that left eight dead.</description>
-      <dc:creator>Vjosa Isai</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 16:31:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tumbler Ridge, British Columbia, Shootings (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tumbler Ridge (British Columbia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van Rootselaar, Jesse (d 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Discord Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bellingham (Wash)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bryant, James Cody</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/11/multimedia/06int-canada-tumbler-ridge/11canada-shooting-livememorial-cwhz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alana Paterson for The New York Times</media:credit>
-      <media:description>A memorial for the victims of the mass shooting at Tumbler Ridge Secondary School in British Columbia, in February.</media:description>
-    </item>
-    <item>
-      <title>What We Saw at the French Protests</title>
-      <link>https://www.nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html" rel="standout"></atom:link>
-      <description>Our reporter Ségolène Le Stradic reports from Paris as labor unions rally in solidarity with high school students protesting school conditions.</description>
-      <dc:creator>Ségolène Le Stradic and Leila Medina</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 21:13:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-    </item>
-    <item>
-      <title>Understanding France’s Polycrisis</title>
-      <link>https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html" rel="standout"></atom:link>
-      <description>An autumn of discontent has gripped the country ahead of its presidential election.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 04:34:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Graduate Schools and Students</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yellow Vests Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-theworld-france-protests-promo/07int-theworld-france-protests-promo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Paris yesterday.</media:description>
-    </item>
-    <item>
-      <title>Bolsonaro Family Emerges Triumphant in Brazil’s Elections, Mounting a Surprising Resurrection</title>
-      <link>https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html" rel="standout"></atom:link>
-      <description>The Bolsonaro family emerged triumphant in Brazil’s elections, mounting a surprising political resurrection in Latin America’s largest nation.</description>
-      <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 09:13:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1570" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06int-brazil-bolsonaro-family-lhwj/06int-brazil-bolsonaro-family-lhwj-mediumSquareAt3X.jpg" width="1570"></media:content>
-      <media:credit>Diego Herculano/Reuters</media:credit>
-      <media:description>The presidential candidate Flávio Bolsonaro in Brasília on Sunday.</media:description>
     </item>
   </channel>
 </rss>
