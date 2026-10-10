@@ -7,13 +7,18 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-10T07:30:12Z</dc:date>
+  <dc:date>2026-10-10T14:12:20Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/indian-authorities-crack-down-on-cockroach-protest-in-central-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-rdf"/>
@@ -27,8 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/macron-and-steinmeier-struggle-to-revive-franco-german-ties/a-79618635?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"/>
@@ -81,7 +84,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-reunification-how-inequality-is-shaping-a-new-east-german-identity/a-79518541?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/climate-leaders-called-for-solar-energy-for-everyone-everywhere-by-2030-but-with-three-years-to-go-is-that-goal-attainable/a-79517056?maca=en-rss-en-all-1573-rdf"/>
@@ -138,14 +140,12 @@
     <rdf:li rdf:resource="https://www.dw.com/en/saint-sinner-or-feminist-icon-how-mary-magdalene-s-image-evolved-through-time/a-79293868?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/global-gender-gap-report-women-s-hard-won-gains-fragile/a-79280086?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/german-drama-blindspot-berlin-revisits-2016-christmas-market-attack/a-79281162?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-extreme-heat-is-hitting-wallets/a-79268306?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spanish-scientists-find-first-evidence-of-diplodocus-dinosaur-in-europe/a-79277825?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-the-era-of-cheap-government-debt-is-over/a-79259272?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-ai-researchers-warn-humanity-could-face-extinction/a-79263146?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-and-us-two-countries-and-the-pistachio-between-them/a-79224310?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/africa-s-richest-man-dangote-s-ipo-out-of-reach-in-nigeria/a-79263398?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/the-crusades-how-a-medieval-holy-war-still-shapes-politics/a-79203784?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/corals-as-climate-archive-are-el-nino-events-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,51 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-rdf">
+  <title>&apos;Ragebait&apos; is the 2026 German Youth Word of the Year</title>
+  <link>https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-rdf</link>
+  <description>Already named the 2025 Oxford Word of the Year, &quot;rage bait&quot; has also been widely adopted in German slang.</description>
+  <dc:date>2026-10-10T13:36:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79608158</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf">
+  <title>Germany sticks to Russia sanctions after Trump diesel deal</title>
+  <link>https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf</link>
+  <description>After Washington announced a sanctions pause on Russian diesel, Germany has said it remains committed to pressuring Moscow and supporting Ukraine. More on DW.</description>
+  <dc:date>2026-10-10T13:25:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79627811</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf">
+  <title>Operations Plan Germany: How the Bundeswehr trains for NATO collective defense</title>
+  <link>https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf</link>
+  <description>How prepared is Germany for national defense? The answer lies in the Operations Plan Germany. Military exercises such as &quot;Red Storm Charlie&quot; are designed to put these preparations to the test in realistic scenarios.</description>
+  <dc:date>2026-10-10T12:02:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79553793</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf">
+  <title>US midterms: Women candidates could make history</title>
+  <link>https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US is holding Congress and state governors elections. At all levels of US politics, women are underrepresented — but they may win some historic victories in the midterms on November 3.</description>
+  <dc:date>2026-10-10T11:11:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79625179</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf">
+  <title>Taiwan to boost military spending to &apos;deter war&apos; with China</title>
+  <link>https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf</link>
+  <description>President Lai Ching-te ⁠said in a National Day speech that his country is boosting defense spending to &apos;deter war&apos; with China. It comes after US President Donald Trump asked Taiwan to pay for US protection.</description>
+  <dc:date>2026-10-10T09:38:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79625346</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf">
   <title>Is China seeking to restrict Taiwan&apos;s cultural presence?</title>
   <link>https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf</link>
@@ -177,10 +222,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79588992</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf">
-  <title>India&apos;s &apos;Cockroach&apos; leaders detained ahead of major protest</title>
-  <link>https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf</link>
-  <description>India&apos;s &apos;Cockroach&apos; party says its leaders have been detained ahead of a major protest called by the collective. Protesters are calling for India&apos;s chief election commissioner to resign.</description>
+ <item rdf:about="https://www.dw.com/en/indian-authorities-crack-down-on-cockroach-protest-in-central-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf">
+  <title>Indian authorities crack down on &apos;Cockroach&apos; protest in central Delhi. Follow live.</title>
+  <link>https://www.dw.com/en/indian-authorities-crack-down-on-cockroach-protest-in-central-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf</link>
+  <description>Indian authorities have imposed extraordinary security measures to block protesters from joining a demonstration called by the Cockroach Janta Party in New Delhi. The main leaders of the party have been detained too.</description>
   <dc:date>2026-10-10T03:50:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -302,24 +347,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79618610</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf">
-  <title>US imposes sanctions aiming to &apos;dismantle&apos; International Criminal Court</title>
-  <link>https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf</link>
-  <description>The US has announced new sanctions on the International Criminal Court. It&apos;s the latest in a series of steps by the Donald Trump administration as it seeks to &quot;dismantle&quot; the intergovernmental organization.</description>
-  <dc:date>2026-10-09T14:53:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79618577</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf">
-  <title>Saudi coalition vows &apos;firm&apos; response after airport attack kills 3</title>
-  <link>https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf</link>
-  <description>Saudi Arabia and its allied forces in Yemen vowed a &quot;firm response&quot; to Houthi attacks that target civilians. The kingdom&apos;s authorities said three Saudi nationals were killed in Thursday&apos;s attack on Riyadh airport.</description>
-  <dc:date>2026-10-09T14:01:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79615437</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf">
   <title>Art for freedom: Maria Kalesnikava in Bonn</title>
@@ -788,15 +815,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79518541</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-all-1573-rdf">
-  <title>Spain&apos;s parliament rejects housing bill as protests continue</title>
-  <link>https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-all-1573-rdf</link>
-  <description>Spain&apos;s minority government suffered defeat in parliament as it tried to push through a pair of emergency measures aimed at making housing more affordable. A pensioner&apos;s eviction and protests led to the bid.</description>
-  <dc:date>2026-10-02T16:39:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79522683</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-rdf">
   <title>&quot;NAZA&quot;: Israeli military issues statement on film</title>
@@ -1302,15 +1320,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79280086</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/german-drama-blindspot-berlin-revisits-2016-christmas-market-attack/a-79281162?maca=en-rss-en-all-1573-rdf">
-  <title>German drama &apos;Blindspot Berlin&apos; revisits 2016 Christmas market attack</title>
-  <link>https://www.dw.com/en/german-drama-blindspot-berlin-revisits-2016-christmas-market-attack/a-79281162?maca=en-rss-en-all-1573-rdf</link>
-  <description>A decade after the terrorist attack on a Berlin Christmas market, a new German miniseries looks into the institutional failures that allowed the deadly truck rampage to happen.</description>
-  <dc:date>2026-09-16T09:29:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79281162</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/how-extreme-heat-is-hitting-wallets/a-79268306?maca=en-rss-en-all-1573-rdf">
   <title>How extreme heat is hitting wallets</title>
   <link>https://www.dw.com/en/how-extreme-heat-is-hitting-wallets/a-79268306?maca=en-rss-en-all-1573-rdf</link>
@@ -1364,15 +1373,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79263398</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/the-crusades-how-a-medieval-holy-war-still-shapes-politics/a-79203784?maca=en-rss-en-all-1573-rdf">
-  <title>The Crusades: How a medieval holy war still shapes politics</title>
-  <link>https://www.dw.com/en/the-crusades-how-a-medieval-holy-war-still-shapes-politics/a-79203784?maca=en-rss-en-all-1573-rdf</link>
-  <description>In 1095, the Catholic Church launched the Crusades: wars that left millions dead and whose legacy still shapes political and ideological conflicts.</description>
-  <dc:date>2026-09-14T12:43:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79203784</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179?maca=en-rss-en-all-1573-rdf">
   <title>Can Iran replace sea trade with land routes?</title>
