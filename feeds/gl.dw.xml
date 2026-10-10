@@ -7,10 +7,16 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-10T01:03:47Z</dc:date>
+  <dc:date>2026-10-10T07:30:12Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf"/>
@@ -23,14 +29,9 @@
     <rdf:li rdf:resource="https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/france-investigators-recover-2-stolen-renoir-paintings/a-79614538?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/voting-to-begin-in-local-elections-in-the-czech-republic/a-79612365?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-women-s-football-team-can-ena-mahmutovic-make-a-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bosnia-and-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf"/>
@@ -133,7 +134,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/dual-citizenship-means-germany-now-in-competition-for-talent/a-79330797?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/beethoven-and-andy-warhol-rebel-icons-on-show-in-bonn/a-79296944?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/var-s-mission-creep-a-problem-for-football/a-79272642?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/jews-once-lived-lived-here-when-houses-tell-stories/a-79264813?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/saint-sinner-or-feminist-icon-how-mary-magdalene-s-image-evolved-through-time/a-79293868?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,60 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf">
+  <title>Is China seeking to restrict Taiwan&apos;s cultural presence?</title>
+  <link>https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf</link>
+  <description>From coffee competitions to literature awards, Beijing appears to be working to limit Taiwan&apos;s international cultural and political impact.</description>
+  <dc:date>2026-10-10T06:19:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79610947</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf">
+  <title>How the Houthi-Saudi conflict is affecting countries on Africa&apos;s Red Sea coast — and beyond</title>
+  <link>https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.</description>
+  <dc:date>2026-10-10T06:10:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79588992</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf">
+  <title>India&apos;s &apos;Cockroach&apos; leaders detained ahead of major protest</title>
+  <link>https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf</link>
+  <description>India&apos;s &apos;Cockroach&apos; party says its leaders have been detained ahead of a major protest called by the collective. Protesters are calling for India&apos;s chief election commissioner to resign.</description>
+  <dc:date>2026-10-10T03:50:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79624339</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf">
+  <title>Hurricane Isaias makes landfall in Florida</title>
+  <link>https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf</link>
+  <description>US weather authorities are warning of &quot;life-threatening&quot; storm surges on the Gulf Coast due to the Category 2 hurricane. Extreme winds, rising water levels and possible tornadoes are also on the radar.</description>
+  <dc:date>2026-10-10T02:58:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79624148</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf">
+  <title>Mexico: Court finds three men guilty of murder of Australian, US surfers</title>
+  <link>https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf</link>
+  <description>The 2024 murders of brothers Jake and Callum Robinson, along with their friend Carter Rhoad, shocked Mexico and drew international outrage.</description>
+  <dc:date>2026-10-10T02:21:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79624125</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-rdf">
+  <title>Trump weighs livestream execution amid bipartisan backlash</title>
+  <link>https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-rdf</link>
+  <description>Donald Trump said he hasn&apos;t decided whether the execution of the Fort Hood shooter will be livestreamed, after the Pentagon announced it would do so. The plan has been criticized by both Republicans and Democrats.</description>
+  <dc:date>2026-10-10T01:59:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79623920</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf">
   <title>Trump names new press secretary to succeed Karoline Leavitt</title>
   <link>https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf</link>
@@ -267,15 +321,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79615437</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf">
-  <title>Is China seeking to restrict Taiwan&apos;s cultural presence?</title>
-  <link>https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf</link>
-  <description>From coffee competitions to literature awards, Beijing appears to be working to limit Taiwan&apos;s international cultural and political impact.</description>
-  <dc:date>2026-10-09T13:04:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79610947</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf">
   <title>Art for freedom: Maria Kalesnikava in Bonn</title>
   <link>https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf</link>
@@ -294,24 +339,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79613292</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-all-1573-rdf">
-  <title>India&apos;s &apos;cockroaches&apos; vs Election Commission: What you need to know ahead of CJP&apos;s October 10 protests</title>
-  <link>https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Indian capital New Delhi has been turned into a fortress with train and metro cancelations, barricades and heavy police presence ahead of Saturday&apos;s planned protests against the chief of India&apos;s electoral body.</description>
-  <dc:date>2026-10-09T12:23:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79608760</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf">
-  <title>Hurricane Isaias intensifies en route to US Gulf Coast</title>
-  <link>https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf</link>
-  <description>Oil and gas production in the Gulf of Mexico has already been affected by the approaching hurricane, which has strengthened so far to Category 2.</description>
-  <dc:date>2026-10-09T11:55:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79612756</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf">
   <title>World Cup 2034: Does Saudi Arabia shelving Neom Stadium spell trouble?</title>
   <link>https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf</link>
@@ -320,24 +347,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79592948</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/france-investigators-recover-2-stolen-renoir-paintings/a-79614538?maca=en-rss-en-all-1573-rdf">
-  <title>France: Investigators recover 2 stolen Renoir paintings</title>
-  <link>https://www.dw.com/en/france-investigators-recover-2-stolen-renoir-paintings/a-79614538?maca=en-rss-en-all-1573-rdf</link>
-  <description>Thieves had initially taken four pieces with a value of over $10 million, but dropped two as they fled. Officials praised everyone that tracked down the paintings, but didn&apos;t reveal how they found them.</description>
-  <dc:date>2026-10-09T11:42:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79614538</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/voting-to-begin-in-local-elections-in-the-czech-republic/a-79612365?maca=en-rss-en-all-1573-rdf">
-  <title>Voting to begin in local elections in the Czech Republic</title>
-  <link>https://www.dw.com/en/voting-to-begin-in-local-elections-in-the-czech-republic/a-79612365?maca=en-rss-en-all-1573-rdf</link>
-  <description>The vote is being seen as a test of popularity for Prime Minister Andrej Babis&apos;s government.</description>
-  <dc:date>2026-10-09T11:34:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79612365</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-women-s-football-team-can-ena-mahmutovic-make-a-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-all-1573-rdf">
   <title>Germany women&apos;s football team: Can Ena Mahmutovic make a case to become Germany&apos;s next No.1 goalkeeper?</title>
@@ -1256,15 +1265,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79272642</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-rdf">
-  <title>Alexander Ovechkin backs Putin party in campaign video</title>
-  <link>https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ice hockey legend Alexander Ovechkin has lent Vladimir Putin&apos;s party a helping hand in its parliamentary election campaign. That&apos;s in keeping with a pattern of support by an athlete who claims not to be political.</description>
-  <dc:date>2026-09-17T16:02:00Z</dc:date>
-  <dc:subject>Sports</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79277772</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/jews-once-lived-lived-here-when-houses-tell-stories/a-79264813?maca=en-rss-en-all-1573-rdf">
   <title>Jews once lived lived here: When houses tell stories</title>

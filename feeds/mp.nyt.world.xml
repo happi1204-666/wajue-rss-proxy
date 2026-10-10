@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 01:04:08 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Oct 2026 00:23:56 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:29:38 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 07:17:04 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html" rel="standout"></atom:link>
       <description>The escalating violence has brought the conflict in Yemen to the doorstep of the Saudi capital, and the kingdom has no easy options to curtail the increasingly sophisticated and targeted strikes.</description>
       <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 15:17:54 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 15:17:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
@@ -166,7 +166,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/09/world/asia/india-cockroach-protests-delhi.html" rel="standout"></atom:link>
       <description>A planned protest against a sweeping voter roll revision prompted police to order a virtual shutdown of New Delhi, the capital. The country’s highest court intervened.</description>
       <dc:creator>Somini Sengupta, Pragati K.B. and Suhasini Raj</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 13:46:12 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 03:14:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -305,6 +305,27 @@
       <media:credit>Adnan Abidi/Reuters</media:credit>
     </item>
     <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 06:49:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to Know About the Delhi Protests</title>
+      <link>https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html" rel="standout"></atom:link>
+      <description>Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force.</description>
+      <dc:creator>Somini Sengupta and Pragati K.B.</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 07:17:04 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/10/multimedia/10india-protests-What-We-Know-bqth/10india-protests-What-We-Know-bqth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bhawika Chhabra/Reuters</media:credit>
+      <media:description>The police in New Delhi have installed barriers in the city center, part of an effort to limit protests against a revision in the country’s voter rolls. </media:description>
+    </item>
+    <item>
       <title>Inside Erik Prince’s Mercenary Deal in Congo</title>
       <link>https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html</guid>
@@ -355,13 +376,13 @@
       <atom:link href="https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html" rel="standout"></atom:link>
       <description>The quake, which had a preliminary magnitude of 7.7, was centered in the country’s southern region.</description>
       <dc:creator>Mark Walker and James Wagner</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 23:24:20 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:09:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tidal Waves and Tsunamis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama City (Panama)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v27.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v53.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -413,7 +434,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html" rel="standout"></atom:link>
       <description>U.S. officials announced the new, sweeping punishments just hours after the Nobel Peace Prize committee gave its annual honor to a former court judge.</description>
       <dc:creator>Edward Wong and Jeanna Smialek</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 17:51:24 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 17:51:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
@@ -1113,42 +1134,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08int-uk-israel-wphj/08int-uk-israel-wphj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ammar Awad/Reuters</media:credit>
       <media:description>The British Consulate in East Jerusalem on Thursday. The building will now be known as the U.K. Mission, Jerusalem.</media:description>
-    </item>
-    <item>
-      <title>India’s Cockroach Party Leader Carries Gen Z’s Demands. They Are Many.</title>
-      <link>https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html" rel="standout"></atom:link>
-      <description>Abhijeet Dipke started the movement as a joke. But after ousting a minister over a dysfunctional college entrance exam system, India’s youth say they now want to save democracy.</description>
-      <dc:creator>Somini Sengupta and Pragati K.B.</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 15:08:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maharashtra (India)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/INT-INDIA-COCKROACHES-01-hwfp/INT-INDIA-COCKROACHES-01-hwfp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anindito Mukherjee for The New York Times</media:credit>
-      <media:description>Abhijeet Dipke, who founded the Cockroach Janta Party as a joke, now leads a wide movement representing Gen Z&#39;s frustrations.</media:description>
-    </item>
-    <item>
-      <title>How India’s Gen Z Protests Inspired Gen Alpha</title>
-      <link>https://www.nytimes.com/video/world/asia/100000011164923/india-school-protests-gen-alpha.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/asia/100000011164923/india-school-protests-gen-alpha.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/asia/100000011164923/india-school-protests-gen-alpha.html" rel="standout"></atom:link>
-      <description>India’s youngest students are staging sit-ins and protesting the run-down conditions of their schools, drawing inspiration from the Gen Z protests that roiled the country this summer.</description>
-      <dc:creator>Nailah Morgan, Ahmer Khan and Jon Hazell</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 18:30:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Alpha</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
     </item>
   </channel>
 </rss>
