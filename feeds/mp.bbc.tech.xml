@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 14:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 18:45:31 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[King warns malicious online actors are evolving tactics]]></title>
+            <description><![CDATA[The King spoke of "threats to our international order" in a letter marking the 10th anniversary of the National Cyber Security Centre.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cme3xl7d18z2o#0</guid>
+            <pubDate>Sat, 10 Oct 2026 15:56:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d98d/live/0d6d7c40-c4c0-11f1-9ce9-55293bd7f0d9.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rogue Anthropic AI agent gave police fake tip in unsolved murder case]]></title>
             <description><![CDATA[Philadelphia police said the tip was "flagged as spam", but criticised the tech company for taking more than two months to detect and report the breach.]]></description>
@@ -110,14 +118,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo#0</guid>
             <pubDate>Wed, 07 Oct 2026 23:50:29 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e42/live/60b35020-c25c-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk']]></title>
-            <description><![CDATA[The research found that important guardrails for teens using ChatGPT often failed. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o#0</guid>
-            <pubDate>Wed, 07 Oct 2026 20:34:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8459/live/4bc569a0-c27f-11f1-98ea-35e6bf307fc9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>

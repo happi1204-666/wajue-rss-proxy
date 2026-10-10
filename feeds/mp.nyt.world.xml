@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 14:08:36 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Oct 2026 13:35:59 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:41:25 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 18:37:51 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,15 +22,15 @@
       <description>Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force.</description>
       <dc:creator>Somini Sengupta and Pragati K.B.</dc:creator>
       <pubDate>Sat, 10 Oct 2026 11:07:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/10/multimedia/10india-protests-What-We-Know-bqth/10india-protests-What-We-Know-bqth-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bhawika Chhabra/Reuters</media:credit>
       <media:description>The police in New Delhi have installed barriers in the city center, part of an effort to limit protests against a revision in the country’s voter rolls. </media:description>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html" rel="standout"></atom:link>
       <description>Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.</description>
       <dc:creator>Paul Sonne and Julian E. Barnes</dc:creator>
-      <pubDate>Sat, 10 Oct 2026 11:00:14 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 17:09:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pneumonia</category>
@@ -54,7 +54,7 @@
       <media:description>The Irkutsk Anti-Plague Research Institute of Siberia and the Far East in Irkutsk, Russia, on Wednesday. A 28-year-old researcher there died of an unexplained pneumonia.</media:description>
     </item>
     <item>
-      <title>An International Career Forged by the Struggles of Apartheid</title>
+      <title>Navi Pillay, Nobel Peace Prize Winner, Forged Her Career Under Apartheid</title>
       <link>https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html" rel="standout"></atom:link>
@@ -83,13 +83,13 @@
       <description>The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts.</description>
       <dc:creator>Declan Walsh</dc:creator>
       <pubDate>Sat, 10 Oct 2026 13:35:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prince, Erik D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vectus Global</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prince, Erik D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tshisekedi, Felix</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">White, Bill (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
@@ -193,14 +193,13 @@
       <description>The attorney general of the United Arab Emirates said that the co-pilot had been inspired by the Sept. 11 attacks after  years of developing extreme Islamist views.</description>
       <dc:creator>Pranav Baskar</dc:creator>
       <pubDate>Sat, 10 Oct 2026 00:10:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Hammami, Hamam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
@@ -310,13 +309,111 @@
       <media:credit>Adnan Abidi/Reuters</media:credit>
     </item>
     <item>
+      <title>3 Men Found Guilty in Murders of Tourists on Mexico Surf Trip</title>
+      <link>https://www.nytimes.com/2026/10/10/world/americas/mexico-murder-trial-surfers-jake-callum-robinson-rhoad.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/10/world/americas/mexico-murder-trial-surfers-jake-callum-robinson-rhoad.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/10/world/americas/mexico-murder-trial-surfers-jake-callum-robinson-rhoad.html" rel="standout"></atom:link>
+      <description>The 2024 killings of two Australian brothers and their American friend drew international attention.</description>
+      <dc:creator>Jennifer Sinco Kelleher</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 18:25:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baja California (Mexico)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09xp-mexico-killings-wcbl/09xp-mexico-killings-wcbl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Guillermo Arias/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Debra and Martin Robinson, the parents of Callum and Jake Robinson, who were murdered during a surfing trip, outside court in Ensenada, Mexico, on Thursday. </media:description>
+    </item>
+    <item>
+      <title>Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle</title>
+      <link>https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html" rel="standout"></atom:link>
+      <description>The U.S. ambassador to Greece is facing accusations that she asked a donor to pay off her credit card bill before she took up her post in Athens.</description>
+      <dc:creator>Niki Kitsantonis, Lara Jakes and Lynsey Chutel</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 17:48:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guilfoyle, Kimberly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mitsotakis, Kyriakos</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-greece-guilfoyle-1-vjfb/09int-greece-guilfoyle-1-vjfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Mark Schiefelbein</media:credit>
+      <media:description>Kimberly Guilfoyle, the U.S. ambassador to Greece, in Athens on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes</title>
+      <link>https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html" rel="standout"></atom:link>
+      <description>Flights were diverted from the airport in the capital of Saudi Arabia, which has faced repeated deadly attacks from the Iran-backed militia in Yemen.</description>
+      <dc:creator>Vivian Nereim and Euan Ward</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 18:30:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/10/multimedia/10int-saudi-airport-wgjl/10int-saudi-airport-wgjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>King Khalid International Airport in Riyadh, Saudi Arabia, last month.</media:description>
+    </item>
+    <item>
+      <title>From a Sikh Sanctuary to Chaotic Streets, Protesters Brave Police in Delhi</title>
+      <link>https://www.nytimes.com/2026/10/10/world/asia/india-cjp-cockroach-protest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/10/world/asia/india-cjp-cockroach-protest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/10/world/asia/india-cjp-cockroach-protest.html" rel="standout"></atom:link>
+      <description>A group of demonstrators used a house of worship known as a gurdwara as a staging ground before their long-shot effort to reach a locked-down protest site in New Delhi.</description>
+      <dc:creator>Suhasini Raj</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 14:51:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Places of Worship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/10/multimedia/10india-protests-temple-pckj/10india-protests-temple-pckj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <media:description>Security personnel detaining protesters in New Delhi on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Palestinian Authority Formally Delays Elections, Despite Western Pressure</title>
+      <link>https://www.nytimes.com/2026/10/10/world/middleeast/palestinian-authority-elections-abbas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/10/world/middleeast/palestinian-authority-elections-abbas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/10/world/middleeast/palestinian-authority-elections-abbas.html" rel="standout"></atom:link>
+      <description>The aging Palestinian leader, Mahmoud Abbas, pushed off the planned vote until late 2027. Palestinians haven’t had major elections for about two decades.</description>
+      <dc:creator>Aaron Boxerman</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 16:52:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/10/multimedia/10palestinian-elections-lmpv/10palestinian-elections-lmpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mahmoud Illean/Associated Press</media:credit>
+      <media:description>President Mahmoud Abbas of the Palestinian Authority in the city of Ramallah last month, in the Israeli-occupied West Bank.</media:description>
+    </item>
+    <item>
       <title>Ukraine Peace Talks Sputter After Trump and Putin Strike Fuel Deal</title>
       <link>https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html" rel="standout"></atom:link>
       <description>Hours after President Trump said the United States would buy Russian diesel, the Kremlin said there would be no immediate resumption of discussions to end the war.</description>
       <dc:creator>Marc Santora and Andrew E. Kramer</dc:creator>
-      <pubDate>Sat, 10 Oct 2026 12:13:37 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 18:37:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
@@ -338,7 +435,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/10/world/canada/quebec-election-parti-quebecois-separatism.html" rel="standout"></atom:link>
       <description>The idea of independence remains deeply unpopular in Quebec, yet the separatist Parti Québécois was re-elected to a minority government this week.</description>
       <dc:creator>Norimitsu Onishi</dc:creator>
-      <pubDate>Sat, 10 Oct 2026 10:00:07 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 18:36:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
@@ -373,13 +470,26 @@
       <media:description>Security personnel detaining protesters in New Delhi on Saturday.</media:description>
     </item>
     <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Somini Sengupta</dc:creator>
-      <pubDate>Sat, 10 Oct 2026 09:43:37 +0000</pubDate>
+      <title>Indian Police Round Up Protest Leaders and Lock Down Delhi</title>
+      <link>https://www.nytimes.com/2026/10/10/world/asia/delhi-protests-india.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/10/world/asia/delhi-protests-india.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/10/world/asia/delhi-protests-india.html" rel="standout"></atom:link>
+      <description>Thousands of young people tried to gather to protest a sweeping revision of their country’s voter roll. Security forces hauled many of them away.</description>
+      <dc:creator>Somini Sengupta, Pragati K.B., Mujib Mashal and Suhasini Raj</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 16:50:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Indira</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/10/multimedia/10india-protests-flqh/10india-protests-flqh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <media:description>Security personnel detain protesters in New Delhi, India, on Saturday.</media:description>
     </item>
     <item>
       <title>7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks</title>
@@ -394,7 +504,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tidal Waves and Tsunamis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama City (Panama)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v82.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v98.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -1047,127 +1157,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08int-skorea-ukraine-zmwg/08int-skorea-ukraine-zmwg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sergei Supinsky/Agence France-Presse — Getty Images</media:credit>
       <media:description>President Volodymyr Zelensky of Ukraine, who said last month that two North Korean soldiers had been transferred to South Korea, angering Seoul.</media:description>
-    </item>
-    <item>
-      <title>China Expands Its Military Reach by Building a Base in Laos</title>
-      <link>https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html" rel="standout"></atom:link>
-      <description>The new runway in Ban Keun is currently used by only small jets. Neighboring nations are watching warily to see if Beijing expands it for larger aircraft.</description>
-      <dc:creator>Chris Buckley and Josh Holder</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 02:06:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Laos</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/2026-10-08-china-laos-runway-index/2026-10-08-china-laos-runway-index-mediumSquareAt3X-v4.jpg" width="1000"></media:content>
-    </item>
-    <item>
-      <title>Houthi Attacks on Saudi Airports Prompt Mass Cancellations</title>
-      <link>https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html" rel="standout"></atom:link>
-      <description>The Saudi authorities said they intercepted two missiles targeting Riyadh, a day after they said Houthi strikes on airports in the kingdom killed three people.</description>
-      <dc:creator>Vivian Nereim and Ismaeel Naar</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 18:17:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08Saudi-strikes-ctlw/08Saudi-strikes-ctlw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Isabel Infantes/Reuters</media:credit>
-      <media:description>A highway in the Saudi capital, Riyadh, in February. The Houthis have escalated their targeting of the city in recent days.</media:description>
-    </item>
-    <item>
-      <title>Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says</title>
-      <link>https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html" rel="standout"></atom:link>
-      <description>The cybersecurity firm said the attacker was likely a Chinese speaker and financially motivated, but did not attribute the attacks to a named individual or group.</description>
-      <dc:creator>Laura Chung and Pei-Lin Wu</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 09:53:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CrowdStrike Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08xp-crowdstrike-lfcb/08xp-crowdstrike-lfcb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Raphael Satter/Reuters</media:credit>
-      <media:description>CrowdStrike, a cybersecurity firm, said in a report on Wednesday that it had found evidence of the use of A.I. in the attacks.</media:description>
-    </item>
-    <item>
-      <title>Myanmar’s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.</title>
-      <link>https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html" rel="standout"></atom:link>
-      <description>After trading his military uniform for civilian clothes, Myanmar’s strongman president, U Min Aung Hlaing, is in Malaysia, his ninth stop on a search for international legitimacy.</description>
-      <dc:creator>Hannah Beech and Zunaira Saieed</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 16:13:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ibrahim, Anwar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Min Aung Hlaing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of Southeast Asian Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08-int-malaysia-myanmar-01-jkct/08-int-malaysia-myanmar-01-jkct-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Azneal Ishak</media:credit>
-      <media:description>Myanmar’s U Min Aung Hlaing, left, and Prime Minister Anwar Ibrahim of Malaysia in Putrajaya, Malaysia, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine</title>
-      <link>https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html" rel="standout"></atom:link>
-      <description>Middle-of-the-night evacuations and fears about death have become the norm for workers at Russian e-commerce companies targeted by Ukraine.</description>
-      <dc:creator>Paul Sonne, Anastasia Kuts and Milana Mazaeva</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 09:01:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wildberries OOO</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/01/world/01int-russia-wildberries-top-art-afpg/01int-russia-wildberries-top-art-afpg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>A warehouse for a Russian e-commerce company near St. Petersburg after it was hit by Ukrainian drones in July.</media:description>
-    </item>
-    <item>
-      <title>At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land</title>
-      <link>https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html" rel="standout"></atom:link>
-      <description>The annual Kartoffelfest was a chance to update family traditions, with an American baby born abroad.</description>
-      <dc:creator>Jim Tankersley</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 09:01:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/00insider-germany-tankersley-03-vcgb/00insider-germany-tankersley-03-vcgb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lena Mucha for The New York Times</media:credit>
-      <media:description>Nora and Hugo Tankersley with their mother, Lily, at a family outing to a potato festival last month in Berlin.</media:description>
     </item>
   </channel>
 </rss>
