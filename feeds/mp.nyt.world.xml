@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 21:07:52 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 20:51:20 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:04:08 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 00:23:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026" rel="standout"></atom:link>
       <description>Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli government rejected.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 19:57:52 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 23:00:44 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-promo-1145a-cljm/09nobel-promo-1145a-cljm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Karmann/DPA, via Associated Press</media:credit>
     </item>
@@ -73,7 +73,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html" rel="standout"></atom:link>
       <description>Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?</description>
       <dc:creator>Steven Erlanger</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 13:09:48 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 22:07:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -98,7 +98,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html" rel="standout"></atom:link>
       <description>The attorney general of the United Arab Emirates said that the co-pilot had been inspired by the Sept. 11 attacks after  years of developing extreme Islamist views.</description>
       <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 20:08:10 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 00:10:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
@@ -305,6 +305,30 @@
       <media:credit>Adnan Abidi/Reuters</media:credit>
     </item>
     <item>
+      <title>Inside Erik Prince’s Mercenary Deal in Congo</title>
+      <link>https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html" rel="standout"></atom:link>
+      <description>The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 22:55:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prince, Erik D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tshisekedi, Felix</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">White, Bill (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/00int-congo-erik-congo-1-pgfk/00int-congo-erik-congo-1-pgfk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brandon Bell/Getty Images</media:credit>
+      <media:description>Erik Prince, the American military contractor, has sought opportunities in resource-rich countries plagued by conflict, mostly in Africa. </media:description>
+    </item>
+    <item>
       <title>Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia</title>
       <link>https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html</guid>
@@ -329,15 +353,15 @@
       <link>https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html" rel="standout"></atom:link>
-      <description>The quake, which had a preliminary magnitude of 7.7, was centered in the country’s southern region. Authorities canceled a tsunami alert for the region.</description>
+      <description>The quake, which had a preliminary magnitude of 7.7, was centered in the country’s southern region.</description>
       <dc:creator>Mark Walker and James Wagner</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 20:51:20 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 23:24:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tidal Waves and Tsunamis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama City (Panama)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v12.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v27.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -346,8 +370,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html" rel="standout"></atom:link>
       <description>The choice drew condemnation from Israel over Ms. Pillay’s role leading a U.N. commission that said the country had committed genocide against Palestinians.</description>
-      <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 18:26:04 +0000</pubDate>
+      <dc:creator>Jonathan Wolfe, Aurelien Breeden, Johnatan Reiss and Zane Irwin</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 22:24:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
@@ -441,7 +465,10 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/the-nobel-peace-prize-recipient-is-selected-in-secret-by-five-norwegians" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Mack Liederman</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 12:06:04 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 12:06:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Nobel Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-peace-prize-whois-committee-jqzt/09nobel-peace-prize-whois-committee-jqzt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Javad Parsa/NTB, via Agence France-Presse — Getty Images</media:credit>
       <media:description>“There is friction” inside the room where the Nobel committee meets to select the recipient of the Peace Prize, said the director of the Nobel Institute, Kristian Berg Harpviken.</media:description>
@@ -493,16 +520,17 @@
       <dc:creator>Lynsey Chutel and Henrik Pryser Libell</dc:creator>
       <pubDate>Fri, 09 Oct 2026 11:39:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Nobel Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Nobel Committee</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jagland, Thorbjorn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Juul, Mona (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mette-Marit, Crown Princess of Norway</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brende, Borge (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostitution</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/arts/09nobel-peace-prize-committee-epstein/09nobel-peace-prize-committee-epstein-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eiko Junge/Agence France-Presse — Getty Images</media:credit>
       <media:description>Thorbjorn Jagland, former chairman of the Norwegian Nobel Committee, in Oslo in 2013. A tranche of emails released this year revealed ties between him and the convicted sex offender Jeffrey Epstein.</media:description>
@@ -601,15 +629,15 @@
       <description>A conversation about the biggest financial scandal in football history.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
       <pubDate>Fri, 09 Oct 2026 04:53:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Manchester City (Soccer Team)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Premier League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nahyan, Mansour bin Zayed al-</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Evasion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-theworld-manchester-city-03-hcmq-promo/09int-theworld-manchester-city-03-hcmq-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Darren Staples/Reuters</media:credit>
       <media:description>City lifting the Premier League trophy in 2012.</media:description>
@@ -1121,25 +1149,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Alpha</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-    </item>
-    <item>
-      <title>Italy Weighs Controversial Law Giving Bonus Seats to Election Winners</title>
-      <link>https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html" rel="standout"></atom:link>
-      <description>Supporters of the legislation say it will bring stability to a country with a long history of short-lived governments, but critics see the measure as a threat to democracy.</description>
-      <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 11:09:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brothers of Italy (Italian Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/ITALY-ELECTORAL-LAW-hfbv/ITALY-ELECTORAL-LAW-hfbv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Antonio Bronic/Reuters</media:credit>
-      <media:description>Prime Minister Giorgia Meloni of Italy speaking on Wednesday at a summit meeting in Split, Croatia. She has set a record for leading Italy’s longest-serving government.</media:description>
     </item>
   </channel>
 </rss>

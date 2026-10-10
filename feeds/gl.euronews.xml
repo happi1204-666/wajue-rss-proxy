@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Fri, 09 Oct 2026 22:11:15 +0200</lastBuildDate>
-  <pubDate>Fri, 09 Oct 2026 22:11:15 +0200</pubDate>
+  <lastBuildDate>Sat, 10 Oct 2026 00:27:58 +0200</lastBuildDate>
+  <pubDate>Sat, 10 Oct 2026 00:27:58 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Police clash with protesters in Brussels as thousands march against spending cuts</title>
+   <link>https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts</link>
+   <guid>https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts</guid>
+   <pubDate>Sat, 10 Oct 2026 00:27:58 +0200</pubDate>
+   <description>Clashes broke out between police and protesters in Brussels on Friday, 9 October, as thousands marched against the Belgian government's planned spending cuts. Police estimated that 30,000 people took part in the demonstration, organised by trade unions amid growing opposition to austerity measures.</description>
+  </item>
   <item>
    <title>Trump says US to import Russian diesel to ease prices</title>
    <link>https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/10/09/french-authorities-arrests-at-least-five-people-over-9-million-theft-from-renoir-museum</guid>
    <pubDate>Fri, 09 Oct 2026 11:33:54 +0200</pubDate>
    <description>The suspects are believed to include the two alleged burglars, who reportedly broke into the museum at dawn by cutting through a fence.</description>
-  </item>
-  <item>
-   <title>Intense diplomatic manoeuvring in Athens over first Russian team in European tournament</title>
-   <link>https://www.euronews.com/2026/10/09/intense-diplomatic-manoeuvring-in-athens-over-first-russian-team-in-european-tournament</link>
-   <guid>https://www.euronews.com/2026/10/09/intense-diplomatic-manoeuvring-in-athens-over-first-russian-team-in-european-tournament</guid>
-   <pubDate>Fri, 09 Oct 2026 11:32:32 +0200</pubDate>
-   <description>The Kazan club was the first Russian club to play an official European club match in Greece, after discreet pressure to keep Russian symbols out of the Serafio pool.</description>
   </item>
  </channel>
 </rss>
