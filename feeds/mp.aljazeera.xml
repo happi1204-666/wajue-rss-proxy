@@ -8,7 +8,7 @@
 		<webMaster>apps.support@aljazeera.net (Apps Support)</webMaster>
 		<description>Breaking News, World News and Video from Al Jazeera</description>
 		<copyright>© 2026 Al Jazeera Media Network</copyright>
-		<lastBuildDate>Sat, 10 Oct 2026 21:40:20 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 11 Oct 2026 00:23:50 +0000</lastBuildDate>
 		<language>en</language>
 		<image>
 			<url>https://www.aljazeera.com/images/logo_aje.png</url>
@@ -18,13 +18,53 @@
 		</image>
 		<generator>https://wordpress.org/?v=7.0.7</generator>
 <site xmlns="com-wordpress:feed-additions:1">213497099</site>			<item>
+				<link>https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss</link>
+				<title>Ebola spreads in eastern DRC as Kenya confirms imported case</title>
+				<description><![CDATA[New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola.]]></description>
+				<pubDate>Sun, 11 Oct 2026 00:23:50 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791552342</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss</link>
+				<title>Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis</title>
+				<description><![CDATA[As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran. ]]></description>
+				<pubDate>Sun, 11 Oct 2026 00:00:13 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791671422</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss</link>
+				<title>Liverpool vs Man City: the top five clashes between Premier League giants</title>
+				<description><![CDATA[Liverpool face Manchester City on Sunday in what has become a battle between the EPL&#039;s dominant teams in recent times.]]></description>
+				<pubDate>Sat, 10 Oct 2026 22:43:08 +0000</pubDate>
+				<category>Sport</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791542442</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss</link>
+				<title>WHO says no plague case registered after Russian lab worker’s death</title>
+				<description><![CDATA[The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.]]></description>
+				<pubDate>Sat, 10 Oct 2026 22:34:29 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791666001</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss</link>
+				<title>Yemeni government’s military says its forces advancing against Houthis</title>
+				<description><![CDATA[Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours. ]]></description>
+				<pubDate>Sat, 10 Oct 2026 22:12:25 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791662423</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
+					<item>
 				<link>https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss</link>
 				<title>Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull</title>
 				<description><![CDATA[Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.]]></description>
 				<pubDate>Sat, 10 Oct 2026 21:40:20 +0000</pubDate>
 				<category>Sport</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791666806</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss</link>
 				<title>Hundreds of doctors demand World Medical Association suspend Israel</title>
@@ -32,7 +72,7 @@
 				<pubDate>Sat, 10 Oct 2026 21:12:04 +0000</pubDate>
 				<category>News</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791658735</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss</link>
 				<title>Malawi motorists queue for days as fuel shortage bites</title>
@@ -40,7 +80,7 @@
 				<pubDate>Sat, 10 Oct 2026 21:10:38 +0000</pubDate>
 				<category>News</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791666516</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss</link>
 				<title>Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast</title>
@@ -48,7 +88,7 @@
 				<pubDate>Sat, 10 Oct 2026 21:10:06 +0000</pubDate>
 				<category>News</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791664849</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss</link>
 				<title>Yemen’s Houthis release video of drone attacks on gov’t forces</title>
@@ -57,7 +97,7 @@
 				<pubDate>Sat, 10 Oct 2026 21:02:49 +0000</pubDate>
 				<category>Show Types</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791665317</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss</link>
 				<title>Damage seen inside Saudi airport after third attack this week</title>
@@ -65,7 +105,7 @@
 				<pubDate>Sat, 10 Oct 2026 20:43:19 +0000</pubDate>
 				<category>Show Types</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791664919</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss</link>
 				<title>Philippines volcano erupts, creating 6km-high ash cloud</title>
@@ -73,7 +113,7 @@
 				<pubDate>Sat, 10 Oct 2026 20:37:17 +0000</pubDate>
 				<category>Show Types</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791664471</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss</link>
 				<title>Rubio pledges US cooperation in Marine-linked murder case</title>
@@ -81,7 +121,7 @@
 				<pubDate>Sat, 10 Oct 2026 20:30:36 +0000</pubDate>
 				<category>News</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791662631</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss</link>
 				<title>Israeli attack destroys building in Gaza one year into ‘ceasefire’</title>
@@ -89,7 +129,7 @@
 				<pubDate>Sat, 10 Oct 2026 20:14:01 +0000</pubDate>
 				<category>News</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791663100</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss</link>
 				<title>Why is the Trump administration trying to dismantle the ICC?</title>
@@ -97,7 +137,7 @@
 				<pubDate>Sat, 10 Oct 2026 19:59:18 +0000</pubDate>
 				<category>TV Shows</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791656856</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss</link>
 				<title>Lionel Messi returns from Argentina farewell as Inter Miami face DC United</title>
@@ -105,7 +145,7 @@
 				<pubDate>Sat, 10 Oct 2026 19:59:08 +0000</pubDate>
 				<category>Sport</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791617246</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss</link>
 				<title>Azerbaijan school pupils protest over reported hijab restrictions</title>
@@ -113,7 +153,7 @@
 				<pubDate>Sat, 10 Oct 2026 19:49:33 +0000</pubDate>
 				<category>Show Types</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791661664</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss</link>
 				<title>Manchester United held by ten-man Tottenham as woes for both continue</title>
@@ -121,7 +161,7 @@
 				<pubDate>Sat, 10 Oct 2026 19:47:10 +0000</pubDate>
 				<category>Sport</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791659864</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss</link>
 				<title>Trump says Ukraine needs a new president who will agree to end the war</title>
@@ -129,7 +169,7 @@
 				<pubDate>Sat, 10 Oct 2026 19:32:37 +0000</pubDate>
 				<category>News</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791654234</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal?traffic_source=rss</link>
 				<title>Barcelona beat Getafe as Gordon scores his first goal</title>
@@ -137,7 +177,7 @@
 				<pubDate>Sat, 10 Oct 2026 19:26:22 +0000</pubDate>
 				<category>Sport</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791657641</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss</link>
 				<title>Ronaldo suspended by Portugal FA after leaving camp and criticising coach</title>
@@ -145,7 +185,7 @@
 				<pubDate>Sat, 10 Oct 2026 19:23:26 +0000</pubDate>
 				<category>Sport</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791658355</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss</link>
 				<title>Trump calls for new president in Ukraine</title>
@@ -153,7 +193,7 @@
 				<pubDate>Sat, 10 Oct 2026 18:50:23 +0000</pubDate>
 				<category>Show Types</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791654989</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss</link>
 				<title>Palestinians still being killed in Gaza, one year into ‘ceasefire’</title>
@@ -161,7 +201,7 @@
 				<pubDate>Sat, 10 Oct 2026 18:38:01 +0000</pubDate>
 				<category>News</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791657129</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss</link>
 				<title>Photos: Thousands march across Europe to demand end to Israel’s war on Gaza</title>
@@ -169,54 +209,14 @@
 				<pubDate>Sat, 10 Oct 2026 18:26:13 +0000</pubDate>
 				<category>News</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791652544</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 					<item>
 				<link>https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss</link>
-				<title>Attack on airport in Saudi capital, Riyadh, leaves several injured</title>
-				<description><![CDATA[Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.]]></description>
+				<title>Attack on Riyadh airport kills 12, injures over 300, Saudi Arabia says</title>
+				<description><![CDATA[Aviation authority says death toll includes four Saudis and eight foreign nationals.]]></description>
 				<pubDate>Sat, 10 Oct 2026 18:08:46 +0000</pubDate>
 				<category>News</category>
 				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791649082</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
-					<item>
-				<link>https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss</link>
-				<title>Nine killed in shooting in US state of Pennsylvania, including two children</title>
-				<description><![CDATA[The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.]]></description>
-				<pubDate>Sat, 10 Oct 2026 17:48:45 +0000</pubDate>
-				<category>News</category>
-				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791650892</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
-					<item>
-				<link>https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss</link>
-				<title>Pope says death penalty ‘inadmissible’ as US plans to livestream execution</title>
-				<description><![CDATA[Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.]]></description>
-				<pubDate>Sat, 10 Oct 2026 17:38:18 +0000</pubDate>
-				<category>News</category>
-				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791641818</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
-					<item>
-				<link>https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss</link>
-				<title>Video shows rare albino Asian black bear</title>
-				<description><![CDATA[A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park]]></description>
-				<pubDate>Sat, 10 Oct 2026 17:37:37 +0000</pubDate>
-				<category>Show Types</category>
-				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791653743</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
-					<item>
-				<link>https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss</link>
-				<title>Christa Pike discharged from hospital and returned to Tennessee prison</title>
-				<description><![CDATA[Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.]]></description>
-				<pubDate>Sat, 10 Oct 2026 17:08:37 +0000</pubDate>
-				<category>News</category>
-				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791648027</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
-					<item>
-				<link>https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss</link>
-				<title>Celebrations in Ethiopian city after reported Eritrean ‘incursion’</title>
-				<description><![CDATA[People in northern Ethiopia are celebrating after a reported withdrawal of Eritrean forces accused of an incursion.]]></description>
-				<pubDate>Sat, 10 Oct 2026 16:54:56 +0000</pubDate>
-				<category>Show Types</category>
-				<guid isPermaLink="false">https://www.aljazeera.com/?t=1791650077</guid>
-				<post-id xmlns="com-wordpress:feed-additions:1">5035359</post-id>			</item>
+				<post-id xmlns="com-wordpress:feed-additions:1">5031104</post-id>			</item>
 			</channel>
 </rss>
