@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Sun, 11 Oct 2026 21:15:04 +0200</lastBuildDate>
-  <pubDate>Sun, 11 Oct 2026 21:15:04 +0200</pubDate>
+  <lastBuildDate>Sun, 11 Oct 2026 21:42:53 +0200</lastBuildDate>
+  <pubDate>Sun, 11 Oct 2026 21:42:53 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Judo: Japan reclaim mixed team world title with eighth gold in Baku</title>
+   <link>https://www.euronews.com/2026/10/11/judo-japan-reclaim-mixed-team-world-title-with-eighth-gold-in-baku</link>
+   <guid>https://www.euronews.com/2026/10/11/judo-japan-reclaim-mixed-team-world-title-with-eighth-gold-in-baku</guid>
+   <pubDate>Sun, 11 Oct 2026 21:42:53 +0200</pubDate>
+   <description>Japan reclaimed the Mixed Team World Championship title in Baku, defeating Russia in the final to secure their eighth gold. After overcoming China in the semi-final, Japan sealed victory through Akari Omori, while Russia reached their first-ever mixed team final.</description>
+  </item>
   <item>
    <title>Shakira sets Amazon Music record in Madrid with most-watched live stream by a female artist</title>
    <link>https://www.euronews.com/2026/10/11/shakira-sets-amazon-music-record-in-madrid-with-most-watched-live-stream-by-a-female-artis</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/10/10/as-russia-escalates-its-war-the-eu-admits-its-support-for-ukraine-wont-be-enough</guid>
    <pubDate>Sat, 10 Oct 2026 08:00:45 +0200</pubDate>
    <description>Russia's rapid escalation has thrown into doubt the European Union's multiple support programmes for Ukraine. Diplomats concede it is only a matter of time before leaders address the contentious matter.</description>
-  </item>
-  <item>
-   <title>'Crashout', 'Ragebait' or 'Peak': Want to know which word is favoured by Germany's youth? </title>
-   <link>https://www.euronews.com/2026/10/10/crashout-ragebait-or-peak-germanys-youth-word-of-2026</link>
-   <guid>https://www.euronews.com/2026/10/10/crashout-ragebait-or-peak-germanys-youth-word-of-2026</guid>
-   <pubDate>Sat, 10 Oct 2026 07:30:23 +0200</pubDate>
-   <description>The three frontrunners 'Crashout', 'Ragebait' and 'Peak' are in the running to become Germany's youth word of the year 2026, with anglicisms particularly trendy. The winning term will be announced this Saturday at the Frankfurt Book Fair.</description>
   </item>
  </channel>
 </rss>
