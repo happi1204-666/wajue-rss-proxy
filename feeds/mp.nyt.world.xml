@@ -7,13 +7,72 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 02:32:45 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Oct 2026 02:31:43 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:10:58 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 09:10:42 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>The Taliban Are Using Europe’s Fear of Migrants to Their Advantage</title>
+      <link>https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html" rel="standout"></atom:link>
+      <description>European nations that condemn the Taliban government for its human rights record are seeking its help to deport refugees back to Afghanistan.</description>
+      <dc:creator>Elian Peltier and Jim Tankersley</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 05:17:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dobrindt, Alexander (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merz, Friedrich</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/00int-eu-taliban-1-mjkt/00int-eu-taliban-1-mjkt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+      <media:description>Celebrations in the streets of Kabul during the fifth anniversary of the Taliban’s return to power on Aug. 15.</media:description>
+    </item>
+    <item>
+      <title>Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine</title>
+      <link>https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html" rel="standout"></atom:link>
+      <description>A documentary claims that Ukraine, not Russia, attacked the drama theater in Mariupol, where hundreds of civilians died.</description>
+      <dc:creator>Alexander Nazaryan</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 09:00:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/world/00int-russia-documentary-01/00int-russia-documentary-01-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alexei Alexandrov/Associated Press</media:credit>
+      <media:description>The remains of the theater in Mariupol, eastern Ukraine, in April 2022, in a photograph taken when the area was under pro-Russian control. The Russian airstrike on the building killed hundreds of civilians.</media:description>
+    </item>
+    <item>
+      <title>Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque</title>
+      <link>https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html" rel="standout"></atom:link>
+      <description>Emirati investigators said the co-pilot accused of attacking a captain on a flight to Israel drifted toward extremism during his time as a student in Australia.</description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 07:46:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosques</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Hammami, Hamam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Melbourne (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12int-oz-mosque-ckbm/12int-oz-mosque-ckbm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A FlyDubai plane carried passengers to Tel Aviv last month after a midair cockpit attack on their earlier flight.</media:description>
+    </item>
     <item>
       <title>Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions</title>
       <link>https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html</link>
@@ -231,15 +290,15 @@
       <description>Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.</description>
       <dc:creator>Paul Sonne and Julian E. Barnes</dc:creator>
       <pubDate>Sat, 10 Oct 2026 17:09:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plague</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pneumonia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plague</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pneumonia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Irkutsk (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/10/multimedia/10int-russia-plague-lfjz/10int-russia-plague-lfjz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>The Irkutsk Anti-Plague Research Institute of Siberia and the Far East in Irkutsk, Russia, on Wednesday. A 28-year-old researcher there died of an unexplained pneumonia.</media:description>
@@ -267,76 +326,41 @@
       <media:description>Navi Pillay, in Nuremberg, Germany on Friday.</media:description>
     </item>
     <item>
-      <title>Inside Erik Prince’s Mercenary Deal in Congo</title>
-      <link>https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html" rel="standout"></atom:link>
-      <description>The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts.</description>
-      <dc:creator>Declan Walsh</dc:creator>
-      <pubDate>Sat, 10 Oct 2026 13:35:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prince, Erik D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vectus Global</category>
+      <title>He Helped Discover Ebola 50 Years Ago. He’s Still Worried.</title>
+      <link>https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html" rel="standout"></atom:link>
+      <description>In an interview, Dr. Peter Piot recalled when he first saw the spindly virus under a microscope and reflected on a five-decade career spent fighting two deadly pathogens.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 09:02:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UNAIDS</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Piot, Peter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tshisekedi, Felix</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/00int-congo-erik-congo-1-pgfk/00int-congo-erik-congo-1-pgfk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brandon Bell/Getty Images</media:credit>
-      <media:description>Erik Prince, the American military contractor, has sought opportunities in resource-rich countries plagued by conflict, mostly in Africa. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/11DC-PIOT-top-pmqz/11DC-PIOT-top-pmqz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Berehulak/The New York Times</media:credit>
+      <media:description>Dr. Peter Piot was the first scientist to identify the Ebola virus as a young researcher in Belgium in 1976. </media:description>
     </item>
     <item>
-      <title>Palestinian Authority Says Elections Are to Be Postponed</title>
-      <link>https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html" rel="standout"></atom:link>
-      <description>The delay, outlined in a letter to France, comes as Fatah, the governing party, is suffering from deep internal rifts.</description>
-      <dc:creator>Adam Rasgon</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 14:58:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fatah, Al</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheikh, Hussein al-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-Palestinian-election-mwfc/09int-Palestinian-election-mwfc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Zain Jaafar</media:credit>
-      <media:description>Hussein al-Sheikh, deputy to the Palestinian president, Mahmoud Abbas, in Ramallah, West Bank, in February. He was said to have sent the letters to European officials notifying them of the postponement.</media:description>
-    </item>
-    <item>
-      <title>As Putin Wages Shadow War, Europe Looks for a Way to Hit Back</title>
-      <link>https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html" rel="standout"></atom:link>
-      <description>Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?</description>
-      <dc:creator>Steven Erlanger</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 22:07:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chatham House (The Royal Institute of International Affairs)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for Strategic and International Studies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pistorius, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1691" medium="image" url="https://static01.nyt.com/images/2026/10/08/multimedia/08europe-hybrid-01-jwfg/08europe-hybrid-01-jwfg-mediumSquareAt3X.jpg" width="1691"></media:content>
-      <media:credit>Axel Schmidt/Reuters</media:credit>
-      <media:description>Gathering evidence at the Leipzig-Halle airport, Germany, in August after an explosive-laden drone was found. </media:description>
+      <title>How Do Cuttlefish Hide? Scientists Search for the Secret to Camouflage.</title>
+      <link>https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html" rel="standout"></atom:link>
+      <description>Cephalopods are masters of camouflage. Scientists want to decipher how the process works in the brain.</description>
+      <dc:creator>Alexa Robles-Gil</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 09:00:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camouflage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Columbia University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Montague, Tessa</category>
     </item>
     <item>
       <title>An Israeli Election Like No Other</title>
@@ -345,16 +369,15 @@
       <atom:link href="https://www.nytimes.com/2026/10/11/world/israel-election-india-protests-riyadh.html" rel="standout"></atom:link>
       <description>Many say a vote in two weeks may be the most consequential in Israel’s history.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Sun, 11 Oct 2026 20:57:39 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 05:33:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12int-theworld-israel-elections-01-vtgf-promo/12int-theworld-israel-elections-01-vtgf-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
       <media:description>Ashdod, Israel, last week.</media:description>
@@ -382,7 +405,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/11/world/asia/india-crackdown-narendra-modi.html" rel="standout"></atom:link>
       <description>Prime Minister Narendra Modi of India has long succeeded in isolating and undermining opponents. The Gen Z protests pose a challenge unlike any he has faced before.</description>
       <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Sun, 11 Oct 2026 17:44:16 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 03:41:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
@@ -391,6 +414,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kumar, Gyanesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/11/multimedia/11int-india-assess-01-gtzl/11int-india-assess-01-gtzl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saumya Khandelwal for The New York Times</media:credit>
       <media:description>Security personnel resting near a poster showing Prime Minister Narendra Modi of India after protests in New Delhi on Saturday.</media:description>
@@ -646,6 +671,30 @@
       <media:description>Security personnel detain protesters in New Delhi, India, on Saturday.</media:description>
     </item>
     <item>
+      <title>Inside Erik Prince’s Mercenary Deal in Congo</title>
+      <link>https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html" rel="standout"></atom:link>
+      <description>The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 13:35:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prince, Erik D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vectus Global</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tshisekedi, Felix</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/00int-congo-erik-congo-1-pgfk/00int-congo-erik-congo-1-pgfk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brandon Bell/Getty Images</media:credit>
+      <media:description>Erik Prince, the American military contractor, has sought opportunities in resource-rich countries plagued by conflict, mostly in Africa. </media:description>
+    </item>
+    <item>
       <title>Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia</title>
       <link>https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html</guid>
@@ -700,7 +749,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tidal Waves and Tsunamis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama City (Panama)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v130.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v138.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -809,6 +858,29 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-biography-jfgh/09nobel-biography-jfgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Frank Boxler/Agence France-Presse — Getty Images</media:credit>
       <media:description>Navi Pillay received the news that she had been awarded the 2026 Nobel Peace Prize on Friday while atttending an annual conference of human rights lawyers and judges in Nuremberg, Germany.</media:description>
+    </item>
+    <item>
+      <title>Palestinian Authority Says Elections Are to Be Postponed</title>
+      <link>https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html" rel="standout"></atom:link>
+      <description>The delay, outlined in a letter to France, comes as Fatah, the governing party, is suffering from deep internal rifts.</description>
+      <dc:creator>Adam Rasgon</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 14:58:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fatah, Al</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheikh, Hussein al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-Palestinian-election-mwfc/09int-Palestinian-election-mwfc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Zain Jaafar</media:credit>
+      <media:description>Hussein al-Sheikh, deputy to the Palestinian president, Mahmoud Abbas, in Ramallah, West Bank, in February. He was said to have sent the letters to European officials notifying them of the postponement.</media:description>
     </item>
     <item>
       <title>Nobel Peace Prize Choice Amounts to Implicit Rebuke of Trump</title>
@@ -1016,112 +1088,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-france-protests-history-hwzk/09int-france-protests-history-hwzk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gamma-Keystone, via Getty Images</media:credit>
       <media:description>A student attacking the police in Paris during the May 1968 student uprising.</media:description>
-    </item>
-    <item>
-      <title>In a Dead Hero’s Ashes, El Salvador’s Ruler Finds a New Spark</title>
-      <link>https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html" rel="standout"></atom:link>
-      <description>Sword in hand, Nayib Bukele is revamping Latin America’s rich tradition of political exhumations. A new crypt projects his power across Central America.</description>
-      <dc:creator>Simon Romero and Fred Ramos</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 09:02:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tombs and Tombstones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Hugo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Salvador (El Salvador)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09int-elsalvador-bukele-promo/09int-elsalvador-bukele-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fred Ramos for The New York Times</media:credit>
-      <media:description>A Salvadoran honor guard inside the new mausoleum of Francisco Morazán in San Salvador, the capital.</media:description>
-    </item>
-    <item>
-      <title>India’s Young Put Their Bodies on the Line to Be Heard</title>
-      <link>https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html" rel="standout"></atom:link>
-      <description>Despite police barricades and detentions, activists like Neha Bora say they are determined to keep up the pressure on Prime Minister Narendra Modi.</description>
-      <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 10:34:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunger Strikes</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-india-crackdown-pzht/09int-india-crackdown-pzht-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adnan Abidi/Reuters</media:credit>
-    </item>
-    <item>
-      <title>New Delhi’s Crackdown on Protesters</title>
-      <link>https://www.nytimes.com/video/world/asia/100000011193986/india-protest-delhi-crackdown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/asia/100000011193986/india-protest-delhi-crackdown.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/asia/100000011193986/india-protest-delhi-crackdown.html" rel="standout"></atom:link>
-      <description>The government in New Delhi is suppressing protests over the culling of 130 million names from India’s voter roll. Mujib Mashal, an India correspondent for The New York Times, reported from the heart of the demonstrations.</description>
-      <dc:creator>Mujib Mashal, Leila Medina, Coleman Lowndes and Shawn Paik</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 09:24:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
-    </item>
-    <item>
-      <title>A Venezuelan opposition leader won the 2025 prize, setting off an unusual year.</title>
-      <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/a-venezuelan-opposition-leader-won-the-2025-prize-setting-off-an-unusual-year</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/a-venezuelan-opposition-leader-won-the-2025-prize-setting-off-an-unusual-year</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/a-venezuelan-opposition-leader-won-the-2025-prize-setting-off-an-unusual-year" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 08:16:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Five</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-peace-prize-2025-winner-wpzf/09nobel-peace-prize-2025-winner-wpzf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Odd Andersen/Agence France-Presse — Getty Images</media:credit>
-      <media:description>María Corina Machado, recipient of the 2025 Nobel Peace Prize, greeted supporters from a hotel balcony in Oslo, Norway, in 2025.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Jonathan Wolfe, Aurelien Breeden and Max Bearak</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 15:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Labour Holds Off Green Party in Election for Starmer’s Former London Seat</title>
-      <link>https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html" rel="standout"></atom:link>
-      <description>Sagal Abdi-Wali won a special election in central London that was seen as an early test for Prime Minister Andy Burnham.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 10:24:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green Party (Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdi-Wali, Sagal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polanski, Zack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09int-uk-election-1-hblj/09int-uk-election-1-hblj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Peter Nicholls/Getty Images</media:credit>
-      <media:description>Labour’s candidate Sagal Abdi-Wali takes a selfie with supporters during her campaign launch in London last month.</media:description>
     </item>
   </channel>
 </rss>

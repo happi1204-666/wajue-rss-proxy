@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Fri, 09 Oct 2026 17:34:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Oct 2026 18:39:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,46 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Ground Robots Are Arriving on the Front Lines</title>
+		<link>https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines/</link>
+		
+		<dc:creator><![CDATA[Ryan Hartman]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 08:00:11 +0000</pubDate>
+				<category><![CDATA[Cogs of War]]></category>
+		<category><![CDATA[Autonomy]]></category>
+		<category><![CDATA[Command and Control]]></category>
+		<category><![CDATA[Logistics]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=47986</guid>
+
+					<description><![CDATA[<p>For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukraine and Gaza have taught them, what operating without GPS and resilient communications really looks like, air-ground teaming, and more. Image: Lance Cpl. Talan Werner via DVIDS.</p>
+<p>The post <a href="https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines/">Ground Robots Are Arriving on the Front Lines</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Scott Philips]]></dc:creator>
+<dc:creator><![CDATA[Jonathan Panter]]></dc:creator>
+	</item>
+		<item>
+		<title>How China and America Can Move from Competition to Stability</title>
+		<link>https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/</link>
+		
+		<dc:creator><![CDATA[Michael D. Swaine]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 07:30:20 +0000</pubDate>
+				<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Diplomacy]]></category>
+		<category><![CDATA[U.S.-Chinese Competition]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=47940</guid>
+
+					<description><![CDATA[<p>The American team thought it was signaling restraint. The Chinese team saw preparations for combat. In a closed-door Sino-American crisis simulation I helped organize in the 2010s &#8212; which the U.S. military funded as part of a long-term project &#8212; the Americans repositioned an aircraft carrier away from a maritime dispute between China and the Philippines, expecting the move to reassure Beijing. Instead, the Chinese participants became deeply alarmed. They believed the carrier was now ideally positioned to launch combat operations while remaining less vulnerable to attack. The episode revealed how suspicion could turn an intended reassurance into an apparent</p>
+<p>The post <a href="https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/">How China and America Can Move from Competition to Stability</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Shows of Strength and Signs of Strain</title>
 		<link>https://warontherocks.com/shows-of-strength-and-signs-of-strain/</link>
 		
@@ -1901,45 +1941,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		<dc:creator><![CDATA[Kerry Boyd Anderson]]></dc:creator>
 	</item>
-		<item>
-		<title>Contested Logistics and the &#8220;Last Unmanned Mile&#8221;</title>
-		<link>https://warontherocks.com/cogs-of-war/contested-logistics-and-the-last-unmanned-mile/</link>
-		
-		<dc:creator><![CDATA[Tom Garvey]]></dc:creator>
-		<pubDate>Wed, 19 Aug 2026 08:00:58 +0000</pubDate>
-				<category><![CDATA[Cogs of War]]></category>
-		<category><![CDATA[Defense Tech]]></category>
-		<category><![CDATA[Sustainment]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46140</guid>
-
-					<description><![CDATA[<p>In a Pacific war, the U.S. military cannot assume uncontested access to its depots and supply lines for munitions, spare parts, food, water, and energy. Jonathan is joined by David Tuttle (Rune Technologies), Paul Lwin (HavocAI), and Tom Garvey (CACI) to discuss sustaining a dispersed force that&#8217;s facing enemy fire and lacks stable, secure communications. They debate autonomy versus automation, predictive resupply, where the data comes from, and which lessons from Ukraine transfer across theaters.Image: Sgt. Alora Finigan via DVIDS.</p>
-<p>The post <a href="https://warontherocks.com/cogs-of-war/contested-logistics-and-the-last-unmanned-mile/">Contested Logistics and the &#8220;Last Unmanned Mile&#8221;</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Paul Lwin]]></dc:creator>
-<dc:creator><![CDATA[David Tuttle]]></dc:creator>
-<dc:creator><![CDATA[Jonathan Panter]]></dc:creator>
-	</item>
-		<item>
-		<title>Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…</title>
-		<link>https://warontherocks.com/managed-instability-why-the-wars-against-iran-and-ukraine-can-go-on-and-on-and-on/</link>
-		
-		<dc:creator><![CDATA[Alex Kolbin]]></dc:creator>
-		<pubDate>Wed, 19 Aug 2026 07:30:50 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Diplomacy]]></category>
-		<category><![CDATA[Iran War 2026]]></category>
-		<category><![CDATA[Russo-Ukrainian War]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46256</guid>
-
-					<description><![CDATA[<p>The Iran war is beginning to resemble the Ukraine war in one important way. Operationally, the wars themselves are still very different &#8212; Ukraine is a large-scale ground invasion, while the Iran war is not there just yet. But their political logic after a failure to achieve a quick result is starting to look very similar. In both cases, a larger power expected its overwhelming military force to produce a quick political result. And in both cases, that expectation failed.The targeted state adapted, outside supporters helped it remain afloat, and both conflicts moved from the promise of a decisive outcome</p>
-<p>The post <a href="https://warontherocks.com/managed-instability-why-the-wars-against-iran-and-ukraine-can-go-on-and-on-and-on/">Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
