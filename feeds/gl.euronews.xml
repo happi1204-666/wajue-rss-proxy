@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Mon, 12 Oct 2026 21:51:38 +0200</lastBuildDate>
-  <pubDate>Mon, 12 Oct 2026 21:51:38 +0200</pubDate>
+  <lastBuildDate>Mon, 12 Oct 2026 23:07:32 +0200</lastBuildDate>
+  <pubDate>Mon, 12 Oct 2026 23:07:32 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,20 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Ceuta troops absent as Spain holds National Day parade in Madrid</title>
+   <link>https://www.euronews.com/2026/10/12/ceuta-troops-absent-as-spain-holds-national-day-parade-in-madrid</link>
+   <guid>https://www.euronews.com/2026/10/12/ceuta-troops-absent-as-spain-holds-national-day-parade-in-madrid</guid>
+   <pubDate>Mon, 12 Oct 2026 23:07:32 +0200</pubDate>
+   <description>The parade took place against a tense political backdrop, after Spanish Prime Minister Pedro Sánchez called a snap general election for 29 November.</description>
+  </item>
+  <item>
+   <title>Portugal begins construction of high-speed rail line linking Lisbon and Porto</title>
+   <link>https://www.euronews.com/2026/10/12/portugal-begins-construction-of-high-speed-rail-line-linking-lisbon-and-porto</link>
+   <guid>https://www.euronews.com/2026/10/12/portugal-begins-construction-of-high-speed-rail-line-linking-lisbon-and-porto</guid>
+   <pubDate>Mon, 12 Oct 2026 22:41:38 +0200</pubDate>
+   <description>“Alongside the new Lisbon airport, high-speed rail lines represent the largest infrastructure projects the country will undertake this century,&quot; Miguel Pinto Luz, Portugal's minister of infrastructure and housing, said.</description>
+  </item>
   <item>
    <title>French navy intercepts and boards 'shadow fleet' ship, Macron says</title>
    <link>https://www.euronews.com/2026/10/12/french-navy-intercepts-and-boards-shadow-fleet-ship-macron-says</link>
@@ -350,20 +364,6 @@
    <guid>https://www.euronews.com/2026/10/12/fire-totally-destroys-oldest-covered-food-market-in-paris-authorities-say</guid>
    <pubDate>Mon, 12 Oct 2026 10:47:50 +0200</pubDate>
    <description>The Marché Couvert des Enfants Rouges in the Marais district has existed since 1615 and draws its name from the red outfits that orphans wore at a hospital near the market until 1772.</description>
-  </item>
-  <item>
-   <title>EU decries 'concerning' Trump-Putin deal, insists sanctions on Russia will continue</title>
-   <link>https://www.euronews.com/2026/10/12/eu-decries-concerning-trump-putin-deal-insists-sanctions-on-russia-will-continue</link>
-   <guid>https://www.euronews.com/2026/10/12/eu-decries-concerning-trump-putin-deal-insists-sanctions-on-russia-will-continue</guid>
-   <pubDate>Mon, 12 Oct 2026 10:37:10 +0200</pubDate>
-   <description>The Trump-Putin diesel deal has been badly received by EU foreign ministers, who say it undermines transatlantic unity at a time when Russia intensifies its attacks on Ukraine.</description>
-  </item>
-  <item>
-   <title>Footage shows Glucksmann covered in flour after winning French left-wing presidential primary</title>
-   <link>https://www.euronews.com/video/2026/10/12/footage-shows-glucksmann-covered-in-flour-after-winning-french-left-wing-presidential-prim</link>
-   <guid>https://www.euronews.com/video/2026/10/12/footage-shows-glucksmann-covered-in-flour-after-winning-french-left-wing-presidential-prim</guid>
-   <pubDate>Mon, 12 Oct 2026 10:31:06 +0200</pubDate>
-   <description>French politician and European Parliament member Raphaël Glucksmann was pelted with flour outside a bar in Paris on Sunday evening, shortly after winning the social-democratic left’s primary for the 2027 presidential election with more than 66% of the vote.</description>
   </item>
  </channel>
 </rss>

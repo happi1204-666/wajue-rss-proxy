@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-12T19:54:06Z</dc:date>
+  <dc:date>2026-10-13T01:48:52Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-all-1573-rdf"/>
@@ -137,7 +138,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/beethoven-and-andy-warhol-rebel-icons-on-show-in-bonn/a-79296944?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/var-s-mission-creep-a-problem-for-football/a-79272642?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/jews-once-lived-lived-here-when-houses-tell-stories/a-79264813?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/global-gender-gap-report-women-s-hard-won-gains-fragile/a-79280086?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-extreme-heat-is-hitting-wallets/a-79268306?maca=en-rss-en-all-1573-rdf"/>
@@ -156,6 +156,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-rdf">
+  <title>&apos;Breaking Bad&apos; actor and disability advocate RJ Mitte dies</title>
+  <link>https://www.dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-rdf</link>
+  <description>RJ Mitte said his lived experience with cerebral palsy was an asset for his role as Walter White&apos;s son Flynn on &quot;Breaking Bad.&quot;</description>
+  <dc:date>2026-10-13T01:00:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79646725</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf">
   <title>UK: Iran &apos;highly likely&apos; to be behind RAF Fairford incident</title>
   <link>https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf</link>
@@ -204,7 +213,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Merz says Trump&apos;s Russia diesel deal &apos;out of question&apos; for Europe</title>
   <link>https://www.dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-all-1573-rdf</link>
-  <description>Chancellor Friedrich Merz has said that Donald Trump&apos;s diesel deal with Russia would be &quot;out of the question&quot; for Germany and the EU. Meanwhile, the ruling coalition has been rocked by a major resignation. DW has more.</description>
+  <description>Chancellor Friedrich Merz has said that Donald Trump&apos;s diesel deal with Russia would be &quot;out of the question&quot; for Germany and the EU. Meanwhile, the ruling coalition has been rocked by a major resignation.</description>
   <dc:date>2026-10-12T16:01:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -276,7 +285,7 @@
  <item rdf:about="https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf">
   <title>Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict</title>
   <link>https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf</link>
-  <description>Riyadh airport will remained closed at least until the weekend amid deadly strikes by Yemen-based Houthis. The US has said it is weighing joining Saudi military operations. More on DW.</description>
+  <description>Riyadh airport will remain closed at least until the weekend amid deadly strikes by Yemen-based Houthis. The US has said it is weighing joining Saudi military operations. More on DW.</description>
   <dc:date>2026-10-12T10:41:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -1289,15 +1298,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79277772</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/jews-once-lived-lived-here-when-houses-tell-stories/a-79264813?maca=en-rss-en-all-1573-rdf">
-  <title>Jews once lived lived here: When houses tell stories</title>
-  <link>https://www.dw.com/en/jews-once-lived-lived-here-when-houses-tell-stories/a-79264813?maca=en-rss-en-all-1573-rdf</link>
-  <description>Time and again, residents tracing the history of their homes discover the lives of Jewish predecessors who fled or were deported amid stories of suffering and loss.</description>
-  <dc:date>2026-09-17T09:24:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79264813</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf">
   <title>How climate change worsened Nepal&apos;s deadly mountain collapse</title>

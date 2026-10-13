@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 19:55:00 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Oct 2026 19:17:48 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:46:53 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 23:46:26 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,8 +41,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html" rel="standout"></atom:link>
       <description>The attacks occurred at a remote gold mine hundreds of miles from the front lines of Sudan’s devastating civil war. Videos showed what appeared to be Egyptian munitions.</description>
-      <dc:creator>Declan Walsh, Abdalrahman Altayeb and Malachy Browne</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 19:17:48 +0000</pubDate>
+      <dc:creator>Abdalrahman Altayeb, Declan Walsh and Malachy Browne</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 21:49:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darfur (Sudan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
@@ -51,13 +51,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
     </item>
     <item>
-      <title>NATO Details Plan to Shield Ukraine’s European Allies from Russia</title>
+      <title>NATO Details Plan to Shield Ukraine’s European Allies From Russia</title>
       <link>https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html" rel="standout"></atom:link>
       <description>With the Russians intensifying sabotage, arson and cyberattacks against European nations supporting Ukraine, NATO divulged a blueprint, in case of war, to deter the Kremlin.</description>
       <dc:creator>Marc Santora and Steven Erlanger</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 17:06:58 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 20:55:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
@@ -181,16 +181,17 @@
       <description>Emirati investigators said the co-pilot accused of attacking a captain on a flight to Israel drifted toward extremism during his time as a student in Australia.</description>
       <dc:creator>Victoria Kim</dc:creator>
       <pubDate>Mon, 12 Oct 2026 07:46:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosques</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Hammami, Hamam</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Melbourne (Australia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohtadi, Samir (Abu Hamza)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12int-oz-mosque-ckbm/12int-oz-mosque-ckbm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
       <media:description>A FlyDubai plane carried passengers to Tel Aviv last month after a midair cockpit attack on their earlier flight.</media:description>
@@ -321,13 +322,36 @@
       <media:description>Iqaluit, the capital of the Inuit territory of Nunavut, is only accessible by air or by seasonal sealift.</media:description>
     </item>
     <item>
+      <title>Cornell and Toxic Frat Culture</title>
+      <link>https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html" rel="standout"></atom:link>
+      <description>A U.S. campus lawsuit points to a global pattern: how male impunity, silence and institutional failure enable sexual violence.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 20:51:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cornell University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Omar, Ilhan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Musk (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-theworld-cornell-02-kbwm-promo/13int-theworld-cornell-02-kbwm-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lauren Petracca for The New York Times</media:credit>
+      <media:description>Chi Phi fraternity house at Cornell University.</media:description>
+    </item>
+    <item>
       <title>After Russian Diesel Deal, Trump Faces New Crisis Over Ukraine</title>
       <link>https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html" rel="standout"></atom:link>
       <description>President Trump’s surprise decision to suspend sanctions on Russian diesel fuel stunned Ukrainian and European officials, who were meeting with U.S. envoys at an exclusive golf club near Miami.</description>
       <dc:creator>Anton Troianovski, Jeanna Smialek, Andrew E. Kramer and Steven Erlanger</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 18:15:11 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 22:12:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -887,7 +911,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tidal Waves and Tsunamis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama City (Panama)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v148.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v153.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -1039,18 +1063,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-international-law-chwb/09nobel-international-law-chwb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Piroschka Van De Wouw/Reuters</media:credit>
       <media:description>The International Criminal Court in The Hague has come under particular attack by the Trump administration. </media:description>
-    </item>
-    <item>
-      <title>The criteria for the Peace Prize have changed over time.</title>
-      <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/the-criteria-for-the-peace-prize-has-changed-over-time</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/the-criteria-for-the-peace-prize-has-changed-over-time</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/the-criteria-for-the-peace-prize-has-changed-over-time" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Max Bearak</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 14:47:45 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/09/arts/09nobel-peace-prize-winners-history/09nobel-peace-prize-winners-history-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Keystone/Hulton Archive, via Getty Images</media:credit>
-      <media:description>Albert Luthuli, a South African politician and anti-apartheid activist, arriving with his wife in Oslo, Norway, in 1961.</media:description>
     </item>
   </channel>
 </rss>
