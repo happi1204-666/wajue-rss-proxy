@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 16:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 21:43:03 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -121,6 +121,14 @@
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[The plan for an orbiting data centre involves linking satellites around Earth.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyk#2</guid>
+            <pubDate>Tue, 13 Oct 2026 19:45:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgj1dl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[What is a supercomputer for? How does it work? And who gets to use it? We explain all]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyj#2</guid>
@@ -142,14 +150,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyg#2</guid>
             <pubDate>Tue, 22 Sep 2026 20:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbyl1k.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech Life]]></title>
-            <description><![CDATA[What should children learn in a world transformed by artificial intelligence?]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyf#2</guid>
-            <pubDate>Tue, 15 Sep 2026 19:30:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p9s5kz.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Now]]></title>
