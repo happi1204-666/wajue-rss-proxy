@@ -12,7 +12,7 @@
 	<atom:link href="https://www.bellingcat.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.bellingcat.com/</link>
 	<description>the home of online investigations</description>
-	<lastBuildDate>Tue, 06 Oct 2026 17:03:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Oct 2026 09:35:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -637,7 +637,7 @@
 
 
 <div class="wp-block-bellingcat-donate-block"><div><div class="wp-block-image alignleft">
-<figure class="is-resized"><div class="media"><img loading="lazy" decoding="async" src="https://www.bellingcat.com/app/uploads/2025/05/question-mark.png" alt="" width="27" height="27"/></div></figure>
+<figure class="is-resized"><div class="media"><img decoding="async" src="https://www.bellingcat.com/app/uploads/2025/05/question-mark.png" alt="" style="width:27px;height:27px"/></div></figure>
 </div>
 
 
@@ -728,7 +728,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><div class="media"><img loading="lazy" decoding="async" src="https://www.bellingcat.com/app/uploads/2026/09/image3-1200x648.jpg" alt="" class="wp-image-53757" width="733" height="395" srcset="https://www.bellingcat.com/app/uploads/2026/09/image3-1200x648.jpg 1200w, https://www.bellingcat.com/app/uploads/2026/09/image3-300x162.jpg 300w, https://www.bellingcat.com/app/uploads/2026/09/image3-768x415.jpg 768w, https://www.bellingcat.com/app/uploads/2026/09/image3-1536x829.jpg 1536w, https://www.bellingcat.com/app/uploads/2026/09/image3.jpg 1999w" sizes="auto, (max-width: 733px) 100vw, 733px" /></div><figcaption class="wp-element-caption"><em>Geolocation diagram showing Google earth satellite image (right), screengrab of aftermath footage (top-left) and screengrab of drone footage (bottom-left). Sources: </em><a href="https://x.com/MohmedRAMADANE"><em>X/@MohmedRAMADANE</em></a><em> and </em><a href="https://www.youtube.com/watch?v=KErMo9WnUNo"><em>Youtube</em></a><em>.</em><br></figcaption></figure>
+<figure class="aligncenter size-large is-resized"><div class="media"><img loading="lazy" decoding="async" width="1200" height="647" src="https://www.bellingcat.com/app/uploads/2026/10/Mali-Amasrakad-1200x647.jpg" alt="" class="wp-image-53998" style="width:733px;height:395px" srcset="https://www.bellingcat.com/app/uploads/2026/10/Mali-Amasrakad-1200x647.jpg 1200w, https://www.bellingcat.com/app/uploads/2026/10/Mali-Amasrakad-300x162.jpg 300w, https://www.bellingcat.com/app/uploads/2026/10/Mali-Amasrakad-768x414.jpg 768w, https://www.bellingcat.com/app/uploads/2026/10/Mali-Amasrakad-1536x828.jpg 1536w, https://www.bellingcat.com/app/uploads/2026/10/Mali-Amasrakad-2048x1104.jpg 2048w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /></div><figcaption class="wp-element-caption"><em>Geolocation diagram showing Google earth satellite image (right), screengrab of aftermath footage (top-left) and screengrab of drone footage (bottom-left). Sources: </em><a href="https://x.com/MohmedRAMADANE"><em>X/@MohmedRAMADANE</em></a><em> and </em><a href="https://www.youtube.com/watch?v=KErMo9WnUNo"><em>Youtube</em></a><em>.</em><br></figcaption></figure>
 </div>
 
 
@@ -971,7 +971,7 @@ body.post-template-tpl-post-layout-full-bleed-video {
 
 
 
-<p class="wp-block-paragraph">Bellingcat’s Youri van der Weide, Miguel Ramalho and Charley Maher contributed to this report as well as the following members of Bellingcat’s Volunteer Community: Ziyu Wan, Afton Briones, Emma Mahon Decker, Nicole Kiess and Riccardo Giannardi. </p>
+<p class="wp-block-paragraph">Bellingcat’s Youri van der Weide, Miguel Ramalho and Charley Maher contributed to this report as well as the following members of Bellingcat’s Volunteer Community: Ziyu Wan, Afton Briones, Emma Mahon Decker, Nicole Kiess and Riccardo Giannardi.&nbsp;</p>
 
 
 
@@ -5248,5 +5248,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using Disk: Enhanced (Page is feed) 
 
-Served from: www.bellingcat.com @ 2026-10-12 10:31:53 by W3 Total Cache
+Served from: www.bellingcat.com @ 2026-10-14 10:37:22 by W3 Total Cache
 -->
