@@ -7,10 +7,15 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-14T15:53:33Z</dc:date>
+  <dc:date>2026-10-14T19:57:30Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf"/>
@@ -21,16 +26,12 @@
     <rdf:li rdf:resource="https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fact-check-misleading-graph-about-alleged-russian-bot-activity/a-79651769?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf"/>
@@ -158,6 +159,51 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine says Musk&apos;s SpaceX limits Kyiv&apos;s Starlink access</title>
+  <link>https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf</link>
+  <description>Ukraine accused SpaceX of restricting use of its Starlink system, impacting Kyiv&apos;s ability to control its drones as Russian attacks continue unabated. President Zelenskyy has asked Elon Musk to &quot;switch&quot; it back on.</description>
+  <dc:date>2026-10-14T18:28:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79658015</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf">
+  <title>Nord Stream trial opens in Germany, defense seeks dismissal</title>
+  <link>https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf</link>
+  <description>Serhii Kuznietsov is accused of attacking civilian infrastructure in the 2022 sabotage of the Russian gas pipeline to Germany. His lawyers called Nord Stream a military target, and said their client is sworn to secrecy.</description>
+  <dc:date>2026-10-14T18:00:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79662942</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf">
+  <title>How Trump&apos;s diesel deal with Russia will impact the United States and Ukraine</title>
+  <link>https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf</link>
+  <description>US President Trump&apos;s diesel deal with Russia has alarmed Ukraine and its allies. What is he hoping to achieve at home, and what does the deal mean for Kyiv and Moscow?</description>
+  <dc:date>2026-10-14T17:55:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79658596</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf">
+  <title>Japanese journalist arrest in Russia&apos;s Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow</title>
+  <link>https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf</link>
+  <description>A journalist for a Japanese newspaper was arrested on suspicion of spying in Russia&apos;s Far East. A geopolitical rivalry over disputed islands in the region has recently caused tension.</description>
+  <dc:date>2026-10-14T17:28:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79663428</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-rdf">
+  <title>Turkey: Government raids, takes over top news channel</title>
+  <link>https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-rdf</link>
+  <description>Turkish authorities have raided the Istanbul offices of Halk TV, halting broadcasts, appointing a trustee and opening an investigation. It is the latest chapter of a decadeslong media capture by President Erdogan.</description>
+  <dc:date>2026-10-14T16:07:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79662749</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf">
   <title>India urges Russia, Ukraine to protect Black Sea shipping</title>
   <link>https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf</link>
@@ -248,15 +294,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79647617</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine says Musk&apos;s SpaceX limits Kyiv&apos;s Starlink access</title>
-  <link>https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ukraine accused SpaceX of restricting use of its Starlink system, impacting Kyiv&apos;s ability to control its drones as Russian attacks continue unabated.</description>
-  <dc:date>2026-10-14T11:07:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79658015</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf">
   <title>Trump&apos;s US Super Intelligence Force and AI czar Jay Clayton</title>
   <link>https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf</link>
@@ -310,33 +347,6 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79649611</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-rdf">
-  <title>Iran: Political infighting deepens as economic woes mount during war</title>
-  <link>https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-rdf</link>
-  <description>Hardliners are stepping up pressure on Iran&apos;s government and calling for Foreign Minister Abbas Araghchi&apos;s removal. The oil minister resigned, but that&apos;s doing little to ease the pressure on President Masoud Pezeshkian.</description>
-  <dc:date>2026-10-14T05:30:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79654461</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-rdf">
-  <title>India news: &apos;Cockroach&apos; leaders sent to judicial custody amid protest crackdown</title>
-  <link>https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-rdf</link>
-  <description>Three of India&apos;s Cockroach movement leaders will spend five days in jail over charges of trespassing into what was until recently a designated protest site. In other news, Marco Rubio is set to visit India.</description>
-  <dc:date>2026-10-14T05:08:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79656344</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf">
-  <title>US judge extends media outlets&apos; White House access</title>
-  <link>https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf</link>
-  <description>A federal judge extended an order that blocks the Trump administration from banning media outlets from the White House. The outlets have reasonable grounds to think they&apos;ll win the case, the judge said.</description>
-  <dc:date>2026-10-14T03:46:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79656346</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine allies in Poland after Starlink sabotage, Trump diesel deal</title>
