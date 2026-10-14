@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 19:58:10 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 19:53:20 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:04:18 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 22:26:38 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html" rel="standout"></atom:link>
       <description>A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.</description>
       <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 19:53:20 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 20:47:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -66,14 +66,15 @@
       <dc:creator>Ben Hubbard and Safak Timur</dc:creator>
       <pubDate>Wed, 14 Oct 2026 17:00:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Halk TV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Imamoglu, Ekrem</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Halk TV</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-turkey-TV-wcht/14int-turkey-TV-wcht-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Berk Ozkan/Agence France-Presse — Getty Images</media:credit>
       <media:description>Turkish police officers outside the headquarters of Halk TV in Istanbul on Wednesday.</media:description>
@@ -304,13 +305,60 @@
       <media:description>A roadside memorial for Liraz Assulin, who was killed by Hamas-led gunmen as she tried to escape the Nova music festival on Oct. 7, 2023.</media:description>
     </item>
     <item>
-      <title>Sally Rooney Says Her Novels Will No Longer Be Sold in Britain</title>
+      <title>Angry Youth in Aging Europe</title>
+      <link>https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html" rel="standout"></atom:link>
+      <description>A bitter generational battle over resources is boiling over as economic growth on the continent stalls.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 20:34:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-theworld-europe-economy-protests-01-zkgh-promo/15int-theworld-europe-economy-protests-01-zkgh-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christophe Archambault/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A student protest in Bordeaux, France, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Brazil’s President Lula Accuses Meta of Helping His Right-Wing Opponent</title>
+      <link>https://www.nytimes.com/2026/10/14/world/americas/brazil-president-lula-meta-bolsonaro.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/americas/brazil-president-lula-meta-bolsonaro.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/world/americas/brazil-president-lula-meta-bolsonaro.html" rel="standout"></atom:link>
+      <description>With a narrow presidential election looming, President Luiz Inácio Lula da Silva and his allies claim Meta is trying to give his right-wing rival an advantage.</description>
+      <dc:creator>Ana Ionova</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 20:45:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Federal Court (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moraes, Alexandre de (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/00int-brazil-elections-meta01-photo-jlgw/00int-brazil-elections-meta01-photo-jlgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adriano Machado/Reuters</media:credit>
+      <media:description>President Luiz Inácio Lula da Silva in Brasília on Monday. He is taking on a right-wing candidate in a runoff on Oct. 25.</media:description>
+    </item>
+    <item>
+      <title>Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action</title>
       <link>https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html" rel="standout"></atom:link>
-      <description>Ms. Rooney and her publisher said that she could no longer receive royalties from British sales because she pledged to donate book revenues to Palestine Action, which is banned in the U.K.</description>
+      <description>Ms. Rooney and her publisher said that she could no longer receive royalties from British sales because she pledged to donate book revenues to Palestine Action, which is banned in Britain.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 19:45:59 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 21:52:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
@@ -336,7 +384,7 @@
       <atom:link href="https://www.nytimes.com/video/world/europe/100000011205967/00vid-rv-trump-putin-deal.html" rel="standout"></atom:link>
       <description>Our national security and White House correspondent David E. Sanger breaks down why President Donald Trump struck a deal with President Vladimir V. Putin to import Russian diesel fuel in the coming months, despite having signed recent congressional legislation tightening energy sanctions on Russia.</description>
       <dc:creator>David E. Sanger, Paul Abowd, Nikolay Nikolov, Nour Idriss, Rafaela Balster and Whitney Shefte</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 19:30:52 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 22:26:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
@@ -391,15 +439,11 @@
       <description>The pontiff’s illness also prompted calls for people to seek medical treatment and early cancer screenings.</description>
       <dc:creator>Ephrat Livni</dc:creator>
       <pubDate>Wed, 14 Oct 2026 08:46:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clergy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Conference of Catholic Bishops</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-Pope-Reax-pjlk/13int-Pope-Reax-pjlk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alberto Pizzoli/Agence France-Presse — Getty Images</media:credit>
       <media:description>Pope Leo XIV was welcomed by Daniele Franco, the president of Gemelli University Hospital in Rome, before an operation to remove a mass from his lung on Tuesday.</media:description>
@@ -1168,26 +1212,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/00int-eu-taliban-1-mjkt/00int-eu-taliban-1-mjkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tomas Munita for The New York Times</media:credit>
       <media:description>Celebrations in the streets of Kabul during the fifth anniversary of the Taliban’s return to power on Aug. 15.</media:description>
-    </item>
-    <item>
-      <title>An Israeli Election Like No Other</title>
-      <link>https://www.nytimes.com/2026/10/11/world/israel-election-india-protests-riyadh.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/11/world/israel-election-india-protests-riyadh.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/11/world/israel-election-india-protests-riyadh.html" rel="standout"></atom:link>
-      <description>Many say a vote in two weeks may be the most consequential in Israel’s history.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 05:33:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12int-theworld-israel-elections-01-vtgf-promo/12int-theworld-israel-elections-01-vtgf-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
-      <media:description>Ashdod, Israel, last week.</media:description>
     </item>
   </channel>
 </rss>

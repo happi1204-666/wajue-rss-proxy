@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 19:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 23:04:50 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -55,12 +55,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a5/live/6ec3c040-c7d5-11f1-9671-5b70c6e774ea.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How long will humans be needed for translation?]]></title>
-            <description><![CDATA[AI dominates the translation business, but for high-stakes work, humans are still needed.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1wxdjx27ypo#0</guid>
-            <pubDate>Tue, 13 Oct 2026 23:05:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg"/>
+            <title><![CDATA[How a Chinese-made toy gets to a US retailer]]></title>
+            <description><![CDATA[With Christmas on the horizon, we trace children's toys from factories in China to US shelves.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5djvyde0y1jo#0</guid>
+            <pubDate>Wed, 14 Oct 2026 23:01:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg"/>
         </item>
         <item>
             <title><![CDATA[US inflation rises more than expected - here's what is happening with prices]]></title>
@@ -231,6 +231,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd68/live/6a2ab470-c646-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How long will humans be needed for translation?]]></title>
+            <description><![CDATA[AI dominates the translation business, but for high-stakes work, humans are still needed.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1wxdjx27ypo#2</guid>
+            <pubDate>Tue, 13 Oct 2026 23:05:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why are more roofs not made of solar tiles?]]></title>
             <description><![CDATA[Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?]]></description>
             <link>https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -311,6 +319,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How much is the minimum wage?]]></title>
+            <description><![CDATA[What are the National Minimum Wage and the National Living Wage, and how much are they worth?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#3</guid>
+            <pubDate>Wed, 14 Oct 2026 23:01:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2639/live/ce1249e0-a9c2-11f0-8da2-811fba9518ff.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['It's rough out here': Americans struggle with rising inflation ]]></title>
             <description><![CDATA[US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -341,14 +357,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3ewegye0g0qo#3</guid>
             <pubDate>Wed, 14 Oct 2026 09:59:51 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f910/live/93417b80-c6f7-11f1-b4dd-e786ec6f11b1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heating oil users facing fuel or food winter choice]]></title>
-            <description><![CDATA[It comes as ministers say they will tighten up rules on heating oil and promote competition.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv4g18we232ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv4g18we232ro#3</guid>
-            <pubDate>Wed, 14 Oct 2026 05:18:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdeb/live/92001c40-1c9d-11f1-96d3-41e1ce230d17.jpg"/>
         </item>
         <item>
             <title><![CDATA[My hometown shows that high streets have to change or die]]></title>
