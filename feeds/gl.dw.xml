@@ -7,10 +7,20 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-14T11:10:11Z</dc:date>
+  <dc:date>2026-10-14T15:53:33Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/indonesian-vip-prison-scandal-exposes-inequality-across-southeast-asia/a-79659535?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merz-attacks-extremes-for-fueling-division/live-79656436?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-all-1573-rdf"/>
@@ -18,20 +28,11 @@
     <rdf:li rdf:resource="https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/cornell-suspends-frat-parties-after-gang-rape-case/a-79655735?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/tupac-shakur-murder-trial-former-gang-leader-duane-davis-sentenced-to-40-years/a-79655189?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-left-leaning-berlin-coalition-talks-break-down/live-79647092?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf"/>
@@ -73,7 +74,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/90s-art-scene-in-the-uk-an-international-edgy-trendsetter/a-79581777?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-did-cdu-lawmakers-support-the-far-right-afd/a-79577396?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-rdf"/>
@@ -104,6 +104,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/klopp-wins-first-game-as-germany-coach-without-top-dogs/a-79508898?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/senegal-s-youth-olympics-makes-olympics-in-africa-logical/a-79468975?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/servers-at-munich-s-iconic-oktoberfest-call-for-more-respect/a-79491207?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-all-1573-rdf"/>
@@ -157,6 +158,96 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf">
+  <title>India urges Russia, Ukraine to protect Black Sea shipping</title>
+  <link>https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf</link>
+  <description>New Delhi wants Moscow and Kyiv to ensure safe commercial shipping in the Black Sea amid attacks that put Indian seafarers at risk.</description>
+  <dc:date>2026-10-14T15:29:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79662826</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf">
+  <title>Germany&apos;s far-right AfD forges a pro-Russia alliance with the BSW</title>
+  <link>https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf</link>
+  <description>In Saxony-Anhalt, the AfD and BSW are joining forces to push for negotiations with Moscow. What is driving this rapprochement?</description>
+  <dc:date>2026-10-14T15:13:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79662413</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf">
+  <title>Albania: Fire at Education Ministry as students protest</title>
+  <link>https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf</link>
+  <description>Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.</description>
+  <dc:date>2026-10-14T14:56:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79661193</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-all-1573-rdf">
+  <title>Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan</title>
+  <link>https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-all-1573-rdf</link>
+  <description>Aid groups warn of an imminent collapse of the health system as fighting continues to displace civilians amid the planting season. The UN has extended an arms embargo, but only for Darfur.</description>
+  <dc:date>2026-10-14T14:25:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79659603</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/indonesian-vip-prison-scandal-exposes-inequality-across-southeast-asia/a-79659535?maca=en-rss-en-all-1573-rdf">
+  <title>Indonesian VIP prison scandal exposes inequality across Southeast Asia</title>
+  <link>https://www.dw.com/en/indonesian-vip-prison-scandal-exposes-inequality-across-southeast-asia/a-79659535?maca=en-rss-en-all-1573-rdf</link>
+  <description>Luxury accommodation uncovered at an Indonesian prison has reignited concerns about preferential treatment for wealthy convicts across Southeast Asia.</description>
+  <dc:date>2026-10-14T14:17:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79659535</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf">
+  <title>Trump&apos;s diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief</title>
+  <link>https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf</link>
+  <description>As the world&apos;s largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump&apos;s deal with Russia is unlikely to change that.</description>
+  <dc:date>2026-10-14T14:15:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79659601</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-news-merz-attacks-extremes-for-fueling-division/live-79656436?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Merz attacks extremes for fueling division</title>
+  <link>https://www.dw.com/en/germany-news-merz-attacks-extremes-for-fueling-division/live-79656436?maca=en-rss-en-all-1573-rdf</link>
+  <description>German Chancellor Friedrich Merz accuses the far-right AfD and the socialist Left Party of deliberately fueling division and seeking political advantage from chaos. DW has the latest.</description>
+  <dc:date>2026-10-14T13:48:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79656436</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf">
+  <title>Houthis launch fresh wave of missiles across Saudi Arabia</title>
+  <link>https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf</link>
+  <description>Both the Houthis and the Saudi-led coalition carried out strikes targeting energy infrastructure. Four people were injured as a result of debris of intercepted missiles in Riyadh. DW has the latest.</description>
+  <dc:date>2026-10-14T13:35:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79655805</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf">
+  <title>China&apos;s influence in the gaming industry is growing</title>
+  <link>https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf</link>
+  <description>Home to more than 700 million gamers, China is the world&apos;s largest gaming market — but it&apos;s also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world.</description>
+  <dc:date>2026-10-14T11:48:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79484755</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf">
+  <title>Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial</title>
+  <link>https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf</link>
+  <description>A Ukrainian citizen faces court in Hamburg, accused of attacking the Nord Stream gas pipelines in 2022. It raises questions about Kyiv&apos;s possible role in the explosions. German support for Ukraine is also under scrutiny.</description>
+  <dc:date>2026-10-14T11:40:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79647617</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine says Musk&apos;s SpaceX limits Kyiv&apos;s Starlink access</title>
   <link>https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf</link>
@@ -169,7 +260,7 @@
  <item rdf:about="https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf">
   <title>Trump&apos;s US Super Intelligence Force and AI czar Jay Clayton</title>
   <link>https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf</link>
-  <description>Trump announced a new Super Intelligence taskforce with the White House AI czar Jay Clayton in charge of a group responsible for making sure the US leads international competition in artificial intelligence development.</description>
+  <description>Trump announced a new Super Intelligence task force with the White House AI czar Jay Clayton in charge of a group responsible for making sure the US leads international competition in artificial intelligence development.</description>
   <dc:date>2026-10-14T10:58:00Z</dc:date>
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
@@ -189,7 +280,7 @@
   <link>https://www.dw.com/en/fact-check-misleading-graph-about-alleged-russian-bot-activity/a-79651769?maca=en-rss-en-all-1573-rdf</link>
   <description>Did attacks on Russian data centers reduce bot activity around Germany&apos;s AfD? A viral graph claims they did. But it contains significant inconsistencies and provides no evidence to support the claim.</description>
   <dc:date>2026-10-14T09:08:00Z</dc:date>
-  <dc:subject>TOP STORIES</dc:subject>
+  <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79651769</dwsyn:contentID>
  </item>
@@ -205,7 +296,7 @@
  <item rdf:about="https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-all-1573-rdf">
   <title>FIFPRO report highlights growing pains in women&apos;s football</title>
   <link>https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-all-1573-rdf</link>
-  <description>Expected global revenue of over $1 billion and new faces at the U17 World Cup show women&apos;s football is booming, but a recent report also highlights need for greater structure globally.</description>
+  <description>Expected global revenue of over $1 billion and new faces at the U17 World Cup show women&apos;s football is booming, but a recent report also highlights need for better structures globally.</description>
   <dc:date>2026-10-14T08:21:00Z</dc:date>
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
@@ -220,15 +311,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79649611</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Nord Stream sabotage suspect&apos;s trial opens</title>
-  <link>https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-rdf</link>
-  <description>A Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. At the same time, Chancellor Merz is expected to give a major policy statement. DW has more.</description>
-  <dc:date>2026-10-14T06:51:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79656436</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-rdf">
   <title>Iran: Political infighting deepens as economic woes mount during war</title>
   <link>https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-rdf</link>
@@ -241,7 +323,7 @@
  <item rdf:about="https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-rdf">
   <title>India news: &apos;Cockroach&apos; leaders sent to judicial custody amid protest crackdown</title>
   <link>https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-rdf</link>
-  <description>Three of India&apos;s Cockroach movement leaders will spend five days in jail over charges of trespassing into what was until recently a designated protest site. In other news, Marco Rubio is set to visit India. DW has more.</description>
+  <description>Three of India&apos;s Cockroach movement leaders will spend five days in jail over charges of trespassing into what was until recently a designated protest site. In other news, Marco Rubio is set to visit India.</description>
   <dc:date>2026-10-14T05:08:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -255,60 +337,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79656346</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf">
-  <title>Houthis launch fresh wave of missiles across Saudi Arabia</title>
-  <link>https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf</link>
-  <description>Both the Houthis and the Saudi-led coalition carried out strikes targeting energy infrastructure. Four people were injured as a result of debris of intercepted missiles in Riyadh. DW has the latest.</description>
-  <dc:date>2026-10-14T00:50:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79655805</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/cornell-suspends-frat-parties-after-gang-rape-case/a-79655735?maca=en-rss-en-all-1573-rdf">
-  <title>Cornell suspends frat parties after gang rape case</title>
-  <link>https://www.dw.com/en/cornell-suspends-frat-parties-after-gang-rape-case/a-79655735?maca=en-rss-en-all-1573-rdf</link>
-  <description>Cornell said no parties will be held at frat houses until the end of the academic year. The university is trying to mend its reputation following its handling of a gang rape case in 2024.</description>
-  <dc:date>2026-10-13T22:58:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79655735</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-rdf">
-  <title>OpenAI says employee caught planting listening device</title>
-  <link>https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-rdf</link>
-  <description>A Saudi national employed by the artificial intelligence lab has been arrested after a listening device was planted in a company conference room.</description>
-  <dc:date>2026-10-13T21:24:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79655491</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-rdf">
-  <title>Vatican confirms Pope Leo underwent surgery for lung cancer</title>
-  <link>https://www.dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-rdf</link>
-  <description>The pope has had part of his lung removed and is recovering after surgery. Leo has been unusually candid for a pontiff about his health issues, disclosing the surgery to thousands of people in St. Peter&apos;s Square.</description>
-  <dc:date>2026-10-13T19:50:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79647264</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/tupac-shakur-murder-trial-former-gang-leader-duane-davis-sentenced-to-40-years/a-79655189?maca=en-rss-en-all-1573-rdf">
-  <title>Tupac Shakur murder trial: Former gang leader Duane Davis sentenced to 40 years</title>
-  <link>https://www.dw.com/en/tupac-shakur-murder-trial-former-gang-leader-duane-davis-sentenced-to-40-years/a-79655189?maca=en-rss-en-all-1573-rdf</link>
-  <description>Former Los Angeles gang leader Duane &quot;Keffe D&quot; Davis was found guilty of ordering the killing of hip-hop icon Tupac Shakur.</description>
-  <dc:date>2026-10-13T19:40:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79655189</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-news-left-leaning-berlin-coalition-talks-break-down/live-79647092?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Left-leaning Berlin coalition talks break down</title>
-  <link>https://www.dw.com/en/germany-news-left-leaning-berlin-coalition-talks-break-down/live-79647092?maca=en-rss-en-all-1573-rdf</link>
-  <description>The SPD and Greens in Berlin have halted exploratory coalition talks with the Left Party amid a dispute over Israel policy and antisemitism. DW has more.</description>
-  <dc:date>2026-10-13T19:22:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79647092</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine allies in Poland after Starlink sabotage, Trump diesel deal</title>
@@ -327,24 +355,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79650785</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-rdf">
-  <title>Iran seeking &apos;harder targets&apos; for attacks abroad, UK warns</title>
-  <link>https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-rdf</link>
-  <description>The warning from the head of the UK&apos;s domestic security agency comes after PM Burnham said an attempted plot at an air force base hosting US bombers was &quot;almost certainly&quot; coordinated in Tehran.</description>
-  <dc:date>2026-10-13T17:23:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79654454</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf">
-  <title>Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial</title>
-  <link>https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf</link>
-  <description>A Ukrainian citizen faces court in Hamburg, accused of attacking the Nord Stream gas pipelines in 2022. It raises questions about Kyiv&apos;s possible role in the explosions. German support for Ukraine is also under scrutiny.</description>
-  <dc:date>2026-10-13T12:40:00Z</dc:date>
-  <dc:subject>Germany</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79647617</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf">
   <title>Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia</title>
@@ -491,7 +501,7 @@
   <dwsyn:contentID>79629971</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf">
-  <title>Germany&apos;s population is shrinking but not everywhere</title>
+  <title>Germany&apos;s population is shrinking, but not everywhere</title>
   <link>https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf</link>
   <description>By 2045, Germany will have more older people, fewer workers and a smaller population overall. Yet some regions will defy this trend. Their success depends on how much they have to offer.</description>
   <dc:date>2026-10-11T07:21:00Z</dc:date>
@@ -714,15 +724,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79570924</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-all-1573-rdf">
-  <title>EU enlargement: European Commission tables reforms to prepare bloc for new members</title>
-  <link>https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-all-1573-rdf</link>
-  <description>The European Commission is proposing earlier access to EU markets for candidate countries, new voting rules to reduce vetoes and extra safeguards for a bigger bloc. But is the reform fair — or even feasible?</description>
-  <dc:date>2026-10-07T15:05:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79582493</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf">
   <title>German spy scandal threatens national security</title>
@@ -993,6 +994,15 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79496554</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf">
+  <title>Germans&apos; biggest fear is the high cost of living, an annual study finds</title>
+  <link>https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf</link>
+  <description>What do Germans fear most in 2026? Wars? Global crises? Wrong. Their biggest concern is the cost of living, which keeps rising.</description>
+  <dc:date>2026-10-01T09:46:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79497762</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/senegal-s-youth-olympics-makes-olympics-in-africa-logical/a-79468975?maca=en-rss-en-all-1573-rdf">
   <title>Senegal&apos;s Youth Olympics makes Olympics in Africa &apos;logical&apos;</title>
