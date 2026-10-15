@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 20:53:52 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Oct 2026 20:51:25 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 23:32:32 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 23:26:44 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -54,13 +54,13 @@
       <media:description>A nurse gestures inside Nairobi Hospital, where an Ebola patient was isolated immediately upon arrival and treated at the hospital’s East Wing Isolation Facility. The patient later died.</media:description>
     </item>
     <item>
-      <title>Iran-Backed Houthis Strike Presidential Palace, Yemen Says</title>
+      <title>Houthi Missiles Strike Government Headquarters in Yemen</title>
       <link>https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html" rel="standout"></atom:link>
-      <description>Two were killed when Houthi missiles struck the Maashiq Presidential Palace in Aden, a Yemeni minister said. Saudi Arabia has said Iran is fueling the country’s escalating conflict.</description>
-      <dc:creator>Ismaeel Naar</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 19:05:03 +0000</pubDate>
+      <description>Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.</description>
+      <dc:creator>Ismaeel Naar and Pranav Baskar</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 21:43:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">King Khalid International Airport (Riyadh, Saudi Arabia)</category>
@@ -75,7 +75,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html" rel="standout"></atom:link>
       <description>Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.</description>
       <dc:creator>Fatjona Mejdini, Paul Mozur and Lynsey Chutel</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 16:20:51 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 21:40:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -297,6 +297,48 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-japan-journalist-pqfl/14int-japan-journalist-pqfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kyodo, via Reuters</media:credit>
       <media:description>The Hokkaido Shimbun newspaper headquarters in Sapporo, Japan on Wednesday. A journalist from the newspaper was arrested in Russia and accused of spying.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Deal With Russia Inflames War He Vowed to Swiftly End</title>
+      <link>https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html" rel="standout"></atom:link>
+      <description>The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.</description>
+      <dc:creator>Anton Troianovski and Luke Broadwater</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 23:26:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-ukraine-pmfg/15dc-trump-ukraine-pmfg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump during a campaign stop in Alaska on Tuesday. He has not delivered on his promises to end the war in Ukraine, or to lower prices, and recent deals with Russia could complicate both issues.</media:description>
+    </item>
+    <item>
+      <title>Venezuela’s Opposition Leader Calls Trump’s New Oil Partner Corrupt</title>
+      <link>https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html" rel="standout"></atom:link>
+      <description>As ties with the Trump administration fray, María Corina Machado said her return to Venezuela would come “sooner than you would expect.”</description>
+      <dc:creator>Julie Turkewitz</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 23:24:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Betancourt Lopez, Alejandro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-venezuela-machado01-photo-klht/15int-venezuela-machado01-photo-klht-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nathalia Angarita for The New York Times</media:credit>
+      <media:description>While expressing frustration that she is stuck abroad, María Corina Machado vowed to return to Venezuela and rally supporters for a future election.</media:description>
     </item>
     <item>
       <title>America’s Most Expensive Senate Race</title>
@@ -656,12 +698,13 @@
       <description>The Taliban government has intensified its crackdown on the press in recent months but had so far targeted Afghan news outlets.</description>
       <dc:creator>Safiullah Padshah and Elian Peltier</dc:creator>
       <pubDate>Wed, 14 Oct 2026 09:28:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
       <media:content height="1702" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-taliban-bbc-zclt/14int-taliban-bbc-zclt-mediumSquareAt3X.jpg" width="1702"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Telecommunications antennas in Kabul, Afghanistan, where transmissions of BBC broadcasts from FM radio stations were suspended. </media:description>
@@ -1128,80 +1171,6 @@
       <media:content height="1411" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-germany-flight-jgtc/13int-germany-flight-jgtc-mediumSquareAt3X.jpg" width="1411"></media:content>
       <media:credit>Tizian Gerbing/Picture Alliance, via Associated Press</media:credit>
       <media:description>Members of a police special operations unit at Nuremberg airport in Germany on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html" rel="standout"></atom:link>
-      <description>The attack targeted a Danish software system in more than 400 supermarkets, forcing some shops to throw out frozen produce. The attackers have not been identified.</description>
-      <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 17:16:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Danfoss Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refrigerators</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-france-fridges-01-kcgh/13int-france-fridges-01-kcgh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fred Tanneau/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Empty shelves at an Intermarché supermarket in Névez, France, on Monday, following a cyberattack that caused refrigerators to defrost.</media:description>
-    </item>
-    <item>
-      <title>U.K. and Europe Recoil From Trump’s Diesel Deal With Putin</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html" rel="standout"></atom:link>
-      <description>Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message.</description>
-      <dc:creator>Michael D. Shear and Jeanna Smialek</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 14:35:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kallas, Kaja (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merz, Friedrich</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tusk, Donald</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luxembourg</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Warsaw (Poland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-europe-trump-russia01-photo-kqgt/13int-europe-trump-russia01-photo-kqgt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>President Trump departing Joint Base Andrews, Md., on Saturday for a campaign rally in Clarksville, Tenn.</media:description>
-    </item>
-    <item>
-      <title>The Oct. 7 Attack Changed Israel, but Not Its Politics</title>
-      <link>https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html" rel="standout"></atom:link>
-      <description>As Israelis prepare to vote for the first time since the Hamas-led assault, they remain divided over whether to hold Prime Minister Benjamin Netanyahu responsible for negligence or fault the “treason” of his generals.</description>
-      <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 18:58:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sderot (Israel)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12Israel-oct7-election-01-pkgv/12Israel-oct7-election-01-pkgv-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Amit Elkayam for The New York Times</media:credit>
-      <media:description>A roadside memorial for Liraz Assulin, who was killed by Hamas-led gunmen as she tried to escape the Nova music festival on Oct. 7, 2023.</media:description>
     </item>
   </channel>
 </rss>
