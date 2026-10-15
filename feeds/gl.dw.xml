@@ -7,10 +7,14 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-15T17:34:18Z</dc:date>
+  <dc:date>2026-10-15T20:55:00Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-rdf"/>
@@ -27,10 +31,8 @@
     <rdf:li rdf:resource="https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-train-station-alcohol-ban-comes-into-force/live-79666807?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf"/>
@@ -134,7 +136,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/el-nino-explained-how-the-weather-pattern-affects-hurricanes-and-tropical-storms/a-79382511?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/could-we-see-mma-at-the-olympics/a-79369605?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/princess-diana-s-brother-makes-explosive-claims-about-royals-in-new-memoir/a-79309465?maca=en-rss-en-all-1573-rdf"/>
@@ -156,6 +157,42 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf">
+  <title>Bus, train collide, injuring 19 at Channel Tunnel terminal</title>
+  <link>https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf</link>
+  <description>A minibus carrying truck drivers collided with a freight train near the Channel Tunnel entrance in France, injuring 19 people, with five severely hurt. Emergency services rushed to the scene.</description>
+  <dc:date>2026-10-15T20:42:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79674671</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-rdf">
+  <title>Venezuela&apos;s Nicolas Maduro pleads not guilty to torture charges</title>
+  <link>https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-rdf</link>
+  <description>Maduro and his wife were charged with leading a state-sponsored repression campaign that tortured scores of victims during his presidency from 2013 to 2026.</description>
+  <dc:date>2026-10-15T18:55:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79673496</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-all-1573-rdf">
+  <title>Self-replicating AI: Is your fridge a cybersecurity risk?</title>
+  <link>https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-all-1573-rdf</link>
+  <description>Anthropic researchers warn that AI worms could soon target connected household devices and spread from one device to another. Cyberattacks on French supermarkets illustrate just how vulnerable such systems can be.</description>
+  <dc:date>2026-10-15T18:52:00Z</dc:date>
+  <dc:subject>Technology</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79662958</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf">
+  <title>Middle East updates: Houthis target Yemen government palace in Aden</title>
+  <link>https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf</link>
+  <description>Houthi rebels say they targeted Saudi military assets in a rare attack on the interim seat of Yemen&apos;s internationally recognized government. Meanwhile, vessels are again under fire near the Strait of Hormuz. More on DW.</description>
+  <dc:date>2026-10-15T17:44:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79672880</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf">
   <title>Police raid the major pro-opposition Halk TV channel in Turkey</title>
   <link>https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf</link>
@@ -186,7 +223,7 @@
  <item rdf:about="https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine resumes attacks on Russian refineries as Zelenskyy says &apos;we&apos;re done&apos;</title>
   <link>https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf</link>
-  <description>Volodymyr Zelenskyy has announced that Ukraine is resuming attacks on Russian energy sites. It came after Moscow summarily ignored a claim by US President Donald Trump that an &quot;energy ceasefire&quot; had been agreed.</description>
+  <description>Volodymyr Zelenskyy has said Ukraine will again attack Russian energy sites, as Moscow has ignored a claim by US President Trump that an &quot;energy ceasefire&quot; had been agreed. Russia reported two attacks on refineries.</description>
   <dc:date>2026-10-15T14:51:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -300,15 +337,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79659928</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Supreme Court hears Rahul Gandhi&apos;s Election Commission plea</title>
-  <link>https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf</link>
-  <description>A petition filed by opposition leader Rahul Gandhi and others seeks an independent audit of India&apos;s sweeping voter deletions. Meanwhile, actor Imran Khan has reportedly been ordered to leave India.</description>
-  <dc:date>2026-10-15T09:48:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79665180</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-rdf">
   <title>Why Chinese tech brands are outpacing Western rivals from EVs to robot vacuums</title>
   <link>https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-rdf</link>
@@ -326,15 +354,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79664729</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-all-1573-rdf">
-  <title>North Korea, China open border bridge after 12-year delay</title>
-  <link>https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-all-1573-rdf</link>
-  <description>Twelve years after it was constructed, the New Yalu River Bridge between China and North Korea is finally operational. It is the latest sign of warming ties between the two nations.</description>
-  <dc:date>2026-10-15T08:12:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79666112</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf">
   <title>Nord Stream trial opens in Germany, defense seeks dismissal</title>
@@ -1262,15 +1281,6 @@
   <dc:subject>Climate</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79237420</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/could-we-see-mma-at-the-olympics/a-79369605?maca=en-rss-en-all-1573-rdf">
-  <title>Could we see MMA at the Olympics?</title>
-  <link>https://www.dw.com/en/could-we-see-mma-at-the-olympics/a-79369605?maca=en-rss-en-all-1573-rdf</link>
-  <description>Mixed martial arts has made its debut at the Asian Games this week. It takes the sport closer to the Olympics, but there are doubts about the next step — and the influence of the popular and lucrative UFC.</description>
-  <dc:date>2026-09-22T12:14:00Z</dc:date>
-  <dc:subject>Sports</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79369605</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-rdf">
   <title>Male infertility is &apos;grossly underreported&apos;</title>
