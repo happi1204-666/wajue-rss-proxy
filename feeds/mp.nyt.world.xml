@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 01:35:42 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Oct 2026 01:15:31 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:55:41 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 06:45:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html" rel="standout"></atom:link>
       <description>Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.</description>
       <dc:creator>Javier C. Hernández</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 11:30:00 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 05:04:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -131,7 +131,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html" rel="standout"></atom:link>
       <description>Joining a global movement, President Claudia Sheinbaum signed a decree requiring the removal of a range of material for people under 18 and held out the prospect of tougher measures.</description>
       <dc:creator>James Wagner</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 01:15:31 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 02:03:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
@@ -271,7 +271,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html" rel="standout"></atom:link>
       <description>After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way.</description>
       <dc:creator>Siobhán O’Grady, Liubov Sholudko and Johanna-Maria Fritz</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 20:31:14 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 20:31:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sumy (Ukraine)</category>
@@ -303,13 +303,124 @@
       <media:description>A roadside memorial for Liraz Assulin, who was killed by Hamas-led gunmen as she tried to escape the Nova music festival on Oct. 7, 2023.</media:description>
     </item>
     <item>
+      <title>North Korea and China Open Their Biggest Border Bridge</title>
+      <link>https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html" rel="standout"></atom:link>
+      <description>The long-delayed opening of the New Yalu River Bridge comes as the two countries expand trade despite international sanctions imposed on North Korea.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 06:45:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dandong (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-nkorea-china-bridge-cglj/15int-nkorea-china-bridge-cglj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Iori Sagisawa/Kyodo News, via Associated Press</media:credit>
+      <media:description>The New Yalu River Bridge seen from Dandong, China, on Thursday, the day it opened.</media:description>
+    </item>
+    <item>
+      <title>While Leo Recovers From Lung Surgery, the Church Runs on Autopilot</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html" rel="standout"></atom:link>
+      <description>The Vatican bureaucracy has been fine-tuned over hundreds of years to function smoothly even when the pope cannot.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 04:01:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cardinals (Roman Catholic Prelates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemelli Hospital (Rome, Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Benedict XVI</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John Paul II</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">The Vatican</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-vatican-01-lqtb/14int-pope-vatican-01-lqtb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stoyan Nenov/Reuters</media:credit>
+      <media:description>Mass in St. Peter’s Square at the Vatican on Wednesday. The service was held by Cardinal Luis Antonio Tagle in Pope Leo’s absence, and included special prayers for the pontiff’s health.</media:description>
+    </item>
+    <item>
+      <title>Why Does Saudi Arabia Struggle to Stop Houthi Attacks?</title>
+      <link>https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html" rel="standout"></atom:link>
+      <description>The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15inyt-saudi-military-1-cflm/15inyt-saudi-military-1-cflm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fayez Nureldine/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A military parade marked Saudi National Day in Riyadh last month.</media:description>
+    </item>
+    <item>
+      <title>Home of London’s Oldest Restaurant, Rules, is Given to National Trust</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html" rel="standout"></atom:link>
+      <description>The restaurant Rules is an institution. Now the National Trust, which preserves Britain’s heritage, plans to safeguard the landmark.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Covent Garden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Trust Group (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="">Rules Restaurant</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-uk-rules-restaurant-01-cftz/15int-uk-rules-restaurant-01-cftz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sam Mellish/In Pictures, via Getty Images</media:credit>
+      <media:description>The interior of Rules, a British mainstay in the Covent Garden neighborhood of London. In the centuries since it opened, the restaurant has served London’s wealthy and wordy, its royals and its regulars.</media:description>
+    </item>
+    <item>
+      <title>OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis</title>
+      <link>https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html" rel="standout"></atom:link>
+      <description>The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 02:27:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdulrahman Alfozan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Aaron Wojack for The New York Times</media:credit>
+      <media:description>The San Francisco offices of OpenAI. According to a court filing, a thumb-size recording device wrapped in toilet paper was found plugged into the back of a television in an executive conference room.</media:description>
+    </item>
+    <item>
       <title>Angry Youth in Aging Europe</title>
       <link>https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html" rel="standout"></atom:link>
       <description>A bitter generational battle over resources is boiling over as economic growth on the continent stalls.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 20:34:31 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 04:43:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
@@ -872,7 +983,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/13/world/asia/bougainville-island-panguna-mine-pollution-reopening.html" rel="standout"></atom:link>
       <description>Rising demand for copper has fueled interest in Bougainville’s Panguna mine, which has been shut for four decades. Yet some fear a rush to reopen risks a return to violence.</description>
       <dc:creator>Victoria Kim and Matthew Abbott</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 01:28:48 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 01:53:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Copper, Brass and Bronze</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
@@ -1127,85 +1238,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12int-france-market-fire-01-fqpv/12int-france-market-fire-01-fqpv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sarah Meyssonnier/Reuters</media:credit>
       <media:description>Firefighters above the roof of the Marché des Enfants Rouges in Paris on Monday, after the famed market caught fire.</media:description>
-    </item>
-    <item>
-      <title>He Helped Discover Ebola 50 Years Ago. He’s Still Worried.</title>
-      <link>https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html" rel="standout"></atom:link>
-      <description>In an interview, Dr. Peter Piot recalled when he first saw the spindly virus under a microscope and reflected on a five-decade career spent fighting two deadly pathogens.</description>
-      <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 09:02:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Piot, Peter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UNAIDS</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/11DC-PIOT-top-pmqz/11DC-PIOT-top-pmqz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniel Berehulak/The New York Times</media:credit>
-      <media:description>Dr. Peter Piot was among the first scientists to see the Ebola virus, as a young researcher in Belgium in 1976.</media:description>
-    </item>
-    <item>
-      <title>Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine</title>
-      <link>https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html" rel="standout"></atom:link>
-      <description>A documentary claims that Ukraine, not Russia, attacked the drama theater in Mariupol, where hundreds of civilians died.</description>
-      <dc:creator>Alexander Nazaryan</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 09:00:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Witnesses (Movie)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/30/world/00int-russia-documentary-01/00int-russia-documentary-01-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alexei Alexandrov/Associated Press</media:credit>
-      <media:description>The remains of the theater in Mariupol, eastern Ukraine, in April 2022, in a photograph taken when the area was under pro-Russian control. The Russian airstrike on the building killed hundreds of civilians.</media:description>
-    </item>
-    <item>
-      <title>How Do Cuttlefish Hide? Scientists Search for the Secret to Camouflage.</title>
-      <link>https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html" rel="standout"></atom:link>
-      <description>Cephalopods are masters of camouflage. Scientists want to decipher how the process works in the brain.</description>
-      <dc:creator>Alexa Robles-Gil</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 09:00:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camouflage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Columbia University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Montague, Tessa</category>
-    </item>
-    <item>
-      <title>Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque</title>
-      <link>https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html" rel="standout"></atom:link>
-      <description>Emirati investigators said the co-pilot accused of attacking a captain on a flight to Israel drifted toward extremism during his time as a student in Australia.</description>
-      <dc:creator>Victoria Kim</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 07:46:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosques</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Hammami, Hamam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Melbourne (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohtadi, Samir (Abu Hamza)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12int-oz-mosque-ckbm/12int-oz-mosque-ckbm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A FlyDubai plane carried passengers to Tel Aviv last month after a midair cockpit attack on their earlier flight.</media:description>
     </item>
   </channel>
 </rss>
