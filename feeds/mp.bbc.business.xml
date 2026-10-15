@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 23:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 01:38:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,6 +23,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Anthropic revenue surges to $16.8bn ahead of stock market listing]]></title>
+            <description><![CDATA[It comes as the AI giant is expected to make a blockbuster stock market debut by the end of the year.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqzjx448vxkgo#0</guid>
+            <pubDate>Thu, 15 Oct 2026 01:14:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Netflix to shed 1,000 jobs in steepest cuts since 2022]]></title>
             <description><![CDATA[The cuts equate to around 6% of the streaming giant's total workforce worldwide.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -31,12 +39,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/877e/live/417f8270-c7f0-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How backlash against data centres could shape the US midterm elections]]></title>
+            <description><![CDATA[Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0rezqpnekro#0</guid>
+            <pubDate>Wed, 14 Oct 2026 23:02:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer]]></title>
             <description><![CDATA[Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm04054ykqqqo#0</guid>
             <pubDate>Wed, 14 Oct 2026 15:54:04 GMT</pubDate>
             <media:thumbnail width="240" height="156" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a Chinese-made toy gets to a US retailer]]></title>
+            <description><![CDATA[With Christmas on the horizon, we trace children's toys from factories in China to US shelves.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5djvyde0y1jo#0</guid>
+            <pubDate>Wed, 14 Oct 2026 23:01:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg"/>
         </item>
         <item>
             <title><![CDATA[Faisal Islam: What surprise praise for UK economy tells us about the Budget]]></title>
@@ -50,23 +74,15 @@
             <title><![CDATA[Driving test waits fall to two-year low - but still average 20 weeks]]></title>
             <description><![CDATA[Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c94g1kvz006ko#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c94g1kvz006ko#1</guid>
             <pubDate>Wed, 14 Oct 2026 13:45:34 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a5/live/6ec3c040-c7d5-11f1-9671-5b70c6e774ea.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How a Chinese-made toy gets to a US retailer]]></title>
-            <description><![CDATA[With Christmas on the horizon, we trace children's toys from factories in China to US shelves.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5djvyde0y1jo#0</guid>
-            <pubDate>Wed, 14 Oct 2026 23:01:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg"/>
         </item>
         <item>
             <title><![CDATA[US inflation rises more than expected - here's what is happening with prices]]></title>
             <description><![CDATA[The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#1</guid>
             <pubDate>Wed, 14 Oct 2026 15:26:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg"/>
         </item>
@@ -117,118 +133,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o#1</guid>
             <pubDate>Wed, 14 Oct 2026 02:05:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d37/live/18ad5d80-c797-11f1-b506-c77373b53604.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bumble bought for $1.3bn in 'bet on the future of humanity']]></title>
-            <description><![CDATA[The dating app which recently ditched its "women-first" chat rule has been bought by an investment firm. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 15:59:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e542/live/77558740-c724-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi employee charged with planting recording device in OpenAI office]]></title>
-            <description><![CDATA[Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 21:42:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7bf/live/83811950-c790-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Three things we've learnt about the UK economy from the IMF]]></title>
-            <description><![CDATA[The influential economics body has upgraded its UK growth forecast for this year, but risks remain.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly05l1g15yo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 11:58:43 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Poundland in rescue talks as owners seek buyer]]></title>
-            <description><![CDATA[The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 12:17:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BA flight forced to turn back over cracked window]]></title>
-            <description><![CDATA[British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 11:48:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d81/live/e303dfe0-c702-11f1-9783-ed95709f9dec.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heating oil customers face tough winter despite shake-up promise]]></title>
-            <description><![CDATA[Heating oil customers facing soaring bills are promised better regulation of the sector by the government.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxnv0z09r882o#1</guid>
-            <pubDate>Mon, 12 Oct 2026 23:02:24 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf5/live/5a237390-c642-11f1-abff-0d918239b2e3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK growth forecast upgraded but higher energy prices to hit economy next year]]></title>
-            <description><![CDATA[The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmglw0r21zexo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 09:38:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a5e/live/c20b7a80-c6d2-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Sabrina Carpenter clip that helped a 22-year-old make £120,000 a year]]></title>
-            <description><![CDATA[Social media "clippers" make short, vertical videos that appear on the likes of Instagram and TikTok.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c84g12v3lk20o#1</guid>
-            <pubDate>Tue, 13 Oct 2026 15:12:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8008/live/9ea7a2e0-c730-11f1-a64c-550be9e3c66b.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim]]></title>
-            <description><![CDATA[TFG London has apologised to customers for disruption after it identified a "cybersecurity incident" on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwly38gjkejko#1</guid>
-            <pubDate>Tue, 13 Oct 2026 09:34:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca77/live/ea185dd0-c6e2-11f1-bf38-57dc5cd42af2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Publicly owned rail is popular. But is it making the trains run on time?]]></title>
-            <description><![CDATA[Meeting travellers' expectations could be challenging, experts warn.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck5yn0n14r8do#1</guid>
-            <pubDate>Mon, 12 Oct 2026 23:37:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e85/live/da60e6b0-c646-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to avoid getting stung if you miss credit card payments]]></title>
-            <description><![CDATA[People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 09:11:46 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a441/live/c56267d0-c31b-11f1-bd97-fbe5a3482cde.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Healey faces £35bn Budget challenge to meet spending pledges, says think tank]]></title>
-            <description><![CDATA[The Institute for Fiscal Studies says the government will need a "top-up" of billions of pounds if it wants to meet its spending plans.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 08:50:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d71/live/21ebf010-c606-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fridges in French supermarkets hit by cyber attack]]></title>
-            <description><![CDATA[Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 18:31:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfaf/live/a3ced500-c63a-11f1-b99d-0127a94fa1d0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI minister warns 'likely' UK's cyber defences will be breached]]></title>
-            <description><![CDATA[Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr78pe09y05xo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 15:03:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd68/live/6a2ab470-c646-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[How long will humans be needed for translation?]]></title>

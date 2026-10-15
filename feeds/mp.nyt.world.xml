@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 23:04:18 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 22:26:38 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:35:42 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 01:15:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html" rel="standout"></atom:link>
       <description>A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.</description>
       <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 20:47:48 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 23:30:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -125,6 +125,25 @@
       <media:description>Telecommunications antennas in Kabul, Afghanistan, where transmissions of BBC broadcasts from FM radio stations were suspended. </media:description>
     </item>
     <item>
+      <title>Mexico Bans Violent Content on Social Media for Children</title>
+      <link>https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html" rel="standout"></atom:link>
+      <description>Joining a global movement, President Claudia Sheinbaum signed a decree requiring the removal of a range of material for people under 18 and held out the prospect of tougher measures.</description>
+      <dc:creator>James Wagner</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 01:15:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-mexico-socialmedia01-photo-gfvk/14int-mexico-socialmedia01-photo-gfvk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Marco Ugarte/Associated Press</media:credit>
+      <media:description>A student turning over his phone before entering a classroom in Mexico City on Tuesday. Mexico has clamped down on phone use in schools.</media:description>
+    </item>
+    <item>
       <title>Argentina’s President Has a Dog Psychic. Meet Celia Melamed.</title>
       <link>https://www.nytimes.com/2026/10/14/world/americas/argentina-president-milei-dog-pet-psychic.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/americas/argentina-president-milei-dog-pet-psychic.html</guid>
@@ -142,27 +161,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/world/00int-argentina-psychic-profile/00int-argentina-psychic-profile-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sarah Pabst for The New York Times</media:credit>
       <media:description>Celia Melamed, a pet psychic, was hired by President Javier Milei of Argentina to talk to his dogs. </media:description>
-    </item>
-    <item>
-      <title>Burnham Pledges to Back Zelensky as Trump’s Ukraine Support Wavers</title>
-      <link>https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky, who met with Britain’s prime minister, has said Ukraine received no warning of Russian attacks, but President Trump has said Washington is still “sharing intel.”</description>
-      <dc:creator>Michael D. Shear and Lara Jakes</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 18:26:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-europe-intel-zelensky-01-tfjp/14int-europe-intel-zelensky-01-tfjp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jack Taylor/Reuters</media:credit>
-      <media:description>Prime Minister Andy Burnham welcoming President Volodymyr Zelenskiy of Ukraine outside 10 Downing Street, in London, on Wednesday.</media:description>
     </item>
     <item>
       <title>As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital</title>
@@ -333,7 +331,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/14/world/americas/brazil-president-lula-meta-bolsonaro.html" rel="standout"></atom:link>
       <description>With a narrow presidential election looming, President Luiz Inácio Lula da Silva and his allies claim Meta is trying to give his right-wing rival an advantage.</description>
       <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 20:45:01 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 23:12:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
@@ -392,6 +390,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+    </item>
+    <item>
+      <title>Burnham Pledges to Back Zelensky as Trump’s Ukraine Support Wavers</title>
+      <link>https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html" rel="standout"></atom:link>
+      <description>President Volodymyr Zelensky, who met with Britain’s prime minister, has said Ukraine received no warning of Russian attacks, but President Trump has said Washington is still “sharing intel.”</description>
+      <dc:creator>Michael D. Shear and Lara Jakes</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 18:26:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-europe-intel-zelensky-01-tfjp/14int-europe-intel-zelensky-01-tfjp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jack Taylor/Reuters</media:credit>
+      <media:description>Prime Minister Andy Burnham welcoming President Volodymyr Zelenskiy of Ukraine outside 10 Downing Street, in London, on Wednesday.</media:description>
     </item>
     <item>
       <title>Pope Leo Is in ‘Good Mood’ After Cancer Surgery, Vatican Says: What to Know</title>
@@ -1187,31 +1206,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12int-oz-mosque-ckbm/12int-oz-mosque-ckbm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
       <media:description>A FlyDubai plane carried passengers to Tel Aviv last month after a midair cockpit attack on their earlier flight.</media:description>
-    </item>
-    <item>
-      <title>The Taliban Are Using Europe’s Fear of Migrants to Their Advantage</title>
-      <link>https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html" rel="standout"></atom:link>
-      <description>European nations that condemn the Taliban government for its human rights record are seeking its help to deport refugees back to Afghanistan.</description>
-      <dc:creator>Elian Peltier and Jim Tankersley</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 16:08:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merz, Friedrich</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/00int-eu-taliban-1-mjkt/00int-eu-taliban-1-mjkt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tomas Munita for The New York Times</media:credit>
-      <media:description>Celebrations in the streets of Kabul during the fifth anniversary of the Taliban’s return to power on Aug. 15.</media:description>
     </item>
   </channel>
 </rss>
