@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Wed, 14 Oct 2026 16:46:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2026 17:00:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,27 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Do the Benefits Outweigh the Risks of Hosting U.S. Military Bases?</title>
+		<link>https://warontherocks.com/do-the-benefits-outweigh-the-risks-of-hosting-u-s-military-bases/</link>
+		
+		<dc:creator><![CDATA[Ayumi Teraoka]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 17:30:25 +0000</pubDate>
+				<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Members]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48099</guid>
+
+					<description><![CDATA[<p>Since the end of World War II, the United States has maintained hundreds of military installations abroad. While U.S. forces have faced some objections to their presence, many allies and partners have seen U.S. bases and other facilities on their territory as a sign of their close relations with a superpower, a form of protection, and an economic boon. However, the war with Iran has raised questions about whether hosting U.S. military installations subjects Arab Gulf states to Iranian retaliation while failing to provide sufficient protection. The sudden withdrawal of U.S. B-1 bombers from the RAF Fairford site in the</p>
+<p>The post <a href="https://warontherocks.com/do-the-benefits-outweigh-the-risks-of-hosting-u-s-military-bases/">Do the Benefits Outweigh the Risks of Hosting U.S. Military Bases?</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Bruce Klingner]]></dc:creator>
+<dc:creator><![CDATA[Anna Jacobs]]></dc:creator>
+<dc:creator><![CDATA[Niklas Ebert]]></dc:creator>
+<dc:creator><![CDATA[Matthew Savill]]></dc:creator>
+	</item>
+		<item>
 		<title>Golden Dome Is Technologically and Financially Infeasible</title>
 		<link>https://warontherocks.com/cogs-of-war/golden-dome-is-technologically-and-financially-infeasible/</link>
 		
@@ -1921,27 +1942,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 			</item>
-		<item>
-		<title>Russia’s Next Top General: Promotions in Russian Military Leadership</title>
-		<link>https://warontherocks.com/russias-next-top-general-promotions-in-russian-military-leadership/</link>
-		
-		<dc:creator><![CDATA[Dmitry Gorenburg]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 07:30:17 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Command and Control]]></category>
-		<category><![CDATA[Military Personnel Policy]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46330</guid>
-
-					<description><![CDATA[<p>Judged by the initial strategic goals set by Russian President Vladimir Putin in 2022, Russia&#8217;s military lost its war against Ukraine some time ago. Yet Russia&#8217;s armed forces have not stopped fighting and continue to prosecute large-scale combat operations in a brutalizing, protracted war sucking up much of Russia&#8217;s assets of national power, from pure military capacity to foreign policy priorities to considerable societal and economic resources. While Putin calls the most important strategic shots, it is Russia&#8217;s senior military elite that makes the strategic and operational decisions impacting warfighting outcomes every day. Who are these senior officers, where did</p>
-<p>The post <a href="https://warontherocks.com/russias-next-top-general-promotions-in-russian-military-leadership/">Russia’s Next Top General: Promotions in Russian Military Leadership</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Julian G. Waller]]></dc:creator>
-<dc:creator><![CDATA[Gabriela I. Rosa-Hernandez]]></dc:creator>
-<dc:creator><![CDATA[Cornell Overfield]]></dc:creator>
-	</item>
 	</channel>
 </rss>

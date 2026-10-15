@@ -7,21 +7,79 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 12:30:24 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Oct 2026 12:28:32 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:31:03 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 17:29:22 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
+      <title>Yemen Says Prime Minister Unhurt After Iran-Backed Houthis Strike Palace</title>
+      <link>https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html" rel="standout"></atom:link>
+      <description>Two were killed when Houthi missiles struck the Maashiq Presidential Palace in Aden, a Yemeni minister said. Saudi Arabia has said Iran is fueling the country’s escalating conflict.</description>
+      <dc:creator>Ismaeel Naar</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 17:23:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">King Khalid International Airport (Riyadh, Saudi Arabia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+    </item>
+    <item>
+      <title>Violent Protests in Albania</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html" rel="standout"></atom:link>
+      <description>Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.</description>
+      <dc:creator>Fatjona Mejdini, Paul Mozur and Lynsey Chutel</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 16:20:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rama, Edi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berisha, Sali</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-albania-protests-tczw/15int-albania-protests-tczw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adnan Beci/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A protester confronting riot police during an anti-government demonstration in central Tirana, Albania, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html" rel="standout"></atom:link>
+      <description>Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 16:05:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-ukraine-assess-01-fglq/15int-ukraine-assess-01-fglq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Genya Savilov/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Firefighters at the site of a strike on an apartment building in Kyiv on Wednesday.</media:description>
+    </item>
+    <item>
       <title>Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump</title>
       <link>https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky made the announcement in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.</description>
-      <dc:creator>Francesca Regalado and Cassandra Vinograd</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 11:54:08 +0000</pubDate>
+      <description>President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.</description>
+      <dc:creator>Cassandra Vinograd and Francesca Regalado</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 16:47:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -37,6 +95,27 @@
       <media:content height="1749" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg" width="1749"></media:content>
       <media:credit>Pool photo by Henry Nicholls</media:credit>
       <media:description>President Volodymyr Zelensky of Ukraine in London on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Meet Neha Bora, Activist and Face of India’s Young Protesters</title>
+      <link>https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html" rel="standout"></atom:link>
+      <description>When police cracked down, Neha Bora helped rally Gen Z protesters with a mix of boundless energy, street theatrics and satirical humor.</description>
+      <dc:creator>Mujib Mashal</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 17:02:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunger Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wangchuk, Sonam (1966- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/00int-india-activist-02-bctw/00int-india-activist-02-bctw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bhawika Chhabra/Reuters</media:credit>
+      <media:description>Neha Bora, president of the All India Students’ Association, in New Delhi in October.</media:description>
     </item>
     <item>
       <title>The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones</title>
@@ -56,25 +135,25 @@
       <media:description>A jet drone struck the National Academy of Sciences building in Kyiv, Ukraine, on Sept. 28</media:description>
     </item>
     <item>
-      <title>Meet Neha Bora, Activist and Face of India’s Young Protesters</title>
-      <link>https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html" rel="standout"></atom:link>
-      <description>When police cracked down, Neha Bora helped rally Gen Z protesters with a mix of boundless energy, street theatrics and satirical humor.</description>
-      <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 11:54:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunger Strikes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wangchuk, Sonam (1966- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/00int-india-activist-02-bctw/00int-india-activist-02-bctw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bhawika Chhabra/Reuters</media:credit>
-      <media:description>Neha Bora, president of the All India Students’ Association, in New Delhi in October.</media:description>
+      <title>Why Does Saudi Arabia Struggle to Stop Houthi Attacks?</title>
+      <link>https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html" rel="standout"></atom:link>
+      <description>The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 17:00:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15inyt-saudi-military-1-cflm/15inyt-saudi-military-1-cflm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fayez Nureldine/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A military parade marked Saudi National Day in Riyadh last month.</media:description>
     </item>
     <item>
       <title>32 Children Killed After School Roof Collapses in Pakistan</title>
@@ -83,7 +162,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html" rel="standout"></atom:link>
       <description>The collapse, in Peshawar, also killed a teacher and injured dozens of people. A local official said the building appeared to be dilapidated.</description>
       <dc:creator>Salman Masood</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 12:28:32 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 15:04:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peshawar (Pakistan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
@@ -92,28 +171,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15INT-PAKISTAN-COLLAPSE-kbqt/15INT-PAKISTAN-COLLAPSE-kbqt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Khyber Pakhtunkhwa province&#39;s Emergency Service, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>Rescue workers searching for children trapped after a roof collapse at a school in Peshawar, Pakistan, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Why Does Saudi Arabia Struggle to Stop Houthi Attacks?</title>
-      <link>https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html" rel="standout"></atom:link>
-      <description>The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.</description>
-      <dc:creator>Neil MacFarquhar</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 11:53:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15inyt-saudi-military-1-cflm/15inyt-saudi-military-1-cflm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fayez Nureldine/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A military parade marked Saudi National Day in Riyadh last month.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-pakistan-collapse-01-hkfj/15int-pakistan-collapse-01-hkfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Abdul Majeed/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A rescue worker carried a child from a school in Peshawar, Pakistan, on Thursday, after the roof of the building collapsed.</media:description>
     </item>
     <item>
       <title>North Korea and China Open Their Biggest Border Bridge</title>
@@ -147,20 +207,11 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html" rel="standout"></atom:link>
       <description>The Vatican bureaucracy has been fine-tuned over hundreds of years to function smoothly even when the pope cannot.</description>
       <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 09:42:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cardinals (Roman Catholic Prelates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemelli Hospital (Rome, Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Benedict XVI</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John Paul II</category>
+      <pubDate>Thu, 15 Oct 2026 13:01:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">The Vatican</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemelli Hospital (Rome, Italy)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-vatican-01-lqtb/14int-pope-vatican-01-lqtb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stoyan Nenov/Reuters</media:credit>
       <media:description>Mass in St. Peter’s Square at the Vatican on Wednesday. The service was held by Cardinal Luis Antonio Tagle in Pope Leo’s absence, and included special prayers for the pontiff’s health.</media:description>
@@ -174,13 +225,14 @@
       <dc:creator>Amelia Nierenberg</dc:creator>
       <pubDate>Thu, 15 Oct 2026 11:55:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Covent Garden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Trust Group (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rules (London, England, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="">Rules Restaurant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Trust Group (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Covent Garden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-uk-rules-restaurant-01-cftz/15int-uk-rules-restaurant-01-cftz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sam Mellish/In Pictures, via Getty Images</media:credit>
       <media:description>The interior of Rules, a British mainstay in the Covent Garden neighborhood of London. In the centuries since it opened, the restaurant has served London’s wealthy and wordy, its royals and its regulars.</media:description>
@@ -208,27 +260,6 @@
       <media:description>The Hokkaido Shimbun newspaper headquarters in Sapporo, Japan on Wednesday. A journalist from the newspaper was arrested in Russia and accused of spying.</media:description>
     </item>
     <item>
-      <title>Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates</title>
-      <link>https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html" rel="standout"></atom:link>
-      <description>A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.</description>
-      <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 09:06:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-vulnerability-03-qbck/14int-ukraine-vulnerability-03-qbck-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Evgeniy Maloletka/Associated Press</media:credit>
-      <media:description>Firefighters at the site of a strike at an apartment building in Kyiv on Wednesday.</media:description>
-    </item>
-    <item>
       <title>Turkey Raids Pro-Opposition TV Station</title>
       <link>https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html</guid>
@@ -251,33 +282,6 @@
       <media:description>Turkish police officers outside the headquarters of Halk TV in Istanbul on Wednesday.</media:description>
     </item>
     <item>
-      <title>‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport</title>
-      <link>https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html" rel="standout"></atom:link>
-      <description>The strike was the Iran-backed militia’s most lethal against Saudi Arabia, by far, during their long conflict.</description>
-      <dc:creator>Vivian Nereim</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 14:15:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilgrimages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-saudi-airport-vbwm/15int-saudi-airport-vbwm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Raad Adayleh/Associated Press</media:credit>
-      <media:description>Mourners carrying the body of Mahmoud Barqawi, 33, at his funeral in Amman, Jordan, on Monday. He was killed in a Houthi missile attack on King Khalid International Airport in Riyadh on Saturday.</media:description>
-    </item>
-    <item>
       <title>The Taliban Suspend BBC Broadcasts Across Afghanistan</title>
       <link>https://www.nytimes.com/2026/10/14/world/asia/afghanistan-taliban-suspends-bbc.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/asia/afghanistan-taliban-suspends-bbc.html</guid>
@@ -294,6 +298,72 @@
       <media:content height="1702" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-taliban-bbc-zclt/14int-taliban-bbc-zclt-mediumSquareAt3X.jpg" width="1702"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Telecommunications antennas in Kabul, Afghanistan, where transmissions of BBC broadcasts from FM radio stations were suspended. </media:description>
+    </item>
+    <item>
+      <title>Nazi-Looted Kandinsky Painting Sells for $42 Million at Auction</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/kandinsky-nazi-looted-art-auction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/kandinsky-nazi-looted-art-auction.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/kandinsky-nazi-looted-art-auction.html" rel="standout"></atom:link>
+      <description>“The Colorful Life,” a 1907 work by the Russian painter Wassily Kandinsky, had been returned to the original owners’ heirs in 2023.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 13:29:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kandinsky, Wassily</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christie&#39;s</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15xp-kandinsky-qktl/15xp-kandinsky-qktl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
+      <media:description>“The Colorful Life,” by Wassily Kandinsky, at Christie’s auction rooms last week.</media:description>
+    </item>
+    <item>
+      <title>Inside the Plague Research Labs at the Heart of a Russian Mystery</title>
+      <link>https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html" rel="standout"></atom:link>
+      <description>A Russian researcher, who died from an unknown illness, worked at a remote anti-plague facility. Few foreigners have visited these labs, which dot the former Soviet states, and are shrouded in secrecy.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 14:12:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plague</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shipilova, Darya (d 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Irkutsk Anti-Plague Research Institute of Siberia and the Far East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Irkutsk (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <media:content height="1334" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15SCI-INSIDE-PLAGUE-LAB-01-hfwt/15SCI-INSIDE-PLAGUE-LAB-01-hfwt-mediumSquareAt3X.jpg" width="1334"></media:content>
+      <media:credit>Irkutsk Antiplague Research Institute, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>A picture released by the Irkutsk Anti-Plague Research Institute showing specialists working in a laboratory in Krasnoyarsk, Russia, in 2019.</media:description>
+    </item>
+    <item>
+      <title>OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis</title>
+      <link>https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html" rel="standout"></atom:link>
+      <description>The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 14:51:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wiretapping and Other Eavesdropping Devices and Methods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">RAED Ventures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alfozan, Abdulrahman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Aaron Wojack for The New York Times</media:credit>
+      <media:description>The San Francisco offices of OpenAI. According to a court filing, a thumb-size recording device wrapped in toilet paper was found plugged into the back of a television in an executive conference room.</media:description>
     </item>
     <item>
       <title>Mexico Bans Violent Content on Social Media for Children</title>
@@ -313,49 +383,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-mexico-socialmedia01-photo-gfvk/14int-mexico-socialmedia01-photo-gfvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Marco Ugarte/Associated Press</media:credit>
       <media:description>A student turning over his phone before entering a classroom in Mexico City on Tuesday. Mexico has clamped down on phone use in schools.</media:description>
-    </item>
-    <item>
-      <title>Inside the Plague Research Labs at the Heart of a Russian Mystery</title>
-      <link>https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html" rel="standout"></atom:link>
-      <description>A Russian researcher, who died from an unknown illness, worked at a remote anti-plague facility. Few foreigners have visited these labs, which dot the former Soviet states, and are shrouded in secrecy.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 09:04:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plague</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Irkutsk (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darya Shipilova</category>
-      <media:content height="1334" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15SCI-INSIDE-PLAGUE-LAB-01-hfwt/15SCI-INSIDE-PLAGUE-LAB-01-hfwt-mediumSquareAt3X.jpg" width="1334"></media:content>
-      <media:credit>Irkutsk Antiplague Research Institute, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>A picture released by the Irkutsk Anti-Plague Research Institute showing specialists working in a laboratory in Krasnoyarsk, Russia, in 2019.</media:description>
-    </item>
-    <item>
-      <title>OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis</title>
-      <link>https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html" rel="standout"></atom:link>
-      <description>The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.</description>
-      <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 02:27:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wiretapping and Other Eavesdropping Devices and Methods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">RAED Ventures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alfozan, Abdulrahman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Aaron Wojack for The New York Times</media:credit>
-      <media:description>The San Francisco offices of OpenAI. According to a court filing, a thumb-size recording device wrapped in toilet paper was found plugged into the back of a television in an executive conference room.</media:description>
     </item>
     <item>
       <title>Angry Youth in Aging Europe</title>
@@ -411,21 +438,21 @@
       <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html" rel="standout"></atom:link>
       <description>Ms. Rooney and her publisher said that she could no longer receive royalties from British sales because she pledged to donate book revenues to Palestine Action, which is banned in Britain.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 21:52:20 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 12:36:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rooney, Sally (Author)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestine Action</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Elbit Systems Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestine Action</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rooney, Sally (Author)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Faber &amp; Faber Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-uk-sally-rooney01-photo-blgh/14int-uk-sally-rooney01-photo-blgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ellius Grace for The New York Times</media:credit>
       <media:description>Sally Rooney in Dublin in 2021.</media:description>
@@ -462,6 +489,27 @@
       <media:description>A statue of Pope John Paul II outside the hospital in Rome where Pope Leo XIV was hospitalized. The statue has become a gathering point for prayers.</media:description>
     </item>
     <item>
+      <title>Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates</title>
+      <link>https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html" rel="standout"></atom:link>
+      <description>A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 13:08:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-vulnerability-03-qbck/14int-ukraine-vulnerability-03-qbck-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Evgeniy Maloletka/Associated Press</media:credit>
+      <media:description>Firefighters at the site of a strike at an apartment building in Kyiv on Wednesday.</media:description>
+    </item>
+    <item>
       <title>Burnham Pledges to Back Zelensky as Trump’s Ukraine Support Wavers</title>
       <link>https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html</guid>
@@ -487,9 +535,9 @@
       <link>https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html" rel="standout"></atom:link>
-      <description>Pope Leo XIV was diagnosed with a common form of lung cancer. The Vatican said that he had a “good” second night in the hospital after an operation to remove a cancerous nodule.</description>
+      <description>Pope Leo XIV was diagnosed with a common form of lung cancer. The Vatican said that he had celebrated Mass at the hospital and resumed working “at a restrained pace” after an operation to remove a cancerous nodule.</description>
       <dc:creator>Laura Chung</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 09:34:27 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 14:13:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Diseases</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
@@ -501,6 +549,33 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14xp-pope-wwk-gmwb/14xp-pope-wwk-gmwb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ciro De Luca/Reuters</media:credit>
       <media:description>Pope Leo arriving at a hospital in Rome on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport</title>
+      <link>https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html" rel="standout"></atom:link>
+      <description>The strike was the Iran-backed militia’s most lethal against Saudi Arabia, by far, during their long conflict.</description>
+      <dc:creator>Vivian Nereim</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 14:15:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilgrimages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-saudi-airport-vbwm/15int-saudi-airport-vbwm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Raad Adayleh/Associated Press</media:credit>
+      <media:description>Mourners carrying the body of Mahmoud Barqawi, 33, at his funeral in Amman, Jordan, on Monday. He was killed in a Houthi missile attack on King Khalid International Airport in Riyadh on Saturday.</media:description>
     </item>
     <item>
       <title>Dalí Book Cover Stolen in France</title>
@@ -566,14 +641,13 @@
       <dc:creator>Choe Sang-Hun</dc:creator>
       <pubDate>Wed, 14 Oct 2026 05:22:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Seventies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, John Fitzgerald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Assassin(s) (Movie)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Chung-hee</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Geun-hye</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">JFK (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yook Young-soo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hur Jin-ho</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/00int-skorea-film-01-tqvh/00int-skorea-film-01-tqvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ullstein Bild, via Getty Images</media:credit>
       <media:description>Park Chung-hee, a South Korean military dictator, and his wife, Yook Young-soo, in 1964.</media:description>
@@ -653,7 +727,6 @@
       <pubDate>Wed, 14 Oct 2026 10:18:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-assess-01-qzbl/13int-pope-assess-01-qzbl-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -1149,133 +1222,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13INT-FIFA-Trump-01-vkjg/13INT-FIFA-Trump-01-vkjg-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>President Trump with Gianni Infantino, the head of FIFA, at Trump Tower in New York in July.</media:description>
-    </item>
-    <item>
-      <title>Why Chinese College Grads Are Becoming Farmers</title>
-      <link>https://www.nytimes.com/video/world/asia/100000011189303/china-young-people-new-farmer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/asia/100000011189303/china-young-people-new-farmer.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/asia/100000011189303/china-young-people-new-farmer.html" rel="standout"></atom:link>
-      <description>Facing a competitive job market, college graduates in China are trading corporate jobs for farming, equipped with smartphones and tech skills.</description>
-      <dc:creator>Jiawei Wang, Jon Hazell and Rafaela Balster</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 18:31:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Graduate Schools and Students</category>
-    </item>
-    <item>
-      <title>Cornell and Toxic Frat Culture</title>
-      <link>https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html" rel="standout"></atom:link>
-      <description>A U.S. campus lawsuit points to a global pattern: how male impunity, silence and institutional failure enable sexual violence.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 05:07:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cornell University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Omar, Ilhan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Musk (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-theworld-cornell-02-kbwm-promo/13int-theworld-cornell-02-kbwm-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lauren Petracca for The New York Times</media:credit>
-      <media:description>Chi Phi fraternity house at Cornell University.</media:description>
-    </item>
-    <item>
-      <title>Dozens Killed in Airstrikes Near Sudan-Egypt Border</title>
-      <link>https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html" rel="standout"></atom:link>
-      <description>The attacks occurred at a remote gold mine hundreds of miles from the front lines of Sudan’s devastating civil war. Videos showed what appeared to be Egyptian munitions.</description>
-      <dc:creator>Abdalrahman Altayeb, Declan Walsh and Malachy Browne</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 10:13:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darfur (Sudan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-    </item>
-    <item>
-      <title>After Russian Diesel Deal, Trump Faces New Crisis Over Ukraine</title>
-      <link>https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html" rel="standout"></atom:link>
-      <description>President Trump’s surprise decision to suspend sanctions on Russian diesel fuel stunned Ukrainian and European officials, who were meeting with U.S. envoys at an exclusive golf club near Miami.</description>
-      <dc:creator>Anton Troianovski, Jeanna Smialek, Andrew E. Kramer and Steven Erlanger</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 22:12:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12dc-trump-ukraine-top-pfmb/12dc-trump-ukraine-top-pfmb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Valentyn Ogirenko/Reuters</media:credit>
-      <media:description>Jared Kushner and Steve Witkoff with President Volodymyr Zelensky of Ukraine in Kyiv last month.</media:description>
-    </item>
-    <item>
-      <title>NATO Details Plan to Shield Ukraine’s European Allies From Russia</title>
-      <link>https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html" rel="standout"></atom:link>
-      <description>With the Russians intensifying sabotage, arson and cyberattacks against European nations supporting Ukraine, NATO divulged a blueprint, in case of war, to deter the Kremlin.</description>
-      <dc:creator>Marc Santora and Steven Erlanger</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 20:55:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grynkewich, Alexus G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tusk, Donald</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12int-nato-russia-bqpw/12int-nato-russia-bqpw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Omar Marques/Getty Images</media:credit>
-      <media:description>Gen. Alexus G. Grynkewich of the U.S. Air Force, NATO’s top military commander, speaking at the Warsaw Security Forum on Monday.</media:description>
-    </item>
-    <item>
-      <title>Trump Gives Putin a Hand in Russia’s Economic War With Ukraine</title>
-      <link>https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html" rel="standout"></atom:link>
-      <description>President Trump is moving to buy Russian diesel while also pressuring Ukraine to halt attacks on refineries, a lifeblood of Moscow’s war machine.</description>
-      <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 17:20:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refineries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12int-ukraine-economy-01-tfgm/12int-ukraine-economy-01-tfgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Reuters</media:credit>
-      <media:description>Smoke rising from fires at an oil refinery after what the authorities said was a Ukrainian drone strike in Moscow last month.</media:description>
     </item>
   </channel>
 </rss>
