@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Fri, 16 Oct 2026 22:13:14 +0200</lastBuildDate>
-  <pubDate>Fri, 16 Oct 2026 22:13:14 +0200</pubDate>
+  <lastBuildDate>Fri, 16 Oct 2026 22:30:13 +0200</lastBuildDate>
+  <pubDate>Fri, 16 Oct 2026 22:30:13 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Sanchez rejects criticism of Spain's migration policy: 'Words do not match reality'</title>
+   <link>https://www.euronews.com/2026/10/16/sanchez-rejects-criticism-of-spains-migration-policy-words-do-not-match-reality</link>
+   <guid>https://www.euronews.com/2026/10/16/sanchez-rejects-criticism-of-spains-migration-policy-words-do-not-match-reality</guid>
+   <pubDate>Fri, 16 Oct 2026 22:30:13 +0200</pubDate>
+   <description>Spain's prime minister defended the country's record on tackling irregular migration amid criticism of its mass regularisation plan, while Ursula von der Leyen called for full implementation of the EU migration and asylum pact.</description>
+  </item>
   <item>
    <title>Pope Leo XIV urges Putin to agree to truce in besieged Ukrainian city of Oleshky</title>
    <link>https://www.euronews.com/2026/10/16/pope-leo-xiv-urges-putin-to-agree-to-truce-in-besieged-ukrainian-city-of-oleshky</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/10/16/marine-le-pen-ready-to-debate-zelenskyy-after-vow-to-end-french-aid-to-ukraine</guid>
    <pubDate>Fri, 16 Oct 2026 11:20:40 +0200</pubDate>
    <description>Volodymyr Zelenskyy accused the National Rally's presidential candidate of ignoring key details of military cooperation between Paris and Kyiv.</description>
-  </item>
-  <item>
-   <title>At least 12 dead after migrant boat sinks off Gambia </title>
-   <link>https://www.euronews.com/2026/10/16/at-least-12-dead-after-migrant-boat-sinks-off-gambia</link>
-   <guid>https://www.euronews.com/2026/10/16/at-least-12-dead-after-migrant-boat-sinks-off-gambia</guid>
-   <pubDate>Fri, 16 Oct 2026 10:43:01 +0200</pubDate>
-   <description>The IOM says increased controls in traditional departure spots in Morocco, Mauritania, and Senegal have pushed some migrants seeking to reach Europe further south, towards countries such as The Gambia.</description>
   </item>
  </channel>
 </rss>

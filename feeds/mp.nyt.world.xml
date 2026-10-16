@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 20:26:16 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 20:11:20 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:53:39 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 22:05:22 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -58,6 +58,29 @@
       <media:description>President Volodymyr Zelensky of Ukraine with President Trump at Mar-a-Lago in Florida in December.</media:description>
     </item>
     <item>
+      <title>Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank</title>
+      <link>https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html" rel="standout"></atom:link>
+      <description>In the latest surge of violence, settlers targeted Palestinians during the olive harvest, a cultural touchstone and economic lifeline in the Israeli-occupied area.</description>
+      <dc:creator>Azam Ahmed</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 19:31:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Red Cross and Red Crescent Societies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-westbank-attack-01-lbgp/16int-westbank-attack-01-lbgp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ammar Awad/Reuters</media:credit>
+      <media:description>Israeli settlers gathering as Palestinians harvested olives in the West Bank, on Friday.</media:description>
+    </item>
+    <item>
       <title>Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege</title>
       <link>https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html</guid>
@@ -84,7 +107,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html" rel="standout"></atom:link>
       <description>A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.</description>
       <dc:creator>Salman Masood</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 15:22:54 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 21:00:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -152,7 +175,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html" rel="standout"></atom:link>
       <description>A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.</description>
       <dc:creator>Kim Barker, Maria Varenikova, Oleksandra Mykolyshyn and Jędrzej Nowicki</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 11:25:22 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 22:02:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
@@ -269,29 +292,6 @@
       <media:description>A nurse gestures inside Nairobi Hospital, where an Ebola patient was isolated immediately upon arrival and treated at the hospital’s East Wing Isolation Facility. The patient later died.</media:description>
     </item>
     <item>
-      <title>Violent Protests in Albania</title>
-      <link>https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html" rel="standout"></atom:link>
-      <description>Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.</description>
-      <dc:creator>Fatjona Mejdini, Paul Mozur and Lynsey Chutel</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 21:40:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rama, Edi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berisha, Sali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-albania-protests-tczw/15int-albania-protests-tczw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adnan Beci/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A protester confronting riot police during an anti-government demonstration in central Tirana, Albania, on Thursday.</media:description>
-    </item>
-    <item>
       <title>Meet Neha Bora, Activist and Face of India’s Young Protesters</title>
       <link>https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html</guid>
@@ -313,27 +313,20 @@
       <media:description>Neha Bora, president of the All India Students’ Association, in New Delhi in October.</media:description>
     </item>
     <item>
-      <title>Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank</title>
-      <link>https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html" rel="standout"></atom:link>
-      <description>In the latest surge of violence, settlers targeted Palestinians during the olive harvest, a cultural touchstone and economic lifeline in the Israeli-occupied area.</description>
-      <dc:creator>Azam Ahmed</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 19:31:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Red Cross and Red Crescent Societies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-westbank-attack-01-lbgp/16int-westbank-attack-01-lbgp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ammar Awad/Reuters</media:credit>
-      <media:description>Israeli settlers gathering as Palestinians harvested olives in the West Bank, on Friday.</media:description>
+      <title>The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’</title>
+      <link>https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html" rel="standout"></atom:link>
+      <description>Archaeologists said that they had found jars from a shipwreck as much as 4,700 years old, with black residue inside. Outside experts were skeptical but intrigued.</description>
+      <dc:creator>Alan Yuhas</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 21:15:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shipwrecks (Historic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egyptian Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bronze Age</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
     </item>
     <item>
       <title>16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says</title>
@@ -423,9 +416,9 @@
       <link>https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html" rel="standout"></atom:link>
-      <description>As ties with the Trump administration fray, María Corina Machado said her return to Venezuela would come “sooner than you would expect.”</description>
+      <description>The businessman denied accusations made by María Corina Machado in a wide-ranging interview, in which she promised to return to Venezuela “sooner than you would expect.’‘</description>
       <dc:creator>Julie Turkewitz</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 16:29:10 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 21:58:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
@@ -509,6 +502,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+    </item>
+    <item>
+      <title>Violent Protests in Albania</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html" rel="standout"></atom:link>
+      <description>Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.</description>
+      <dc:creator>Fatjona Mejdini, Paul Mozur and Lynsey Chutel</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 21:40:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rama, Edi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berisha, Sali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-albania-protests-tczw/15int-albania-protests-tczw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adnan Beci/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A protester confronting riot police during an anti-government demonstration in central Tirana, Albania, on Thursday.</media:description>
     </item>
     <item>
       <title>Nazi-Looted Kandinsky Painting Sells for $42 Million at Auction</title>
@@ -597,19 +613,16 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.</description>
       <dc:creator>Cassandra Vinograd and Francesca Regalado</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 16:07:36 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:07:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refineries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1749" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg" width="1749"></media:content>
@@ -1089,36 +1102,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/00int-skorea-film-01-tqvh/00int-skorea-film-01-tqvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ullstein Bild, via Getty Images</media:credit>
       <media:description>Park Chung-hee, a South Korean military dictator, and his wife, Yook Young-soo, in 1964.</media:description>
-    </item>
-    <item>
-      <title>From Allies to Enemies: Ethiopia and Eritrea Edge Toward War</title>
-      <link>https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html" rel="standout"></atom:link>
-      <description>The two nations fought alongside each other during a brutal conflict in Tigray that left hundreds of thousands of people dead just a few years ago. Now they are on the brink of fighting each other.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 13:15:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Afwerki, Isaias</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmed, Abiy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for Strategic and International Studies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ethiopian Airlines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sudanese Armed Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tigray People&#39;s Liberation Front</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Addis Ababa (Ethiopia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Asmara (Eritrea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eritrea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Ethiopian Renaissance Dam (Ethiopia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Horn of Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-ethiopia-1-tfkq/14int-ethiopia-1-tfkq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Members of the Ethiopian Federal Police on patrol aboard a pickup truck as they continued operations after federal forces pushed back the rebel Tigray People’s Liberation Front in Mekelle, Ethiopia, last week.</media:description>
     </item>
   </channel>
 </rss>
