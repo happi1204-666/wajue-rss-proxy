@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 17:32:12 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 17:21:20 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:26:16 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 20:11:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html" rel="standout"></atom:link>
       <description>Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.</description>
       <dc:creator>Kim Barker</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 15:02:53 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 19:12:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -56,6 +56,26 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-assess01-photo-fvlq/16int-ukraine-assess01-photo-fvlq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross/The New York Times</media:credit>
       <media:description>President Volodymyr Zelensky of Ukraine with President Trump at Mar-a-Lago in Florida in December.</media:description>
+    </item>
+    <item>
+      <title>Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege</title>
+      <link>https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html" rel="standout"></atom:link>
+      <description>Recovering from lung cancer surgery, Pope Leo XIV spoke with Vladimir V. Putin to make a plea for Oleshky, where mines and drones have trapped some 2,000 people who are at risk of starvation.</description>
+      <dc:creator>Elisabetta Povoledo and Siobhán O’Grady</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 19:04:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oleshky (Ukraine)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-pope-putin03-photo-pvfb/16int-pope-putin03-photo-pvfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alessandra Tarantino/Associated Press</media:credit>
+      <media:description>Pope Leo XIV entering a hospital in Rome before his surgery, on Tuesday.</media:description>
     </item>
     <item>
       <title>Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation</title>
@@ -111,7 +131,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html" rel="standout"></atom:link>
       <description>Crime plunged after police raids killed thousands. Venezuela is now withdrawing from the International Criminal Court as it investigates this blood-soaked campaign.</description>
       <dc:creator>Simon Romero and Adriana Loureiro Fernandez</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 09:00:14 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 19:39:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -249,21 +269,6 @@
       <media:description>A nurse gestures inside Nairobi Hospital, where an Ebola patient was isolated immediately upon arrival and treated at the hospital’s East Wing Isolation Facility. The patient later died.</media:description>
     </item>
     <item>
-      <title>Houthi Missiles Strike Government Headquarters in Yemen</title>
-      <link>https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html" rel="standout"></atom:link>
-      <description>Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.</description>
-      <dc:creator>Ismaeel Naar and Pranav Baskar</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 00:14:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">King Khalid International Airport (Riyadh, Saudi Arabia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-    </item>
-    <item>
       <title>Violent Protests in Albania</title>
       <link>https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html</guid>
@@ -308,13 +313,36 @@
       <media:description>Neha Bora, president of the All India Students’ Association, in New Delhi in October.</media:description>
     </item>
     <item>
+      <title>Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank</title>
+      <link>https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html" rel="standout"></atom:link>
+      <description>In the latest surge of violence, settlers targeted Palestinians during the olive harvest, a cultural touchstone and economic lifeline in the Israeli-occupied area.</description>
+      <dc:creator>Azam Ahmed</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 19:31:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Red Cross and Red Crescent Societies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-westbank-attack-01-lbgp/16int-westbank-attack-01-lbgp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ammar Awad/Reuters</media:credit>
+      <media:description>Israeli settlers gathering as Palestinians harvested olives in the West Bank, on Friday.</media:description>
+    </item>
+    <item>
       <title>16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says</title>
       <link>https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html" rel="standout"></atom:link>
       <description>The agency said a major rescue operation was underway near the coast of Baja California after it received reports of 27 people in the water.</description>
       <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 17:21:20 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 19:42:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baja California (Mexico)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
@@ -322,6 +350,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16xp-rescue-lvwf/16xp-rescue-lvwf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Denis Poroy/Associated Press</media:credit>
+      <media:description>A U.S. Coast Guard helicopter lifting off at the U.S. Coast Guard Station in San Diego on Friday.</media:description>
     </item>
     <item>
       <title>Japan Mistakenly Issues Warning for Strongest Ever Earthquake</title>
@@ -344,15 +375,16 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html" rel="standout"></atom:link>
       <description>Two Trump allies — Alina Habba Mildon and Richard Grenell — are locked in a raging dispute that has its roots in the battle for a share of the spoils in Venezuela.</description>
       <dc:creator>Tyler Pager and Anatoly Kurmanaev</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 00:52:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
+      <pubDate>Fri, 16 Oct 2026 00:52:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grenell, Richard</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Habba, Alina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mildon, Turhan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scharf, William O</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15dc-habba-kc-wkcl/15dc-habba-kc-wkcl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Al Drago for The New York Times</media:credit>
       <media:description>President Trump had appointed himself chairman of the Kennedy Center.</media:description>
@@ -454,16 +486,29 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/travel/cruise-passenger-overboard-rescue-greece.html" rel="standout"></atom:link>
       <description>According to Greek officials, the woman told her rescuers she had jumped off the ship because she “wanted to disembark.”</description>
       <dc:creator>Ryley Ober</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 19:00:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <pubDate>Thu, 15 Oct 2026 19:00:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Caribbean Cruises Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15trav-cruise-overboard-bmvk/15trav-cruise-overboard-bmvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Atienza/EPA, via Shutterstock</media:credit>
+    </item>
+    <item>
+      <title>Houthi Missiles Strike Government Headquarters in Yemen</title>
+      <link>https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html" rel="standout"></atom:link>
+      <description>Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.</description>
+      <dc:creator>Ismaeel Naar and Pranav Baskar</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 00:14:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">King Khalid International Airport (Riyadh, Saudi Arabia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
     </item>
     <item>
       <title>Nazi-Looted Kandinsky Painting Sells for $42 Million at Auction</title>
@@ -1074,86 +1119,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-ethiopia-1-tfkq/14int-ethiopia-1-tfkq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Members of the Ethiopian Federal Police on patrol aboard a pickup truck as they continued operations after federal forces pushed back the rebel Tigray People’s Liberation Front in Mekelle, Ethiopia, last week.</media:description>
-    </item>
-    <item>
-      <title>China’s Exports Soar, Putting Its Trade Surplus on Track for a Record</title>
-      <link>https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html" rel="standout"></atom:link>
-      <description>China’s exports grew last month at the fastest pace in almost any month since the end of the global financial crisis.</description>
-      <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 15:41:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renminbi (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-china-trade-fcvw/14biz-china-trade-fcvw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gilles Sabrié for The New York Times</media:credit>
-      <media:description>A weak currency has helped make Chinese goods more competitive overseas while raising the cost of imported products at home.</media:description>
-    </item>
-    <item>
-      <title>Pope Leo’s Cancer Surgery Draws Outpouring From World Leaders</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html" rel="standout"></atom:link>
-      <description>The pontiff’s illness also prompted calls for people to seek medical treatment and early cancer screenings.</description>
-      <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 08:46:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-Pope-Reax-pjlk/13int-Pope-Reax-pjlk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alberto Pizzoli/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Pope Leo XIV was welcomed by Daniele Franco, the president of Gemelli University Hospital in Rome, before an operation to remove a mass from his lung on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html" rel="standout"></atom:link>
-      <description>For a pope who appeared to have time on his side, cancer has raised questions about his longevity and brought a new urgency to his plans for the church.</description>
-      <dc:creator>Motoko Rich</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 10:18:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-assess-01-qzbl/13int-pope-assess-01-qzbl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ciro De Luca/Reuters</media:credit>
-      <media:description>Pope Leo arriving at a hospital in Rome ahead of his surgery on Tuesday. The cancer diagnosis changes the outlook for a pope whose relative youth suggested he might have decades to reign.</media:description>
-    </item>
-    <item>
-      <title>Senators Urge Trump to Reverse Diesel Deal With Putin</title>
-      <link>https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html" rel="standout"></atom:link>
-      <description>A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.</description>
-      <dc:creator>Robert Jimison</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:12:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blumenthal, Richard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coons, Christopher A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durbin, Richard J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murkowski, Lisa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reed, Jack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shaheen, Jeanne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13dc-sanctions-gfkc/13dc-sanctions-gfkc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>The letter, led by Senator Richard Blumenthal, Democrat of Connecticut, came just weeks after Congress overwhelmingly approved legislation intended to increase economic pressure on Moscow and its allies.</media:description>
     </item>
   </channel>
 </rss>
