@@ -7,6 +7,12 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
+   <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+   <pubDate>Fri, 16 Oct 2026 01:44:47 GMT</pubDate>
+   <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
+  </item>
+  <item>
    <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
    <pubDate>Thu, 15 Oct 2026 20:34:01 GMT</pubDate>
    <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
@@ -47,12 +53,6 @@
    <pubDate>Wed, 07 Oct 2026 13:21:03 GMT</pubDate>
    <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
    <guid isPermaLink="false">https://huggingface.co/blog/tiiuae/falcon-asr</guid>
-  </item>
-  <item>
-   <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
-   <pubDate>Wed, 07 Oct 2026 12:45:31 GMT</pubDate>
-   <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
-   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
   </item>
   <item>
    <title>The Agent Said It Was Done. The Database Disagreed.</title>

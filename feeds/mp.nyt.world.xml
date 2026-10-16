@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 23:32:32 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Oct 2026 23:26:44 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:07:18 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 02:48:41 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -60,7 +60,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html" rel="standout"></atom:link>
       <description>Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.</description>
       <dc:creator>Ismaeel Naar and Pranav Baskar</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 21:43:03 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 00:14:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">King Khalid International Airport (Riyadh, Saudi Arabia)</category>
@@ -118,7 +118,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.</description>
       <dc:creator>Cassandra Vinograd and Francesca Regalado</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 20:35:57 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 02:48:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -131,6 +131,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1749" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg" width="1749"></media:content>
       <media:credit>Pool photo by Henry Nicholls</media:credit>
       <media:description>President Volodymyr Zelensky of Ukraine in London on Wednesday.</media:description>
@@ -299,13 +300,33 @@
       <media:description>The Hokkaido Shimbun newspaper headquarters in Sapporo, Japan on Wednesday. A journalist from the newspaper was arrested in Russia and accused of spying.</media:description>
     </item>
     <item>
-      <title>Trump’s Deal With Russia Inflames War He Vowed to Swiftly End</title>
+      <title>A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell</title>
+      <link>https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html" rel="standout"></atom:link>
+      <description>Two Trump allies — Alina Habba Mildon and Richard Grenell — are locked in a raging dispute that has its roots in the battle for a share of the spoils in Venezuela.</description>
+      <dc:creator>Tyler Pager and Anatoly Kurmanaev</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 00:52:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grenell, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Habba, Alina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scharf, William O</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15dc-habba-kc-wkcl/15dc-habba-kc-wkcl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Trump had appointed himself chairman of the Kennedy Center.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Deal With Russia Inflames Ukraine War He Vowed to End</title>
       <link>https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html" rel="standout"></atom:link>
       <description>The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.</description>
       <dc:creator>Anton Troianovski and Luke Broadwater</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 23:26:44 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 01:02:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -445,7 +466,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html" rel="standout"></atom:link>
       <description>The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.</description>
       <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 14:51:18 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 14:51:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
@@ -1156,21 +1177,6 @@
       <media:content height="746" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-bulgaria-attacks-lgtw/13int-bulgaria-attacks-lgtw-mediumSquareAt3X.jpg" width="746"></media:content>
       <media:credit>Bulphoto Agency, via Reuters</media:credit>
       <media:description>Prime Minister Rumen Radev of Bulgaria said that a crew member was rescued from one of the ships that had been attacked. </media:description>
-    </item>
-    <item>
-      <title>Nuremberg Airport in Germany Is Briefly Shut by False Alarm of Hijacking</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html" rel="standout"></atom:link>
-      <description>German police said they had determined there was “no danger” after a plane mistakenly transmitted a code suggesting a possible hijacking onboard.</description>
-      <dc:creator>Christopher F. Schuetze and Aurelien Breeden</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 16:08:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nuremberg (Germany)</category>
-      <media:content height="1411" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-germany-flight-jgtc/13int-germany-flight-jgtc-mediumSquareAt3X.jpg" width="1411"></media:content>
-      <media:credit>Tizian Gerbing/Picture Alliance, via Associated Press</media:credit>
-      <media:description>Members of a police special operations unit at Nuremberg airport in Germany on Tuesday.</media:description>
     </item>
   </channel>
 </rss>
