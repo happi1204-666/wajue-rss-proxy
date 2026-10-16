@@ -7,30 +7,35 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-16T08:22:34Z</dc:date>
+  <dc:date>2026-10-16T13:23:58Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/eu-summit-european-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/german-lawmakers-back-monthly-state-pension-contributions-for-children-with-families-able-to-add-more/live-79678671?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/europe-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/formula-one-in-rwanda-sportswashing-claims-vs-hopes-for-african-legacy/a-79650744?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/california-wildfires-force-evacuations-near-malibu/a-79676355?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesia-s-mount-bromo-national-park/a-79676291?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-s-cockroaches-to-march-again-after-protest-crackdown/live-79675849?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-cjp-s-dipke-detained-amid-call-for-fresh-delhi-demo/live-79675849?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/resignation-of-bärbel-bas-shines-light-on-harsh-era-of-german-politics/a-79671395?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/thousands-of-german-gamblers-could-sue-for-their-money-back/a-79667844?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-train-station-alcohol-ban-comes-into-force/live-79666807?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf"/>
@@ -75,14 +80,11 @@
     <rdf:li rdf:resource="https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bosnia-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/early-onset-cancer-rising-worldwide-causes-risk-prevention/a-79597097?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden-aims-to-enhance-germany-s-defense-capabilities/a-79561414?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/90s-art-scene-in-the-uk-an-international-edgy-trendsetter/a-79581777?maca=en-rss-en-all-1573-rdf"/>
@@ -101,7 +103,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/nobel-prize-in-literature-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ai-models-keep-hacking-real-systems-during-tests-what-does-this-mean/a-79471943?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/jürgen-klopp-faces-myriad-of-issues-after-rough-start-with-germany/a-79547308?maca=en-rss-en-all-1573-rdf"/>
@@ -144,7 +145,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/summer-of-2026-broke-records-in-europe-and-caused-deaths/a-79339630?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/oktoberfest-2026-everything-you-need-to-know/a-79311285?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
@@ -155,6 +155,114 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/eu-summit-european-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf">
+  <title>EU summit: European leaders pledge support for Ukraine&apos;s Zelenskyy</title>
+  <link>https://www.dw.com/en/eu-summit-european-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf</link>
+  <description>President Zelenskyy has received words of encouragement from EU leaders who pledged support for Ukraine&apos;s self-defense against Russia. This comes as winter approaches and the US seems to be withdrawing support.</description>
+  <dc:date>2026-10-16T13:17:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79678808</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf">
+  <title>The EU wants an AI revolution. But on whose terms?</title>
+  <link>https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf</link>
+  <description>As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate?</description>
+  <dc:date>2026-10-16T13:12:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79673456</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-rdf">
+  <title>Germany, France agree on deal to support Europe&apos;s struggling car industry</title>
+  <link>https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-rdf</link>
+  <description>The two countries said the agreement aimed to safeguard Europe&apos;s automotive industry, encouraging development and research. Automakers in Europe have so far struggled to compete with Chinese electric car companies.</description>
+  <dc:date>2026-10-16T12:45:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79678595</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-all-1573-rdf">
+  <title>India&apos;s young workers have a new colleague: AI</title>
+  <link>https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-all-1573-rdf</link>
+  <description>Artificial intelligence is changing the way Indian workplaces operate — raising questions about productivity, skills and entry-level jobs.</description>
+  <dc:date>2026-10-16T11:22:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79678342</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/german-lawmakers-back-monthly-state-pension-contributions-for-children-with-families-able-to-add-more/live-79678671?maca=en-rss-en-all-1573-rdf">
+  <title>German lawmakers back monthly state pension contributions for children, with families able to add more</title>
+  <link>https://www.dw.com/en/german-lawmakers-back-monthly-state-pension-contributions-for-children-with-families-able-to-add-more/live-79678671?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany&apos;s parliament has backed a plan to help children save for retirement from the age of six. Meanwhile, Jewish students report death threats after they confronted a far-right lawmaker. DW has the latest.</description>
+  <dc:date>2026-10-16T11:11:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79678671</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf">
+  <title>How prepared is Kenya for an Ebola outbreak?</title>
+  <link>https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf</link>
+  <description>The first two confirmed Ebola cases in Kenya have raised urgent questions about the country&apos;s public health preparedness and border controls. But the health ministry says there is no need for panic.</description>
+  <dc:date>2026-10-16T10:41:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79668144</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-rdf">
+  <title>Italy cuts air traffic in half amid data transmission issue</title>
+  <link>https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-rdf</link>
+  <description>Citing problems with the data transmission network, Italian authorities have drastically reduced the volume of flights in their airspace. The ENAV authority ruled out malicious activity and said flights remained safe.</description>
+  <dc:date>2026-10-16T10:37:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79678133</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-rdf">
+  <title>Clashes erupt at Argentine student protests against President Milei&apos;s austerity policies</title>
+  <link>https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-rdf</link>
+  <description>Demonstrators clashed with police as President Javier Milei&apos;s decision not to release funding for universities brought students and employees to the streets. Protesters say the country&apos;s future is at stake.</description>
+  <dc:date>2026-10-16T09:26:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79676861</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf">
+  <title>Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter</title>
+  <link>https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf</link>
+  <description>She started taking action against Hitler as a teenager and never stopped until her death in a concentration camp. Berlin&apos;s Blücherplatz is now being renamed after her.</description>
+  <dc:date>2026-10-16T09:16:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79668919</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/europe-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf">
+  <title>Europe promotes sovereign, trusted AI as it struggles to catch US and China</title>
+  <link>https://www.dw.com/en/europe-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf</link>
+  <description>At an international AI summit in Dublin, European leaders promoted trusted and independent AI. Critics question whether the EU can close the gap with the US and China while maintaining strict regulation.</description>
+  <dc:date>2026-10-16T09:07:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79667770</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/formula-one-in-rwanda-sportswashing-claims-vs-hopes-for-african-legacy/a-79650744?maca=en-rss-en-all-1573-rdf">
+  <title>Formula One in Rwanda: Sportswashing claims vs. hopes for African legacy</title>
+  <link>https://www.dw.com/en/formula-one-in-rwanda-sportswashing-claims-vs-hopes-for-african-legacy/a-79650744?maca=en-rss-en-all-1573-rdf</link>
+  <description>Formula One will return to Africa for the first time since 1993. There is concern Rwanda are using it as another sportswashing opportunity, but there is also hope the event&apos;s legacy can impact wider African society.</description>
+  <dc:date>2026-10-16T08:37:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79650744</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/california-wildfires-force-evacuations-near-malibu/a-79676355?maca=en-rss-en-all-1573-rdf">
+  <title>California wildfires force evacuations near Malibu</title>
+  <link>https://www.dw.com/en/california-wildfires-force-evacuations-near-malibu/a-79676355?maca=en-rss-en-all-1573-rdf</link>
+  <description>A fast-moving fire near Malibu has forced evacuations. Stronger overnight winds threaten to spread the flames further.</description>
+  <dc:date>2026-10-16T08:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79676355</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesia-s-mount-bromo-national-park/a-79676291?maca=en-rss-en-all-1573-rdf">
   <title>Wildfire kills 4 firefighters in Indonesia&apos;s Mount Bromo national park</title>
   <link>https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesia-s-mount-bromo-national-park/a-79676291?maca=en-rss-en-all-1573-rdf</link>
@@ -164,10 +272,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79676291</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-s-cockroaches-to-march-again-after-protest-crackdown/live-79675849?maca=en-rss-en-all-1573-rdf">
-  <title>India&apos;s &apos;Cockroaches&apos; to march again after protest crackdown</title>
-  <link>https://www.dw.com/en/india-s-cockroaches-to-march-again-after-protest-crackdown/live-79675849?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Cockroach Janta Party has called on people to gather at New Delhi&apos;s central business district to wave the Indian national flag as it asserts a right to protest. DW has more.</description>
+ <item rdf:about="https://www.dw.com/en/india-cjp-s-dipke-detained-amid-call-for-fresh-delhi-demo/live-79675849?maca=en-rss-en-all-1573-rdf">
+  <title>India: CJP&apos;s Dipke detained amid call for fresh Delhi demo</title>
+  <link>https://www.dw.com/en/india-cjp-s-dipke-detained-amid-call-for-fresh-delhi-demo/live-79675849?maca=en-rss-en-all-1573-rdf</link>
+  <description>Police placed the founder of the Cockroach Janta Party, Abhijeet Dipke, in preventive detention. He was calling for a protest in central Delhi in defiance of a court order banning it. DW has more.</description>
   <dc:date>2026-10-16T06:04:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -227,15 +335,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79662958</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf">
-  <title>Middle East updates: Houthis target Yemen government palace in Aden</title>
-  <link>https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf</link>
-  <description>Houthi rebels say they targeted Saudi military assets in a rare attack on the interim seat of Yemen&apos;s internationally recognized government. Meanwhile, vessels are again under fire near the Strait of Hormuz. More on DW.</description>
-  <dc:date>2026-10-15T17:44:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79672880</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf">
   <title>Police raid the major pro-opposition Halk TV channel in Turkey</title>
   <link>https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf</link>
@@ -244,42 +343,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79671673</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-rdf">
-  <title>Trump says execution of Fort Hood shooter will not be livestreamed</title>
-  <link>https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-rdf</link>
-  <description>Trump said the execution of Nidal Malik Hasan can be viewed in person by families of the victims if they wish. The decision comes after bipartisan backlash regarding the Pentagon&apos;s plans to livestream the execution.</description>
-  <dc:date>2026-10-15T15:36:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79672036</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-rdf">
-  <title>Russia arrests Swedish national, claims he&apos;s Ukraine fighter</title>
-  <link>https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-rdf</link>
-  <description>Russian intelligence agents have arrested a Swedish man they say led a Ukrainian drone unit. He was detained at Russia&apos;s western border and is accused of planning acts of terrorism and sabotage.</description>
-  <dc:date>2026-10-15T15:27:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79671942</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine resumes attacks on Russian refineries as Zelenskyy says &apos;we&apos;re done&apos;</title>
-  <link>https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf</link>
-  <description>Volodymyr Zelenskyy has said Ukraine will again attack Russian energy sites, as Moscow has ignored a claim by US President Trump that an &quot;energy ceasefire&quot; had been agreed. Russia reported two attacks on refineries.</description>
-  <dc:date>2026-10-15T14:51:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79667757</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-all-1573-rdf">
-  <title>Can Kenya preserve the democratic space Raila Odinga fought for?</title>
-  <link>https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-all-1573-rdf</link>
-  <description>One year after the former prime minister&apos;s death, Kenyans are reflecting on his contribution to democracy and national reconciliation. Odinga&apos;s &quot;handshakes&quot; with his political rivals remain the subject of much debate.</description>
-  <dc:date>2026-10-15T14:46:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79668443</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf">
   <title>EU summit to focus on China, Ukraine and bloc budget</title>
@@ -308,15 +371,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79671395</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-rdf">
-  <title>Hamburg court jails 2 men over plot to attack Jewish leaders on behalf of Iran</title>
-  <link>https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-rdf</link>
-  <description>The men were found guilty of espionage and attempted murder. According to the court, they planned to attack the president of the Central Council of Jews in Germany and president of the German-Israeli society.</description>
-  <dc:date>2026-10-15T13:49:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79667895</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf">
   <title>AI-assisted dying? Doris Dörrie&apos;s new film addresses prospect of care robots</title>
   <link>https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf</link>
@@ -325,15 +379,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79659715</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-all-1573-rdf">
-  <title>Hypersonic missiles highlight arms race on Korean Peninsula</title>
-  <link>https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-all-1573-rdf</link>
-  <description>Both South and North Korea have tested weapons feared by military planners for their speed and ability to maneuver in flight.</description>
-  <dc:date>2026-10-15T12:02:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79667084</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/thousands-of-german-gamblers-could-sue-for-their-money-back/a-79667844?maca=en-rss-en-all-1573-rdf">
   <title>Thousands of German gamblers could sue for their money back</title>
@@ -731,15 +776,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79544348</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-rdf">
-  <title>EU pulls sponsorship from Disinfo2026 event in Lithuania</title>
-  <link>https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-rdf</link>
-  <description>The EU&apos;s diplomatic service, Canada and host nation Lithuania all pulled support from a disinformation event in Vilnius. Amid reports of US pressure, the EU said it was &quot;uncomfortable with the framing&quot; of some panels.</description>
-  <dc:date>2026-10-08T16:20:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79599615</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf">
   <title>2026 Nobel Prize winner Anne Carson: Where to start reading</title>
   <link>https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf</link>
@@ -767,15 +803,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79587637</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf">
-  <title>Security in the Black Sea region: is Bulgaria the weak link in Europe&apos;s defense against threats from Russia?</title>
-  <link>https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf</link>
-  <description>Two ships have sunk off the coast of Bulgaria and Romania after drone attacks in recent days. Bulgaria has held back on pointing the finger at Russia. What does that mean for security in the Black Sea and the region?</description>
-  <dc:date>2026-10-08T11:45:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79592663</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf">
   <title>How a multibillion-dollar oilfield has ignited the UK-Argentina feud over the Falklands</title>
   <link>https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf</link>
@@ -793,15 +820,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79594136</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf">
-  <title>South Korea recalls Ukraine ambassador amid POW dispute</title>
-  <link>https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf</link>
-  <description>South Korea has said it will recall its ambassador to Ukraine. Seoul is upset about a transfer of North Korean prisoners of war being made public knowledge at the UN and had demanded — but not received — an apology.</description>
-  <dc:date>2026-10-08T10:55:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79590511</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden-aims-to-enhance-germany-s-defense-capabilities/a-79561414?maca=en-rss-en-all-1573-rdf">
   <title>German Bundeswehr: A new naval port in Emden aims to enhance Germany&apos;s defense capabilities</title>
@@ -964,15 +982,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79560490</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Far-right AfD gets first house speaker in a German state parliament</title>
-  <link>https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf</link>
-  <description>For the first time since World War II, a far-right party has a house speaker in a German state parliament. And Germany&apos;s foreign minister has warned that the climate crisis could fuel extremism.</description>
-  <dc:date>2026-10-06T06:21:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79558497</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf">
   <title>Merz, Macron seek tougher EU measures against unfair trade</title>
@@ -1351,15 +1360,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79311285</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-rdf">
-  <title>Rebels, workers, radicals: The making of &apos;Red Berlin&apos;</title>
-  <link>https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-rdf</link>
-  <description>Bloody May, student sit-ins and the squatter movement: Berlin has long been a hotbed for working-class organizing and radical left-wing politics.</description>
-  <dc:date>2026-09-19T09:14:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79325410</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss-en-all-1573-rdf">
   <title>Strait of Hormuz attacks spill oil into Persian Gulf</title>

@@ -7,13 +7,72 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 08:20:44 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 08:00:47 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:24:01 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 13:10:12 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews</title>
+      <link>https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html" rel="standout"></atom:link>
+      <description>Mansour Abbas, a dentist-turned-lawmaker, helped oust Benjamin Netanyahu once before. Now, he and a Jewish ex-police commander have teamed up to try to do it again.</description>
+      <dc:creator>David M. Halbfinger and Adam Rasgon</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 09:56:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/00int-israel-mansour-zpch/00int-israel-mansour-zpch-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
+      <media:description>Mansour Abbas, leader of Raam, in Nazareth, Israel, in September.</media:description>
+    </item>
+    <item>
+      <title>What Life Is Like in Kyiv as Russia Tries to Make It Unlivable</title>
+      <link>https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html" rel="standout"></atom:link>
+      <description>A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.</description>
+      <dc:creator>Kim Barker, Maria Varenikova, Oleksandra Mykolyshyn and Jędrzej Nowicki</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 11:25:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-kyiv-fklq/16int-ukraine-kyiv-fklq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>A destroyed garage on Oct. 7 after an attack on an industrial complex that killed two security guards in Kyiv.</media:description>
+    </item>
+    <item>
+      <title>Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands</title>
+      <link>https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html" rel="standout"></atom:link>
+      <description>Crime plunged after police raids killed thousands. Venezuela is now withdrawing from the International Criminal Court as it investigates this blood-soaked campaign.</description>
+      <dc:creator>Simon Romero and Adriana Loureiro Fernandez</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 09:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Hugo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/00int-venezuela-caracas01a-photo-ghbj/00int-venezuela-caracas01a-photo-ghbj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Visitors to a former safe house used by an armed gang in Cota 905, a neighborhood in Caracas.</media:description>
+    </item>
     <item>
       <title>El Niño Threatens Global Sugar Supply</title>
       <link>https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html</link>
@@ -46,7 +105,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html" rel="standout"></atom:link>
       <description>A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 08:00:47 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 08:22:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
@@ -57,6 +116,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/22/multimedia/00int-france-abuse-01-lzgh/00int-france-abuse-01-lzgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
       <media:description>The entrance to St.-Dominique, a kindergarten in Paris where 16 current and former employees were arrested following accusations of child abuse.</media:description>
+    </item>
+    <item>
+      <title>Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.</title>
+      <link>https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html" rel="standout"></atom:link>
+      <description>Sanae Takaichi said she has a busier schedule than her male predecessors, a nod to the disproportionate share of household tasks in Japan that fall to women.</description>
+      <dc:creator>Javier C. Hernández and Kiuko Notoya</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 12:15:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cosmetics and Toiletries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Habits and Routines (Behavior)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-takaichi-schedule-pkjv/16int-takaichi-schedule-pkjv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Suo Takekuma/Kyodo News, via Associated Press</media:credit>
+      <media:description>Japan&#39;s prime minister, Sanae Takaichi, said her all-male team of aides has had trouble adapting to her schedule.</media:description>
     </item>
     <item>
       <title>Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism</title>
@@ -143,7 +223,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html" rel="standout"></atom:link>
       <description>Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.</description>
       <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 16:05:20 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 16:05:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
@@ -178,6 +258,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1749" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg" width="1749"></media:content>
       <media:credit>Pool photo by Henry Nicholls</media:credit>
       <media:description>President Volodymyr Zelensky of Ukraine in London on Wednesday.</media:description>
@@ -219,88 +300,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-jet-drones-03-qkbj/14int-ukraine-jet-drones-03-qkbj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>A jet drone struck the National Academy of Sciences building in Kyiv, Ukraine, on Sept. 28</media:description>
-    </item>
-    <item>
-      <title>Why Does Saudi Arabia Struggle to Stop Houthi Attacks?</title>
-      <link>https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html" rel="standout"></atom:link>
-      <description>The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.</description>
-      <dc:creator>Neil MacFarquhar</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 17:00:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15inyt-saudi-military-1-cflm/15inyt-saudi-military-1-cflm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fayez Nureldine/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A military parade marked Saudi National Day in Riyadh last month.</media:description>
-    </item>
-    <item>
-      <title>32 Children Killed After School Roof Collapses in Pakistan</title>
-      <link>https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html" rel="standout"></atom:link>
-      <description>The collapse, in Peshawar, also killed a teacher and injured dozens of people. A local official said the building appeared to be dilapidated.</description>
-      <dc:creator>Salman Masood</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 15:04:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peshawar (Pakistan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-pakistan-collapse-01-hkfj/15int-pakistan-collapse-01-hkfj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Abdul Majeed/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A rescue worker carried a child from a school in Peshawar, Pakistan, on Thursday, after the roof of the building collapsed.</media:description>
-    </item>
-    <item>
-      <title>North Korea and China Open Their Biggest Border Bridge</title>
-      <link>https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html" rel="standout"></atom:link>
-      <description>The long-delayed opening of the New Yalu River Bridge comes as the two countries expand trade despite international sanctions imposed on North Korea.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 08:49:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dandong (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-nkorea-china-bridge-cglj/15int-nkorea-china-bridge-cglj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Iori Sagisawa/Kyodo News, via Associated Press</media:credit>
-      <media:description>The New Yalu River Bridge seen from Dandong, China, on Thursday, the day it opened.</media:description>
-    </item>
-    <item>
-      <title>While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot</title>
-      <link>https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html" rel="standout"></atom:link>
-      <description>The Vatican bureaucracy has been fine-tuned over hundreds of years to function smoothly even when the pope cannot.</description>
-      <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 13:01:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemelli Hospital (Rome, Italy)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-vatican-01-lqtb/14int-pope-vatican-01-lqtb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stoyan Nenov/Reuters</media:credit>
-      <media:description>Mass in St. Peter’s Square at the Vatican on Wednesday. The service was held by Cardinal Luis Antonio Tagle in Pope Leo’s absence, and included special prayers for the pontiff’s health.</media:description>
     </item>
     <item>
       <title>A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell</title>
@@ -463,6 +462,88 @@
       <media:content height="1334" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15SCI-INSIDE-PLAGUE-LAB-01-hfwt/15SCI-INSIDE-PLAGUE-LAB-01-hfwt-mediumSquareAt3X.jpg" width="1334"></media:content>
       <media:credit>Irkutsk Antiplague Research Institute, via Agence France-Presse — Getty Images</media:credit>
       <media:description>A picture released by the Irkutsk Anti-Plague Research Institute showing specialists working in a laboratory in Krasnoyarsk, Russia, in 2019.</media:description>
+    </item>
+    <item>
+      <title>32 Children Killed After School Roof Collapses in Pakistan</title>
+      <link>https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html" rel="standout"></atom:link>
+      <description>The collapse, in Peshawar, also killed a teacher and injured dozens of people. A local official said the building appeared to be dilapidated.</description>
+      <dc:creator>Salman Masood</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 15:04:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peshawar (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-pakistan-collapse-01-hkfj/15int-pakistan-collapse-01-hkfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Abdul Majeed/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A rescue worker carried a child from a school in Peshawar, Pakistan, on Thursday, after the roof of the building collapsed.</media:description>
+    </item>
+    <item>
+      <title>North Korea and China Open Their Biggest Border Bridge</title>
+      <link>https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html" rel="standout"></atom:link>
+      <description>The long-delayed opening of the New Yalu River Bridge comes as the two countries expand trade despite international sanctions imposed on North Korea.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 08:49:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dandong (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-nkorea-china-bridge-cglj/15int-nkorea-china-bridge-cglj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Iori Sagisawa/Kyodo News, via Associated Press</media:credit>
+      <media:description>The New Yalu River Bridge seen from Dandong, China, on Thursday, the day it opened.</media:description>
+    </item>
+    <item>
+      <title>While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html" rel="standout"></atom:link>
+      <description>The Vatican bureaucracy has been fine-tuned over hundreds of years to function smoothly even when the pope cannot.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 13:01:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemelli Hospital (Rome, Italy)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-vatican-01-lqtb/14int-pope-vatican-01-lqtb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stoyan Nenov/Reuters</media:credit>
+      <media:description>Mass in St. Peter’s Square at the Vatican on Wednesday. The service was held by Cardinal Luis Antonio Tagle in Pope Leo’s absence, and included special prayers for the pontiff’s health.</media:description>
+    </item>
+    <item>
+      <title>Why Does Saudi Arabia Struggle to Stop Houthi Attacks?</title>
+      <link>https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html" rel="standout"></atom:link>
+      <description>The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 17:00:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15inyt-saudi-military-1-cflm/15inyt-saudi-military-1-cflm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fayez Nureldine/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A military parade marked Saudi National Day in Riyadh last month.</media:description>
     </item>
     <item>
       <title>Home of London’s Oldest Restaurant, Rules, Is Given to National Trust</title>
@@ -728,16 +809,16 @@
       <link>https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html" rel="standout"></atom:link>
-      <description>Pope Leo XIV was diagnosed with a common form of lung cancer. The Vatican said that he had celebrated Mass at the hospital and resumed working “at a restrained pace” after an operation to remove a cancerous nodule.</description>
-      <dc:creator>Laura Chung</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 20:02:55 +0000</pubDate>
+      <description>Pope Leo XIV was diagnosed with a common form of lung cancer. The Vatican said that he had celebrated Mass at the hospital three days after an operation to remove a cancerous nodule.</description>
+      <dc:creator>Elisabetta Povoledo, Laura Chung and Karla Adam</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 13:10:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14xp-pope-wwk-gmwb/14xp-pope-wwk-gmwb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ciro De Luca/Reuters</media:credit>
-      <media:description>Pope Leo arriving at a hospital in Rome on Tuesday.</media:description>
+      <media:content height="1110" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14xp-pope-wwk-fmjt/14xp-pope-wwk-fmjt-mediumSquareAt3X.jpg" width="1110"></media:content>
+      <media:credit>Vatican Media, via Reuters</media:credit>
+      <media:description>Pope Leo celebrating Mass in a room at Gemelli Hospital in Rome on Friday.</media:description>
     </item>
     <item>
       <title>‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport</title>
@@ -1099,93 +1180,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-russia-putin-01-htqf/13int-russia-putin-01-htqf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Igor Ivanko/Agence France-Presse — Getty Images</media:credit>
       <media:description>President Vladimir V. Putin of Russia in Moscow this month.</media:description>
-    </item>
-    <item>
-      <title>Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia</title>
-      <link>https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html" rel="standout"></atom:link>
-      <description>The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.</description>
-      <dc:creator>Ismaeel Naar and Pranav Baskar</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:56:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-saudi-yemensub-photo-plbk/13int-saudi-yemensub-photo-plbk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mohammed Huwais/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A man looking over the skyline of Sanaa, Yemen, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>A Father’s Mission Is to Show the World ‘What Russia Did to My Family’</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html" rel="standout"></atom:link>
-      <description>After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way.</description>
-      <dc:creator>Siobhán O’Grady, Liubov Sholudko and Johanna-Maria Fritz</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 20:31:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sumy (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fedorov, Mykhailo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-    </item>
-    <item>
-      <title>Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html" rel="standout"></atom:link>
-      <description>Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow.</description>
-      <dc:creator>Constant Méheut and Carlotta Gall</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 13:11:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-ukraine-intelligence-01-jfzh/13int-ukraine-intelligence-01-jfzh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mauricio Lima for The New York Times</media:credit>
-      <media:description>A resident collecting belongings from an apartment building that was struck in Kharkiv, Ukraine, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html" rel="standout"></atom:link>
-      <description>The head of Britain’s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns in the U.K., and called Iran-led attacks on Jewish communities “sickening.”</description>
-      <dc:creator>Adam Goldman</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 16:04:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harakat Ashab al-Yamin al-Islamiyya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Service (MI5)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13uk-mi5-iran-01-lmbt/13uk-mi5-iran-01-lmbt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Jonathan Brady</media:credit>
-      <media:description>The head of MI5, Ken McCallum, during his annual threat briefing in London in 2025.</media:description>
     </item>
   </channel>
 </rss>
