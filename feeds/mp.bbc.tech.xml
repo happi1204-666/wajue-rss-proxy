@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 13:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 17:35:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Russian man linked to deadly London hospitals hack arrested]]></title>
+            <description><![CDATA[The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9vgr61kml3mo#0</guid>
+            <pubDate>Fri, 16 Oct 2026 15:31:33 GMT</pubDate>
+            <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png"/>
+        </item>
         <item>
             <title><![CDATA[Snapchat and Instagram grooming becoming 'easier']]></title>
             <description><![CDATA[Online grooming is rising, with children as young as five targeted, prompting calls for reform.]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo#0</guid>
             <pubDate>Mon, 12 Oct 2026 07:47:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/eacee500-c610-11f1-aae8-850c1751d51d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[King warns malicious online actors are evolving tactics]]></title>
-            <description><![CDATA[The King spoke of "threats to our international order" in a letter marking the 10th anniversary of the National Cyber Security Centre.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cme3xl7d18z2o#0</guid>
-            <pubDate>Sat, 10 Oct 2026 15:56:32 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d98d/live/0d6d7c40-c4c0-11f1-9ce9-55293bd7f0d9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>

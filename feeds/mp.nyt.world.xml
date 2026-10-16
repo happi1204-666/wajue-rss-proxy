@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 13:24:01 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 13:10:12 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:32:12 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 17:21:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -37,20 +37,72 @@
       <media:description>Mansour Abbas, leader of Raam, in Nazareth, Israel, in September.</media:description>
     </item>
     <item>
-      <title>What Life Is Like in Kyiv as Russia Tries to Make It Unlivable</title>
-      <link>https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html" rel="standout"></atom:link>
-      <description>A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.</description>
-      <dc:creator>Kim Barker, Maria Varenikova, Oleksandra Mykolyshyn and Jędrzej Nowicki</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 11:25:22 +0000</pubDate>
+      <title>The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies</title>
+      <link>https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html" rel="standout"></atom:link>
+      <description>Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.</description>
+      <dc:creator>Kim Barker</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 15:02:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-kyiv-fklq/16int-ukraine-kyiv-fklq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>A destroyed garage on Oct. 7 after an attack on an industrial complex that killed two security guards in Kyiv.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-assess01-photo-fvlq/16int-ukraine-assess01-photo-fvlq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>President Volodymyr Zelensky of Ukraine with President Trump at Mar-a-Lago in Florida in December.</media:description>
+    </item>
+    <item>
+      <title>Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation</title>
+      <link>https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html" rel="standout"></atom:link>
+      <description>A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.</description>
+      <dc:creator>Salman Masood</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 15:22:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pakistan Tehreek-e-Insaf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khyber-Pakhtunkhwa Province (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peshawar (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16pakistan-school-01-fjmc/16pakistan-school-01-fjmc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Abdul Majeed/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The courtyard of the Al-Khair Education System school in Peshawar, Pakistan, after its roof collapsed on Thursday. </media:description>
+    </item>
+    <item>
+      <title>Houthi Attacks on Saudi Arabia Put In Doubt Kingdom’s Sports and Business Events</title>
+      <link>https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html" rel="standout"></atom:link>
+      <description>The Iran-backed group’s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile.</description>
+      <dc:creator>Euan Ward and Humza Jilani</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 15:52:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian Cup (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-saudi-events-01-kgfc/16int-saudi-events-01-kgfc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Baraa Anwer/Associated Press</media:credit>
+      <media:description>Saudi Arabia’s capital, Riyadh, has been rocked by Houthi attacks in recent weeks that have forced the authorities to close the city’s main international airport. </media:description>
     </item>
     <item>
       <title>Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands</title>
@@ -74,27 +126,43 @@
       <media:description>Visitors to a former safe house used by an armed gang in Cota 905, a neighborhood in Caracas.</media:description>
     </item>
     <item>
+      <title>What Life Is Like in Kyiv as Russia Tries to Make It Unlivable</title>
+      <link>https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html" rel="standout"></atom:link>
+      <description>A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.</description>
+      <dc:creator>Kim Barker, Maria Varenikova, Oleksandra Mykolyshyn and Jędrzej Nowicki</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 11:25:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-kyiv-fklq/16int-ukraine-kyiv-fklq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>A destroyed garage on Oct. 7 after an attack on an industrial complex that killed two security guards in Kyiv.</media:description>
+    </item>
+    <item>
       <title>El Niño Threatens Global Sugar Supply</title>
       <link>https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html" rel="standout"></atom:link>
-      <description>A poor sugarcane crop in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals.</description>
+      <description>A sugarcane crop withered by El Niño in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals.</description>
       <dc:creator>Somini Sengupta, Suhasini Raj and Anindito Mukherjee</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 04:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sugar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maharashtra (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <pubDate>Fri, 16 Oct 2026 14:41:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethanol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sugar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maharashtra (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethanol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05-INT-INDIA-SUGAR-01-jbfv/05-INT-INDIA-SUGAR-01-jbfv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>A worker tending to a sugarcane crop in Maharashtra, India, in September.</media:description>
     </item>
@@ -106,13 +174,15 @@
       <description>A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
       <pubDate>Fri, 16 Oct 2026 08:22:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Pre-School)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hidalgo, Anne (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gregoire, Emmanuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/22/multimedia/00int-france-abuse-01-lzgh/00int-france-abuse-01-lzgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
       <media:description>The entrance to St.-Dominique, a kindergarten in Paris where 16 current and former employees were arrested following accusations of child abuse.</media:description>
@@ -124,7 +194,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html" rel="standout"></atom:link>
       <description>Sanae Takaichi said she has a busier schedule than her male predecessors, a nod to the disproportionate share of household tasks in Japan that fall to women.</description>
       <dc:creator>Javier C. Hernández and Kiuko Notoya</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 12:15:32 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 13:28:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cosmetics and Toiletries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
@@ -145,7 +215,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html" rel="standout"></atom:link>
       <description>A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum.</description>
       <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 18:18:46 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:14:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
@@ -217,53 +287,6 @@
       <media:description>A protester confronting riot police during an anti-government demonstration in central Tirana, Albania, on Thursday.</media:description>
     </item>
     <item>
-      <title>Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter</title>
-      <link>https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html" rel="standout"></atom:link>
-      <description>Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.</description>
-      <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 16:05:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-ukraine-assess-01-fglq/15int-ukraine-assess-01-fglq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Genya Savilov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Firefighters at the site of a strike on an apartment building in Kyiv on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump</title>
-      <link>https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.</description>
-      <dc:creator>Cassandra Vinograd and Francesca Regalado</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 02:48:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1749" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg" width="1749"></media:content>
-      <media:credit>Pool photo by Henry Nicholls</media:credit>
-      <media:description>President Volodymyr Zelensky of Ukraine in London on Wednesday.</media:description>
-    </item>
-    <item>
       <title>Meet Neha Bora, Activist and Face of India’s Young Protesters</title>
       <link>https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html</guid>
@@ -285,21 +308,34 @@
       <media:description>Neha Bora, president of the All India Students’ Association, in New Delhi in October.</media:description>
     </item>
     <item>
-      <title>The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones</title>
-      <link>https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html" rel="standout"></atom:link>
-      <description>Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel.</description>
-      <dc:creator>Maria Varenikova and Paul Mozur</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 09:03:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-jet-drones-03-qkbj/14int-ukraine-jet-drones-03-qkbj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>A jet drone struck the National Academy of Sciences building in Kyiv, Ukraine, on Sept. 28</media:description>
+      <title>16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says</title>
+      <link>https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html" rel="standout"></atom:link>
+      <description>The agency said a major rescue operation was underway near the coast of Baja California after it received reports of 27 people in the water.</description>
+      <dc:creator>Remy Tumin</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 17:21:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baja California (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+    </item>
+    <item>
+      <title>Japan Mistakenly Issues Warning for Strongest Ever Earthquake</title>
+      <link>https://www.nytimes.com/2026/10/16/world/asia/japan-earthquake-warning-false-alarm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/asia/japan-earthquake-warning-false-alarm.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/asia/japan-earthquake-warning-false-alarm.html" rel="standout"></atom:link>
+      <description>Officials on Friday withdrew an alert sent when they believed a 9.9-magnitude earthquake had taken place. In the end, the tremor was hardly felt.</description>
+      <dc:creator>Kiuko Notoya and Claire Moses</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 15:01:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Geological Survey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kamchatka Peninsula (Russia)</category>
     </item>
     <item>
       <title>A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell</title>
@@ -329,16 +365,23 @@
       <description>The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.</description>
       <dc:creator>Anton Troianovski and Luke Broadwater</dc:creator>
       <pubDate>Fri, 16 Oct 2026 01:02:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refineries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-ukraine-pmfg/15dc-trump-ukraine-pmfg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump during a campaign stop in Alaska on Tuesday. He has not delivered on his promises to end the war in Ukraine, or to lower prices, and recent deals with Russia could complicate both issues.</media:description>
@@ -350,15 +393,16 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html" rel="standout"></atom:link>
       <description>As ties with the Trump administration fray, María Corina Machado said her return to Venezuela would come “sooner than you would expect.”</description>
       <dc:creator>Julie Turkewitz</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 23:24:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Betancourt Lopez, Alejandro</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <pubDate>Fri, 16 Oct 2026 16:29:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Betancourt Lopez, Alejandro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-venezuela-machado01-photo-klht/15int-venezuela-machado01-photo-klht-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nathalia Angarita for The New York Times</media:credit>
       <media:description>While expressing frustration that she is stuck abroad, María Corina Machado vowed to return to Venezuela and rally supporters for a future election.</media:description>
@@ -441,6 +485,27 @@
       <media:description>“The Colorful Life,” by Wassily Kandinsky, at Christie’s auction rooms last week.</media:description>
     </item>
     <item>
+      <title>Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html" rel="standout"></atom:link>
+      <description>Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 16:05:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-ukraine-assess-01-fglq/15int-ukraine-assess-01-fglq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Genya Savilov/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Firefighters at the site of a strike on an apartment building in Kyiv on Wednesday.</media:description>
+    </item>
+    <item>
       <title>Inside the Plague Research Labs at the Heart of a Russian Mystery</title>
       <link>https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html</guid>
@@ -462,6 +527,49 @@
       <media:content height="1334" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15SCI-INSIDE-PLAGUE-LAB-01-hfwt/15SCI-INSIDE-PLAGUE-LAB-01-hfwt-mediumSquareAt3X.jpg" width="1334"></media:content>
       <media:credit>Irkutsk Antiplague Research Institute, via Agence France-Presse — Getty Images</media:credit>
       <media:description>A picture released by the Irkutsk Anti-Plague Research Institute showing specialists working in a laboratory in Krasnoyarsk, Russia, in 2019.</media:description>
+    </item>
+    <item>
+      <title>The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html" rel="standout"></atom:link>
+      <description>Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel.</description>
+      <dc:creator>Maria Varenikova and Paul Mozur</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 09:03:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-jet-drones-03-qkbj/14int-ukraine-jet-drones-03-qkbj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>A jet drone struck the National Academy of Sciences building in Kyiv, Ukraine, on Sept. 28</media:description>
+    </item>
+    <item>
+      <title>Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html" rel="standout"></atom:link>
+      <description>President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.</description>
+      <dc:creator>Cassandra Vinograd and Francesca Regalado</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 16:07:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
+      <media:content height="1749" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg" width="1749"></media:content>
+      <media:credit>Pool photo by Henry Nicholls</media:credit>
+      <media:description>President Volodymyr Zelensky of Ukraine in London on Wednesday.</media:description>
     </item>
     <item>
       <title>32 Children Killed After School Roof Collapses in Pakistan</title>
@@ -1046,140 +1154,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13dc-sanctions-gfkc/13dc-sanctions-gfkc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>The letter, led by Senator Richard Blumenthal, Democrat of Connecticut, came just weeks after Congress overwhelmingly approved legislation intended to increase economic pressure on Moscow and its allies.</media:description>
-    </item>
-    <item>
-      <title>Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.</title>
-      <link>https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html" rel="standout"></atom:link>
-      <description>Critical infrastructure has been targeted in a wave of cyberattacks, which experts say are rising because of artificial intelligence.</description>
-      <dc:creator>Tiffany May and Kiuko Notoya</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 21:22:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Japanese Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-japan-cyberattack-bzmh/13int-japan-cyberattack-bzmh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Japan has been hit by a wave of cyberattacks that have affected businesses and government. </media:description>
-    </item>
-    <item>
-      <title>Trump Squeezes Ukraine, Again</title>
-      <link>https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html" rel="standout"></atom:link>
-      <description>The president’s proposed fuel deal with Russia and a one-sided cease-fire plan are putting Kyiv in a tough spot as winter approaches.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 04:41:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Presley, Elvis</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-theworld-usa-russia-energy-01-cbfz-promo/14int-theworld-usa-russia-energy-01-cbfz-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Genya Savilov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Russian strike on Pryluky, Ukraine, last week.</media:description>
-    </item>
-    <item>
-      <title>Kimberly Guilfoyle’s Rise and Fall as Trump’s Ambassador to Greece</title>
-      <link>https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html" rel="standout"></atom:link>
-      <description>President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.</description>
-      <dc:creator>Elisabeth Bumiller</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 14:17:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guilfoyle, Kimberly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13dc-guilfoyle-fall-wlzv/13dc-guilfoyle-fall-wlzv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Kimberly Guilfoyle with President Trump at a White House event in March. In announcing her resignation, Ms. Guilfoyle decried what she called false accusations.</media:description>
-    </item>
-    <item>
-      <title>Acclaimed Author Denies Using A.I. but Admits Plagiarism</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html" rel="standout"></atom:link>
-      <description>Breaking a weekslong silence, Thélyson Orélien, a Haitian-Canadian writer, still rejected accusations about his new novel, ‘It Was Either That or Die.’</description>
-      <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 17:26:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orelien, Thelyson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pangram Labs Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plagiarism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apologies</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-france-author-photo-kqjz/13int-france-author-photo-kqjz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nasuna Stuart-Ulin for The New York Times</media:credit>
-      <media:description>Thélyson Orélien in Montreal earlier this year.</media:description>
-    </item>
-    <item>
-      <title>Russia Detains Japanese Journalist for Alleged Espionage</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html" rel="standout"></atom:link>
-      <description>The main security service said it had detained a reporter for the Hokkaido Shimbun newspaper in Russia’s far east, where he had been reporting on military recruitment.</description>
-      <dc:creator>Valerie Hopkins and Ivan Nechepurenko</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 19:55:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Security Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sakhalin Island (Russia)</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-russia-journalist-photo-hjfw/13int-russia-journalist-photo-hjfw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gavriil Grigorov/Sputnik, via Reuters</media:credit>
-      <media:description>A photo provided by Russian state media shows President Vladimir V. Putin visiting the Sakhalin region in Russia’s far east in August.</media:description>
-    </item>
-    <item>
-      <title>Trump Hands Victories to Putin, Who Offers More War in Return</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html" rel="standout"></atom:link>
-      <description>Russia has reaped a diesel deal and an increase in U.S. pressure on Ukraine as President Trump’s political needs align with his longstanding inclinations toward Russia.</description>
-      <dc:creator>Paul Sonne</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 05:03:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-russia-putin-01-htqf/13int-russia-putin-01-htqf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Igor Ivanko/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Vladimir V. Putin of Russia in Moscow this month.</media:description>
     </item>
   </channel>
 </rss>
