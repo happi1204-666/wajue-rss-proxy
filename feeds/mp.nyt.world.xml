@@ -7,13 +7,57 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 03:07:18 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 02:48:41 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:20:44 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 08:00:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>El Niño Threatens Global Sugar Supply</title>
+      <link>https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html" rel="standout"></atom:link>
+      <description>A poor sugarcane crop in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals.</description>
+      <dc:creator>Somini Sengupta, Suhasini Raj and Anindito Mukherjee</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 04:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sugar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maharashtra (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethanol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05-INT-INDIA-SUGAR-01-jbfv/05-INT-INDIA-SUGAR-01-jbfv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>A worker tending to a sugarcane crop in Maharashtra, India, in September.</media:description>
+    </item>
+    <item>
+      <title>The Sexual Abuse Crisis in Paris’s Public Schools</title>
+      <link>https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html" rel="standout"></atom:link>
+      <description>A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools.</description>
+      <dc:creator>Ségolène Le Stradic</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 08:00:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hidalgo, Anne (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/22/multimedia/00int-france-abuse-01-lzgh/00int-france-abuse-01-lzgh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The entrance to St.-Dominique, a kindergarten in Paris where 16 current and former employees were arrested following accusations of child abuse.</media:description>
+    </item>
     <item>
       <title>Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism</title>
       <link>https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html</link>
@@ -49,6 +93,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-kenya-ebola-1-qgth/15int-kenya-ebola-1-qgth-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Monicah Mwangi/Reuters</media:credit>
       <media:description>A nurse gestures inside Nairobi Hospital, where an Ebola patient was isolated immediately upon arrival and treated at the hospital’s East Wing Isolation Facility. The patient later died.</media:description>
@@ -75,7 +120,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html" rel="standout"></atom:link>
       <description>Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.</description>
       <dc:creator>Fatjona Mejdini, Paul Mozur and Lynsey Chutel</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 21:40:23 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 21:40:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -86,6 +131,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berisha, Sali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-albania-protests-tczw/15int-albania-protests-tczw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adnan Beci/Agence France-Presse — Getty Images</media:credit>
       <media:description>A protester confronting riot police during an anti-government demonstration in central Tirana, Albania, on Thursday.</media:description>
@@ -257,49 +303,6 @@
       <media:description>Mass in St. Peter’s Square at the Vatican on Wednesday. The service was held by Cardinal Luis Antonio Tagle in Pope Leo’s absence, and included special prayers for the pontiff’s health.</media:description>
     </item>
     <item>
-      <title>Home of London’s Oldest Restaurant, Rules, Is Given to National Trust</title>
-      <link>https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html" rel="standout"></atom:link>
-      <description>The restaurant Rules is an institution. Now the National Trust, which preserves Britain’s heritage, plans to safeguard the landmark.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 11:55:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rules (London, England, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Trust Group (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Covent Garden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-uk-rules-restaurant-01-cftz/15int-uk-rules-restaurant-01-cftz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sam Mellish/In Pictures, via Getty Images</media:credit>
-      <media:description>The interior of Rules, a British mainstay in the Covent Garden neighborhood of London. In the centuries since it opened, the restaurant has served London’s wealthy and wordy, its royals and its regulars.</media:description>
-    </item>
-    <item>
-      <title>Japan Protests Russia’s Detention of Journalist Accused of Spying</title>
-      <link>https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html" rel="standout"></atom:link>
-      <description>Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.</description>
-      <dc:creator>Javier C. Hernández</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 05:04:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-japan-journalist-pqfl/14int-japan-journalist-pqfl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kyodo, via Reuters</media:credit>
-      <media:description>The Hokkaido Shimbun newspaper headquarters in Sapporo, Japan on Wednesday. A journalist from the newspaper was arrested in Russia and accused of spying.</media:description>
-    </item>
-    <item>
       <title>A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell</title>
       <link>https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html</guid>
@@ -368,7 +371,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/us-midterms-texas-zelensky-ukraine.html" rel="standout"></atom:link>
       <description>The Senate showdown in Texas shows why Donald Trump and the Republican Party are worried about the midterm elections.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 20:37:19 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 04:39:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
@@ -396,6 +399,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-safrica-anc-shootings-photo-vphk/15int-safrica-anc-shootings-photo-vphk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Esa Alexander/Reuters</media:credit>
       <media:description>Fikile Mbalula, the secretary general of the African National Congress, in Cape Town in May.</media:description>
@@ -425,13 +429,14 @@
       <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/kandinsky-nazi-looted-art-auction.html" rel="standout"></atom:link>
       <description>“The Colorful Life,” a 1907 work by the Russian painter Wassily Kandinsky, had been returned to the original owners’ heirs in 2023.</description>
       <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 13:29:13 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 13:29:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kandinsky, Wassily</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christie&#39;s</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15xp-kandinsky-qktl/15xp-kandinsky-qktl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
       <media:description>“The Colorful Life,” by Wassily Kandinsky, at Christie’s auction rooms last week.</media:description>
@@ -458,6 +463,27 @@
       <media:content height="1334" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15SCI-INSIDE-PLAGUE-LAB-01-hfwt/15SCI-INSIDE-PLAGUE-LAB-01-hfwt-mediumSquareAt3X.jpg" width="1334"></media:content>
       <media:credit>Irkutsk Antiplague Research Institute, via Agence France-Presse — Getty Images</media:credit>
       <media:description>A picture released by the Irkutsk Anti-Plague Research Institute showing specialists working in a laboratory in Krasnoyarsk, Russia, in 2019.</media:description>
+    </item>
+    <item>
+      <title>Home of London’s Oldest Restaurant, Rules, Is Given to National Trust</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html" rel="standout"></atom:link>
+      <description>The restaurant Rules is an institution. Now the National Trust, which preserves Britain’s heritage, plans to safeguard the landmark.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 11:55:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rules (London, England, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Trust Group (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Covent Garden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-uk-rules-restaurant-01-cftz/15int-uk-rules-restaurant-01-cftz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sam Mellish/In Pictures, via Getty Images</media:credit>
+      <media:description>The interior of Rules, a British mainstay in the Covent Garden neighborhood of London. In the centuries since it opened, the restaurant has served London’s wealthy and wordy, its royals and its regulars.</media:description>
     </item>
     <item>
       <title>OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis</title>
@@ -632,6 +658,28 @@
       <media:description>A statue of Pope John Paul II outside the hospital in Rome where Pope Leo XIV was hospitalized. The statue has become a gathering point for prayers.</media:description>
     </item>
     <item>
+      <title>Japan Protests Russia’s Detention of Journalist Accused of Spying</title>
+      <link>https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html" rel="standout"></atom:link>
+      <description>Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.</description>
+      <dc:creator>Javier C. Hernández</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 05:04:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-japan-journalist-pqfl/14int-japan-journalist-pqfl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kyodo, via Reuters</media:credit>
+      <media:description>The Hokkaido Shimbun newspaper headquarters in Sapporo, Japan on Wednesday. A journalist from the newspaper was arrested in Russia and accused of spying.</media:description>
+    </item>
+    <item>
       <title>Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates</title>
       <link>https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html</guid>
@@ -682,10 +730,11 @@
       <atom:link href="https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html" rel="standout"></atom:link>
       <description>Pope Leo XIV was diagnosed with a common form of lung cancer. The Vatican said that he had celebrated Mass at the hospital and resumed working “at a restrained pace” after an operation to remove a cancerous nodule.</description>
       <dc:creator>Laura Chung</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 20:02:54 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 20:02:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14xp-pope-wwk-gmwb/14xp-pope-wwk-gmwb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ciro De Luca/Reuters</media:credit>
       <media:description>Pope Leo arriving at a hospital in Rome on Tuesday.</media:description>
@@ -782,6 +831,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/world/00int-argentina-psychic-profile/00int-argentina-psychic-profile-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sarah Pabst for The New York Times</media:credit>
       <media:description>Celia Melamed, a pet psychic, was hired by President Javier Milei of Argentina to talk to his dogs. </media:description>
@@ -1136,47 +1186,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13uk-mi5-iran-01-lmbt/13uk-mi5-iran-01-lmbt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Jonathan Brady</media:credit>
       <media:description>The head of MI5, Ken McCallum, during his annual threat briefing in London in 2025.</media:description>
-    </item>
-    <item>
-      <title>Pope Leo Has Lung Cancer, Vatican Says</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html" rel="standout"></atom:link>
-      <description>The surgeons removed the lower lobe of the pope’s right lung after finding a cancerous nodule.</description>
-      <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 07:27:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemelli Hospital (Rome, Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-pope-surgery-lwgk/13int-pope-surgery-lwgk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alessandra Tarantino/Associated Press</media:credit>
-      <media:description>Pope Leo XIV arriving at the Policlinico A. Gemelli hospital in Rome on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Bulgaria Summons Russian Ambassador After More Black Sea Drone Strikes</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html" rel="standout"></atom:link>
-      <description>Drones struck two ships off Bulgaria’s Black Sea coast, according to the country’s prime minister.</description>
-      <dc:creator>Lara Jakes and Boryana Dzhambazova</dc:creator>
-      <pubDate>Tue, 13 Oct 2026 15:56:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Radev, Rumen (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rutte, Mark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
-      <media:content height="746" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-bulgaria-attacks-lgtw/13int-bulgaria-attacks-lgtw-mediumSquareAt3X.jpg" width="746"></media:content>
-      <media:credit>Bulphoto Agency, via Reuters</media:credit>
-      <media:description>Prime Minister Rumen Radev of Bulgaria said that a crew member was rescued from one of the ships that had been attacked. </media:description>
     </item>
   </channel>
 </rss>
