@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 21:31:25 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Oct 2026 21:15:25 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:42:38 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 22:15:45 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html" rel="standout"></atom:link>
       <description>Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest.</description>
       <dc:creator>Aaron Boxerman and Adam Rasgon</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 20:49:13 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:15:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
@@ -47,7 +47,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html" rel="standout"></atom:link>
       <description>Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions.</description>
       <dc:creator>Catherine Porter</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 20:15:41 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:06:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
@@ -78,6 +78,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincenzo Livieri/Reuters</media:credit>
       <media:description>Pope Leo XIV leaving Gemelli Hospital in Rome on Saturday. </media:description>
+    </item>
+    <item>
+      <title>17 Dead, Dozens Injured After Stampede at Indian Religious Event</title>
+      <link>https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html" rel="standout"></atom:link>
+      <description>Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved.</description>
+      <dc:creator>Pranav Baskar</dc:creator>
+      <pubDate>Sat, 17 Oct 2026 21:39:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kolkata (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bengal (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-stampede-qcjh/17int-india-stampede-qcjh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>An ambulance carrying victims after a stampede during a Hindu religious even in Kolkata, India, on Friday.</media:description>
     </item>
     <item>
       <title>Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings</title>
@@ -267,46 +285,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yonhap News Agency, via Reuters</media:credit>
       <media:description>The shark that has been stuck in a canal in Busan, South Korea, since September.</media:description>
-    </item>
-    <item>
-      <title>Why Are There Protests in France?</title>
-      <link>https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html" rel="standout"></atom:link>
-      <description>Student demonstrations converged on Saturday with a broader protest movement against rising living costs, heightening a national reckoning.</description>
-      <dc:creator>Lynsey Chutel, Zane Irwin and Catherine Porter</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 18:56:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Denis (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-wlpk/03int-france-schools-wtk-wlpk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Abdul Saboor/Reuters</media:credit>
-      <media:description>Clashes between demonstrators and the police in Paris during nationwide protests on Saturday.</media:description>
-    </item>
-    <item>
-      <title>17 Dead, Dozens Injured After Stampede at Indian Religious Event</title>
-      <link>https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html" rel="standout"></atom:link>
-      <description>It was not clear what had caused the stampede, which are relatively common in India. Police detained the event’s organizers and the on-duty police officers.</description>
-      <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 21:15:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kolkata (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bengal (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-stampede-qcjh/17int-india-stampede-qcjh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>An ambulance carrying victims after a stampede during a Hindu religious even in Kolkata, India, on Friday.</media:description>
     </item>
     <item>
       <title>U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe</title>
