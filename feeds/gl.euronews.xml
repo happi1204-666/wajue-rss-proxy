@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Sat, 17 Oct 2026 20:52:59 +0200</lastBuildDate>
-  <pubDate>Sat, 17 Oct 2026 20:52:59 +0200</pubDate>
+  <lastBuildDate>Sat, 17 Oct 2026 23:01:57 +0200</lastBuildDate>
+  <pubDate>Sat, 17 Oct 2026 23:01:57 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,20 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Historic Limoges town hall engulfed in flames amid protests in France</title>
+   <link>https://www.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france</link>
+   <guid>https://www.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france</guid>
+   <pubDate>Sat, 17 Oct 2026 22:55:12 +0200</pubDate>
+   <description>Limoges town hall, a 143-year-old building in central France, was set on fire amid unrest following nationwide protests over the cost of living.</description>
+  </item>
+  <item>
+   <title>'No room for violence,' says Macron after rioters and looters hijack peaceful demonstrations across France</title>
+   <link>https://www.euronews.com/2026/10/17/no-room-for-violence-says-macron-after-rioters-and-looters-hijack-peaceful-demonstrations-</link>
+   <guid>https://www.euronews.com/2026/10/17/no-room-for-violence-says-macron-after-rioters-and-looters-hijack-peaceful-demonstrations-</guid>
+   <pubDate>Sat, 17 Oct 2026 21:59:57 +0200</pubDate>
+   <description>Macron pledged to capture all those who incited chaos and hold them to account for the crimes they’ve committed. Prime Minister Lecornu meanwhile stressed that limited public funds cannot endlessly go towards funding the damage the vandals cause.</description>
+  </item>
   <item>
    <title>Romanian F-16s shoot down two drones over Black Sea, authorities say</title>
    <link>https://www.euronews.com/2026/10/17/romanian-f-16s-shoot-down-two-drones-over-black-sea-authorities-say</link>
@@ -350,20 +364,6 @@
    <guid>https://www.euronews.com/2026/10/16/this-19th-century-portuguese-farmhouse-in-the-algarve-is-being-transformed-into-a-wellness</guid>
    <pubDate>Fri, 16 Oct 2026 15:10:46 +0200</pubDate>
    <description>Shanti-Som Algarve will offer six different programmes focusing on things like detoxing, relaxation, and burnout recovery.</description>
-  </item>
-  <item>
-   <title>From Samarkand to Paris: Preserving Central Asia's scientific heritage</title>
-   <link>https://www.euronews.com/2026/10/16/from-samarkand-to-paris-preserving-central-asias-scientific-heritage</link>
-   <guid>https://www.euronews.com/2026/10/16/from-samarkand-to-paris-preserving-central-asias-scientific-heritage</guid>
-   <pubDate>Fri, 16 Oct 2026 15:00:40 +0200</pubDate>
-   <description>From the scholars of the Silk Roads to new research institutions in Tashkent, Uzbekistan is seeking to make its historical legacy more accessible. Experts meeting at UNESCO headquarters in Paris examined its contribution to world civilisation and the value of shared cultural knowledge.</description>
-  </item>
-  <item>
-   <title>Inside Qatar’s Geekend where gamers, cosplayers and artists share their love of games, comics and anime</title>
-   <link>https://www.euronews.com/2026/10/16/inside-qatars-geekend-where-gamers-cosplayers-and-artists-share-their-love-of-games-comics</link>
-   <guid>https://www.euronews.com/2026/10/16/inside-qatars-geekend-where-gamers-cosplayers-and-artists-share-their-love-of-games-comics</guid>
-   <pubDate>Fri, 16 Oct 2026 15:00:19 +0200</pubDate>
-   <description>From anime costumes to locally designed board games, Geekend brings Qatar’s pop-culture fans together, with artists selling their work and gamers meeting face to face.</description>
   </item>
  </channel>
 </rss>

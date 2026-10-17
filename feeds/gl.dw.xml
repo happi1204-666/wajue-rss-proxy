@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-17T18:59:48Z</dc:date>
+  <dc:date>2026-10-17T21:34:42Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf"/>
@@ -19,9 +20,9 @@
     <rdf:li rdf:resource="https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf"/>
@@ -157,6 +157,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf">
+  <title>Ilhan Omar: The US Democrat targeted by Donald Trump</title>
+  <link>https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf</link>
+  <description>Donald Trump has described her as &quot;garbage&quot; and a &quot;criminal&quot; who does nothing but &quot;bitch.&quot; Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president. But why her?</description>
+  <dc:date>2026-10-17T19:17:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79688445</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf">
   <title>Romanian fighter jets shoot down 2 drones over Black Sea</title>
   <link>https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf</link>
@@ -229,10 +238,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79686703</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Merz faces conservative youth wing in Bonn</title>
-  <link>https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf</link>
-  <description>Friedrich Merz, who has struggled for support within his party, on Saturday meets with the CDU/CSU&apos;s 90,000-strong Young Union. In Schleswig-Holstein, 3,000 people are expected at an AfD youth rally. DW has more.</description>
+ <item rdf:about="https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Berlin&apos;s leftist parties move step closer to forming government</title>
+  <link>https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf</link>
+  <description>Berlin&apos;s left-leaning parties have successfully concluded exploratory talks, and formal coalition negotiations could begin next month if party members approve. Follow DW for more.</description>
   <dc:date>2026-10-17T10:34:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -247,10 +256,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79685975</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf">
-  <title>France: Police and protesters clash in nationwide protests</title>
-  <link>https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf</link>
-  <description>Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Police and protesters have already clashed in Paris and Marseille.</description>
+ <item rdf:about="https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf">
+  <title>France: Protesters clash with police in nationwide protests, amid rising social polarization</title>
+  <link>https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf</link>
+  <description>Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested hundreds amid chaotic scenes in French cities.</description>
   <dc:date>2026-10-17T08:02:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -327,15 +336,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79683716</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf">
-  <title>At summit, EU leaders pledge support for Ukraine&apos;s Zelenskyy</title>
-  <link>https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf</link>
-  <description>President Zelenskyy has received words of encouragement from EU leaders, who pledged support for Ukraine&apos;s self-defense against Russia. This comes as winter approaches and the US seems to be withdrawing support.</description>
-  <dc:date>2026-10-16T17:34:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79678808</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-rdf">
   <title>The Bundestag has debated the genocide Germany carried out in Namibia a century ago. But will it spur progress on addressing colonial crimes?</title>
