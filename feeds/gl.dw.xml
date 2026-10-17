@@ -7,10 +7,15 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-17T05:52:21Z</dc:date>
+  <dc:date>2026-10-17T10:08:24Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-cockroach-party-founder-abhijeet-dipke-under-preventive-arrest/live-79685143?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf"/>
@@ -26,11 +31,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/german-lawmakers-back-monthly-state-pension-contributions-for-children-with-families-able-to-add-more/live-79678671?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/formula-one-in-rwanda-sportswashing-claims-vs-hopes-for-african-legacy/a-79650744?maca=en-rss-en-all-1573-rdf"/>
@@ -156,6 +157,51 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf">
+  <title>Mexico sentences killers of US, Australian surfers to 158 years each in prison</title>
+  <link>https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf</link>
+  <description>Three Mexican men were found guilty last week of murdering foreign surfers in 2024. The case had drawn global condemnation, particularly in Australia, where two of the victims were from.</description>
+  <dc:date>2026-10-17T08:19:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79685975</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf">
+  <title>France braces for nationwide protests</title>
+  <link>https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf</link>
+  <description>Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Authorities say they fear the rallies could turn violent.</description>
+  <dc:date>2026-10-17T08:02:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79685584</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-cockroach-party-founder-abhijeet-dipke-under-preventive-arrest/live-79685143?maca=en-rss-en-all-1573-rdf">
+  <title>India news: &apos;Cockroach&apos; party founder Abhijeet Dipke under preventive arrest</title>
+  <link>https://www.dw.com/en/india-news-cockroach-party-founder-abhijeet-dipke-under-preventive-arrest/live-79685143?maca=en-rss-en-all-1573-rdf</link>
+  <description>CJP&apos;s Abhijeet Dipke is due to appear before a Special Executive Magistrate later in the day. Dipke was detained ahead of a demonstration in New Delhi on Friday. DW has more.</description>
+  <dc:date>2026-10-17T06:21:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79685143</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-rdf">
+  <title>US: California wildfires destroy homes, leave thousands without power</title>
+  <link>https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-rdf</link>
+  <description>Multiple mansions have been engulfed in the fires raging in California while firefighters continue to douse the blaze. Thousands of people have been evacuated and many others are without power.</description>
+  <dc:date>2026-10-17T06:08:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79685480</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf">
+  <title>Oregon school shooting: Police praise &apos;heroism&apos; of those who intervened to stop more killing</title>
+  <link>https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf</link>
+  <description>US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.</description>
+  <dc:date>2026-10-17T06:04:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79685302</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf">
   <title>Trump puts new Russia sanctions on hold</title>
   <link>https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf</link>
@@ -291,33 +337,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79673456</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-all-1573-rdf">
-  <title>India&apos;s young workers have a new colleague: AI</title>
-  <link>https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-all-1573-rdf</link>
-  <description>Artificial intelligence is changing the way Indian workplaces operate — raising questions about productivity, skills and entry-level jobs.</description>
-  <dc:date>2026-10-16T11:22:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79678342</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/german-lawmakers-back-monthly-state-pension-contributions-for-children-with-families-able-to-add-more/live-79678671?maca=en-rss-en-all-1573-rdf">
-  <title>German lawmakers back monthly state pension contributions for children, with families able to add more.</title>
-  <link>https://www.dw.com/en/german-lawmakers-back-monthly-state-pension-contributions-for-children-with-families-able-to-add-more/live-79678671?maca=en-rss-en-all-1573-rdf</link>
-  <description>Germany&apos;s parliament has backed a plan to help children save for retirement from the age of 6. Meanwhile, Jewish students report death threats after they confronted a far-right lawmaker.</description>
-  <dc:date>2026-10-16T11:11:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79678671</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf">
-  <title>How prepared is Kenya for an Ebola outbreak?</title>
-  <link>https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf</link>
-  <description>The first two confirmed Ebola cases in Kenya have raised urgent questions about the country&apos;s public health preparedness and border controls. But the Health Ministry says there is no need for panic.</description>
-  <dc:date>2026-10-16T10:41:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79668144</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-rdf">
   <title>Italy cuts air traffic in half amid data transmission issue</title>
   <link>https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-rdf</link>
@@ -326,15 +345,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79678133</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-rdf">
-  <title>Clashes erupt at Argentine student protests against President Milei&apos;s austerity policies</title>
-  <link>https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-rdf</link>
-  <description>Demonstrators clashed with police as President Javier Milei&apos;s decision not to release funding for universities brought students and employees to the streets. Protesters say the country&apos;s future is at stake.</description>
-  <dc:date>2026-10-16T09:26:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79676861</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf">
   <title>Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter</title>
