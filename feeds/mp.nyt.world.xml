@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 10:04:50 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Oct 2026 10:03:58 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:45:55 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 13:42:33 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html" rel="standout"></atom:link>
       <description>Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.</description>
       <dc:creator>Catherine Porter</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 08:09:06 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 12:23:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seine-Saint-Denis (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Denis (France)</category>
@@ -35,13 +35,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
     </item>
     <item>
-      <title>Vatican Says Pope Leo Will Leave Hospital on Saturday, Days After Lung Surgery</title>
+      <title>Pope Leo Leaves Hospital, Days After Lung Surgery</title>
       <link>https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html" rel="standout"></atom:link>
       <description>Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.</description>
       <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 10:03:58 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 13:42:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemelli Hospital (Rome, Italy)</category>
@@ -60,7 +60,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html" rel="standout"></atom:link>
       <description>Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea.</description>
       <dc:creator>Jin Yu Young</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 02:44:10 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 12:55:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
@@ -75,13 +75,13 @@
       <media:description>The shark that has been stuck in a canal in Busan, South Korea, since September.</media:description>
     </item>
     <item>
-      <title>Why Are France’s Students Protesting?</title>
+      <title>Why Are There Protests in France?</title>
       <link>https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html" rel="standout"></atom:link>
-      <description>Student demonstrations for a better-funded education system are converging with a broader protest movement against rising living costs.</description>
-      <dc:creator>Lynsey Chutel and Zane Irwin</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 08:09:16 +0000</pubDate>
+      <description>Student demonstrations converged on Saturday with a broader protest movement against rising living costs, heightening a national reckoning.</description>
+      <dc:creator>Lynsey Chutel, Zane Irwin and Catherine Porter</dc:creator>
+      <pubDate>Sat, 17 Oct 2026 13:13:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
@@ -92,9 +92,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Denis (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-france-schools-wtk-02-lqbw/13int-france-schools-wtk-02-lqbw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Abdul Saboor/Reuters</media:credit>
-      <media:description>French officials expected marches or rallies in more than 300 locations on Saturday. Above, officers squared off with protesters on Tuesday near the Lycée Hélène Boucher, a high school in Paris.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-fvjg/03int-france-schools-wtk-fvjg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Thibaud Moritz/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Riot police detaining a protester during clashes before a demonstration in Marseille, France, on Saturday.</media:description>
     </item>
     <item>
       <title>Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor</title>
@@ -103,7 +103,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html" rel="standout"></atom:link>
       <description>By announcing his lung condition himself, Leo has been more forthcoming than many popes. But mysteries remain, prompting scrutiny of papal statements for hidden meaning.</description>
       <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 08:18:15 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 13:42:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parolin, Pietro</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prevost, Louis (1951- )</category>
@@ -125,7 +125,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html" rel="standout"></atom:link>
       <description>Toru Utsumi, 60, works as a management consultant, but on his days off, he has become a global internet star — despite some local disapproval.</description>
       <dc:creator>Javier C. Hernández and Hisako Ueno</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 04:01:11 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 13:00:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
@@ -292,13 +292,13 @@
       <media:description>Visitors to a former safe house used by an armed gang in Cota 905, a neighborhood in Caracas.</media:description>
     </item>
     <item>
-      <title>A Calgary Crowd Rallies for Canada as Alberta’s Vote on Succession Nears</title>
+      <title>A Calgary Crowd Rallies for Canada as Alberta’s Vote on Secession Nears</title>
       <link>https://www.nytimes.com/2026/10/17/world/canada/alberta-referendum-separation-smith.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/canada/alberta-referendum-separation-smith.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/17/world/canada/alberta-referendum-separation-smith.html" rel="standout"></atom:link>
       <description>Prime Minister Mark Carney was among the speakers calling for a united Canada and warning about the dangers of division.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 10:00:07 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 12:14:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
@@ -334,7 +334,7 @@
       <atom:link href="https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html" rel="standout"></atom:link>
       <description>Toru Utsumi has won more than a million fans on TikTok and Instagram with short, fancy-free videos.</description>
       <dc:creator>Jiwoong Hong and Louise Delmotte</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 04:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 13:37:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
