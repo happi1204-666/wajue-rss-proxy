@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Sun, 18 Oct 2026 20:10:10 +0200</lastBuildDate>
-  <pubDate>Sun, 18 Oct 2026 20:10:10 +0200</pubDate>
+  <lastBuildDate>Sun, 18 Oct 2026 21:21:20 +0200</lastBuildDate>
+  <pubDate>Sun, 18 Oct 2026 21:21:20 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Macron vows to hold those who sought to “bring down the Republic” accountable after riots</title>
+   <link>https://www.euronews.com/2026/10/18/macron-vows-to-hold-those-who-sought-to-bring-down-the-republic-accountable-after-riots</link>
+   <guid>https://www.euronews.com/2026/10/18/macron-vows-to-hold-those-who-sought-to-bring-down-the-republic-accountable-after-riots</guid>
+   <pubDate>Sun, 18 Oct 2026 21:03:49 +0200</pubDate>
+   <description>Macron vowed to hold rioters accountable after violent scenes of looting and rioting across France, with unrest deepening political tensions ahead of next year’s presidential election.</description>
+  </item>
   <item>
    <title>Tensions remain high in Paris after violent protests across France</title>
    <link>https://www.euronews.com/video/2026/10/18/tensions-remain-high-in-paris-after-violent-protests-across-france</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package</guid>
    <pubDate>Sat, 17 Oct 2026 08:37:32 +0200</pubDate>
    <description>Russian presidential envoy Kirill Dmitriev has called the decision to put the sanctions on hold a &quot;significant and truly historic moment.&quot;</description>
-  </item>
-  <item>
-   <title>Video shows Norwegian teenager arrested over UK contract killing plot</title>
-   <link>https://www.euronews.com/video/2026/10/17/video-shows-norwegian-teenager-arrested-over-uk-contract-killing-plot</link>
-   <guid>https://www.euronews.com/video/2026/10/17/video-shows-norwegian-teenager-arrested-over-uk-contract-killing-plot</guid>
-   <pubDate>Sat, 17 Oct 2026 08:33:36 +0200</pubDate>
-   <description>A Norwegian teenager who travelled to the UK to carry out a gangland killing has been sentenced to 20 years in detention.</description>
   </item>
  </channel>
 </rss>
