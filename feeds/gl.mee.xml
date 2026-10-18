@@ -1691,7 +1691,7 @@ Many in the country oppose abortion. &amp;nbsp;Father Tony Khoury, founder of th
 &lt;/span&gt;
             &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
                   &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/main-images/000_1819OZ.jpg.webp?itok=ETdS-qMF 1x" type="image/webp" width="768" height="490"&gt;
-                  &lt;img loading="lazy" srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/main-images/000_1819OZ.jpg.webp?itok=ETdS-qMF 1x" width="768" height="490" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/main-images/000_1819OZ.jpg.jpg?itok=ETdS-qMF" alt typeof="foaf:Image"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/main-images/000_1819OZ.jpg.webp?itok=ETdS-qMF 1x" width="768" height="490" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/main-images/000_1819OZ.jpg.jpg?itok=ETdS-qMF" alt typeof="foaf:Image" fetchpriority="high"&gt;
 
   &lt;/picture&gt;
 

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 23:42:38 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Oct 2026 22:15:45 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 02:58:02 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 02:57:39 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html" rel="standout"></atom:link>
       <description>Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest.</description>
       <dc:creator>Aaron Boxerman and Adam Rasgon</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 22:15:45 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 02:32:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
@@ -86,7 +86,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html" rel="standout"></atom:link>
       <description>Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved.</description>
       <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 21:39:47 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 21:39:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kolkata (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -95,7 +95,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-stampede-qcjh/17int-india-stampede-qcjh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>An ambulance carrying victims after a stampede during a Hindu religious even in Kolkata, India, on Friday.</media:description>
+      <media:description>An ambulance carrying victims after a stampede during a Hindu religious event in Kolkata, India, on Friday.</media:description>
     </item>
     <item>
       <title>Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings</title>
@@ -272,7 +272,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html" rel="standout"></atom:link>
       <description>Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea.</description>
       <dc:creator>Jin Yu Young</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 12:55:52 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 12:55:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
@@ -285,6 +285,25 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yonhap News Agency, via Reuters</media:credit>
       <media:description>The shark that has been stuck in a canal in Busan, South Korea, since September.</media:description>
+    </item>
+    <item>
+      <title>Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire</title>
+      <link>https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html" rel="standout"></atom:link>
+      <description>The defense minister said people were killed and injured at the base in Alberta, but officials did not offer details on the cause.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sun, 18 Oct 2026 02:43:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Armed Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">David McGuinty</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-vzpm/18int-canada-alberta-fire-vzpm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jennifer Gauthier/Reuters</media:credit>
+      <media:description>Prime Minister Mark Carney of Canada in Alberta on Friday.</media:description>
     </item>
     <item>
       <title>U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe</title>
@@ -382,7 +401,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html" rel="standout"></atom:link>
       <description>By announcing his lung condition himself, Leo has been more forthcoming than many popes. But mysteries remain, prompting scrutiny of papal statements for hidden meaning.</description>
       <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 16:52:47 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 16:52:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
@@ -397,7 +416,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html" rel="standout"></atom:link>
       <description>Toru Utsumi, 60, works as a management consultant, but on his days off, he has become a global internet star — despite some local disapproval.</description>
       <dc:creator>Javier C. Hernández and Hisako Ueno</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 13:00:51 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 13:00:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
@@ -1032,31 +1051,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-pakistan-collapse-01-hkfj/15int-pakistan-collapse-01-hkfj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Abdul Majeed/Agence France-Presse — Getty Images</media:credit>
       <media:description>A rescue worker carried a child from a school in Peshawar, Pakistan, on Thursday, after the roof of the building collapsed.</media:description>
-    </item>
-    <item>
-      <title>North Korea and China Open Their Biggest Border Bridge</title>
-      <link>https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html" rel="standout"></atom:link>
-      <description>The long-delayed opening of the New Yalu River Bridge comes as the two countries expand trade despite international sanctions imposed on North Korea.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 08:49:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dandong (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-nkorea-china-bridge-cglj/15int-nkorea-china-bridge-cglj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Iori Sagisawa/Kyodo News, via Associated Press</media:credit>
-      <media:description>The New Yalu River Bridge seen from Dandong, China, on Thursday, the day it opened.</media:description>
     </item>
   </channel>
 </rss>
