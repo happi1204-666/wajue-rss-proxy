@@ -7,13 +7,77 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 02:58:02 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 02:57:39 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 08:09:40 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 08:04:51 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire</title>
+      <link>https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html" rel="standout"></atom:link>
+      <description>The defense minister said people were killed and injured at the base in Alberta, but officials did not offer details on the cause.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sun, 18 Oct 2026 07:46:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Armed Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">David McGuinty</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-chfb/18int-canada-alberta-fire-chfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>John Ulan/The Canadian Press, via Associated Press</media:credit>
+      <media:description>Emergency crew and military personnel at a health center after a “serious incident” at a military base in the town of Wainwright, in Alberta, Canada, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Singing, Dancing and Getting Dumped by A.I. on Korean TV</title>
+      <link>https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html" rel="standout"></atom:link>
+      <description>Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular.</description>
+      <dc:creator>Jin Yu Young</dc:creator>
+      <pubDate>Sun, 18 Oct 2026 04:24:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reality Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emotions</category>
+    </item>
+    <item>
+      <title>In India, the Scion of a Political Dynasty Tries to Seize His Moment</title>
+      <link>https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html" rel="standout"></atom:link>
+      <description>Rahul Gandhi is the descendant of three prime ministers. A surge of protests could give him a springboard to take on the nation’s current leader.</description>
+      <dc:creator>Anupreeta Das and Hari Kumar</dc:creator>
+      <pubDate>Sun, 18 Oct 2026 08:04:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Election Commission of India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Indira</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rahul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rajiv</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Sonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nehru, Jawaharlal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/xxint-india-gandhi-01-mhvf/xxint-india-gandhi-01-mhvf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anindito Mukherjee for The New York Times</media:credit>
+      <media:description>Rahul Gandhi, leader of the Indian National Congress, attending a student rally in Chennai last weekend.</media:description>
+    </item>
     <item>
       <title>Israeli Settlers Attack Palestinians and European Officials in West Bank</title>
       <link>https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html</link>
@@ -21,7 +85,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html" rel="standout"></atom:link>
       <description>Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest.</description>
       <dc:creator>Aaron Boxerman and Adam Rasgon</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 02:32:51 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 07:36:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
@@ -47,7 +111,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html" rel="standout"></atom:link>
       <description>Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions.</description>
       <dc:creator>Catherine Porter</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 22:06:44 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 06:59:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
@@ -238,74 +302,6 @@
       <media:description>President Abdel Fattah el-Sisi of Egypt in Sharm El-Sheikh, Egypt, last year. His earlier promises to respect presidential term limits that were then changed have raised questions about whether he will honor his latest pledge.</media:description>
     </item>
     <item>
-      <title>Trump Signs Order Waiving New Russia Sanctions</title>
-      <link>https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html" rel="standout"></atom:link>
-      <description>The sanctions were part of a measure that was named after Senator Lindsey Graham, the South Carolina Republican who died in July.</description>
-      <dc:creator>Alan Rappeport</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 13:30:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/08/16/multimedia/16dc-russia-sanctions/16dc-russia-sanctions-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump and President Vladimir V. Putin of Russia last year in Alaska.</media:description>
-    </item>
-    <item>
-      <title>A Wayward Shark Becomes a Celebrity in South Korea</title>
-      <link>https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html" rel="standout"></atom:link>
-      <description>Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea.</description>
-      <dc:creator>Jin Yu Young</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 12:55:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Migration</category>
-      <category domain="">Bukangi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Yonhap News Agency, via Reuters</media:credit>
-      <media:description>The shark that has been stuck in a canal in Busan, South Korea, since September.</media:description>
-    </item>
-    <item>
-      <title>Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire</title>
-      <link>https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html" rel="standout"></atom:link>
-      <description>The defense minister said people were killed and injured at the base in Alberta, but officials did not offer details on the cause.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 02:43:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Armed Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">David McGuinty</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-vzpm/18int-canada-alberta-fire-vzpm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jennifer Gauthier/Reuters</media:credit>
-      <media:description>Prime Minister Mark Carney of Canada in Alberta on Friday.</media:description>
-    </item>
-    <item>
       <title>U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe</title>
       <link>https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html</guid>
@@ -441,6 +437,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-japan-salaryman-01-fgqk/17int-japan-salaryman-01-fgqk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Louise Delmotte for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A Wayward Shark Becomes a Celebrity in South Korea</title>
+      <link>https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html" rel="standout"></atom:link>
+      <description>Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea.</description>
+      <dc:creator>Jin Yu Young</dc:creator>
+      <pubDate>Sat, 17 Oct 2026 12:55:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Migration</category>
+      <category domain="">Bukangi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yonhap News Agency, via Reuters</media:credit>
+      <media:description>The shark that has been stuck in a canal in Busan, South Korea, since September.</media:description>
     </item>
     <item>
       <title>The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’</title>
@@ -1031,26 +1048,6 @@
       <media:content height="1749" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg" width="1749"></media:content>
       <media:credit>Pool photo by Henry Nicholls</media:credit>
       <media:description>President Volodymyr Zelensky of Ukraine in London on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>32 Children Killed After School Roof Collapses in Pakistan</title>
-      <link>https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html" rel="standout"></atom:link>
-      <description>The collapse, in Peshawar, also killed a teacher and injured dozens of people. A local official said the building appeared to be dilapidated.</description>
-      <dc:creator>Salman Masood</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 15:04:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peshawar (Pakistan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-pakistan-collapse-01-hkfj/15int-pakistan-collapse-01-hkfj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Abdul Majeed/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A rescue worker carried a child from a school in Peshawar, Pakistan, on Thursday, after the roof of the building collapsed.</media:description>
     </item>
   </channel>
 </rss>

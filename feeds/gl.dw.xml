@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-18T02:59:37Z</dc:date>
+  <dc:date>2026-10-18T08:12:59Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf"/>
@@ -20,9 +23,8 @@
     <rdf:li rdf:resource="https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf"/>
@@ -79,7 +80,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"/>
@@ -156,6 +156,33 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf">
+  <title>Populist Czech PM Babis goes empty-handed in Senate elections</title>
+  <link>https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf</link>
+  <description>Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis&apos; and his governing coalition.</description>
+  <dc:date>2026-10-18T07:03:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79690934</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf">
+  <title>India: CJP leader Abhijeet Dipke released after detention</title>
+  <link>https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf</link>
+  <description>Two other prominent CJP leaders are set to be released on Sunday. India has seen huge rallies calling on the country&apos;s top election official to step down over alleged manipulation of voter rolls.</description>
+  <dc:date>2026-10-18T06:29:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79690933</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Kolkata stampede dampens Durga Puja festivities</title>
+  <link>https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-rdf</link>
+  <description>Authorities have detained several people over a deadly stampede in India&apos;s eastern city of Kolkata, after the state vowed strict action. Meanwhile, &apos;Cockroach&apos; leader Dipke is out of detention. DW has more.</description>
+  <dc:date>2026-10-18T04:45:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79685143</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf">
   <title>Canada: Major fire reported at military base in Alberta</title>
   <link>https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf</link>
@@ -237,15 +264,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79688162</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-rdf">
-  <title>India news: CJP founder released a day after detention</title>
-  <link>https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-rdf</link>
-  <description>India&apos;s &quot;Cockroach&quot; movement founder, Abhijeet Dipke, was released after agreeing to certain conditions, according to the CJP&apos;s head of legal affairs.</description>
-  <dc:date>2026-10-17T13:00:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79685143</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf">
   <title>Russia wants blackout in Ukraine as winter comes — Zelenskyy</title>
   <link>https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf</link>
@@ -255,10 +273,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79686703</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Berlin&apos;s leftist parties move step closer to forming government</title>
-  <link>https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf</link>
-  <description>Berlin&apos;s left-leaning parties have successfully concluded exploratory talks, and formal coalition negotiations could begin next month if party members approve. Follow DW for more.</description>
+ <item rdf:about="https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Police probe security incident at Leipzig/Halle airport</title>
+  <link>https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-rdf</link>
+  <description>A fence breach at the Leipzig/Halle airport has triggered a major police operation. Christian Social Union leader Markus Söder is to address a gathering of the conservative youth wing. Follow DW for more.</description>
   <dc:date>2026-10-17T10:34:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -326,15 +344,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79684340</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-rdf">
-  <title>West Bank: US journalist injured by Israeli settlers</title>
-  <link>https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-rdf</link>
-  <description>Washington Post journalist Heidi Levine said she was beaten by Israeli settlers in the occupied West Bank. Reporters Without Borders slammed the attack as &quot;brazen violence.&quot;</description>
-  <dc:date>2026-10-16T19:32:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79684181</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-rdf">
   <title>Hijab ban at schools in Azerbaijan: What&apos;s behind the rare wave of protests?</title>
@@ -767,15 +776,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79553793</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-rdf">
-  <title>Schools crisis in France: Investment fails to inspire confidence</title>
-  <link>https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-rdf</link>
-  <description>For weeks, schoolchildren in France have been protesting the failing education system. Compared to many other countries, France invests heavily in education but critics say that the funds are not distributed fairly.</description>
-  <dc:date>2026-10-09T19:52:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79621916</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf">
   <title>Author or artificial intelligence? Literature in crisis</title>
