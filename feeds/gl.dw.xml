@@ -7,10 +7,14 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-18T12:42:03Z</dc:date>
+  <dc:date>2026-10-18T16:20:21Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf"/>
@@ -27,9 +31,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-rdf"/>
@@ -75,8 +77,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/georgia-s-surrogacy-industry-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf"/>
@@ -156,6 +156,42 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-rdf">
+  <title>Meloni backs police after cost-of-living protests turn violent in Italian cities</title>
+  <link>https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-rdf</link>
+  <description>Anger over living costs and low wages has brought Italians onto the streets. A major union has called a general strike for November 20.</description>
+  <dc:date>2026-10-18T16:02:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79692755</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.</title>
+  <link>https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf</link>
+  <description>Debris has damaged a moving car in Lithuania, where NATO jets were scrambled. Kyiv says Russian jamming may have diverted drones targeting Russia.</description>
+  <dc:date>2026-10-18T14:20:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79692905</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-rdf">
+  <title>Pope appears in public for first time since surgery</title>
+  <link>https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-rdf</link>
+  <description>After undergoing a lung operation, the pope said he will resume his duties gradually. There is no &quot;clinical reason&quot; for his South America trip not to go ahead, his surgeon said.</description>
+  <dc:date>2026-10-18T14:14:00Z</dc:date>
+  <dc:subject>NRS-Import</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79692583</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf">
+  <title>France: Young voters blase about Glucksmann&apos;s Socialists</title>
+  <link>https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf</link>
+  <description>Raphael Glucksmann wants to lead France&apos;s Socialists to power without working with the left-populist Jean-Luc Melenchon, who is particularly popular with young voters. How can the center-left candidate win them over?</description>
+  <dc:date>2026-10-18T13:31:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79684159</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf">
   <title>Is Germany&apos;s eight-hour workday under threat?</title>
   <link>https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf</link>
@@ -195,7 +231,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Police probe security incident at Leipzig/Halle airport</title>
   <link>https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-rdf</link>
-  <description>A fence breach at the Leipzig/Halle airport has triggered a major police operation. Christian Social Union leader Markus Söder is to address a gathering of the conservative youth wing. Follow DW for more.</description>
+  <description>A fence breach at the Leipzig/Halle airport has triggered a major police operation. And, Christian Social Union leader Markus Söder calls for a &quot;firewall&quot; against leftists at a conservative youth conference. Follow DW.</description>
   <dc:date>2026-10-18T08:12:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -300,15 +336,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79484755</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf">
-  <title>Pope Leo leaves hospital after cancer surgery</title>
-  <link>https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf</link>
-  <description>Four days after undergoing surgery for lung cancer, Pope Leo left the hospital in Rome. His doctors said he was well enough to return home.</description>
-  <dc:date>2026-10-17T13:59:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79688162</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf">
   <title>Russia wants blackout in Ukraine as winter comes — Zelenskyy</title>
   <link>https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf</link>
@@ -317,15 +344,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79686703</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf">
-  <title>Mexico sentences killers of US, Australian surfers to 158 years each in prison</title>
-  <link>https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf</link>
-  <description>Three Mexican men were found guilty last week of murdering foreign surfers in 2024. The case had drawn global condemnation, particularly in Australia, where two of the victims were from.</description>
-  <dc:date>2026-10-17T08:19:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79685975</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf">
   <title>France: Protesters clash with police in nationwide protests, amid rising social polarization</title>
@@ -731,24 +749,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79615817</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-rdf">
-  <title>Trump claims Russia and Ukraine agreed to &apos;energy ceasefire&apos;</title>
-  <link>https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-rdf</link>
-  <description>US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately.</description>
-  <dc:date>2026-10-11T14:47:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79634509</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/georgia-s-surrogacy-industry-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-all-1573-rdf">
-  <title>Georgia&apos;s surrogacy industry is booming, but at what cost?</title>
-  <link>https://www.dw.com/en/georgia-s-surrogacy-industry-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-all-1573-rdf</link>
-  <description>Georgia became a hub for surrogate pregnancies after Russia&apos;s full-scale invasion of Ukraine in 2022. DW spoke with parents, and those who wanted to become parents, about the hidden costs of a booming industry.</description>
-  <dc:date>2026-10-11T07:45:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79629971</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf">
   <title>Germany&apos;s population is shrinking, but not everywhere</title>

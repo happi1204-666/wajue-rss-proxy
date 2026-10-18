@@ -7,21 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 12:38:01 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 12:06:14 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:19:27 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 16:13:42 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>France in Shock After Protests Devolve Into Riots</title>
+      <title>France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops</title>
       <link>https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html" rel="standout"></atom:link>
-      <description>Centrist and leftist leaders blamed each other after anti-government protests devolved into chaos.</description>
+      <description>After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday.</description>
       <dc:creator>Catherine Porter and Ségolène Le Stradic</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 08:44:26 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:48:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
@@ -30,9 +30,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-shock-tkbl/18int-france-shock-tkbl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Thibaud Moritz/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A street in Marseille, France, on Sunday littered with debris a day after nationwide protests.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-shock-01-qctg/18int-france-shock-01-qctg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Benoit Tessier/Reuters</media:credit>
+      <media:description>A street in Paris, littered on Sunday with debris a day after nationwide protests and riots.</media:description>
     </item>
     <item>
       <title>Pope Leo Addresses the Faithful a Day After Leaving the Hospital</title>
@@ -48,6 +48,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemelli Hospital (Rome, Italy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St. Peters Square</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vatican City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-pope-mqkc/18int-pope-mqkc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alessandra Tarantino/Associated Press</media:credit>
@@ -60,7 +61,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html" rel="standout"></atom:link>
       <description>President Abdel Fattah el-Sisi had called on Egyptian lawmakers to authorize military assistance to the kingdom, saying any support would be defensive.</description>
       <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 11:49:38 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:00:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
@@ -83,26 +84,28 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html" rel="standout"></atom:link>
       <description>The defense minister said people were killed and injured at a base in Alberta, but officials did not offer details on the cause.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 10:56:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <pubDate>Sun, 18 Oct 2026 16:13:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Armed Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGuinty, David</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">David McGuinty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-chfb/18int-canada-alberta-fire-chfb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>John Ulan/The Canadian Press, via Associated Press</media:credit>
       <media:description>Emergency crews and military personnel at a health center after a “serious incident” on Saturday at a military base in Wainwright, Alberta.</media:description>
     </item>
     <item>
-      <title>Ukraine Strikes Russian Oil Terminal, as Starshield Disruptions Persist</title>
+      <title>Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia</title>
       <link>https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html" rel="standout"></atom:link>
-      <description>Ukrainian officials said the Pentagon and SpaceX have not yet responded to inquiries about disruptions to the U.S.-provided satellite internet service used by Ukrainian forces.</description>
+      <description>President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.</description>
       <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 11:01:55 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 14:30:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
@@ -121,9 +124,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Petersburg (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-ukraine-ghpz/18int-ukraine-ghpz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Smoke rising after an attack on an oil terminal in St. Petersburg, Russia, on Sunday.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-ukraine-starshield-01-wlqf/18int-ukraine-starshield-01-wlqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nicolas Tucat/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Volodymyr Zelensky of Ukraine in Brussels on Friday.</media:description>
     </item>
     <item>
       <title>Singing, Dancing and Getting Dumped by A.I. on Korean TV</title>
@@ -149,7 +152,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html" rel="standout"></atom:link>
       <description>Rahul Gandhi is the descendant of three prime ministers. A surge of protests could give him a springboard to take on the nation’s current leader.</description>
       <dc:creator>Anupreeta Das and Hari Kumar</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 08:04:52 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:10:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -275,15 +278,15 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html" rel="standout"></atom:link>
       <description>Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions.</description>
       <dc:creator>Catherine Porter</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 06:59:38 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 16:08:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-france-unrest-khmb/17int-france-unrest-khmb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jeff Pachoud/Agence France-Presse — Getty Images</media:credit>
       <media:description>A tourist office in Lyon, France, that was set on fire during unrest on Saturday. Many rallies stayed peaceful as weeks of student-led protests evolved into a national display of discontent.</media:description>
@@ -430,14 +433,13 @@
       <atom:link href="https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html" rel="standout"></atom:link>
       <description>Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.</description>
       <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 16:17:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 16:11:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemelli Hospital (Rome, Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lungs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincenzo Livieri/Reuters</media:credit>
       <media:description>Pope Leo XIV leaving Gemelli Hospital in Rome on Saturday. </media:description>
@@ -516,15 +518,10 @@
       <description>Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea.</description>
       <dc:creator>Jin Yu Young</dc:creator>
       <pubDate>Sat, 17 Oct 2026 12:55:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sharks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Migration</category>
       <category domain="">Bukangi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yonhap News Agency, via Reuters</media:credit>
       <media:description>The shark that has been stuck in a canal in Busan, South Korea, since September.</media:description>
@@ -1034,27 +1031,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-ukraine-assess-01-fglq/15int-ukraine-assess-01-fglq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Genya Savilov/Agence France-Presse — Getty Images</media:credit>
       <media:description>Firefighters at the site of a strike on an apartment building in Kyiv on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Meet Neha Bora, Activist and Face of India’s Young Protesters</title>
-      <link>https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html" rel="standout"></atom:link>
-      <description>When police cracked down, Neha Bora helped rally Gen Z protesters with a mix of boundless energy, street theatrics and satirical humor.</description>
-      <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 02:53:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunger Strikes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wangchuk, Sonam (1966- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/00int-india-activist-02-bctw/00int-india-activist-02-bctw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bhawika Chhabra/Reuters</media:credit>
-      <media:description>Neha Bora, president of the All India Students’ Association, in New Delhi in October.</media:description>
     </item>
   </channel>
 </rss>
