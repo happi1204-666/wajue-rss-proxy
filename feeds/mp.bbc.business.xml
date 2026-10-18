@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 08:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 12:42:31 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,20 +39,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba8/live/ea5ead70-c986-11f1-b646-2b044167639a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Banks expect to be hit with higher taxes in Budget]]></title>
-            <description><![CDATA[Senior banking executives have told the BBC they expect to be "on the menu" in the chancellor's Budget tax later this month.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo#0</guid>
-            <pubDate>Fri, 16 Oct 2026 10:16:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da2f/live/cb11db60-c939-11f1-a64c-550be9e3c66b.jpg"/>
+            <title><![CDATA[What is the Budget and what could be in it?]]></title>
+            <description><![CDATA[Chancellor John Healey will set out his plans for UK taxes on 28 October.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#0</guid>
+            <pubDate>Sun, 18 Oct 2026 10:22:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Did Tesla really just unveil a flying car?]]></title>
-            <description><![CDATA[Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o#0</guid>
-            <pubDate>Fri, 16 Oct 2026 12:32:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png"/>
+            <title><![CDATA[Turning the tides: Could hidden sea power energise our coastal towns?]]></title>
+            <description><![CDATA[Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o#0</guid>
+            <pubDate>Sun, 18 Oct 2026 08:12:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb7f/live/223a12e0-c0de-11f1-8cf3-7dbc6a5861dd.jpg"/>
         </item>
         <item>
             <title><![CDATA[Living with a stink? Technology might help]]></title>
@@ -63,10 +63,34 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA['I took a chance on the whisky industry and I haven't looked back']]></title>
+            <description><![CDATA[Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y8ln9831v3o#0</guid>
+            <pubDate>Sun, 18 Oct 2026 08:12:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d037/live/5066d1f0-c884-11f1-a2e8-f71844f8002e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Banks expect to be hit with higher taxes in Budget]]></title>
+            <description><![CDATA[Senior banking executives have told the BBC they expect to be "on the menu" in the chancellor's Budget tax later this month.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo#1</guid>
+            <pubDate>Fri, 16 Oct 2026 10:16:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da2f/live/cb11db60-c939-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Did Tesla really just unveil a flying car?]]></title>
+            <description><![CDATA[Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o#1</guid>
+            <pubDate>Fri, 16 Oct 2026 12:32:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[I find it quite demoralising in store - why I do all my shopping online]]></title>
             <description><![CDATA[After Primark announced plans for home delivery, we hear from women who never go into clothes stores.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c36lk280kd1o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c36lk280kd1o#1</guid>
             <pubDate>Thu, 15 Oct 2026 23:16:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7cc/live/e0cf8ba0-c92f-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
@@ -207,22 +231,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d4/live/9551bda0-c796-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Not building third runway would be 'huge missed opportunity', warns Heathrow boss]]></title>
-            <description><![CDATA[Thomas Woldbye tells the Today progamme it would be "good to know" the government's position on the project, after comments made by the prime minister.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd8egder5ro#1</guid>
-            <pubDate>Wed, 14 Oct 2026 04:59:06 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/645d/live/6faaea30-c74c-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank of America hit with $1.2bn fine for money laundering failings]]></title>
-            <description><![CDATA[The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 02:05:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d37/live/18ad5d80-c797-11f1-b506-c77373b53604.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[As Christmas rush looms, how do China-made toys find their way to the US?]]></title>
             <description><![CDATA[With the festive season on the horizon, we trace toys from factories in China to US shelves.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -319,6 +327,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Gleaning group gives £1m of produce to food banks]]></title>
+            <description><![CDATA[Gleaning Cornwall warns that more funding is needed as costs rise sharply.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo#3</guid>
+            <pubDate>Sun, 18 Oct 2026 11:03:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4085/live/d9042de0-c6eb-11f1-bc1b-8dfa7c975faa.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Heating oil customers face tough winter]]></title>
             <description><![CDATA[The government plans to regulate heating oil prices after increases.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -349,14 +365,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqde8zk6d916o#3</guid>
             <pubDate>Sat, 17 Oct 2026 06:18:16 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c5a/live/ea9edaa0-c94d-11f1-8879-9d9deeb686e1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charity reflects on changing needs over 25 years]]></title>
-            <description><![CDATA[Help a Guernsey Child says it has provided in excess of £1.2m worth of essential support.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c615jnxv7n45o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c615jnxv7n45o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 06:11:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fdf/live/2864c770-c89d-11f1-b0a4-81e564f1cfaa.jpg"/>
         </item>
         <item>
             <title><![CDATA[My hometown shows that high streets have to change or die]]></title>
