@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 21:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 23:28:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Microsoft pulls out of UK's largest AI data centre]]></title>
+            <description><![CDATA[Tech firm Nscale says it is still committed to building the site in Essex.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9m26kl5y7epo#0</guid>
+            <pubDate>Sun, 18 Oct 2026 16:46:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c0/live/18b0c090-cb13-11f1-a9ef-8b4e735f71f0.jpg"/>
+        </item>
         <item>
             <title><![CDATA[There's a crackdown on sports piracy - but is it already out of control?]]></title>
             <description><![CDATA[The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.]]></description>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Turning the tides: Could hidden sea power energise our coastal towns?]]></title>
-            <description><![CDATA[Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o#0</guid>
-            <pubDate>Sun, 18 Oct 2026 08:12:24 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb7f/live/223a12e0-c0de-11f1-8cf3-7dbc6a5861dd.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Living with a stink? Technology might help]]></title>
             <description><![CDATA[Smells from rubbish dumps and industrial facilities are being more carefully monitored.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -63,10 +63,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Turning the tides: Could hidden sea power energise our coastal towns?]]></title>
+            <description><![CDATA[Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o#0</guid>
+            <pubDate>Sun, 18 Oct 2026 08:12:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb7f/live/223a12e0-c0de-11f1-8cf3-7dbc6a5861dd.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['I took a chance on the whisky industry and I haven't looked back']]></title>
             <description><![CDATA[Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y8ln9831v3o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y8ln9831v3o#1</guid>
             <pubDate>Sun, 18 Oct 2026 08:12:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d037/live/5066d1f0-c884-11f1-a2e8-f71844f8002e.jpg"/>
         </item>
@@ -223,14 +231,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hundreds of Royal Mail staff quitting each week under new efficiency plans]]></title>
-            <description><![CDATA[The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 07:18:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d4/live/9551bda0-c796-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[As Christmas rush looms, how do China-made toys find their way to the US?]]></title>
             <description><![CDATA[With the festive season on the horizon, we trace toys from factories in China to US shelves.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -327,6 +327,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Don't fall for this - how to protect yourself from AI scams]]></title>
+            <description><![CDATA[Trading standards officers say AI is "super-charging" existing scams through clones and fake websites.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60rl1xvjv89o#3</guid>
+            <pubDate>Sun, 18 Oct 2026 23:24:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home sellers cut asking prices on 3,000 properties a day]]></title>
+            <description><![CDATA[More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c84g13z6xx4eo#3</guid>
+            <pubDate>Sun, 18 Oct 2026 23:00:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/7786ae90-c712-11f1-9a5a-91141f7a4b0e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gleaning group gives £1m of produce to food banks]]></title>
             <description><![CDATA[Gleaning Cornwall warns that more funding is needed as costs rise sharply.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -349,22 +365,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwz0vy770gpzo#3</guid>
             <pubDate>Sat, 17 Oct 2026 21:33:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Low-cost clinic helps pet owners with vet bills]]></title>
-            <description><![CDATA[RSPCA Medway West launches its clinic for the pets of people with low incomes.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo#3</guid>
-            <pubDate>Sat, 17 Oct 2026 14:12:02 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84fa/live/1e9e0a60-ca34-11f1-9ab2-b325ce61f9d2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Call for more food funding due to high living cost]]></title>
-            <description><![CDATA[Deputy Louise Doublet does not think the cost of living was considered in the ending of a trial.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqde8zk6d916o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqde8zk6d916o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 06:18:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c5a/live/ea9edaa0-c94d-11f1-8879-9d9deeb686e1.jpg"/>
         </item>
         <item>
             <title><![CDATA[My hometown shows that high streets have to change or die]]></title>
