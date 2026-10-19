@@ -7,11 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-19T20:20:31Z</dc:date>
+  <dc:date>2026-10-19T23:51:01Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-rdf"/>
@@ -155,11 +155,11 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
- <item rdf:about="https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf">
-  <title>France: Curfews issued in Paris, Nice after unrest</title>
-  <link>https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf">
+  <title>France: Partial curfews issued in Paris, Nice after unrest</title>
+  <link>https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf</link>
   <description>French authorities imposed curfews in parts of several cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.</description>
-  <dc:date>2026-10-19T19:02:00Z</dc:date>
+  <dc:date>2026-10-19T19:57:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79707186</dwsyn:contentID>
@@ -176,7 +176,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Emergency at Leipzig airport sparked by novice driver</title>
   <link>https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf</link>
-  <description>Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, the &quot;Invest in Germany Summit&quot; is set to kick off as the government looks to fill gaps in public funding. DW has more.</description>
+  <description>Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, German Chancellor Friedrich Merz announced an industrial AI partnership with Nvidia. DW has more.</description>
   <dc:date>2026-10-19T17:26:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>

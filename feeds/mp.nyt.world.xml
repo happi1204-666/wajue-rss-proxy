@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 20:19:24 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Oct 2026 20:14:21 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:49:53 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 23:29:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html" rel="standout"></atom:link>
       <description>The police’s treatment of the student last month sheds light on how a wave of school unrest evolved into national protests that spilled into widespread riots on Saturday.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 17:50:36 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 22:20:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
@@ -78,7 +78,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html" rel="standout"></atom:link>
       <description>Protests by young people in northern cities ended in riots as farmers and truckers in the south, angered by high gas prices, stopped commercial traffic.</description>
       <dc:creator>Josephine de La Bruyère</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 19:51:26 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 21:55:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milan (Italy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -122,6 +122,7 @@
       <description>The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.</description>
       <dc:creator>Lara Jakes</dc:creator>
       <pubDate>Mon, 19 Oct 2026 18:33:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lithuania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
@@ -132,7 +133,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinkevicius, Mindaugas</category>
+      <category domain=""></category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabotage (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-lithuania-starlink-jpcg/19int-lithuania-starlink-jpcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Inna Varenytsia/Reuters</media:credit>
       <media:description>Ukrainian soldiers set up a Starlink satellite internet system near Pokrovsk, in eastern Ukraine, last year.</media:description>
@@ -203,7 +207,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html" rel="standout"></atom:link>
       <description>Paul Nthenge Mackenzie told his doomsday followers in a remote forest to fast for salvation. He faced trial after hundreds of bodies were exhumed.</description>
       <dc:creator>Matthew Mpoke Bigg and Brian O. Otieno</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 16:11:03 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 21:57:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mackenzie, Paul Nthenge</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Doomsday</category>
@@ -298,6 +302,46 @@
       <media:description>María Corina Machado in Panama on Wednesday.</media:description>
     </item>
     <item>
+      <title>Deaths at Danjiri Float Festival Prompt Questions in Japan</title>
+      <link>https://www.nytimes.com/2026/10/19/world/asia/danjiri-festival-deaths-osaka-japan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/asia/danjiri-festival-deaths-osaka-japan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/asia/danjiri-festival-deaths-osaka-japan.html" rel="standout"></atom:link>
+      <description>The vibrant danjiri tradition dates back three centuries, but two recent fatalities have prompted anxiety over whether participants can remain safe.</description>
+      <dc:creator>Hisako Ueno and Tiffany May</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 21:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shinto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Osaka (Japan)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/19/world/19int-japan-festival-awde/19int-japan-festival-awde-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The Yomiuri Shimbun</media:credit>
+      <media:description>Participants perform a dynamic turn with a festival float during the danjiri festival in Kishiwada, Osaka prefecture, in September.</media:description>
+    </item>
+    <item>
+      <title>The Failures of Emmanuel Macron</title>
+      <link>https://www.nytimes.com/2026/10/19/world/macron-france-riots-le-pen-gold.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/macron-france-riots-le-pen-gold.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/macron-france-riots-le-pen-gold.html" rel="standout"></atom:link>
+      <description>The student protests that snowballed into violent riots made it clear that almost 10 years of his presidency have not fixed France’s problems.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 20:38:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madagascar</category>
+      <media:content height="1456" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-theworld-france-macron-01-zwgt-promo/20int-theworld-france-macron-01-zwgt-promo-mediumSquareAt3X.jpg" width="1455"></media:content>
+      <media:credit>Yves Herman/Reuters</media:credit>
+      <media:description>Emmanuel Macron in Brussels last week.</media:description>
+    </item>
+    <item>
       <title>Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say</title>
       <link>https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html</guid>
@@ -346,7 +390,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html" rel="standout"></atom:link>
       <description>The Rev. Patricio Alfredo Sánchez Molinari was addressing his congregation in Guayaquil, Ecuador, when a wooden cross detached from a wall and struck him.</description>
       <dc:creator>Karla Adam</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 19:56:52 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 22:54:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Crosses and Crucifixes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
@@ -398,7 +442,7 @@
       <atom:link href="https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html" rel="standout"></atom:link>
       <description>A new U.N.-backed military force is fighting to wrest control of the Haitian capital from violent gangs. Previous efforts by international troops failed to restore security. Can this one succeed?</description>
       <dc:creator>Frances Robles, Michael Anthony Adams, Ben Laffin, Caroline Kim and André Paultre</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 15:01:40 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 20:38:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
@@ -481,7 +525,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/18/us/capsized-boat-survivors-sharks.html" rel="standout"></atom:link>
       <description>Some 11 people were missing but 16 were rescued, including three who had injuries consistent with shark bites, the authorities said.</description>
       <dc:creator>Bernard Mokam</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 09:55:20 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 21:58:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
@@ -645,8 +689,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Petersburg (Russia)</category>
@@ -1040,78 +1082,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincenzo Livieri/Reuters</media:credit>
       <media:description>Pope Leo XIV leaving Gemelli Hospital in Rome on Saturday. </media:description>
-    </item>
-    <item>
-      <title>He Was a Top Voice on Palestinian Liberation. Filmgoers Are Listening.</title>
-      <link>https://www.nytimes.com/2026/10/17/nyregion/edward-said-documentary-new-york-film-festival.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/nyregion/edward-said-documentary-new-york-film-festival.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/17/nyregion/edward-said-documentary-new-york-film-festival.html" rel="standout"></atom:link>
-      <description>A new documentary on Edward Said, the Palestinian American literary critic and activist who taught for decades at Columbia, brought New Yorkers together in a fraught political moment.</description>
-      <dc:creator>Sara Aridi</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 07:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Said, Edward W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Edward Said: Between Worlds (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinian-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">New York Film Festival</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baird, Maiken</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Columbia University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walter Reade Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lincoln Center for the Performing Arts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pro-Palestinian Campus Protests (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/25/nyregion/25met-said-doc-02-bhvg/17met-said-doc-02-bhvg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>Maiken Baird, left, directed the documentary on Edward Said, and Sarah Mowaswes, center, was one of its producers. Mr. Said’s daughter, Najla Said, right, was also part of the filmmaking process.</media:description>
-    </item>
-    <item>
-      <title>Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor</title>
-      <link>https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html" rel="standout"></atom:link>
-      <description>By announcing his lung condition himself, Leo has been more forthcoming than many popes. But mysteries remain, prompting scrutiny of papal statements for hidden meaning.</description>
-      <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 16:52:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-tea-leaves-mjtq/17int-pope-tea-leaves-mjtq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lionel Bonaventure/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Pope Leo XIV at a torchlight procession last month in Lourdes, France. Vatican experts wondered if he already knew of his cancer diagnosis during that visit.</media:description>
-    </item>
-    <item>
-      <title>Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving</title>
-      <link>https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html" rel="standout"></atom:link>
-      <description>Toru Utsumi, 60, works as a management consultant, but on his days off, he has become a global internet star — despite some local disapproval.</description>
-      <dc:creator>Javier C. Hernández and Hisako Ueno</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 13:00:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-japan-salaryman-01-fgqk/17int-japan-salaryman-01-fgqk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Louise Delmotte for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Dancing Salaryman Pokes Fun at Japan’s Buttoned-Down Culture</title>
-      <link>https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html" rel="standout"></atom:link>
-      <description>Toru Utsumi has won more than a million fans on TikTok and Instagram with short, fancy-free videos.</description>
-      <dc:creator>Jiwoong Hong and Louise Delmotte</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 13:37:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-japan-salaryman-01-fgqk/17int-japan-salaryman-01-fgqk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Louise Delmotte for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
