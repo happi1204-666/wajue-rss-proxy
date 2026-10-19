@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 01:28:54 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 23:46:21 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:17:28 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 06:43:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html" rel="standout"></atom:link>
       <description>Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil.</description>
       <dc:creator>Ian Austen and Vjosa Isai</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 23:46:21 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 02:45:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html" rel="standout"></atom:link>
       <description>After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday.</description>
       <dc:creator>Catherine Porter and Ségolène Le Stradic</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 22:50:27 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 22:50:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
@@ -82,7 +82,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html" rel="standout"></atom:link>
       <description>Prime Minister Benjamin Netanyahu of Israel has downplayed accounts of recent extremist attacks on Palestinians in the West Bank amid the annual olive harvest.</description>
       <dc:creator>Aaron Boxerman and Adam Rasgon</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 19:23:33 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 02:43:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -106,7 +106,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html" rel="standout"></atom:link>
       <description>“This experience has made me feel a special closeness to all those who are battling illness and infirmity,” he said, in his first public appearance since his lung surgery.</description>
       <dc:creator>Motoko Rich and Elisabetta Povoledo</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 16:29:44 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 02:49:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
@@ -126,7 +126,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html" rel="standout"></atom:link>
       <description>President Abdel Fattah el-Sisi had called on Egyptian lawmakers to authorize military assistance to the kingdom, saying any support would be defensive.</description>
       <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 15:00:02 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:00:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
@@ -179,7 +179,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html" rel="standout"></atom:link>
       <description>Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular.</description>
       <dc:creator>Jin Yu Young</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 04:24:04 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 02:50:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -280,13 +280,34 @@
       <media:description>A protester faced off with police officers on Saturday during a demonstration in Tirana, Albania.</media:description>
     </item>
     <item>
+      <title>Five Salvadoran Soldiers Missing in Haiti After Ambush</title>
+      <link>https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html" rel="standout"></atom:link>
+      <description>A U.N.-backed force sent to combat gang violence said it was looking for the soldiers, who were in a gang-controlled area when they were attacked.</description>
+      <dc:creator>Frances Robles</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 06:43:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">400 Mawozo (Gang)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jack Christofides</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/18/obituaries/18int-missing-soldiers-03/18int-missing-soldiers-03-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael Anthony Adams</media:credit>
+      <media:description>A Salvadoran member of the U.N.-backed Gang Suppression Force during a patrol over Port-au-Prince, Haiti.</media:description>
+    </item>
+    <item>
       <title>Planet Earth and Brazil’s Election</title>
       <link>https://www.nytimes.com/2026/10/18/world/amazon-brazil-election-climate-france-alberta.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/amazon-brazil-election-climate-france-alberta.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/18/world/amazon-brazil-election-climate-france-alberta.html" rel="standout"></atom:link>
       <description>The Amazon rainforest has been a crucial battleground in the country’s presidential runoff.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 20:41:18 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:54:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
@@ -410,10 +431,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Term Limits (Political Office)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-egypt-sisi-kqfm/17int-egypt-sisi-kqfm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>President Abdel Fattah el-Sisi of Egypt in Sharm El-Sheikh, Egypt, last year. His earlier promises to respect presidential term limits that were then changed have raised questions about whether he will honor his latest pledge.</media:description>
@@ -465,6 +482,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
       <media:content height="1649" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17dc-investigate-jmkz/17dc-investigate-jmkz-mediumSquareAt3X.jpg" width="1648"></media:content>
       <media:credit>Haiyun Jiang for The New York Times</media:credit>
       <media:description>Richard Grenell and Alina Habba Mildon had once been close friends.</media:description>
@@ -915,6 +934,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scharf, William O</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15dc-habba-kc-wkcl/15dc-habba-kc-wkcl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Al Drago for The New York Times</media:credit>
       <media:description>President Trump had appointed himself chairman of the Kennedy Center.</media:description>
@@ -1064,21 +1085,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15int-kenya-ebola-1-qgth/15int-kenya-ebola-1-qgth-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Monicah Mwangi/Reuters</media:credit>
       <media:description>A nurse gestures inside Nairobi Hospital, where an Ebola patient was isolated immediately upon arrival and treated at the hospital’s East Wing Isolation Facility. The patient later died.</media:description>
-    </item>
-    <item>
-      <title>Houthi Missiles Strike Government Headquarters in Yemen</title>
-      <link>https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html" rel="standout"></atom:link>
-      <description>Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.</description>
-      <dc:creator>Ismaeel Naar and Pranav Baskar</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 00:14:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">King Khalid International Airport (Riyadh, Saudi Arabia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
     </item>
   </channel>
 </rss>
