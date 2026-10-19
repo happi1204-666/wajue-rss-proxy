@@ -7,13 +7,18 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-19T14:50:06Z</dc:date>
+  <dc:date>2026-10-19T20:20:31Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/we-don-t-have-to-wait-for-others-to-support-us-myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757?maca=en-rss-en-all-1573-rdf"/>
@@ -27,10 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-rdf"/>
@@ -73,7 +74,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/what-is-holding-back-cyprus-s-schengen-ambitions/a-79641488?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-labor-minister-s-resignation-puts-a-spotlight-on-cracks-within-the-government/a-79645823?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-women-ena-mahmutovic-makes-her-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-all-1573-rdf"/>
@@ -155,14 +155,59 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf">
+  <title>France: Curfews issued in Paris, Nice after unrest</title>
+  <link>https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf</link>
+  <description>French authorities imposed curfews in parts of several cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.</description>
+  <dc:date>2026-10-19T19:02:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79707186</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf">
+  <title>Bulgaria seeks suspects in Germany after Starlink sabotage</title>
+  <link>https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf</link>
+  <description>A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennas. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.</description>
+  <dc:date>2026-10-19T18:45:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79706745</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Emergency at Leipzig airport sparked by novice driver</title>
   <link>https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf</link>
   <description>Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, the &quot;Invest in Germany Summit&quot; is set to kick off as the government looks to fill gaps in public funding. DW has more.</description>
-  <dc:date>2026-10-19T14:46:00Z</dc:date>
+  <dc:date>2026-10-19T17:26:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79695354</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-rdf">
+  <title>Kenya: Cult leader guilty of murdering 190 children, 1 adult</title>
+  <link>https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-rdf</link>
+  <description>Preacher Paul Mackenzie was accused of encouraging his followers to starve themselves to death. He ran a Christian doomsday cult called the Good News International Church that claimed the end of the world was imminent.</description>
+  <dc:date>2026-10-19T15:49:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79706279</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-rdf">
+  <title>Canada: Alberta votes on holding independence referendum</title>
+  <link>https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-rdf</link>
+  <description>Canada&apos;s oil-rich western province of Alberta is not deemed likely to vote in favor of a real breakaway plebiscite. Nevertheless the separatist movement hopes to gain leverage over Mark Carney&apos;s government.</description>
+  <dc:date>2026-10-19T15:09:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79700283</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf">
+  <title>Can diplomacy stop another Ethiopia-Eritrea war?</title>
+  <link>https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf</link>
+  <description>Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.</description>
+  <dc:date>2026-10-19T15:07:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79705435</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf">
   <title>Houthi strike on Yemen government military camp kills at least 50</title>
@@ -173,9 +218,9 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79702163</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/we-don-t-have-to-wait-for-others-to-support-us-myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf">
-  <title>&apos;We don&apos;t have to wait for others to support us&apos;: Myanmar refugees find hope in Thailand&apos;s work program</title>
-  <link>https://www.dw.com/en/we-don-t-have-to-wait-for-others-to-support-us-myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf">
+  <title>Myanmar refugees find hope in Thailand&apos;s work program</title>
+  <link>https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf</link>
   <description>A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program&apos;s first year has exposed significant shortcomings.</description>
   <dc:date>2026-10-19T12:31:00Z</dc:date>
   <dc:subject>World</dc:subject>
@@ -266,7 +311,7 @@
  <item rdf:about="https://www.dw.com/en/india-news-cjp-alleges-deliberate-delay-in-leaders-release/live-79695410?maca=en-rss-en-all-1573-rdf">
   <title>India news: CJP alleges &apos;deliberate&apos; delay in leaders&apos; release</title>
   <link>https://www.dw.com/en/india-news-cjp-alleges-deliberate-delay-in-leaders-release/live-79695410?maca=en-rss-en-all-1573-rdf</link>
-  <description>CJP leaders Saurav Das and Ashutosh Ranka were due to be released on Sunday. The judge in the case has recused himself after claiming that he was threatened. DW has more.</description>
+  <description>CJP leaders Saurav Das and Ashutosh Ranka were due to be released on Sunday. The judge in the case has recused himself after claiming that he was threatened.</description>
   <dc:date>2026-10-19T06:25:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -298,42 +343,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79680410</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-all-1573-rdf">
-  <title>Austrian Airlines flight from Tel Aviv makes emergency landing after bomb threat</title>
-  <link>https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-all-1573-rdf</link>
-  <description>An Austrian Airlines flight from Tel Aviv to Vienna made an emergency landing in Bulgaria after a bomb threat was reported near the Bulgarian-Romanian border. A MiG-29 fighter jet escorted the plane.</description>
-  <dc:date>2026-10-19T03:22:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79695070</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf">
-  <title>Trump defends Russia sanctions waivers, accuses Zelenskyy of &apos;prolonging war&apos;</title>
-  <link>https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf</link>
-  <description>The US president again accused his Ukrainian counterpart Volodymyr Zelenskyy of not wanting to end the war. The remarks come amid renewed tensions over US policy toward Moscow, including waiving some sanctions.</description>
-  <dc:date>2026-10-19T00:26:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79694674</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf">
-  <title>Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition</title>
-  <link>https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf</link>
-  <description>Canadian Prime Minister Mark Carney says a &quot;serious incident&quot; sparked a major fire at on Alberta military base. Four people have died, 39 are in hospital and at least 19 are in critical condition.</description>
-  <dc:date>2026-10-18T23:43:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79690515</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf">
-  <title>Ebola: Kenya cases rise to 8, spreads to 8th Congo province</title>
-  <link>https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf</link>
-  <description>A senior health official in Kenya said there have now been eight Ebola infections in the country, while in DR Congo the disease has spread to an eighth province.</description>
-  <dc:date>2026-10-18T22:04:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79694614</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf">
   <title>France: Young voters blase about Glucksmann&apos;s Socialists</title>
@@ -712,15 +721,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>44107236</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/what-is-holding-back-cyprus-s-schengen-ambitions/a-79641488?maca=en-rss-en-all-1573-rdf">
-  <title>What is holding back Cyprus&apos;s Schengen ambitions?</title>
-  <link>https://www.dw.com/en/what-is-holding-back-cyprus-s-schengen-ambitions/a-79641488?maca=en-rss-en-all-1573-rdf</link>
-  <description>The European Commission says Cyprus is ready to join the Schengen Area. Yet questions relating to the island&apos;s division and British military bases could still complicate its path to Europe&apos;s border-free travel zone.</description>
-  <dc:date>2026-10-13T06:26:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79641488</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-labor-minister-s-resignation-puts-a-spotlight-on-cracks-within-the-government/a-79645823?maca=en-rss-en-all-1573-rdf">
   <title>Germany: Labor Minister&apos;s resignation puts a spotlight on cracks within the government</title>

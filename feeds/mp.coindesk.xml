@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 14:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:11:47 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,36 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3488397e93351ed3a88de739300c35ce1824573b-1420x916.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">d3ca0620-bce7-45a9-8005-bafedbc460cf</guid>
+      <pubDate>Mon, 19 Oct 2026 16:47:00 +0000</pubDate>
+      <description><![CDATA[The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Derivatives]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Zerohash rolls out a new tool to move crypto without copying wallet addresses]]></title>
+      <link>https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/00aaef2726548e0752cbe7b20a6377d15bd4b110-1920x1080.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">aa217766-e293-41c3-ae0d-dddcc9003f63</guid>
+      <pubDate>Mon, 19 Oct 2026 14:58:40 +0000</pubDate>
+      <description><![CDATA[The launch comes as Zerohash bids for a federal trust charter.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Stablecoins]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Cardano founder Charles Hoskinson is building a new programming language for the network]]></title>
       <link>https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network</link>
@@ -46,15 +76,16 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin edges higher as U.S. stocks rebound early Monday]]></title>
+      <title><![CDATA[Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%]]></title>
       <link>https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound</link>
       <guid isPermaLink="false">6758c960-4d00-45c3-b635-95de208883c7</guid>
       <pubDate>Mon, 19 Oct 2026 11:05:54 +0000</pubDate>
-      <description><![CDATA[Tech futures bounced after last week’s 5.5% rout; earnings this week put the AI trade to the test again.]]></description>
+      <description><![CDATA[Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>Omkar Godbole</dc:creator>
       <dc:creator>James Van Straten</dc:creator>
       <dc:creator>Stephen Alpher</dc:creator>
+      <dc:creator>Helene Braun</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
@@ -355,43 +386,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Circle]]></category>
       <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat]]></title>
-      <link>https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/25ff7074f50fa460f087e97f7ba81d48d2cdce60-3000x2147.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">e3e952c1-a946-4698-8a9a-9ab401c188f2</guid>
-      <pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
-      <description><![CDATA[The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.]]></description>
-      <dc:creator>Helene Braun</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Tokenization]]></category>
-      <category domain="tag"><![CDATA[banks]]></category>
-      <category domain="tag"><![CDATA[Morgan Stanley]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Citrini sees a tokenization boom. The harder question is who profits]]></title>
-      <link>https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/fa689a7830180d9337ea197d8f87693731fffbcf-1919x1080.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">84377f49-3727-43be-9113-da4e204f8d12</guid>
-      <pubDate>Sat, 17 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue.]]></description>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Tokenization Weekly]]></category>
-      <category domain="tag"><![CDATA[Tokenization]]></category>
-      <category domain="tag"><![CDATA[Exclusive]]></category>
-      <category domain="tag"><![CDATA[Grayscale]]></category>
-      <category domain="tag"><![CDATA[Coinbase]]></category>
-      <category domain="tag"><![CDATA[Robinhood]]></category>
-      <category domain="tag"><![CDATA[Ethereum News]]></category>
-      <category domain="tag"><![CDATA[Solana News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

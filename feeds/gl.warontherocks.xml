@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Sun, 18 Oct 2026 15:19:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Oct 2026 18:07:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,23 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>In Skepticism We Trust: Ukraine Reacts to the Diesel Deal</title>
+		<link>https://warontherocks.com/in-skepticism-we-trust-ukraine-reacts-to-the-diesel-deal/</link>
+		
+		<dc:creator><![CDATA[Nicole Wiley]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 18:15:35 +0000</pubDate>
+				<category><![CDATA[Members]]></category>
+		<category><![CDATA[The Ukraine Compass]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48131</guid>
+
+					<description><![CDATA[<p>Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.Western coverage often narrows the view to the battlefield &#8212; these pieces widen it, revealing the texture of daily life, politics, and public argument in a nation at war. The perspectives gathered here are varied, candid, and often surprising, together forming a more complete picture of Ukraine as it really is.Frontline</p>
+<p>The post <a href="https://warontherocks.com/in-skepticism-we-trust-ukraine-reacts-to-the-diesel-deal/">In Skepticism We Trust: Ukraine Reacts to the Diesel Deal</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Pentagon Doesn&#8217;t Need to Reinvent Supply Chain Transparency</title>
 		<link>https://warontherocks.com/cogs-of-war/the-pentagon-doesnt-need-to-reinvent-supply-chain-transparency/</link>
 		
@@ -1924,22 +1941,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		<dc:creator><![CDATA[Kyung Suk Lee]]></dc:creator>
 	</item>
-		<item>
-		<title>“Zero Problems” Abroad, Plenty at Home: Reassessing al Sharaa’s Leadership in Syria</title>
-		<link>https://warontherocks.com/zero-problems-abroad-plenty-at-home-reassessing-al-sharaas-leadership-in-syria/</link>
-		
-		<dc:creator><![CDATA[Rob Geist Pinfold]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2026 17:30:39 +0000</pubDate>
-				<category><![CDATA[Members]]></category>
-		<category><![CDATA[Rewind and Reconnoiter]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46442</guid>
-
-					<description><![CDATA[<p>In 2025, Rob Geist Pinfold wrote, &#8220;The March Massacres Show That Syria Urgently Needs Solutions, Not Sanctions,&#8221; in which he argued that sanctions relief was a major way the West could positively engage with the new Syrian government. A year later, after sanctions relief materialized and the United States removed Syria from its list of terrorism sponsors, we asked him to revisit his arguments and reassess President Ahmed al Sharaa&#8217;s leadership, both foreign and domestic. Image: Voice of America via&#160;Wikimedia CommonsIn your 2025 article, you argued that one way the West should engage with post-Assad Syria was through sanctions relief.</p>
-<p>The post <a href="https://warontherocks.com/zero-problems-abroad-plenty-at-home-reassessing-al-sharaas-leadership-in-syria/">“Zero Problems” Abroad, Plenty at Home: Reassessing al Sharaa’s Leadership in Syria</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>

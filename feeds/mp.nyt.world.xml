@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 14:49:13 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Oct 2026 14:35:23 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:19:24 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 20:14:21 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -35,25 +35,20 @@
       <media:credit>Lynsey Addario for The New York Times</media:credit>
     </item>
     <item>
-      <title>France Officials Acknowledge ‘Failure’ Around Riots</title>
-      <link>https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html" rel="standout"></atom:link>
-      <description>The interior minister, Laurent Nuñez, acknowledged that the police had been underprepared and said he had offered to resign.</description>
-      <dc:creator>Catherine Porter and Ségolène Le Stradic</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 11:51:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darmanin, Gerald</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nunez, Laurent</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Payan, Benoit</category>
+      <title>The French Teen Maimed During School Unrest by Tear Gas Grenade</title>
+      <link>https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html" rel="standout"></atom:link>
+      <description>The police’s treatment of the student last month sheds light on how a wave of school unrest evolved into national protests that spilled into widespread riots on Saturday.</description>
+      <dc:creator>Ségolène Le Stradic</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 17:50:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-france-protests-01-tgvc/19int-france-protests-01-tgvc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Julien De Rosa</media:credit>
-      <media:description>Prime Minister Sebastien Lecornu of France and the interior minister Laurent Nuñez, left, at a crisis meeting in Paris on Monday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tear Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
     </item>
     <item>
       <title>For Israelis and Jews in the U.A.E., an Eroding Sense of Security</title>
@@ -62,7 +57,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html" rel="standout"></atom:link>
       <description>The Emirates’ reputation as a haven was shaken by what the authorities said was a plot last month aimed at crashing a flight from Dubai to Tel Aviv.</description>
       <dc:creator>Abdi Latif Dahir and Anjana Sankar</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 13:00:07 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 20:14:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
@@ -75,6 +70,72 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/00int-dubai-israel-1-kzjq/00int-dubai-israel-1-kzjq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Katarina Premfors for The New York Times</media:credit>
       <media:description>Tamar Smulowicz, an Israeli citizen, moved to the United Arab Emirates after the two countries normalized relations. But regional wars and domestic threats are testing a sense of safety for Israelis and Jews.</media:description>
+    </item>
+    <item>
+      <title>Italy Faces Parallel Protests in the North and South</title>
+      <link>https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html" rel="standout"></atom:link>
+      <description>Protests by young people in northern cities ended in riots as farmers and truckers in the south, angered by high gas prices, stopped commercial traffic.</description>
+      <dc:creator>Josephine de La Bruyère</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 19:51:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milan (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-ITALY-PROTESTS-01-zwcf/19int-ITALY-PROTESTS-01-zwcf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stefano Porta/Lapresse, via Associated Press</media:credit>
+      <media:description>Police officers confronting protesters in Milan on Saturday.</media:description>
+    </item>
+    <item>
+      <title>France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting</title>
+      <link>https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html" rel="standout"></atom:link>
+      <description>The interior minister acknowledged that the police were underprepared for the scale of the riots. But Prime Minister Sébastien Lecornu defended their efforts and pledged to restore order.</description>
+      <dc:creator>Catherine Porter and Ségolène Le Stradic</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 19:25:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Curfews</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darmanin, Gerald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nunez, Laurent</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nice (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lille (France)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-france-protests-hpjv/19int-france-protests-hpjv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Carl Court/Getty Images</media:credit>
+      <media:description>Police officers in Paris during protests on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Fire at Starlink Center in Lithuania Was Sabotage, Officials Say</title>
+      <link>https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html" rel="standout"></atom:link>
+      <description>The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.</description>
+      <dc:creator>Lara Jakes</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 18:33:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lithuania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinkevicius, Mindaugas</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-lithuania-starlink-jpcg/19int-lithuania-starlink-jpcg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Inna Varenytsia/Reuters</media:credit>
+      <media:description>Ukrainian soldiers set up a Starlink satellite internet system near Pokrovsk, in eastern Ukraine, last year.</media:description>
     </item>
     <item>
       <title>Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?</title>
@@ -136,30 +197,49 @@
       <media:description>Damage from a Russian attack in Kyiv, Ukraine, on Monday. The country has complained about what it describes as lapses in U.S. intelligence sharing before attacks.</media:description>
     </item>
     <item>
+      <title>Cult Leader Convicted of Mass Murder by Court in Kenya</title>
+      <link>https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html" rel="standout"></atom:link>
+      <description>Paul Nthenge Mackenzie told his doomsday followers in a remote forest to fast for salvation. He faced trial after hundreds of bodies were exhumed.</description>
+      <dc:creator>Matthew Mpoke Bigg and Brian O. Otieno</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 16:11:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mackenzie, Paul Nthenge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doomsday</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religious Cults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mombasa (Kenya)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shakahola Forest (Kenya)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-kenya-cult-ruling-02-wfgl/19int-kenya-cult-ruling-02-wfgl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Paul Nthenge Mackenzie, a doomsday cult leader, at the Shanzu Law Courts in Mombasa, Kenya, in January. He was accused of mass murder after telling followers to starve themselves.</media:description>
+    </item>
+    <item>
       <title>Israeli Police Detain 10 Over Violent Settler Attacks in West Bank</title>
       <link>https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html" rel="standout"></atom:link>
       <description>Israel has faced pressure, including from the United States, to investigate the attacks. Rights groups say most inquiries into extremist assaults on Palestinians go nowhere.</description>
       <dc:creator>Aaron Boxerman</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 14:22:13 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 17:33:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19westbank-arrests-01-zwmg/19westbank-arrests-01-zwmg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19westbank-arrests-01-zwmg/19westbank-arrests-01-zwmg-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Ammar Awad/Reuters</media:credit>
       <media:description>Masked Israeli settlers attacked Palestinians as they stormed an olive grove during the annual harvest in the Israeli-occupied West Bank on Friday.</media:description>
     </item>
     <item>
-      <title>France’s Far Right Seizes the Moment as Rioting Stuns the Country</title>
+      <title>France’s Far Right Shifts Into Campaign Mode as Student Riots Erupt Into Violence</title>
       <link>https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html" rel="standout"></atom:link>
       <description>The National Rally, already ahead in the polls, presented itself as the party best placed to restore law and order.</description>
       <dc:creator>Catherine Porter</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 12:55:13 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 17:10:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -180,7 +260,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html" rel="standout"></atom:link>
       <description>A suspect is in custody and the country’s counterterrorism team was activated after Helen Haines, 65, was struck by a car outside her office.</description>
       <dc:creator>Laura Chung</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 12:03:24 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 20:08:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
@@ -200,7 +280,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html" rel="standout"></atom:link>
       <description>Blocked from entering her country, Venezuela’s opposition leader spoke with The Times about her efforts to return and her relationship with the Trump administration.</description>
       <dc:creator>Julie Turkewitz</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 09:04:09 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 19:09:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -218,86 +298,46 @@
       <media:description>María Corina Machado in Panama on Wednesday.</media:description>
     </item>
     <item>
-      <title>As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides</title>
-      <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html" rel="standout"></atom:link>
-      <description>By hedging her position on secession, Premier Danielle Smith risks a backlash from both her conservative base and from pro-Canada voters.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 13:50:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-canada-alberta-01-wkcp/19int-canada-alberta-01-wkcp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amber Bracken for The New York Times</media:credit>
-      <media:description>Danielle Smith, the premier of Alberta, in Calgary last year.</media:description>
-    </item>
-    <item>
-      <title>Five Salvadoran Soldiers Missing in Haiti After Ambush</title>
-      <link>https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html" rel="standout"></atom:link>
-      <description>A U.N.-backed force sent to combat gang violence said it was looking for the soldiers, who were in a gang-controlled area when they were attacked.</description>
-      <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 06:43:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <title>Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say</title>
+      <link>https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html" rel="standout"></atom:link>
+      <description>The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.</description>
+      <dc:creator>Saeed Al-Batati and Ismaeel Naar</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 19:54:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">400 Mawozo (Gang)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="1365" medium="image" url="https://static01.nyt.com/images/2026/10/19/world/Yemen-strike/Yemen-strike-mediumSquareAt3X.jpg" width="1365"></media:content>
+      <media:credit>Social Media, via Reuters </media:credit>
+      <media:description>A still from a social media video verified by The New York Times as from Al Alam camp in Shabwa Province, Yemen, after officials said Houthi strikes killed dozens of Yemeni soldiers on Monday.</media:description>
+    </item>
+    <item>
+      <title>Gilbert Bigio, Haitian Tycoon Linked to Gangs, Dies at 91</title>
+      <link>https://www.nytimes.com/2026/10/19/world/americas/gilbert-bigio-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/americas/gilbert-bigio-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/americas/gilbert-bigio-dead.html" rel="standout"></atom:link>
+      <description>Reportedly the wealthiest man in the poorest country in the Western Hemisphere, Gilbert Bigio was sanctioned for ties to criminal gangs. He was 91.</description>
+      <dc:creator>Adam Nossiter</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 15:38:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bigio, Gilbert (1935-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pandora Papers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jack Christofides</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/18/obituaries/18int-missing-soldiers-03/18int-missing-soldiers-03-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael Anthony Adams</media:credit>
-      <media:description>A Salvadoran member of the U.N.-backed Gang Suppression Force during a patrol over Port-au-Prince, Haiti.</media:description>
-    </item>
-    <item>
-      <title>To Find Criminals and Child Exploitation in Gold Mines, We Just Had to Look</title>
-      <link>https://www.nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html" rel="standout"></atom:link>
-      <description>Layers of people certify that gold is free from rights abuses and criminality. Nobody makes them leave their desks.</description>
-      <dc:creator>Justin Scheck</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 10:59:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madagascar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Papua New Guinea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Labor</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/00int-dirty-gold-takeaways-1-tpvl/00int-dirty-gold-takeaways-1-tpvl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lynsey Addario for The New York Times</media:credit>
-      <media:description>Labor abuses and criminality are not hard to find in the world’s unlicensed gold mines. Assuming someone visits.</media:description>
-    </item>
-    <item>
-      <title>The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.</title>
-      <link>https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html" rel="standout"></atom:link>
-      <description>As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall.</description>
-      <dc:creator>Giulia Imbert</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 14:27:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Limoges (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-limoges-01-lgtq/18int-france-limoges-01-lgtq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pascal Lachenaud/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The city hall in Limoges on Saturday night. The violence in the city, better known for its porcelain than its politics, was among the most surprising episodes of France’s widespread unrest.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Consortium of Investigative Journalists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Biscayne Bay (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indian Creek (Fla)</category>
     </item>
     <item>
       <title>Priest in Ecuador Dies After Crucifix Falls on Him During Livestreamed Mass</title>
@@ -306,12 +346,13 @@
       <atom:link href="https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html" rel="standout"></atom:link>
       <description>The Rev. Patricio Alfredo Sánchez Molinari was addressing his congregation in Guayaquil, Ecuador, when a wooden cross detached from a wall and struck him.</description>
       <dc:creator>Karla Adam</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 14:02:29 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 19:56:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Crosses and Crucifixes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guayaquil (Ecuador)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
     </item>
     <item>
       <title>What to Know About the Search for Amelia Earhart’s Plane</title>
@@ -334,13 +375,30 @@
       <media:description>Amelia Earhart perched atop the nose of the Lockheed Electra plane in 1936.</media:description>
     </item>
     <item>
+      <title>As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides</title>
+      <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html" rel="standout"></atom:link>
+      <description>By hedging her position on secession, Premier Danielle Smith risks a backlash from both her conservative base and from pro-Canada voters.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 18:07:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-canada-alberta-01-wkcp/19int-canada-alberta-01-wkcp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <media:description>Danielle Smith, the premier of Alberta, in Calgary last year.</media:description>
+    </item>
+    <item>
       <title>Can This International Force Stop Haiti’s Gangs?</title>
       <link>https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html</guid>
       <atom:link href="https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html" rel="standout"></atom:link>
-      <description>A new U.N. military force is fighting to wrest control of the Haitian capital from violent gangs. Previous efforts by international troops failed to restore security. Can this one succeed?</description>
+      <description>A new U.N.-backed military force is fighting to wrest control of the Haitian capital from violent gangs. Previous efforts by international troops failed to restore security. Can this one succeed?</description>
       <dc:creator>Frances Robles, Michael Anthony Adams, Ben Laffin, Caroline Kim and André Paultre</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 10:31:03 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 15:01:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
@@ -372,6 +430,49 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newfoundland (Canada)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19SCI-UNKNOWNS-ORIGINS-top-gbkw/19SCI-UNKNOWNS-ORIGINS-top-gbkw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Photoillustration by Will Warasila for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>To Find Criminals and Child Exploitation in Gold Mines, We Just Had to Look</title>
+      <link>https://www.nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html" rel="standout"></atom:link>
+      <description>Layers of people certify that gold is free from rights abuses and criminality. Nobody makes them leave their desks.</description>
+      <dc:creator>Justin Scheck</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 10:59:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madagascar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Papua New Guinea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Labor</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/00int-dirty-gold-takeaways-1-tpvl/00int-dirty-gold-takeaways-1-tpvl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Labor abuses and criminality are not hard to find in the world’s unlicensed gold mines. Assuming someone visits.</media:description>
+    </item>
+    <item>
+      <title>Five Salvadoran Soldiers Missing in Haiti After Ambush</title>
+      <link>https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html" rel="standout"></atom:link>
+      <description>A U.N.-backed force sent to combat gang violence said it was looking for the soldiers, who were in a gang-controlled area when they were attacked.</description>
+      <dc:creator>Frances Robles</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 06:43:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">400 Mawozo (Gang)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jack Christofides</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/18/obituaries/18int-missing-soldiers-03/18int-missing-soldiers-03-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael Anthony Adams</media:credit>
+      <media:description>A Salvadoran member of the U.N.-backed Gang Suppression Force during a patrol over Port-au-Prince, Haiti.</media:description>
     </item>
     <item>
       <title>Coast Guard Halts Search for Survivors of Capsized Boat Off Mexico</title>
@@ -431,6 +532,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tirana (Albania)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berisha, Sali</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-albania-unrest-bwtk/18int-albania-unrest-bwtk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Florion Goga/Reuters</media:credit>
       <media:description>A protester kicking away a tear-gas canister in Tirana, Albania, on Sunday.</media:description>
@@ -477,6 +580,27 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-israel-violence-kcmp/18int-israel-violence-kcmp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Faiz Abu Rmeleh/Getty Images</media:credit>
       <media:description>Masked Israeli settlers driving through Abu Falah in the West Bank on Saturday.</media:description>
+    </item>
+    <item>
+      <title>The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.</title>
+      <link>https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html" rel="standout"></atom:link>
+      <description>As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall.</description>
+      <dc:creator>Giulia Imbert</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 14:27:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Limoges (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-limoges-01-lgtq/18int-france-limoges-01-lgtq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pascal Lachenaud/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The city hall in Limoges on Saturday night. The violence in the city, better known for its porcelain than its politics, was among the most surprising episodes of France’s widespread unrest.</media:description>
     </item>
     <item>
       <title>Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks</title>
@@ -560,13 +684,21 @@
       <dc:creator>Catherine Porter and Ségolène Le Stradic</dc:creator>
       <pubDate>Sun, 18 Oct 2026 22:50:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Limoges (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lille (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyon (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-shock-01-qctg/18int-france-shock-01-qctg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Benoit Tessier/Reuters</media:credit>
       <media:description>A street in Paris, littered on Sunday with debris a day after nationwide protests and riots.</media:description>
@@ -717,13 +849,16 @@
       <dc:creator>Catherine Porter</dc:creator>
       <pubDate>Sun, 18 Oct 2026 16:08:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-france-unrest-khmb/17int-france-unrest-khmb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jeff Pachoud/Agence France-Presse — Getty Images</media:credit>
       <media:description>A tourist office in Lyon, France, that was set on fire during unrest on Saturday. Many rallies stayed peaceful as weeks of student-led protests evolved into a national display of discontent.</media:description>
@@ -977,99 +1112,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-japan-salaryman-01-fgqk/17int-japan-salaryman-01-fgqk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Louise Delmotte for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>A Wayward Shark Becomes a Celebrity in South Korea</title>
-      <link>https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html" rel="standout"></atom:link>
-      <description>Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea.</description>
-      <dc:creator>Jin Yu Young</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 12:55:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sharks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
-      <category domain="">Bukangi</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Yonhap News Agency, via Reuters</media:credit>
-      <media:description>The shark that has been stuck in a canal in Busan, South Korea, since September.</media:description>
-    </item>
-    <item>
-      <title>The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’</title>
-      <link>https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html" rel="standout"></atom:link>
-      <description>Archaeologists said that they had found jars from a shipwreck as much as 4,700 years old, with black residue inside. Outside experts were skeptical but intrigued.</description>
-      <dc:creator>Alan Yuhas</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 17:41:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shipwrecks (Historic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egyptian Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bronze Age</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
-    </item>
-    <item>
-      <title>Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank</title>
-      <link>https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html" rel="standout"></atom:link>
-      <description>In the latest surge of violence, settlers targeted Palestinians during the olive harvest, a cultural touchstone and economic lifeline in the Israeli-occupied area.</description>
-      <dc:creator>Azam Ahmed</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 19:31:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Red Cross and Red Crescent Societies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-westbank-attack-01-lbgp/16int-westbank-attack-01-lbgp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ammar Awad/Reuters</media:credit>
-      <media:description>Israeli settlers gathering as Palestinians harvested olives in the West Bank, on Friday.</media:description>
-    </item>
-    <item>
-      <title>Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege</title>
-      <link>https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html" rel="standout"></atom:link>
-      <description>Recovering from lung cancer surgery, Pope Leo XIV spoke with Vladimir V. Putin to make a plea for Oleshky, where mines and drones have trapped some 2,000 people who are at risk of starvation.</description>
-      <dc:creator>Elisabetta Povoledo and Siobhán O’Grady</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 19:04:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oleshky (Ukraine)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-pope-putin03-photo-pvfb/16int-pope-putin03-photo-pvfb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alessandra Tarantino/Associated Press</media:credit>
-      <media:description>Pope Leo XIV entering a hospital in Rome before his surgery, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says</title>
-      <link>https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html" rel="standout"></atom:link>
-      <description>The agency said a major rescue operation was underway near the coast of Baja California after it received reports of 27 people in the water.</description>
-      <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 15:15:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baja California (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16xp-rescue-lvwf/16xp-rescue-lvwf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Denis Poroy/Associated Press</media:credit>
-      <media:description>A U.S. Coast Guard helicopter lifting off at the U.S. Coast Guard Station in San Diego on Friday.</media:description>
     </item>
   </channel>
 </rss>
