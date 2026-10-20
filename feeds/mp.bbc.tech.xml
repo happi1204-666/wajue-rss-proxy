@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 03:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 08:47:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Revolut outage hits 'multiple services' as thousands of users report app issues]]></title>
+            <description><![CDATA[Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo#0</guid>
+            <pubDate>Tue, 20 Oct 2026 08:46:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4333/live/71103e60-cc61-11f1-b1a3-5bda642ff934.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ex-OpenAI worker accused of planting device had Saudi support, says court filing]]></title>
             <description><![CDATA[The Saudi government did not immediately respond to BBC requests for comment.]]></description>
@@ -23,8 +31,8 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png"/>
         </item>
         <item>
-            <title><![CDATA[US bans DeepSeek AI from government use as tech tension with China continues]]></title>
-            <description><![CDATA[DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.]]></description>
+            <title><![CDATA[US bans China's DeepSeek from government in race for AI dominance]]></title>
+            <description><![CDATA[The Chinese technology is removed from most US government agencies as race for AI dominance steps up. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo#0</guid>
             <pubDate>Mon, 19 Oct 2026 18:21:54 GMT</pubDate>
@@ -111,14 +119,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr6240q1w136o#0</guid>
             <pubDate>Thu, 15 Oct 2026 23:18:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GTA 6 - all you need to know about Rockstar's blockbuster game]]></title>
-            <description><![CDATA[A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9q20djz4wno#0</guid>
-            <pubDate>Thu, 15 Oct 2026 14:25:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ab0/live/49c33180-6bce-11f1-a94c-73f00a91c697.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
