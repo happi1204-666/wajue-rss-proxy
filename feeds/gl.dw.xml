@@ -7,19 +7,21 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-19T23:51:01Z</dc:date>
+  <dc:date>2026-10-20T03:22:34Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-cjp-alleges-deliberate-delay-in-leaders-release/live-79695410?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf"/>
@@ -145,7 +145,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/princess-diana-s-brother-makes-explosive-claims-about-royals-in-new-memoir/a-79309465?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-car-crisis-can-the-35-hour-workweek-survive/a-79307488?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -155,10 +154,28 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
- <item rdf:about="https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf">
-  <title>France: Partial curfews issued in Paris, Nice after unrest</title>
-  <link>https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf</link>
-  <description>French authorities imposed curfews in parts of several cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.</description>
+ <item rdf:about="https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf">
+  <title>Zelenskyy accuses US of delaying Patriot missile shipment</title>
+  <link>https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf</link>
+  <description>Ukrainian President Volodymyr Zelenskyy has accused the United States of delaying deliveries of air defense missiles already paid for by European allies, as relations between Washington and Kyiv deteriorate.</description>
+  <dc:date>2026-10-20T02:15:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79707951</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf">
+  <title>At least four dead after flooding in eastern Spain</title>
+  <link>https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf</link>
+  <description>At least four people have died in Spain as torrential rain has battered the country&apos;s eastern Mediterranean coast. The severe flooding had left more than 450 people stranded on rooftops, in buildings or in cars.</description>
+  <dc:date>2026-10-20T00:32:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79707781</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-all-1573-rdf">
+  <title>French authorities impose partial curfews in Paris, Nice</title>
+  <link>https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-all-1573-rdf</link>
+  <description>French authorities imposed curfews in towns and cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.</description>
   <dc:date>2026-10-19T19:57:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -218,15 +235,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79702163</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf">
-  <title>Myanmar refugees find hope in Thailand&apos;s work program</title>
-  <link>https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf</link>
-  <description>A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program&apos;s first year has exposed significant shortcomings.</description>
-  <dc:date>2026-10-19T12:31:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79697921</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf">
   <title>Rubio visits India with a trip to the world&apos;s largest oil refinery topping the agenda</title>
   <link>https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf</link>
@@ -235,6 +243,15 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79699826</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf">
+  <title>Myanmar refugees find hope in Thailand&apos;s work program</title>
+  <link>https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf</link>
+  <description>A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program&apos;s first year has exposed significant shortcomings.</description>
+  <dc:date>2026-10-19T12:31:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79697921</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-rdf">
   <title>UN food program cuts aid to 500,000 Palestinians in Gaza</title>
@@ -316,24 +333,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79695410</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf">
-  <title>Brazil: Lula, Bolsonaro clash in heated presidential debate</title>
-  <link>https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf</link>
-  <description>The candidates traded barbs, including over Bolsonaro&apos;s ties to US President Donald Trump in their first debate, days before the October 25 election runoff.</description>
-  <dc:date>2026-10-19T06:01:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79695420</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf">
-  <title>Macron slams &apos;failures&apos; over protest unrest in France but refuses interior minister&apos;s resignation</title>
-  <link>https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf</link>
-  <description>France&apos;s president has refused the resignation of his interior minister, who says police &quot;lost control&quot; during protests that turned violent at the weekend. France&apos;s PM has called for limited curfews around the country.</description>
-  <dc:date>2026-10-19T05:53:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79695496</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-rdf">
   <title>What Earth&apos;s sixth mass extinction event means for humans</title>
@@ -1360,14 +1359,5 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79307488</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf">
-  <title>Germany faces energy tax losses as EV sales rise</title>
-  <link>https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf</link>
-  <description>The rapid shift to electric vehicles in Germany is cutting fuel tax revenue for the government. As EV sales surge, policymakers face growing pressure to find new ways to fund roads and transportation infrastructure.</description>
-  <dc:date>2026-09-20T14:02:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79320422</dwsyn:contentID>
  </item>
 </rdf:RDF>
