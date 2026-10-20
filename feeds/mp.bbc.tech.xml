@@ -9,18 +9,26 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 18:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 22:05:43 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[OpenAI CEO Sam Altman wins dismissal of sister's lawsuit]]></title>
+            <description><![CDATA[A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c94g1502el58o#0</guid>
+            <pubDate>Tue, 20 Oct 2026 19:42:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b56/live/9be50560-cc9f-11f1-94e6-edd4c60b2e1d.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Google resolves cloud outage affecting UK banks and websites]]></title>
             <description><![CDATA[Revolut was one of the hardest hit, with banking services going down for many customers.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo#0</guid>
             <pubDate>Tue, 20 Oct 2026 18:03:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03a/live/ea64c5b0-ccac-11f1-8789-fd6bb060c3f9.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06fb/live/5e172460-ccc3-11f1-951b-8fbc7a9ea030.jpg"/>
         </item>
         <item>
             <title><![CDATA[UK asks Apple to widen access to its payment tech ]]></title>
@@ -113,12 +121,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e0/live/009ee4b0-c93c-11f1-8c38-abe947e72d6d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Porn showing choking or incest to be banned from early November, government says]]></title>
-            <description><![CDATA[The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmpqgepejr2ro#0</guid>
-            <pubDate>Thu, 15 Oct 2026 23:27:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee76/live/db556ac0-c8b5-11f1-bdfb-e3788aeae9ec.jpg"/>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[The next generation of chip is thinner and flexible when compared to traditional silicon.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyl#2</guid>
+            <pubDate>Tue, 20 Oct 2026 19:45:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0phptg2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
@@ -143,14 +151,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyh#2</guid>
             <pubDate>Tue, 29 Sep 2026 19:30:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pd1gb8.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech Life]]></title>
-            <description><![CDATA[China is competing with the United States and other nations to develop AI.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyg#2</guid>
-            <pubDate>Tue, 22 Sep 2026 20:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbyl1k.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Now]]></title>

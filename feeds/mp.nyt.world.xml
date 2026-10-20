@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 18:34:16 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 18:23:16 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:02:30 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 21:55:59 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -51,7 +51,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html" rel="standout"></atom:link>
       <description>“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.</description>
       <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 17:01:31 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 21:21:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
@@ -61,6 +61,20 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20intfrance1-cmbp/20intfrance1-cmbp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stephane Mahe/Reuters</media:credit>
       <media:description>A student protest in Nantes, France, last week.</media:description>
+    </item>
+    <item>
+      <title>Robert Kabera, Rwandan Government Critic, Beheaded in Uganda</title>
+      <link>https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html" rel="standout"></atom:link>
+      <description>The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.</description>
+      <dc:creator>Brian O. Otieno</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 19:50:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagame, Paul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
     </item>
     <item>
       <title>Yemeni City of Taiz Running Out of Essentials as Houthis Close in</title>
@@ -86,7 +100,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html" rel="standout"></atom:link>
       <description>In a symbolic move, the French Senate approved the repeal of regulations that had remained on the books long after slavery’s abolition.</description>
       <dc:creator>Catherine Porter and Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 17:36:29 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 19:33:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
@@ -104,7 +118,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html" rel="standout"></atom:link>
       <description>Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russia’s interests.</description>
       <dc:creator>Maria Varenikova</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 17:40:11 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 20:39:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -151,14 +165,17 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html" rel="standout"></atom:link>
       <description>The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 16:06:12 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 16:06:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Curfews</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Curfews</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-france-riots-cpkz/20int-france-riots-cpkz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Emma Da Silva/Associated Press</media:credit>
       <media:description>Police officers patrolling during an overnight curfew in Paris early Tuesday.</media:description>
@@ -256,25 +273,6 @@
       <media:description>Defense Secretary Pete Hegseth at an event in Maryland this month. Details of the conversations between Mr. Hegseth and his Israeli counterparts were not immediately clear.</media:description>
     </item>
     <item>
-      <title>Alberta Voters Reject Leaving Canada in Referendum on Separatism</title>
-      <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html" rel="standout"></atom:link>
-      <description>Residents of the province were asked if they wished to remain in Canada or to hold another vote on breaking away, in a referendum that was a win for Prime Minister Mark Carney.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 18:12:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-canada-alberta-vote-sub/20int-canada-alberta-vote-hp-zljc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Todd Korol/Reuters</media:credit>
-      <media:description>Supporters of the Forever Canadian movement, who want Alberta to remain in Canada, in Edmonton, Alberta, on Monday. </media:description>
-    </item>
-    <item>
       <title>The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England</title>
       <link>https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html</guid>
@@ -315,18 +313,106 @@
       <media:description>Residents of Wangaratta, Australia, paid tribute on Tuesday to Helen Haines, a lawmaker who was struck by a car outside her office and is now in a Melbourne hospital. </media:description>
     </item>
     <item>
-      <title>Robert Kabera, Rwandan Government Critic, Beheaded in Uganda</title>
-      <link>https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html" rel="standout"></atom:link>
-      <description>The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.</description>
-      <dc:creator>Brian O. Otieno</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 18:15:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagame, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <title>Art Basel Paris Preview Draws Interest Despite Protests</title>
+      <link>https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html" rel="standout"></atom:link>
+      <description>The Avant-Première preview of the Art Basel Paris fair attracted major collectors despite an escalation of anti-government protests, riots and looting across French cities.</description>
+      <dc:creator>Scott Reyburn</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 21:06:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Art Basel Paris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20cul-art-basel-paris-jmfw/20cul-art-basel-paris-jmfw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Camille McOuat for The New York Times</media:credit>
+      <media:description>The Grand Palais in Paris, site of the Art Basel Paris preview.</media:description>
+    </item>
+    <item>
+      <title>Nigeria Announces First Case of Ebola in Current Outbreak</title>
+      <link>https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html" rel="standout"></atom:link>
+      <description>Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 21:02:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaseya, Jean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abuja (Nigeria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/00int-nigeria-ebola-1-bklc/00int-nigeria-ebola-1-bklc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arlette Bashizi for The New York Times</media:credit>
+      <media:description>Testing for Ebola in the Democratic Republic of Congo, where thousands of people have died in this year’s outbreak. </media:description>
+    </item>
+    <item>
+      <title>China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems</title>
+      <link>https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html" rel="standout"></atom:link>
+      <description>The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 21:55:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of Commerce (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-DeepseekAI-China-cjqh/20int-DeepseekAI-China-cjqh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Florence Lo/Reuters</media:credit>
+      <media:description>A DeepSeek AI sign at the company’s office in Beijing.</media:description>
+    </item>
+    <item>
+      <title>Is Putin’s Waiting Game Working?</title>
+      <link>https://www.nytimes.com/2026/10/20/world/putin-trump-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/putin-trump-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/20/world/putin-trump-ukraine-war.html" rel="standout"></atom:link>
+      <description>Trump’s push for deals and Europe’s political fractures seem to be giving the Russian president the opening he’s been waiting for.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 20:29:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-theworld-top-lcpt/21int-theworld-top-lcpt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>At Mar-a-Lago, Florida, in December 2025.</media:description>
+    </item>
+    <item>
+      <title>The British Police Rearrest Two in Connection With Alleged Terror Plot</title>
+      <link>https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html" rel="standout"></atom:link>
+      <description>The counterterrorism police investigating a threat against an English air base used by U.S. bombers said the two men were working on behalf of Iran.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 20:05:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-uk-arrest-1-lqjc/20int-uk-arrest-1-lqjc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Toby Shepheard/Reuters</media:credit>
+      <media:description>A B‑1B Lancer bomber at the R.A.F. Fairford air base in Fairford, Gloucestershire, England, last month.</media:description>
     </item>
     <item>
       <title>Google Reports Cloud Disruptions in Europe</title>
@@ -341,6 +427,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolut Technologies Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20xp-cloudoutage-mpgb/20xp-cloudoutage-mpgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hannah Mckay/Reuters</media:credit>
       <media:description>A Google office in London. Its cloud services were experiencing intermittent network failures in the region, the company said on Tuesday.</media:description>
@@ -363,13 +450,32 @@
       <media:description>An illegal gold mine in Bajo Cauca area in Antioquia, Colombia, this year. </media:description>
     </item>
     <item>
+      <title>Alberta Voters Reject Leaving Canada in Referendum on Separatism</title>
+      <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html" rel="standout"></atom:link>
+      <description>Residents of the province were asked if they wished to remain in Canada or to hold another vote on breaking away, in a referendum that was a win for Prime Minister Mark Carney.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 20:26:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-canada-alberta-vote-sub/20int-canada-alberta-vote-hp-zljc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Todd Korol/Reuters</media:credit>
+      <media:description>Supporters of the Forever Canadian movement, who want Alberta to remain in Canada, in Edmonton, Alberta, on Monday. </media:description>
+    </item>
+    <item>
       <title>Trump’s Push for Deals With Russia Powers His Frustration With Ukraine</title>
       <link>https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html" rel="standout"></atom:link>
       <description>The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.</description>
       <dc:creator>David E. Sanger</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 07:19:14 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 19:00:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -601,6 +707,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-trump-netanyahu-01-ztlm/19int-trump-netanyahu-01-ztlm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Amir Levy/Getty Images</media:credit>
       <media:description>Prime Minister Benjamin Netanyahu of Israel at a campaign event in Yoqne’am on Saturday.</media:description>
@@ -803,15 +910,18 @@
       <pubDate>Mon, 19 Oct 2026 10:59:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Labor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madagascar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Papua New Guinea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Labor</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/00int-dirty-gold-takeaways-1-tpvl/00int-dirty-gold-takeaways-1-tpvl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">London Bullion Market Assn</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21a2_spotlight_dirtygoldtakeaways/00int-dirty-gold-takeaways-1-tpvl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lynsey Addario for The New York Times</media:credit>
       <media:description>Labor abuses and criminality are not hard to find in the world’s unlicensed gold mines. Assuming someone visits.</media:description>
     </item>
@@ -846,6 +956,9 @@
       <description>The Emirates’ reputation as a haven was shaken by what the authorities said was a plot last month aimed at crashing a flight from Dubai to Tel Aviv.</description>
       <dc:creator>Abdi Latif Dahir and Anjana Sankar</dc:creator>
       <pubDate>Mon, 19 Oct 2026 20:14:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
@@ -853,8 +966,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ras al-Khaimah (United Arab Emirates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kogan, Zvi (d 2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/00int-dubai-israel-1-kzjq/00int-dubai-israel-1-kzjq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Katarina Premfors for The New York Times</media:credit>
       <media:description>Tamar Smulowicz, an Israeli citizen, moved to the United Arab Emirates after the two countries normalized relations. But regional wars and domestic threats are testing a sense of safety for Israelis and Jews.</media:description>
@@ -1007,77 +1119,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-limoges-01-lgtq/18int-france-limoges-01-lgtq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pascal Lachenaud/Agence France-Presse — Getty Images</media:credit>
       <media:description>The city hall in Limoges on Saturday night. The violence in the city, better known for its porcelain than its politics, was among the most surprising episodes of France’s widespread unrest.</media:description>
-    </item>
-    <item>
-      <title>Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks</title>
-      <link>https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html" rel="standout"></atom:link>
-      <description>President Abdel Fattah el-Sisi had called on Egyptian lawmakers to authorize military assistance to the kingdom, saying any support would be defensive.</description>
-      <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 15:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisi, Abdel Fattah el-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-egypt-saudi-gjvh/18int-egypt-saudi-gjvh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fatih Mubarok/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Abdel Fattah el-Sisi of Egypt in Jakarta last week. The National Defense Council, which Mr. el-Sisi leads, said Egypt would provide support to defend Saudi Arabia.</media:description>
-    </item>
-    <item>
-      <title>Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia</title>
-      <link>https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.</description>
-      <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 14:30:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Petersburg (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-ukraine-starshield-01-wlqf/18int-ukraine-starshield-01-wlqf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nicolas Tucat/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Volodymyr Zelensky of Ukraine in Brussels on Friday.</media:description>
-    </item>
-    <item>
-      <title>Pope Leo Addresses the Faithful a Day After Leaving the Hospital</title>
-      <link>https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html" rel="standout"></atom:link>
-      <description>“This experience has made me feel a special closeness to all those who are battling illness and infirmity,” he said, in his first public appearance since his lung surgery.</description>
-      <dc:creator>Motoko Rich and Elisabetta Povoledo</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 02:49:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemelli Hospital (Rome, Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St. Peters Square</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vatican City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-pope-mqkc/18int-pope-mqkc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alessandra Tarantino/Associated Press</media:credit>
-      <media:description>Pope Leo XIV on Sunday in the Apostolic Palace overlooking St. Peter’s Square at the Vatican.</media:description>
     </item>
   </channel>
 </rss>

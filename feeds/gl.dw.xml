@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-20T18:35:00Z</dc:date>
+  <dc:date>2026-10-20T22:05:35Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/zelenskyy-visits-norway-amid-trump-white-house-tensions/a-79717354?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-rdf"/>
@@ -18,7 +20,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-cockroach-protests/a-79709824?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/wagner-brothers-begin-new-nba-chapter-on-different-paths/a-79712668?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf"/>
@@ -29,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/christiane-amanpour-to-leave-cnn-after-43-years/a-79708034?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf"/>
@@ -98,7 +99,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/90s-art-scene-in-the-uk-an-international-edgy-trendsetter/a-79581777?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ronaldo-stays-on-under-cloud-as-messi-exits-internationals/a-79574551?maca=en-rss-en-all-1573-rdf"/>
@@ -154,6 +154,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/zelenskyy-visits-norway-amid-trump-white-house-tensions/a-79717354?maca=en-rss-en-all-1573-rdf">
+  <title>Zelenskyy visits Norway amid Trump White House tensions</title>
+  <link>https://www.dw.com/en/zelenskyy-visits-norway-amid-trump-white-house-tensions/a-79717354?maca=en-rss-en-all-1573-rdf</link>
+  <description>Ukrainian President Zelenskyy met with Norwegian and Finnish leaders in Oslo and held talks with Trump envoys Steve Witkoff and Jared Kushner. Trump is pressuring Zelenskyy to &quot;make a deal&quot; with Russia.</description>
+  <dc:date>2026-10-20T19:48:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79717354</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf">
+  <title>Nigeria records its first Ebola case, in capital Abuja</title>
+  <link>https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf</link>
+  <description>Nigeria has reported its first known case of Ebola during Africa&apos;s latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.</description>
+  <dc:date>2026-10-20T19:08:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79717377</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-rdf">
   <title>Lebanon faces uncertainty as UNIFIL mandate nears end</title>
   <link>https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-rdf</link>
@@ -217,9 +235,9 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79715182</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-rdf">
-  <title>Who are the women powering India&apos;s youth-led protests?</title>
-  <link>https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-cockroach-protests/a-79709824?maca=en-rss-en-all-1573-rdf">
+  <title>Who are the women powering India&apos;s youth-led &apos;Cockroach&apos; protests?</title>
+  <link>https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-cockroach-protests/a-79709824?maca=en-rss-en-all-1573-rdf</link>
   <description>Facing online harassment and police detentions, women are taking to the streets of Indian cities in large numbers for the youth-led &quot;Cockroach&quot; protests. Amid a large-scale crackdown, they refuse to be seen as victims.</description>
   <dc:date>2026-10-20T15:04:00Z</dc:date>
   <dc:subject>World</dc:subject>
@@ -315,15 +333,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79707951</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf">
-  <title>At least four dead after flooding in eastern Spain</title>
-  <link>https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf</link>
-  <description>At least four people have died in Spain as torrential rain has battered the country&apos;s eastern Mediterranean coast. The severe flooding had left more than 450 people stranded on rooftops, in buildings or in cars.</description>
-  <dc:date>2026-10-20T00:32:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79707781</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf">
   <title>Bulgaria seeks suspects in Germany after Starlink sabotage</title>
@@ -936,15 +945,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79570924</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf">
-  <title>German spy scandal threatens national security</title>
-  <link>https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-rdf</link>
-  <description>The arrest of Germany&apos;s former intelligence chief August Hanning could undermine national security, experts warn, as allies may reconsider their intelligence relationships.</description>
-  <dc:date>2026-10-07T12:39:00Z</dc:date>
-  <dc:subject>Germany</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79580000</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-rdf">
   <title>Nobel Prize in chemistry goes to Henri B. Kagan and Kenso Soai</title>

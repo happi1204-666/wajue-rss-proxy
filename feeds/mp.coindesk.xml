@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 18:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:03:40 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -19,9 +19,24 @@
       <link>https://www.coindesk.com/</link>
     </image>
     <item>
-      <title><![CDATA[OKX-ICE’s Andrew Cuomo calls issuer objections a ‘natural response’ to tokenized stock plans]]></title>
+      <title><![CDATA[U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">b2d903e8-67ee-4c72-b382-f089654e2200</guid>
+      <pubDate>Tue, 20 Oct 2026 21:12:21 +0000</pubDate>
+      <description><![CDATA[A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest "super intelligence" technology may impact markets.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans]]></title>
       <link>https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/cd4279f03bab73f6b5b9819d7342d6d6132dde54-674x489.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0102104c2692d915fff79b732d54ff5e49cd7c12-4066x2710.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">b8222b25-6dbc-4c06-a44a-61db874f4f40</guid>
       <pubDate>Tue, 20 Oct 2026 18:26:29 +0000</pubDate>
       <description><![CDATA[The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.]]></description>
@@ -374,19 +389,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Zcash developers plan a fix to keep ZEC swaps private from future quantum computers]]></title>
-      <link>https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">cb50a2f3-2ab0-425e-b94f-2d26f785a90f</guid>
-      <pubDate>Mon, 19 Oct 2026 05:23:02 +0000</pubDate>
-      <description><![CDATA[The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

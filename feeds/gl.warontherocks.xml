@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Mon, 19 Oct 2026 18:07:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Oct 2026 19:27:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,25 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Reading Pyongyang Through the Cracks of the International System</title>
+		<link>https://warontherocks.com/reading-pyongyang-through-the-cracks-of-the-international-system/</link>
+		
+		<dc:creator><![CDATA[Markus Garlauskas]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 19:30:05 +0000</pubDate>
+				<category><![CDATA[Members]]></category>
+		<category><![CDATA[Rewind and Reconnoiter]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48170</guid>
+
+					<description><![CDATA[<p>In 2023, three North Korea analysts identified what they believe most people studying the country get wrong, and how analysts can avoid those traps. Three years later, we asked them to revisit their arguments and offer fresh insights into what North Korean propaganda reveals about Pyongyang&#8217;s priorities.Image: The KremlinIn your 2023&#160;article, you said the key to analyzing North Korean propaganda is identifying what is new and figuring out the reasons for any changes. What changes have you all observed in North Korean propaganda since 2023, and what are the potential reasons for those shifts?&#160;One of the biggest changes since 2023</p>
+<p>The post <a href="https://warontherocks.com/reading-pyongyang-through-the-cracks-of-the-international-system/">Reading Pyongyang Through the Cracks of the International System</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Rachel Minyoung Lee]]></dc:creator>
+<dc:creator><![CDATA[Jonathan Corrado]]></dc:creator>
+	</item>
+		<item>
 		<title>Guns, Growth, and the German Reinvention of Military Keynesianism</title>
 		<link>https://warontherocks.com/guns-growth-and-the-german-reinvention-of-military-keynesianism/</link>
 		
@@ -1921,25 +1940,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 			</item>
-		<item>
-		<title>Beneath the Surface: Overlooked Cyber Security Threats</title>
-		<link>https://warontherocks.com/beneath-the-surface-overlooked-cyber-security-threats/</link>
-		
-		<dc:creator><![CDATA[Emily Harding]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 17:30:16 +0000</pubDate>
-				<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Members]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46472</guid>
-
-					<description><![CDATA[<p>Cyber security remains a persistent concern for public and private sector organizations alike. Given the potential impact of cyber threats from criminal groups, adversarial states, and extremists, the topic draws substantial attention. Yet, in a field that evolves so quickly, some risks slip through the cracks. We asked four experts to identify and assess a key cyber security threat to U.S. national security that analysts and policymakers often overlook.Read more below.&#160;Emily HardingDirector of the Intelligence, National Security, and Technology Program and Vice President of the Defense and Security Department at the Center for Strategic and International Studies Determining the state</p>
-<p>The post <a href="https://warontherocks.com/beneath-the-surface-overlooked-cyber-security-threats/">Beneath the Surface: Overlooked Cyber Security Threats</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Caleb Withers]]></dc:creator>
-<dc:creator><![CDATA[Elad Yoran]]></dc:creator>
-<dc:creator><![CDATA[Andrew Reddie]]></dc:creator>
-	</item>
 	</channel>
 </rss>

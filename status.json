@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:36:20Z",
+  "updated": "2026-10-20T22:05:54Z",
   "status": {
     "gl.nhk": {
       "ok": true,
@@ -490,16 +490,11 @@
     "gn.apnews": {
       "ok": true,
       "name": "Associated Press (Google News 聚合兜底)",
-      "src": "https://news.google.com/rss/search?q=Associated%20Press&hl=en-US&gl=US&ceid=US:en",
+      "src": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
       "error": null,
       "tried": [
         {
           "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
-          "ok": false,
-          "err": "HTTPError: HTTP Error 404: Not Found"
-        },
-        {
-          "url": "https://news.google.com/rss/search?q=Associated%20Press&hl=en-US&gl=US&ceid=US:en",
           "ok": true,
           "err": null
         }
