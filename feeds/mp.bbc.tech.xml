@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 14:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 18:36:04 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Google resolves cloud outage affecting UK banks and websites]]></title>
+            <description><![CDATA[Revolut was one of the hardest hit, with banking services going down for many customers.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo#0</guid>
+            <pubDate>Tue, 20 Oct 2026 18:03:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03a/live/ea64c5b0-ccac-11f1-8789-fd6bb060c3f9.jpg"/>
+        </item>
         <item>
             <title><![CDATA[UK asks Apple to widen access to its payment tech ]]></title>
             <description><![CDATA[Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.]]></description>
@@ -21,14 +29,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqm26zzl0k12o#0</guid>
             <pubDate>Tue, 20 Oct 2026 12:29:24 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500f/live/e6103ea0-cc6a-11f1-baeb-8d65d4bcd7ab.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Google Cloud says 'power event' behind outage hitting UK banks and websites]]></title>
-            <description><![CDATA[It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo#0</guid>
-            <pubDate>Tue, 20 Oct 2026 12:09:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4333/live/71103e60-cc61-11f1-b1a3-5bda642ff934.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors]]></title>
