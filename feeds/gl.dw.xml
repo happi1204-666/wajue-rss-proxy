@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-21T00:44:29Z</dc:date>
+  <dc:date>2026-10-21T05:41:58Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/afd-s-alice-weidel-to-unveil-plan-to-cut-eu-powers-report/a-79717944?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/zelenskyy-visits-norway-amid-trump-white-house-tensions/a-79717354?maca=en-rss-en-all-1573-rdf"/>
@@ -28,9 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-rubio-holds-talks-with-counterpart-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf"/>
@@ -153,6 +153,33 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf">
+  <title>Rising emissions and temperatures: The cost of Trump&apos;s climate retreat is now clear</title>
+  <link>https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf</link>
+  <description>The world is set to breach the critical 1.5-degree temperature limit, with Donald Trump&apos;s US withdrawal from climate action worsening the outlook, according to a UN report. But there is a small silver lining.</description>
+  <dc:date>2026-10-21T05:00:00Z</dc:date>
+  <dc:subject>Climate</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79714915</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf">
+  <title>Elon Musk ordered a slowdown of Starlink in Ukraine — report</title>
+  <link>https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf</link>
+  <description>Elon Musk &quot;capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network,&quot; the Wall Street Journal reported.</description>
+  <dc:date>2026-10-21T03:00:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79718899</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf">
+  <title>UK fighter jets to protect Saudi Arabia from Houthi attacks</title>
+  <link>https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf</link>
+  <description>The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom.</description>
+  <dc:date>2026-10-21T01:23:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79718467</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf">
   <title>Portugal housing protests continue after police clear camps</title>
   <link>https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf</link>
@@ -305,33 +332,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79708491</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-news-rubio-holds-talks-with-counterpart-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Rubio holds talks with counterpart Jaishankar</title>
-  <link>https://www.dw.com/en/india-news-rubio-holds-talks-with-counterpart-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf</link>
-  <description>Marco Rubio&apos;s talks with Indian Foreign Minister Jaishankar come as the two countries struggle to finalize a trade deal.</description>
-  <dc:date>2026-10-20T06:22:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79708492</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf">
-  <title>Canada: Alberta rejects separation bid, CBC projects</title>
-  <link>https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf</link>
-  <description>Voters have decisively rejected a proposal to begin the legal process toward Alberta&apos;s independence, dealing a major blow to a movement driven largely by economic grievances.</description>
-  <dc:date>2026-10-20T06:13:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79708520</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf">
-  <title>Australian MP seriously hurt in suspected car attack</title>
-  <link>https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf</link>
-  <description>Helen Haines, an independent federal lawmaker, suffered severe injuries in what Australia&apos;s prime minister has called a deliberate attack by a man in a car.</description>
-  <dc:date>2026-10-20T06:02:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79697660</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf">
   <title>Bulgaria seeks suspects in Germany after Starlink sabotage</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 00:43:20 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 00:24:59 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:39:19 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 04:48:02 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -51,7 +51,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html" rel="standout"></atom:link>
       <description>“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.</description>
       <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 21:21:15 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 21:21:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
@@ -83,7 +83,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html" rel="standout"></atom:link>
       <description>The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.</description>
       <dc:creator>Saeed Al-Batati and Vivian Nereim</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 14:28:28 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 14:28:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiz (Yemen)</category>
@@ -187,7 +187,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html" rel="standout"></atom:link>
       <description>The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.</description>
       <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 16:32:18 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 16:32:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -313,13 +313,62 @@
       <media:description>Residents of Wangaratta, Australia, paid tribute on Tuesday to Helen Haines, a lawmaker who was struck by a car outside her office and is now in a Melbourne hospital. </media:description>
     </item>
     <item>
+      <title>Modi Seeks to Calm Allies by Shackling Gen Z Protests</title>
+      <link>https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html" rel="standout"></atom:link>
+      <description>Leaders of India’s governing coalition are trying to frame the demonstrations as a power grab by traditional political parties rather than a grass-roots youth movement.</description>
+      <dc:creator>Mujib Mashal, Suhasini Raj and Hari Kumar</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 04:26:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rahul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shah, Amit (1964- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21india-modi-mood-01-gqlb/21india-modi-mood-01-gqlb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <media:description>Security personnel detained protesters in New Delhi this month demanding the resignation of the election commission chief.</media:description>
+    </item>
+    <item>
+      <title>UK to Headphone Dodgers on Trains: Shush</title>
+      <link>https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html" rel="standout"></atom:link>
+      <description>Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 04:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Headphones and Headsets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Noise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs, Etiquette and Manners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-uk-transport-headphones-pwjf/21int-uk-transport-headphones-pwjf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hannah McKay/Reuters</media:credit>
+      <media:description>Traveling on the London subway in April. Prime Minister Andy Burnham announced a national campaign against “one of the most annoying things on public transport” — people blasting music or videos from their phone.</media:description>
+    </item>
+    <item>
       <title>As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit</title>
       <link>https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html" rel="standout"></atom:link>
       <description>Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 00:24:59 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 00:25:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
@@ -360,7 +409,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html" rel="standout"></atom:link>
       <description>Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.</description>
       <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 21:02:50 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 01:01:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
@@ -381,7 +430,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html" rel="standout"></atom:link>
       <description>The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.</description>
       <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 22:24:29 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 03:15:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -403,7 +452,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/putin-trump-ukraine-war.html" rel="standout"></atom:link>
       <description>Trump’s push for deals and Europe’s political fractures seem to be giving the Russian president the opening he’s been waiting for.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 20:29:55 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:48:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
@@ -479,7 +528,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html" rel="standout"></atom:link>
       <description>Residents of the province were asked if they wished to remain in Canada or to hold another vote on breaking away, in a referendum that was a win for Prime Minister Mark Carney.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 20:26:35 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 02:51:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
@@ -1001,7 +1050,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html" rel="standout"></atom:link>
       <description>A U.N.-backed force sent to combat gang violence said it was looking for the soldiers, who were in a gang-controlled area when they were attacked.</description>
       <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 14:49:54 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 14:49:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">400 Mawozo (Gang)</category>
@@ -1078,49 +1127,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-albania-unrest-bwtk/18int-albania-unrest-bwtk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Florion Goga/Reuters</media:credit>
       <media:description>A protester kicking away a tear-gas canister in Tirana, Albania, on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens</title>
-      <link>https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html" rel="standout"></atom:link>
-      <description>Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil.</description>
-      <dc:creator>Ian Austen and Vjosa Isai</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 13:48:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jennifer Gauthier/Reuters</media:credit>
-      <media:description>The gate of the Canadian Forces Base Wainwright on Sunday.</media:description>
-    </item>
-    <item>
-      <title>U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them</title>
-      <link>https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html" rel="standout"></atom:link>
-      <description>Prime Minister Benjamin Netanyahu of Israel has downplayed accounts of recent extremist attacks on Palestinians in the West Bank amid the annual olive harvest.</description>
-      <dc:creator>Aaron Boxerman and Adam Rasgon</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 12:08:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ben-Gvir, Itamar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-israel-violence-kcmp/18int-israel-violence-kcmp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Faiz Abu Rmeleh/Getty Images</media:credit>
-      <media:description>Masked Israeli settlers driving through Abu Falah in the West Bank on Saturday.</media:description>
     </item>
   </channel>
 </rss>
