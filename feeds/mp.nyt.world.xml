@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 20:16:53 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 20:09:25 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 23:29:34 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 23:13:39 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -266,7 +266,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html" rel="standout"></atom:link>
       <description>The 10-foot-long dusky shark, nicknamed “Bukangi,” was successfully guided back to the open ocean after a third rescue attempt.</description>
       <dc:creator>Jin Yu Young</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 13:15:41 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 20:44:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
@@ -275,9 +275,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sharks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-skorea-shark-lfhq/21int-skorea-shark-lfhq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/world/asia/21vid-skorea-shark-cover-image/21vid-skorea-shark-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kim Hong-Ji/Reuters</media:credit>
-      <media:description>Bukangi swimming in a canal in Busan, South Korea, before being guided into the sea on Wednesday. She was stuck for over a month.</media:description>
     </item>
     <item>
       <title>Modi Seeks to Calm Allies by Shackling Gen Z Protests</title>
@@ -334,13 +333,95 @@
       <media:description>Under rules proposed last week, the next advanced A.I. models might need the government’s permission to be exported out of China.</media:description>
     </item>
     <item>
+      <title>El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted</title>
+      <link>https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html" rel="standout"></atom:link>
+      <description>Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back.</description>
+      <dc:creator>Frances Robles</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 23:13:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <media:content height="1308" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/int21-Haiti-bukele-hjbm/int21-Haiti-bukele-hjbm-mediumSquareAt3X.jpg" width="1308"></media:content>
+      <media:credit>Salvador Melendez/Associated Press</media:credit>
+      <media:description>President Nayib Bukele of El Salvador.</media:description>
+    </item>
+    <item>
+      <title>Pope Needs No Further Treatment for Lung Cancer, Doctors Say</title>
+      <link>https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html" rel="standout"></atom:link>
+      <description>Test results after the operation showed that the cancer was localized.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 22:18:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vatican City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uruguay</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-pope-health-qbwz/21int-pope-health-qbwz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tiziana Fabi/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Pope Leo XIV greeting the faithful at St. Peter&#39;s Square on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Thélyson Orélien&#39;s Quebec Publisher Cuts Ties Over A.I. Accusations</title>
+      <link>https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html" rel="standout"></atom:link>
+      <description>Thélyson Orélien, a celebrated novelist, used artificial intelligence while writing a breakout book, his publisher says.</description>
+      <dc:creator>Zane Irwin</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 20:47:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orelien, Thelyson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plagiarism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goncourt Academy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grasset</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-canada-ai-author-lhqz/21int-canada-ai-author-lhqz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nasuna Stuart-Ulin for The New York Times</media:credit>
+      <media:description>Thélyson Orélien in Montreal earlier this year.</media:description>
+    </item>
+    <item>
+      <title>A Debt-Fueled “Doom Loop”</title>
+      <link>https://www.nytimes.com/2026/10/21/world/debt-france-protests-russia-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/debt-france-protests-russia-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/world/debt-france-protests-russia-us.html" rel="standout"></atom:link>
+      <description>Some democracies seem caught in a trap: Spend more and risk market panic, or cut benefits and empower the far right.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 20:41:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hubbard, Stephen James</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/22int-theworld-top2-bmzl/22int-theworld-top2-bmzl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stephanie Lecocq/Reuters</media:credit>
+      <media:description>In Paris on Saturday. </media:description>
+    </item>
+    <item>
       <title>Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future</title>
       <link>https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html" rel="standout"></atom:link>
       <description>Since high school students began protesting in France in September, they’ve been joined by young demonstrators in at least seven other European countries.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 20:09:25 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 21:05:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
@@ -413,15 +494,15 @@
       <description>Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.</description>
       <dc:creator>Matthew Mpoke Bigg</dc:creator>
       <pubDate>Wed, 21 Oct 2026 01:01:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaseya, Jean</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abuja (Nigeria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/00int-nigeria-ebola-1-bklc/00int-nigeria-ebola-1-bklc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
       <media:description>Testing for Ebola in the Democratic Republic of Congo, where thousands of people have died in this year’s outbreak. </media:description>
@@ -969,87 +1050,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-lithuania-starlink-jpcg/19int-lithuania-starlink-jpcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Inna Varenytsia/Reuters</media:credit>
       <media:description>Ukrainian soldiers set up a Starlink satellite internet system near Pokrovsk, in eastern Ukraine, last year.</media:description>
-    </item>
-    <item>
-      <title>Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say</title>
-      <link>https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html" rel="standout"></atom:link>
-      <description>The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.</description>
-      <dc:creator>Saeed Al-Batati and Ismaeel Naar</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 08:53:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <media:content height="1365" medium="image" url="https://static01.nyt.com/images/2026/10/19/world/Yemen-strike/Yemen-strike-mediumSquareAt3X.jpg" width="1365"></media:content>
-      <media:credit>Social Media, via Reuters </media:credit>
-      <media:description>A still from a social media video verified by The New York Times as from Al Alam camp in Shabwa Province, Yemen, after officials said Houthi strikes killed dozens of Yemeni soldiers on Monday.</media:description>
-    </item>
-    <item>
-      <title>Gilbert Bigio, Haitian Tycoon Linked to Gangs, Dies at 91</title>
-      <link>https://www.nytimes.com/2026/10/19/world/americas/gilbert-bigio-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/americas/gilbert-bigio-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/americas/gilbert-bigio-dead.html" rel="standout"></atom:link>
-      <description>Reportedly the wealthiest man in the poorest country in the Western Hemisphere, Gilbert Bigio was sanctioned for ties to criminal gangs. He was 91.</description>
-      <dc:creator>Adam Nossiter</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 00:34:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bigio, Gilbert (1935-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pandora Papers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Consortium of Investigative Journalists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Biscayne Bay (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indian Creek (Fla)</category>
-    </item>
-    <item>
-      <title>Priest in Ecuador Dies After Crucifix Falls on Him During Livestreamed Mass</title>
-      <link>https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html" rel="standout"></atom:link>
-      <description>The Rev. Patricio Alfredo Sánchez Molinari was addressing his congregation in Guayaquil, Ecuador, when a wooden cross detached from a wall and struck him.</description>
-      <dc:creator>Karla Adam</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 22:54:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crosses and Crucifixes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guayaquil (Ecuador)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-    </item>
-    <item>
-      <title>Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says</title>
-      <link>https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky said he didn’t want to believe that Washington wanted an end to the war at Ukraine’s expense. “But that’s how it looks,” he added.</description>
-      <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 12:39:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-zelensky-trump-01-kwtp/19int-zelensky-trump-01-kwtp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Efrem Lukatsky/Associated Press</media:credit>
-      <media:description>Damage from a Russian attack in Kyiv, Ukraine, on Monday. The country has complained about what it describes as lapses in U.S. intelligence sharing before attacks.</media:description>
     </item>
   </channel>
 </rss>
