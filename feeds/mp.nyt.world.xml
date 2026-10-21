@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 22:02:30 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 21:55:59 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:43:20 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 00:24:59 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -69,7 +69,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html" rel="standout"></atom:link>
       <description>The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.</description>
       <dc:creator>Brian O. Otieno</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 19:50:30 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 22:22:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
@@ -239,7 +239,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html" rel="standout"></atom:link>
       <description>The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.</description>
       <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 12:30:00 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 23:31:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -313,13 +313,36 @@
       <media:description>Residents of Wangaratta, Australia, paid tribute on Tuesday to Helen Haines, a lawmaker who was struck by a car outside her office and is now in a Melbourne hospital. </media:description>
     </item>
     <item>
+      <title>As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit</title>
+      <link>https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html" rel="standout"></atom:link>
+      <description>Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:24:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Edmonton (Alberta)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Calgary (Alberta)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-canada-carney-assess-kcbf/20int-canada-carney-assess-kcbf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Todd Korol/Reuters</media:credit>
+      <media:description>Prime Minister Mark Carney of Canada, center, with supporters of Alberta’s staying in Canada in Red Deer, Alberta, last Friday.</media:description>
+    </item>
+    <item>
       <title>Art Basel Paris Preview Draws Interest Despite Protests</title>
       <link>https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html" rel="standout"></atom:link>
       <description>The Avant-Première preview of the Art Basel Paris fair attracted major collectors despite an escalation of anti-government protests, riots and looting across French cities.</description>
       <dc:creator>Scott Reyburn</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 21:06:32 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 22:15:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
@@ -358,7 +381,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html" rel="standout"></atom:link>
       <description>The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.</description>
       <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 21:55:59 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 22:24:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -662,10 +685,10 @@
       <atom:link href="https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html" rel="standout"></atom:link>
       <description>The Rev. Patricio Alfredo Sánchez Molinari was addressing his congregation in Guayaquil, Ecuador, when a wooden cross detached from a wall and struck him.</description>
       <dc:creator>Karla Adam</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 22:54:53 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 22:54:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Crosses and Crucifixes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guayaquil (Ecuador)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
@@ -1098,27 +1121,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-israel-violence-kcmp/18int-israel-violence-kcmp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Faiz Abu Rmeleh/Getty Images</media:credit>
       <media:description>Masked Israeli settlers driving through Abu Falah in the West Bank on Saturday.</media:description>
-    </item>
-    <item>
-      <title>The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.</title>
-      <link>https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html" rel="standout"></atom:link>
-      <description>As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall.</description>
-      <dc:creator>Giulia Imbert</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 14:27:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Limoges (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-limoges-01-lgtq/18int-france-limoges-01-lgtq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pascal Lachenaud/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The city hall in Limoges on Saturday night. The violence in the city, better known for its porcelain than its politics, was among the most surprising episodes of France’s widespread unrest.</media:description>
     </item>
   </channel>
 </rss>

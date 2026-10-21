@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Tue, 20 Oct 2026 22:10:10 +0200</lastBuildDate>
-  <pubDate>Tue, 20 Oct 2026 22:10:10 +0200</pubDate>
+  <lastBuildDate>Wed, 21 Oct 2026 00:27:54 +0200</lastBuildDate>
+  <pubDate>Wed, 21 Oct 2026 00:27:54 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Severe weather in southern France: one dead near Marseille, one missing in Corsica</title>
+   <link>https://www.euronews.com/2026/10/21/severe-weather-in-southern-france-one-dead-near-marseille-one-missing-in-corsica</link>
+   <guid>https://www.euronews.com/2026/10/21/severe-weather-in-southern-france-one-dead-near-marseille-one-missing-in-corsica</guid>
+   <pubDate>Wed, 21 Oct 2026 00:27:54 +0200</pubDate>
+   <description>In Haute-Corse, a person went missing in Ghisonaccia on Tuesday evening; another was found dead in Saint-Mitre-les-Remparts in the Bouches-du-Rhône.</description>
+  </item>
   <item>
    <title>'Time to make a deal,' Trump tells Zelenskyy as he complains US has got 'nothing back' from Ukraine</title>
    <link>https://www.euronews.com/2026/10/20/time-to-make-a-deal-trump-tells-zelenskyy-as-he-complains-us-has-got-nothing-back-from-ukr</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/10/20/spain-versus-morocco-this-is-how-the-military-forces-of-both-countries-stand-in-2026</guid>
    <pubDate>Tue, 20 Oct 2026 09:37:44 +0200</pubDate>
    <description>Spain spends three times more on defence than Morocco and leads in air and naval power, but Rabat has more troops and rockets. US-backed rearmament boosts its strength and narrows the gap.</description>
-  </item>
-  <item>
-   <title>France presses resale platforms to remove 'stolen' goods after unrest</title>
-   <link>https://www.euronews.com/2026/10/20/france-presses-resale-platforms-to-remove-stolen-goods-after-unrest</link>
-   <guid>https://www.euronews.com/2026/10/20/france-presses-resale-platforms-to-remove-stolen-goods-after-unrest</guid>
-   <pubDate>Tue, 20 Oct 2026 09:27:11 +0200</pubDate>
-   <description>France's digital minister on Monday urged online resale platforms to remove listings for &quot;stolen items&quot; following Saturday's looting and summoned representatives of companies including Vinted and eBay for talks.</description>
   </item>
  </channel>
 </rss>
