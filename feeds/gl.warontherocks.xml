@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Oct 2026 13:14:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Oct 2026 17:28:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,27 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Fighting in Ethiopia and the Risk of Regional Spillover</title>
+		<link>https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/</link>
+		
+		<dc:creator><![CDATA[William Davison]]></dc:creator>
+		<pubDate>Wed, 21 Oct 2026 17:40:20 +0000</pubDate>
+				<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Members]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48188</guid>
+
+					<description><![CDATA[<p>In September, fighting broke out in Ethiopia&#8217;s Tigray region between Ethiopian government forces and the Tigray People&#8217;s Liberation Front (TPLF), effectively collapsing the 2022 peace deal. In October, Ethiopian forces recaptured an airport and towns from the TPLF and started moving closer to the border with Eritrea. The renewed conflict raised concerns about both increased instability within Ethiopia &#8212; particularly as the TPLF joined with several other armed groups under a new Alliance for Survival &#8212; and the potential for a new war between Ethiopia and Eritrea. Ethiopia accused Eritrea of supporting the TPLF and sending its own forces across</p>
+<p>The post <a href="https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/">Fighting in Ethiopia and the Risk of Regional Spillover</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[François Christophe]]></dc:creator>
+<dc:creator><![CDATA[Natascha Hryckow]]></dc:creator>
+<dc:creator><![CDATA[Alan Boswell]]></dc:creator>
+<dc:creator><![CDATA[H.A. Hellyer]]></dc:creator>
+	</item>
+		<item>
 		<title>Establishing Battery Supply Chain Resilience for Drones</title>
 		<link>https://warontherocks.com/cogs-of-war/establishing-battery-supply-chain-resilience-for-drones/</link>
 		
@@ -1922,27 +1943,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 			</item>
-		<item>
-		<title>The Quantum Stack and the Countdown to Q-Day</title>
-		<link>https://warontherocks.com/cogs-of-war/the-quantum-stack-and-the-countdown-to-q-day/</link>
-		
-		<dc:creator><![CDATA[Cameron Chehreh]]></dc:creator>
-		<pubDate>Mon, 31 Aug 2026 08:00:43 +0000</pubDate>
-				<category><![CDATA[Cogs of War]]></category>
-		<category><![CDATA[Defense Policy]]></category>
-		<category><![CDATA[Defense Tech]]></category>
-		<category><![CDATA[U.S.-Chinese Competition]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46410</guid>
-
-					<description><![CDATA[<p>Quantum&#8217;s hype obscures a reality with real geopolitical stakes: the technology works and is advancing every day. Cameron Chehreh (IonQ), JD Dulny (Booz Allen), and Ben Gianni (GDIT) join Jonathan to discuss the race to Q-Day. They cover the shift to post-quantum cryptography, competing hardware modalities, emerging use cases, and why talent gaps and fragile supply chains mean the United States could be at risk of falling behind.Image: Jonathan Steffen via DVIDS.</p>
-<p>The post <a href="https://warontherocks.com/cogs-of-war/the-quantum-stack-and-the-countdown-to-q-day/">The Quantum Stack and the Countdown to Q-Day</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[JD Dulny]]></dc:creator>
-<dc:creator><![CDATA[Ben Gianni]]></dc:creator>
-<dc:creator><![CDATA[Jonathan Panter]]></dc:creator>
-	</item>
 	</channel>
 </rss>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 15:54:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:11:51 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Trump to throw spotlight on overseas crypto abuses at White House event]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">1f4749ee-8df5-4c6f-b5eb-0c42b70ee943</guid>
+      <pubDate>Wed, 21 Oct 2026 16:23:44 +0000</pubDate>
+      <description><![CDATA[The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organizations.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Donald Trump]]></category>
+      <category domain="tag"><![CDATA[Fraud]]></category>
+      <category domain="tag"><![CDATA[Crime]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal]]></title>
       <link>https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal</link>
@@ -150,7 +166,7 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher]]></title>
+      <title><![CDATA[Live updates: Bitcoin rises to $84,000, but rally cut short by Middle East worry]]></title>
       <link>https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures</link>
       <guid isPermaLink="false">d34e70c4-381f-4e45-9b95-8d904dac900f</guid>
       <pubDate>Wed, 21 Oct 2026 10:30:40 +0000</pubDate>
@@ -369,22 +385,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Tokenization]]></category>
       <category domain="tag"><![CDATA[Tokenized Equities]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[France's parliament approves vote to hit stablecoin trades with 31% capital gains tax]]></title>
-      <link>https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/878176819e13d700e6a3e6c6561c28fff13b2e51-4794x3595.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">ca26ee92-6c4e-4ff6-8dae-4beaaad3f250</guid>
-      <pubDate>Tue, 20 Oct 2026 11:25:00 +0000</pubDate>
-      <description><![CDATA[Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027.]]></description>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="tag"><![CDATA[Tax]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

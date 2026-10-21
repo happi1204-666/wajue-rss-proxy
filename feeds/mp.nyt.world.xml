@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 15:58:58 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 15:55:05 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:16:53 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 20:09:25 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -47,7 +47,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/21/france-riots-court-trials.html" rel="standout"></atom:link>
       <description>At the Tribunal de Paris, judges have supervised a carousel of expedited and often chaotic hearings for those detained during recent unrest.</description>
       <dc:creator>Catherine Porter and Giulia Imbert</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 15:54:03 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 16:47:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -91,7 +91,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html" rel="standout"></atom:link>
       <description>Struggling against each other on the battlefield, the sides in Sudan’s civil war are relying on drones to strike across vast distances, inflicting huge tolls on civilians in the process.</description>
       <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 15:32:29 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 16:51:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
@@ -101,15 +101,17 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sudanese Armed Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
+      <media:content height="919" medium="image" url="https://static01.nyt.com/images/2026/10/21/video/21vid-sudan-screengrab/21vid-sudan-screengrab-mediumSquareAt3X.png" width="918"></media:content>
+      <media:credit>Aweil News Agency, via Associated Press</media:credit>
     </item>
     <item>
       <title>Macron Says Trump Does Not Like France and Distorts Its Troubles</title>
-      <link>https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html" rel="standout"></atom:link>
       <description>Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 15:26:39 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 19:16:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
@@ -119,9 +121,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Benoit Tessier</media:credit>
       <media:description>President Emmanuel Macron of France in Lusail, Qatar, on Wednesday. “All the people who are speaking ill of our country right now are people who don’t like our country,” he said.</media:description>
+    </item>
+    <item>
+      <title>Delhi’s Winter Season of Polluted Air Begins</title>
+      <link>https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html" rel="standout"></atom:link>
+      <description>As air quality plummeted in India’s largest city, the government said it would act to curtail the haze that blankets the capital every winter.</description>
+      <dc:creator>Anupreeta Das</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 17:32:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-india-kzvm/21int-india-kzvm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>PTI, via Associated Press</media:credit>
+      <media:description>Hazy skies in New Delhi on Wednesday.</media:description>
     </item>
     <item>
       <title>Australian Politicians Were Already on Edge Before One of Their Own Was Attacked</title>
@@ -175,7 +196,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html" rel="standout"></atom:link>
       <description>Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.</description>
       <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 15:42:11 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 19:03:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
@@ -196,7 +217,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html" rel="standout"></atom:link>
       <description>Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.</description>
       <dc:creator>Siobhán O’Grady, Carlotta Gall and Anton Troianovski</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 15:40:41 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 17:11:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
@@ -221,7 +242,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html" rel="standout"></atom:link>
       <description>Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 00:25:00 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 17:06:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Danielle (1971- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
@@ -233,6 +254,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Edmonton (Alberta)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Calgary (Alberta)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1785" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-canada-carney-assess-kcbf/20int-canada-carney-assess-kcbf-mediumSquareAt3X-v3.jpg" width="1785"></media:content>
       <media:credit>Todd Korol/Reuters</media:credit>
       <media:description>Prime Minister Mark Carney of Canada, center, with supporters of Alberta’s staying in Canada in Red Deer, Alberta, last Friday.</media:description>
@@ -264,7 +286,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html" rel="standout"></atom:link>
       <description>Leaders of India’s governing coalition are trying to frame the demonstrations as a power grab by traditional political parties rather than a grass-roots youth movement.</description>
       <dc:creator>Mujib Mashal, Suhasini Raj and Hari Kumar</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 04:26:12 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 18:59:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
@@ -312,34 +334,27 @@
       <media:description>Under rules proposed last week, the next advanced A.I. models might need the government’s permission to be exported out of China.</media:description>
     </item>
     <item>
-      <title>France Protests Show Europe’s Shift Away From Centrist Politics</title>
-      <link>https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html" rel="standout"></atom:link>
-      <description>Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.</description>
-      <dc:creator>Steven Erlanger</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 12:59:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Populism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alternative for Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christian Democratic Union (Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Left Party (Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Acemoglu, Daron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rottgen, Norbert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <title>Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future</title>
+      <link>https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html" rel="standout"></atom:link>
+      <description>Since high school students began protesting in France in September, they’ve been joined by young demonstrators in at least seven other European countries.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 20:09:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-europe-democracy-analysis-lvhw/20int-europe-democracy-analysis-lvhw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kiran Ridley/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A burned-out vehicle on Rue Yves Toudic in Paris on Monday after a weekend of rioting.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-europe-protests-bjlw/21int-europe-protests-bjlw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angelos Tzortzinis/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters against the high cost of living in Athens, Greece, on Wednesday.</media:description>
     </item>
     <item>
       <title>Death Toll From Venezuela Quakes Likely Far Exceeds Official Count</title>
@@ -519,16 +534,14 @@
       <dc:creator>Maria Varenikova</dc:creator>
       <pubDate>Tue, 20 Oct 2026 20:39:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-ukraine-trump-01-mzqw/20int-ukraine-trump-01-mzqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
       <media:description>President Volodymyr Zelensky of Ukraine at the European Union summit in Brussels last week.</media:description>
@@ -662,6 +675,36 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-france-riots-cpkz/20int-france-riots-cpkz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Emma Da Silva/Associated Press</media:credit>
       <media:description>Police officers patrolling during an overnight curfew in Paris early Tuesday.</media:description>
+    </item>
+    <item>
+      <title>France Protests Show Europe’s Shift Away From Centrist Politics</title>
+      <link>https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html" rel="standout"></atom:link>
+      <description>Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 12:59:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Populism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alternative for Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christian Democratic Union (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Left Party (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Acemoglu, Daron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rottgen, Norbert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-europe-democracy-analysis-lvhw/20int-europe-democracy-analysis-lvhw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kiran Ridley/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A burned-out vehicle on Rue Yves Toudic in Paris on Monday after a weekend of rioting.</media:description>
     </item>
     <item>
       <title>The Mayor of a City in Haiti Warned of a Massacre. No One Listened.</title>
@@ -1007,66 +1050,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-zelensky-trump-01-kwtp/19int-zelensky-trump-01-kwtp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Efrem Lukatsky/Associated Press</media:credit>
       <media:description>Damage from a Russian attack in Kyiv, Ukraine, on Monday. The country has complained about what it describes as lapses in U.S. intelligence sharing before attacks.</media:description>
-    </item>
-    <item>
-      <title>Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?</title>
-      <link>https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html" rel="standout"></atom:link>
-      <description>President Trump said Benjamin Netanyahu was a “Great Warrior,” as he faces a tough re-election bid for prime minister. But the Trump brand is not what it once was in Israel, analysts say.</description>
-      <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 14:21:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-trump-netanyahu-01-ztlm/19int-trump-netanyahu-01-ztlm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amir Levy/Getty Images</media:credit>
-      <media:description>Prime Minister Benjamin Netanyahu of Israel at a campaign event in Yoqne’am on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Israeli Police Detain 10 Over Violent Settler Attacks in West Bank</title>
-      <link>https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html" rel="standout"></atom:link>
-      <description>Israel has faced pressure, including from the United States, to investigate the attacks. Rights groups say most inquiries into extremist assaults on Palestinians go nowhere.</description>
-      <dc:creator>Aaron Boxerman</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 17:33:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19westbank-arrests-01-zwmg/19westbank-arrests-01-zwmg-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Ammar Awad/Reuters</media:credit>
-      <media:description>Masked Israeli settlers attacked Palestinians as they stormed an olive grove during the annual harvest in the Israeli-occupied West Bank on Friday.</media:description>
-    </item>
-    <item>
-      <title>France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting</title>
-      <link>https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html" rel="standout"></atom:link>
-      <description>The interior minister acknowledged that the police were underprepared for the scale of the riots. But Prime Minister Sébastien Lecornu defended their efforts and pledged to restore order.</description>
-      <dc:creator>Catherine Porter and Ségolène Le Stradic</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 19:25:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Curfews</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darmanin, Gerald</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nunez, Laurent</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nice (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lille (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-france-protests-hpjv/19int-france-protests-hpjv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Carl Court/Getty Images</media:credit>
-      <media:description>Police officers in Paris during protests on Saturday.</media:description>
     </item>
   </channel>
 </rss>
