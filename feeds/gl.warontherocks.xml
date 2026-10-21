@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 20 Oct 2026 19:27:34 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Oct 2026 13:14:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,28 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Establishing Battery Supply Chain Resilience for Drones</title>
+		<link>https://warontherocks.com/cogs-of-war/establishing-battery-supply-chain-resilience-for-drones/</link>
+		
+		<dc:creator><![CDATA[Morgan Bazilian]]></dc:creator>
+		<pubDate>Wed, 21 Oct 2026 08:00:11 +0000</pubDate>
+				<category><![CDATA[Cogs of War]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Defense Industry]]></category>
+		<category><![CDATA[Drones]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48144</guid>
+
+					<description><![CDATA[<p>Militaries have spent more than a century operating with fuel and ammunition as limits of combat endurance. They are only beginning to treat batteries with the same operational seriousness, as small unmanned systems move from niche equipment to mass-consumption weapons. Recent bipartisan supply diversification efforts by Congress, the administration, and the Department of Defense provide initial momentum to ensure supply chain independence and resilience for drone batteries. Further targeted efforts can accelerate the establishment of a competitive, advanced battery and cell domestic and allied industrial base.A drone battery can occupy three logistical categories at once. For a reusable reconnaissance drone,</p>
+<p>The post <a href="https://warontherocks.com/cogs-of-war/establishing-battery-supply-chain-resilience-for-drones/">Establishing Battery Supply Chain Resilience for Drones</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Alex Gilbert]]></dc:creator>
+<dc:creator><![CDATA[Aashutosh Mistry]]></dc:creator>
+	</item>
+		<item>
 		<title>Tehran is a Different Beast Now</title>
 		<link>https://warontherocks.com/tehran-is-a-different-beast-now/</link>
 		
@@ -1922,24 +1944,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <dc:creator><![CDATA[Ben Gianni]]></dc:creator>
 <dc:creator><![CDATA[Jonathan Panter]]></dc:creator>
 	</item>
-		<item>
-		<title>Stop Using AI. Start Commanding It</title>
-		<link>https://warontherocks.com/stop-using-ai-start-commanding-it/</link>
-		
-		<dc:creator><![CDATA[Cody Nichols]]></dc:creator>
-		<pubDate>Mon, 31 Aug 2026 07:30:52 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Command and Control]]></category>
-		<category><![CDATA[Future Warfare]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46371</guid>
-
-					<description><![CDATA[<p>Walk into the Pentagon, climb the escalator, and an Uncle Sam-style poster points at you: &#8220;I want YOU to use AI.&#8221; It worked. GenAI.mil hit 1.5 million users in six months, and I have heard enough OpenAI-in-disguise pitches to last a lifetime. The adoption really is great, but the poster contains a problem. &#8220;Use&#8221; is the verb of tools, and the Department of Defense does not win by using tools. It wins by commanding forces.North of the Pentagon, a task force few know about operates in a Maryland basement. They collect intelligence, develop missions, and execute against targets 24/7 within</p>
-<p>The post <a href="https://warontherocks.com/stop-using-ai-start-commanding-it/">Stop Using AI. Start Commanding It</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>

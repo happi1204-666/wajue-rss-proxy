@@ -7,10 +7,16 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
-   <title>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
-   <pubDate>Wed, 21 Oct 2026 10:59:42 GMT</pubDate>
-   <link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
-   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</guid>
+   <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
+   <pubDate>Wed, 21 Oct 2026 14:58:18 GMT</pubDate>
+   <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
+  </item>
+  <item>
+   <title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
+   <pubDate>Wed, 21 Oct 2026 12:51:24 GMT</pubDate>
+   <link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/kumo-forecast</guid>
   </item>
   <item>
    <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
@@ -53,12 +59,6 @@
    <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
    <link>https://huggingface.co/blog/reflection-beam</link>
    <guid isPermaLink="true">https://huggingface.co/blog/reflection-beam</guid>
-  </item>
-  <item>
-   <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
-   <pubDate>Thu, 15 Oct 2026 20:34:01 GMT</pubDate>
-   <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-   <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
   </item>
   <item>
    <title>Apertus 1.5 Release Notes</title>
