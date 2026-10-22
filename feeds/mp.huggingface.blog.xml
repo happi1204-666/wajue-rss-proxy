@@ -7,6 +7,12 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
+   <title>Ensemble forecasting with IBM Granite time-series models</title>
+   <pubDate>Thu, 22 Oct 2026 07:51:31 GMT</pubDate>
+   <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
+  </item>
+  <item>
    <title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
    <pubDate>Wed, 21 Oct 2026 18:26:30 GMT</pubDate>
    <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
@@ -35,12 +41,6 @@
    <pubDate>Tue, 20 Oct 2026 16:09:19 GMT</pubDate>
    <link>https://huggingface.co/blog/allenai/fairstress</link>
    <guid isPermaLink="false">https://huggingface.co/blog/allenai/fairstress</guid>
-  </item>
-  <item>
-   <title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
-   <pubDate>Tue, 20 Oct 2026 15:19:48 GMT</pubDate>
-   <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
-   <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
   </item>
   <item>
    <title>Hugging Face ❤️ TorchTPU: TPUs, Natively</title>
