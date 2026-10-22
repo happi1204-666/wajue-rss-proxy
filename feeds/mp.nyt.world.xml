@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 23:29:34 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 23:13:39 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:15:45 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 03:08:01 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -333,6 +333,25 @@
       <media:description>Under rules proposed last week, the next advanced A.I. models might need the government’s permission to be exported out of China.</media:description>
     </item>
     <item>
+      <title>Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof</title>
+      <link>https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html" rel="standout"></atom:link>
+      <description>A southern cassowary at the Adelaide Zoo has laid eggs there for the first time in 34 years, after a carefully managed breeding process.</description>
+      <dc:creator>Jennifer Sinco Kelleher</dc:creator>
+      <pubDate>Thu, 22 Oct 2026 01:32:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Adelaide (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eggs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21xp-egg-04/21xp-egg-04-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Zoos South Australia</media:credit>
+      <media:description>There have been fewer than 10 southern cassowary chicks in the last 10 years at Australia’s other zoos.</media:description>
+    </item>
+    <item>
       <title>El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted</title>
       <link>https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html</guid>
@@ -482,7 +501,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Art Basel Paris</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20cul-art-basel-paris-jmfw/20cul-art-basel-paris-jmfw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/20cul-art-basel-paris-jmfw/20cul-art-basel-paris-jmfw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Camille McOuat for The New York Times</media:credit>
       <media:description>The Grand Palais in Paris, site of the Art Basel Paris preview.</media:description>
     </item>
@@ -1023,33 +1042,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-kenya-cult-ruling-02-wfgl/19int-kenya-cult-ruling-02-wfgl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Paul Nthenge Mackenzie, a doomsday cult leader, at the Shanzu Law Courts in Mombasa, Kenya, in January. He was accused of mass murder after telling followers to starve themselves.</media:description>
-    </item>
-    <item>
-      <title>Fire at Starlink Center in Lithuania Was Sabotage, Officials Say</title>
-      <link>https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html" rel="standout"></atom:link>
-      <description>The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.</description>
-      <dc:creator>Lara Jakes</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 18:33:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lithuania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain=""></category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabotage (Crime)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-lithuania-starlink-jpcg/19int-lithuania-starlink-jpcg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Inna Varenytsia/Reuters</media:credit>
-      <media:description>Ukrainian soldiers set up a Starlink satellite internet system near Pokrovsk, in eastern Ukraine, last year.</media:description>
     </item>
   </channel>
 </rss>

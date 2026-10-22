@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-21T23:29:37Z</dc:date>
+  <dc:date>2026-10-22T03:16:13Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-afd-s-weidel-calls-for-major-eu-reforms/live-79719483?maca=en-rss-en-all-1573-rdf"/>
@@ -28,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-india-us-trade-deal-pretty-close-says-trump/live-79719383?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-rdf"/>
@@ -77,8 +79,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236?maca=en-rss-en-all-1573-rdf"/>
@@ -143,9 +143,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/could-flattering-ai-make-humanity-turn-on-itself/a-79377894?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/el-nino-explained-how-the-weather-pattern-affects-hurricanes-and-tropical-storms/a-79382511?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -155,10 +152,37 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-rdf">
+  <title>Austrian, Swiss women kidnapped in Niger are freed — report</title>
+  <link>https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-rdf</link>
+  <description>An Austrian woman and a Swiss woman kidnapped in Niger have been freed after 18 months in captivity, local reports say.</description>
+  <dc:date>2026-10-22T02:54:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79727419</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf">
+  <title>US orders some diplomats to leave Saudi Arabia amid Houthi threat</title>
+  <link>https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US State Department has asked some US diplomats to leave Saudi Arabia because of the threat of Houthi attacks on the Gulf kingdom.</description>
+  <dc:date>2026-10-22T01:48:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79727353</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-rdf">
+  <title>Pope Leo will not need further cancer treatment — Vatican</title>
+  <link>https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-rdf</link>
+  <description>Pope Leo&apos;s lung cancer surgery last week was a success, the Vatican said. The pope broke with traditions of secrecy around papal health issues after announcing he needed surgery to remove a nodule on his lung.</description>
+  <dc:date>2026-10-21T23:47:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79727154</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf">
   <title>German youth plan France-style mass protests</title>
   <link>https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf</link>
-  <description>A youth-led movement in Germany has called for demonstrations in major cities of the country on October 31.</description>
+  <description>A youth-led movement in Germany has called for demonstrations in major cities of the country on October 31. The group has categorically distanced itself from the violence that took hold in France.</description>
   <dc:date>2026-10-21T23:11:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -167,7 +191,7 @@
  <item rdf:about="https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf">
   <title>France bans protests in parts of Paris as Macron slams Trump</title>
   <link>https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf</link>
-  <description>French President Emmanuel Macron railed against &quot;stupid&quot; comments made by foreign leaders for their political gains. Meanwhile, Paris police are set to extend restrictions on gatherings in parts of the city on Thursday.</description>
+  <description>French President Emmanuel Macron railed against &quot;stupid&quot; comments made by foreign leaders for their political purposes. Plus, Paris police are set to extend restrictions on gatherings in parts of the city on Thursday.</description>
   <dc:date>2026-10-21T22:32:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -307,15 +331,6 @@
   <dc:subject>Climate</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79714915</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf">
-  <title>Elon Musk ordered a slowdown of Starlink in Ukraine — report</title>
-  <link>https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf</link>
-  <description>Elon Musk &quot;capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network,&quot; the Wall Street Journal reported.</description>
-  <dc:date>2026-10-21T03:00:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79718899</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf">
   <title>UK fighter jets to protect Saudi Arabia from Houthi attacks</title>
@@ -748,24 +763,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79653869</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine and the US: What&apos;s next after Trump&apos;s diesel deal with Russia?</title>
-  <link>https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf</link>
-  <description>Donald Trump plans to allow the purchase of Russian diesel, drawing criticism at home and abroad. What is behind the US president&apos;s decision and what should Ukraine do next? DW spoke with experts.</description>
-  <dc:date>2026-10-13T18:51:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79650785</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf">
-  <title>Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia</title>
-  <link>https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf</link>
-  <description>Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move but critics warn of espionage risks and further damage to trust within NATO.</description>
-  <dc:date>2026-10-13T12:04:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79649641</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-rdf">
   <title>Formula 1: Rwanda to bring sport back to Africa</title>
@@ -1342,32 +1339,5 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79319937</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss-en-all-1573-rdf">
-  <title>Living in the shadow of LA&apos;s hidden oil wells</title>
-  <link>https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss-en-all-1573-rdf</link>
-  <description>Many lifelong residents of Los Angeles have health impacts from growing up close to oil extraction. Now, the city is trying to close down the worst offenders, but it&apos;s an enormous task.</description>
-  <dc:date>2026-09-22T13:34:00Z</dc:date>
-  <dc:subject>Climate</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79237420</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-rdf">
-  <title>Male infertility is &apos;grossly underreported&apos;</title>
-  <link>https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-rdf</link>
-  <description>It&apos;s not all on women anymore — doctors do test men for sperm count and motility. But still too few men get checked, possibly due to a misconception that a healthy sex life means healthy sperm. Spoiler: It doesn&apos;t.</description>
-  <dc:date>2026-09-22T10:00:00Z</dc:date>
-  <dc:subject>Science</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79368722</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-all-1573-rdf">
-  <title>Will Germany have enough gas this winter amid energy supply crunch?</title>
-  <link>https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-all-1573-rdf</link>
-  <description>Germany&apos;s gas storage sites are far less full than in recent years. Officials say supplies are secure, but analysts warn that a cold winter or import disruptions could push prices higher. So how secure is the supply?</description>
-  <dc:date>2026-09-22T08:25:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79360317</dwsyn:contentID>
  </item>
 </rdf:RDF>
