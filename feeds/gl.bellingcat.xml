@@ -12,7 +12,7 @@
 	<atom:link href="https://www.bellingcat.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.bellingcat.com/</link>
 	<description>the home of online investigations</description>
-	<lastBuildDate>Thu, 22 Oct 2026 11:06:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Oct 2026 21:54:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -235,7 +235,7 @@
 
 
 
-<p class="wp-block-paragraph"><br>While in this instance the supercharged models got the exact spot there were other instances where they did not, as the results in the table above show. This again emphasises that even with extra skill sets added these models were still far from infallible.</p>
+<p class="wp-block-paragraph">This is not an exceptionally hard geolocation, and 11 of 17 models answered within 5km of the actual capture <a href="https://www.google.com/maps/place/Venice,+Metropolitan+City+of+Venice,+Italy/@45.4275458,12.3815659,107m/data=!3m1!1e3!4m6!3m5!1s0x477eb1daf1d63d89:0x7ba3c6f0bd92102f!8m2!3d45.440379!4d12.3159547!16zL20vMDdfcGY?entry=ttu&amp;g_ep=EgoyMDI2MTAxOC4wIKXMDSoASAFQAw%3D%3D">location</a> in Venice, Italy. GPT-Sol answered with the correct monastery, but only Bellingcat’s agent and GeoSleuth answered with the exact camera position coordinates. This was possible because both model customisations can download and compare satellite imagery tiles, which allows them to validate not just which monastery the photo was taken at but also the correct courtyard position and orientation from visual cues. You can click the buttons in the list below to audit each model’s final answer.</p>
 
 
 
@@ -243,7 +243,7 @@
 
 
 
-<p class="wp-block-paragraph">While in this instance the supercharged models got the exact spot, there were other instances where they did not, as the results in the <a href="https://app.flourish.studio/visualisation/30570641/edit">table above</a> shows. This again emphasises that even with extra skill sets added, these models were still far from infallible.</p>
+<p class="wp-block-paragraph">While in this instance the supercharged models got the exact spot, there were other instances where they did not, as the scores in the <a href="https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/#:~:text=GeoGuessr%20Score%2C%20with%20only%20Argon%20ranking%20above%20Bellingcat%E2%80%99s%20agent%20in%20Mean%20Log%20Score.">results table above</a> show. This again emphasises that even with extra skill sets added, these models were still far from infallible.</p>
 
 
 
@@ -3370,5 +3370,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using Disk: Enhanced (Page is feed) 
 
-Served from: www.bellingcat.com @ 2026-10-22 12:10:20 by W3 Total Cache
+Served from: www.bellingcat.com @ 2026-10-22 22:56:06 by W3 Total Cache
 -->

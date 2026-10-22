@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 18:38:32 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 18:32:51 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 22:01:14 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 21:34:25 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -65,7 +65,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html" rel="standout"></atom:link>
       <description>President Emmanuel Macron said the move was necessary “so that calm prevails.”</description>
       <dc:creator>Catherine Porter</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 18:30:38 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 19:02:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
@@ -320,6 +320,58 @@
       <media:credit>Aweil News Agency, via Associated Press</media:credit>
     </item>
     <item>
+      <title>Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell</title>
+      <link>https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html" rel="standout"></atom:link>
+      <description>The Islamic republic has long used billboards in Tehran to mock its opponents and hammer home its messaging, but this piece of performance propaganda is perhaps the most eccentric yet.</description>
+      <dc:creator>Erika Solomon and Sanam Mahoozi</dc:creator>
+      <pubDate>Thu, 22 Oct 2026 21:25:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/10/22/world/middleeast/Trump_billb2/Trump_billb2-mediumSquareAt3X.png" width="1080"></media:content>
+      <media:credit>WANA, via Reuters</media:credit>
+    </item>
+    <item>
+      <title>A Cancer Revolution</title>
+      <link>https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html" rel="standout"></atom:link>
+      <description>We look at how screening and groundbreaking treatments have radically reduced death rates.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Thu, 22 Oct 2026 20:41:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breast Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Condition (Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23int-theworld-cancer-01-thlm-promo/23int-theworld-cancer-01-thlm-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kristian Thacker for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>He Was Reporting on Floods in Australia. Then He Jumped to the Rescue.</title>
+      <link>https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html" rel="standout"></atom:link>
+      <description>Will Murray of Australia’s public broadcaster spotted a man in a sinking truck, then jumped in the water with a bystander. (Just don’t call him Clark Kent.)</description>
+      <dc:creator>Remy Tumin and James McManagan</dc:creator>
+      <pubDate>Thu, 22 Oct 2026 18:39:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Australian Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brisbane (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
+      <media:content height="1252" medium="image" url="https://static01.nyt.com/images/2026/11/21/video/21vid-aus-rescue-screengrab/21vid-aus-rescue-screengrab-mediumSquareAt3X.png" width="1253"></media:content>
+      <media:credit>Australian Broadcasting Corporation, via Reuters</media:credit>
+    </item>
+    <item>
       <title>Italy Experiences Food and Fuel Shortages After Truckers on Strike Block Roads</title>
       <link>https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html</guid>
@@ -368,13 +420,14 @@
       <atom:link href="https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html" rel="standout"></atom:link>
       <description>A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.</description>
       <dc:creator>Karla Adam and Dustin Volz</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 15:55:08 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 21:31:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PHP Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincent West/Reuters</media:credit>
       <media:description>A programmer in Guernica, Spain, on Thursday, working on PHP code, software used throughout the internet.</media:description>
@@ -502,6 +555,27 @@
       <media:description>Protesters against the high cost of living in Athens, Greece, on Wednesday.</media:description>
     </item>
     <item>
+      <title>A.I. Discovered a Critical Vulnerability in PHP, a Coding Language Behind Many Websites</title>
+      <link>https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html" rel="standout"></atom:link>
+      <description>The disclosure heightened concerns about A.I.’s potential to upend cybersecurity unless shortcomings are addressed.</description>
+      <dc:creator>Dustin Volz</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 19:04:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Security Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21dc-flaw-fcbk/21dc-flaw-fcbk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Annegret Hilse/Reuters</media:credit>
+      <media:description>The website for the French government was temporarily unavailable on Wednesday amid hacking concerns stemming from major bugs in a piece of software used widely across the internet.</media:description>
+    </item>
+    <item>
       <title>Delhi’s Winter Season of Polluted Air Begins</title>
       <link>https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html</guid>
@@ -595,15 +669,13 @@
       <atom:link href="https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html" rel="standout"></atom:link>
       <description>The 10-foot-long dusky shark, nicknamed “Bukangi,” was successfully guided back to the open ocean after a third rescue attempt.</description>
       <dc:creator>Jin Yu Young</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 20:44:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <pubDate>Wed, 21 Oct 2026 20:44:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sharks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/world/asia/21vid-skorea-shark-cover-image/21vid-skorea-shark-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kim Hong-Ji/Reuters</media:credit>
     </item>
@@ -944,96 +1016,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-ukraine-trump-01-mzqw/20int-ukraine-trump-01-mzqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
       <media:description>President Volodymyr Zelensky of Ukraine at the European Union summit in Brussels last week.</media:description>
-    </item>
-    <item>
-      <title>UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks</title>
-      <link>https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html" rel="standout"></atom:link>
-      <description>R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 12:34:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of Defense (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Streeting, Wes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/20/world/20int-uk-saudi-aaaaa/20int-uk-saudi-aaaaa-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Christopher Furlong/Getty Images</media:credit>
-      <media:description>A Royal Air Force Typhoon fighter jet at a base in Coningsby, England, in February.</media:description>
-    </item>
-    <item>
-      <title>Yemeni City of Taiz Running Out of Essentials as Houthis Close in</title>
-      <link>https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html" rel="standout"></atom:link>
-      <description>The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.</description>
-      <dc:creator>Saeed Al-Batati and Vivian Nereim</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 14:28:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiz (Yemen)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-yemen-taiz-1-zhtk/20int-yemen-taiz-1-zhtk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anees Mahyoub/Reuters</media:credit>
-      <media:description>A woman using a firewood oven on Monday during a shortage of cooking gas in Taiz, Yemen.</media:description>
-    </item>
-    <item>
-      <title>Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations</title>
-      <link>https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html" rel="standout"></atom:link>
-      <description>The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.</description>
-      <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 08:19:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reliance Industries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adani, Gautam S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ambani, Mukesh D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mumbai (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-rubio-india-fqjh/20int-rubio-india-fqjh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Kylie Cooper</media:credit>
-      <media:description>Secretary of State Marco Rubio with Sergio Gor, left, the United States ambassador to India, in Mumbai on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu</title>
-      <link>https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html" rel="standout"></atom:link>
-      <description>Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election.</description>
-      <dc:creator>Natan Odenheimer</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 18:01:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-israel-hegseth-wzmj/20int-israel-hegseth-wzmj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Defense Secretary Pete Hegseth at an event in Maryland this month. Details of the conversations between Mr. Hegseth and his Israeli counterparts were not immediately clear.</media:description>
     </item>
   </channel>
 </rss>
