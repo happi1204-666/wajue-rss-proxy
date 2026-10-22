@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 08:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 14:20:27 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,8 +19,16 @@
             <description><![CDATA[The bank says it is using more AI leading to a 5% reduction in its workforce.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1p347qgxo#0</guid>
-            <pubDate>Thu, 22 Oct 2026 08:43:43 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 14:05:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tank barrel production returns to UK after 20 years]]></title>
+            <description><![CDATA[The defence secretary says the UK is "back in the business of making weapons" for its armed forces.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm70pj51zdk4o#0</guid>
+            <pubDate>Thu, 22 Oct 2026 13:45:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ea/live/ff2243b0-ce05-11f1-8991-296181d7e3de.jpg"/>
         </item>
         <item>
             <title><![CDATA[The 'trillion pound' oil fund the government believes Britain could have built]]></title>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What is PHP and why did it spark a global cyber-security scramble?]]></title>
-            <description><![CDATA[AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0</guid>
-            <pubDate>Thu, 22 Oct 2026 06:24:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[No order, no seat: Starbucks China rolls out new store policy]]></title>
             <description><![CDATA[Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -63,10 +63,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What is PHP and why did it spark a global cyber-security scramble?]]></title>
+            <description><![CDATA[AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0</guid>
+            <pubDate>Thu, 22 Oct 2026 11:15:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The grads ditching the UK for a fresh start abroad]]></title>
             <description><![CDATA[With graduate jobs hard to come by, more young adults are reported to be considering emigrating.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo#1</guid>
             <pubDate>Wed, 21 Oct 2026 23:12:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70c/live/920779f0-cd4f-11f1-a64c-550be9e3c66b.png"/>
         </item>
@@ -223,14 +231,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/bb751480-cc48-11f1-9a30-cb277859b43a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Burnham vows end to 'rip-off parking charges' under new rules]]></title>
-            <description><![CDATA[The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck87ze7wl4qno#1</guid>
-            <pubDate>Tue, 20 Oct 2026 08:55:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a50c/live/322c6e70-cc62-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The tech helping crack decades-old cold cases]]></title>
             <description><![CDATA[Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -343,6 +343,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Woman 'scared to turn heating on' due to oil cost]]></title>
+            <description><![CDATA[Roslynn Garner-Gatley uses a hot water bottle bed socks and earlier bedtimes to stay warm.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o#3</guid>
+            <pubDate>Thu, 22 Oct 2026 09:55:16 GMT</pubDate>
+            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd2c/live/41046a10-ce06-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Children in care to get £10 a week savings]]></title>
             <description><![CDATA[Eligible people in the care system will be able to access the savings once they turn 18.  ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6vg0klve484o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -373,14 +381,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckr5ye6mvr33o#3</guid>
             <pubDate>Thu, 22 Oct 2026 05:19:53 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab4/live/ff0755d0-cd4e-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Calls to cut employer National Insurance contributions for under-25s]]></title>
-            <description><![CDATA[Yorkshire businesses set out what they want from the chancellor ahead of the Budget.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c35ynekpnz74o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c35ynekpnz74o#3</guid>
-            <pubDate>Thu, 22 Oct 2026 05:10:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d5/live/edfb85f0-cd39-11f1-935f-b9c228680c6f.jpg"/>
         </item>
         <item>
             <title><![CDATA[My hometown shows that high streets have to change or die]]></title>
@@ -423,6 +423,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a03/live/0c434d60-716c-11f1-8e1d-bbbb1017d210.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Briefing Room]]></title>
+            <description><![CDATA[After mass protests and violence, what will persuade the French to accept economic reform?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m00333cg#5</guid>
+            <pubDate>Thu, 22 Oct 2026 13:19:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0phz0r3.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A warning to anyone with credit card debt...]]></title>
             <description><![CDATA[Martin’s leading this week’s podcast with an urgent warning for anyone carrying credit card: now is the time to act. ]]></description>
             <link>https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -453,14 +461,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo#5</guid>
             <pubDate>Thu, 15 Oct 2026 18:30:09 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f79f/live/033666a0-c656-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NI company in talks to save Poundland from administration]]></title>
-            <description><![CDATA[Poundland says Martin Property Group from Londonderry is the management team's "preferred partner"]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c962yg36mk66o#5</guid>
-            <pubDate>Tue, 13 Oct 2026 15:44:45 GMT</pubDate>
-            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d649/live/d8f3bce0-c71c-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
     </channel>
 </rss>
