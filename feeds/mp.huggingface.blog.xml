@@ -7,6 +7,12 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
+   <title>Does Your Model Run on AWS Trainium? Look It Up</title>
+   <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/torch-neuronx-model-support</guid>
+  </item>
+  <item>
    <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
    <pubDate>Thu, 22 Oct 2026 22:24:34 GMT</pubDate>
    <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
