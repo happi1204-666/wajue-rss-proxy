@@ -7,11 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-23T15:48:17Z</dc:date>
+  <dc:date>2026-10-23T19:46:16Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-rdf"/>
@@ -29,12 +31,10 @@
     <rdf:li rdf:resource="https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-protesters-march-to-election-commission-demanding-cec-gyanesh-kumar-s-resignation/live-79738437?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/can-germany-overhaul-its-economy-before-afd-grows-stronger/a-79696102?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/can-germany-revive-its-economy-before-the-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf"/>
@@ -153,14 +153,32 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf">
+  <title>Russia&apos;s attacks on Ukraine&apos;s capital, Kyiv, are intensifying. DW asked people on the ground what life is like</title>
+  <link>https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf</link>
+  <description>Russia&apos;s attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war&apos;s bloodiest years for Kyiv. DW asked people on the ground what life is like.</description>
+  <dc:date>2026-10-23T19:08:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79741090</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-rdf">
   <title>Jordan: Karak church shooting leaves 7 dead, dozens injured</title>
   <link>https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-rdf</link>
-  <description>A shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to local authorities. Two unidentified men opened fire on the procession.</description>
-  <dc:date>2026-10-23T15:26:00Z</dc:date>
+  <description>A shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to authorities. Two unidentified men opened fire on the procession, with Jordan&apos;s king vowing &quot;the harshest retaliation.&quot;</description>
+  <dc:date>2026-10-23T18:33:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79743535</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf">
+  <title>Russia, Ukraine agree to US-brokered, 1 city ceasefire</title>
+  <link>https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Ukrainian city of Oleshky, occupied by Russia and on the frontline, faces a humanitarian crisis. The localized truce comes as Ukrainian President Zelenskyy said negotiators would meet for wider talks next month.</description>
+  <dc:date>2026-10-23T18:17:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79746723</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-all-1573-rdf">
   <title>Afghan women could lose one of their last paths to a higher education</title>
@@ -201,7 +219,7 @@
  <item rdf:about="https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-all-1573-rdf">
   <title>Japan-Russia ties erode as journalist sits in Moscow jail</title>
   <link>https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-all-1573-rdf</link>
-  <description>Japan is demanding access to a journalist who was arrested by Russian security services. Moscow claims Tokyo is using journalists as spies.</description>
+  <description>Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.</description>
   <dc:date>2026-10-23T12:42:00Z</dc:date>
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
@@ -228,7 +246,7 @@
  <item rdf:about="https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf">
   <title>France: 1 killed, 4 wounded after shooting near Paris</title>
   <link>https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf</link>
-  <description>French police have arrested a suspect after gunshots were fired on the outskirts of Paris. Police are investigating a possible racist motive.</description>
+  <description>French police arrested a suspect after gunshots were fired on the outskirts of Paris in what President Macron described as a racist and terrorist attack.</description>
   <dc:date>2026-10-23T11:22:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -315,24 +333,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79724068</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-protesters-march-to-election-commission-demanding-cec-gyanesh-kumar-s-resignation/live-79738437?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar&apos;s resignation</title>
-  <link>https://www.dw.com/en/india-news-protesters-march-to-election-commission-demanding-cec-gyanesh-kumar-s-resignation/live-79738437?maca=en-rss-en-all-1573-rdf</link>
-  <description>A coalition of students, farmers and civil society groups have joined calls for Chief Election Commissioner Gyanesh Kumar&apos;s resignation over India&apos;s voter roll revision exercise. DW has more.</description>
-  <dc:date>2026-10-23T04:46:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79738437</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-rdf">
-  <title>Serbia: Tens of thousands rally ahead of elections</title>
-  <link>https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-rdf</link>
-  <description>After two years of student-led protests, Serbia will soon vote in what observers describe as a referendum-like snap election pitting strongman Aleksandar Vucic against the student movement.</description>
-  <dc:date>2026-10-23T03:15:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79738420</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf">
   <title>Albania&apos;s student protests are only getting bigger</title>
   <link>https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf</link>
@@ -360,10 +360,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79722636</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/can-germany-overhaul-its-economy-before-afd-grows-stronger/a-79696102?maca=en-rss-en-all-1573-rdf">
-  <title>Can Germany overhaul its economy before AfD grows stronger?</title>
-  <link>https://www.dw.com/en/can-germany-overhaul-its-economy-before-afd-grows-stronger/a-79696102?maca=en-rss-en-all-1573-rdf</link>
-  <description>Conflicts, rising costs and Chinese competition are testing Germany&apos;s economic model like never before. Which new sectors could revive growth and contain the far-right AfD, whose support has grown larger than ever?</description>
+ <item rdf:about="https://www.dw.com/en/can-germany-revive-its-economy-before-the-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-rdf">
+  <title>Can Germany revive its economy before the AfD gains ground?</title>
+  <link>https://www.dw.com/en/can-germany-revive-its-economy-before-the-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-rdf</link>
+  <description>Conflicts, rising costs and Chinese competition are testing Germany&apos;s economic model like never before. Can new growth sectors create jobs and ease voters&apos; economic fears, thereby helping contain the far-right AfD?</description>
   <dc:date>2026-10-22T09:10:00Z</dc:date>
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 15:47:36 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 15:45:54 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:45:03 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 19:40:34 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -44,9 +44,9 @@
       <link>https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html" rel="standout"></atom:link>
-      <description>The Israeli military said two soldiers had been killed, and Prime Minister Benjamin Netanyahu threatened to launch a major offensive in the Israeli-occupied territory.</description>
+      <description>The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.</description>
       <dc:creator>Adam Rasgon</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 13:58:18 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 17:11:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebron (West Bank)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
@@ -63,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html" rel="standout"></atom:link>
       <description>Government officials are trying to avoid a repeat of last weekend’s unrest across the country, which injured police officers and damaged stores.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 14:18:29 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 18:31:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
@@ -75,21 +75,42 @@
       <media:description>Riot police officers during civil unrest in Paris on Sunday.</media:description>
     </item>
     <item>
-      <title>Gunmen Open Fire at Church in Jordan, Killing at Least Six</title>
+      <title>Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear</title>
+      <link>https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html" rel="standout"></atom:link>
+      <description>This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others.</description>
+      <dc:creator>Fatima AbdulKarim, Gabby Sobelman, Azam Ahmed and Ivor Prickett</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 16:47:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23int-olive-harvest-vfpk/23int-olive-harvest-vfpk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Palestinians harvesting olives last week in Khirbet Abu Falah, in the Israeli-occupied West Bank. Israeli settlers attacked a group of Palestinians there last week, injuring several people, including an American journalist.</media:description>
+    </item>
+    <item>
+      <title>Gunmen Open Fire at Church in Jordan, Killing at Least Seven</title>
       <link>https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html" rel="standout"></atom:link>
-      <description>The shooting took place during a funeral in the southern province of Karak, home to a longstanding Christian community, according to Jordan’s national police force. It was one of the kingdom’s deadliest attacks in years.</description>
-      <dc:creator>Euan Ward and Raja Abdulrahim</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 15:29:34 +0000</pubDate>
+      <description>Officials said the shooting, during a funeral at an Orthodox church in the southern province of Karak, was a terrorist act motivated by extremist ideology.</description>
+      <dc:creator>Raja Abdulrahim and Euan Ward</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 19:40:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Karak (Jordan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23int-jordan-shooting-mkph/23int-jordan-shooting-mkph-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>People and security officers outside a Christian church in Hamoud, Jordan, on Friday. </media:description>
+      <media:description>The Christian church where the shooting took place in Hamoud, Jordan, on Friday. </media:description>
     </item>
     <item>
       <title>How a U.K. Official’s Wife Set Off a Debate Over Free Speech and Palestinians</title>
@@ -98,11 +119,12 @@
       <atom:link href="https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html" rel="standout"></atom:link>
       <description>Sarah Helm, who is married to Britain’s national security adviser, posted of her support for the author Sally Rooney and a banned pro-Palestinian activist group. A furor ensued.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 15:23:56 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 17:35:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestine Action</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Helm, Sarah</category>
@@ -110,6 +132,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rooney, Sally (Author)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23int-uk-powell-wife-01-gkcz/23int-uk-powell-wife-01-gkcz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Niklas Halle&#39;N/Agence France-Presse — Getty Images</media:credit>
       <media:description>Jonathan Powell, Britain’s national security adviser, outside 10 Downing Street, London, last year.</media:description>
@@ -138,7 +161,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html" rel="standout"></atom:link>
       <description>“Puppy Live,” a round-the-clock livestream of a litter, has become a national phenomenon. “Nothing bad happens in the puppy box,” one fan explained.</description>
       <dc:creator>Amelia Nierenberg and Lara McCoy</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 14:53:47 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 16:38:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
@@ -268,28 +291,28 @@
       <media:description>Rescuers at an earthquake-hit village in Baqen County of Nagqu, a city in Tibet, on Friday. The area is at a high altitude and snow is expected in the coming days.</media:description>
     </item>
     <item>
-      <title>Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance</title>
-      <link>https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html" rel="standout"></atom:link>
-      <description>A rare escalation this month exposed the increasingly lethal arsenals the two Koreas are building up across the world’s most heavily fortified border.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 05:13:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Jae-myung</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/00int-korea-arms-01-vbct/00int-korea-arms-01-vbct-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Korean Central News Agency, via Reuters</media:credit>
-      <media:description>A photograph provided by North Korean state media showing the leader, Kim Jong-un, and his daughter, Kim Ju-ae, overseeing the firing of an intermediate-range missile from the country’s east coast during a drill in October.</media:description>
+      <title>Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy</title>
+      <link>https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html" rel="standout"></atom:link>
+      <description>President Trump says Venezuela is not ready for elections, and he focuses instead on its oil. But Secretary of State Marco Rubio is nudging talks between opposing politicians.</description>
+      <dc:creator>Edward Wong and Julie Turkewitz</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 17:15:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Jorge J (1965- )</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23dc-trump-venezuela-mlhb/23dc-trump-venezuela-mlhb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Venezuelan Presidency, via Agence France-Presse</media:credit>
+      <media:description>Dinorah Figuera, left, Delcy Rodríguez and Jorge Rodríguez during a meeting at the Miraflores presidential palace in Caracas on Thursday, in a photo released by the Venezuelan presidency.</media:description>
     </item>
     <item>
       <title>Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images</title>
@@ -298,13 +321,14 @@
       <atom:link href="https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html" rel="standout"></atom:link>
       <description>The Duchess of Sussex said a 2018 letter to royal protection officers informed her decision to keep her children away from Thomas Markle.</description>
       <dc:creator>Karla Adam</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 14:47:18 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 19:18:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Thomas Wayne (1944- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23xp-markle-whct/23xp-markle-whct-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Jonathan Brady</media:credit>
       <media:description>Meghan, the Duchess of Sussex, on a trip to Australia in April.</media:description>
@@ -316,7 +340,7 @@
       <atom:link href="https://www.nytimes.com/video/world/americas/100000011230998/brazil-nanuque-election-shift.html" rel="standout"></atom:link>
       <description>Far from Rio and São Paulo, small towns like Nanuque, with big agricultural businesses and a surging evangelical Christian movement, are swinging to the right.</description>
       <dc:creator>Adam B. Ellick, Seth Kugel and Jeb Banegas</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 11:34:03 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 19:26:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23vid-brazil-shift-1-qzvw/23vid-brazil-shift-1-qzvw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
@@ -346,6 +370,30 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/11/multimedia/00int-Houthi-Messaging-qhgb/00int-Houthi-Messaging-qhgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Osamah Abdulrahman/Associated Press</media:credit>
       <media:description>Houthi supporters chanting slogans and holding pictures of Abdul Malik al-Houthi, the Houthi leader, in Sanaa, Yemen.</media:description>
+    </item>
+    <item>
+      <title>Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance</title>
+      <link>https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html" rel="standout"></atom:link>
+      <description>A rare escalation this month exposed the increasingly lethal arsenals the two Koreas are building up across the world’s most heavily fortified border.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 05:13:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Jae-myung</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/00int-korea-arms-01-vbct/00int-korea-arms-01-vbct-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Korean Central News Agency, via Reuters</media:credit>
+      <media:description>A photograph provided by North Korean state media showing the leader, Kim Jong-un, and his daughter, Kim Ju-ae, overseeing the firing of an intermediate-range missile from the country’s east coast during a drill in October.</media:description>
     </item>
     <item>
       <title>Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell</title>
@@ -451,12 +499,15 @@
       <description>A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.</description>
       <dc:creator>Karla Adam and Dustin Volz</dc:creator>
       <pubDate>Thu, 22 Oct 2026 21:31:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PHP Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PHP Foundation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincent West/Reuters</media:credit>
@@ -938,85 +989,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-ukraine-starshield-01-hglc/21int-ukraine-starshield-01-hglc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>A Ukrainian soldier flying a drone in the Donetsk region last week. Members of the military have reported issues with drone connectivity since Starshield was disrupted.</media:description>
-    </item>
-    <item>
-      <title>Who Is Stephen James Hubbard, the American Released From Russian Jail?</title>
-      <link>https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html" rel="standout"></atom:link>
-      <description>Mr. Hubbard, a 74-year-old teacher, was held for more than four years on what the State Department called fabricated charges.</description>
-      <dc:creator>Kim Barker and Lynsey Chutel</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 13:10:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisoners of War</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hubbard, Stephen James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-hubbard-who-is-vpjg/21int-hubbard-who-is-vpjg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Moscow City Court Press Service</media:credit>
-      <media:description>A still from video released by the Moscow City Court Press Service showing Stephen Hubbard at a hearing in the Russian capital in 2024.</media:description>
-    </item>
-    <item>
-      <title>Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal</title>
-      <link>https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html" rel="standout"></atom:link>
-      <description>The 10-foot-long dusky shark, nicknamed “Bukangi,” was successfully guided back to the open ocean after a third rescue attempt.</description>
-      <dc:creator>Jin Yu Young</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 20:44:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sharks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/world/asia/21vid-skorea-shark-cover-image/21vid-skorea-shark-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kim Hong-Ji/Reuters</media:credit>
-    </item>
-    <item>
-      <title>A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?</title>
-      <link>https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html" rel="standout"></atom:link>
-      <description>Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.</description>
-      <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 19:03:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vorcaro, Daniel (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-design</category>
-    </item>
-    <item>
-      <title>Death Toll From Venezuela Quakes Likely Far Exceeds Official Count</title>
-      <link>https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html" rel="standout"></atom:link>
-      <description>A Times analysis and U.S. Geological Survey data indicate that the official 6,509 death toll is probably a severe undercount.</description>
-      <dc:creator>James Glanz, Julie Turkewitz and Helmuth Rosales</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 09:00:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">La Guaira (Venezuela)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/venezuela-deaths-kclz/venezuela-deaths-kclz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
-      <media:description>Volunteers and relatives searching for bodies in the rubble of a public housing complex that collapsed during the twin earthquakes in July.</media:description>
     </item>
   </channel>
 </rss>
