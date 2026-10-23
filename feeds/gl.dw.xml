@@ -7,13 +7,20 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-23T05:43:29Z</dc:date>
+  <dc:date>2026-10-23T10:59:59Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights-government-facilitating-return/live-79738437?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights/live-79738437?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/airbnb-scraps-guest-checkout-chores-such-as-cleaning/a-79738340?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf"/>
@@ -24,12 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-government-expecting-increased-tax-revenue-in-2027/live-79728628?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-gandhi-s-nephew-forced-to-pull-protest-photos/live-79727462?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-s-balochistan-border-region-sees-growing-unrest/a-79716399?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-germany-overhaul-its-economy-before-afd-grows-stronger/a-79696102?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"/>
@@ -43,8 +44,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/football-german-coach-hürzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/wagner-brothers-begin-new-nba-chapter-on-different-paths/a-79712668?maca=en-rss-en-all-1573-rdf"/>
@@ -72,6 +71,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/formula-one-in-rwanda-sportswashing-claims-vs-hopes-for-african-legacy/a-79650744?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/resignation-of-bärbel-bas-shines-light-on-harsh-era-of-german-politics/a-79671395?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/thousands-of-german-gamblers-could-sue-for-their-money-back/a-79667844?maca=en-rss-en-all-1573-rdf"/>
@@ -153,10 +153,73 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-rdf">
+  <title>Sri Lanka: Death of iconic elephant raises habitat concerns</title>
+  <link>https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-rdf</link>
+  <description>The death of what was thought to be Sri Lanka’s largest elephant has drawn attention to human-elephant conflict in rural communities. The island country sees a high number of deadly encounters.</description>
+  <dc:date>2026-10-23T09:29:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79735669</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf">
+  <title>Greece joins countries putting age-limits on social media, banning access for kids under 15</title>
+  <link>https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf</link>
+  <description>Greece has passed legislation banning social media access for children under 15. New rules will come into effect on January 1, 2027, and are designed to protect children&apos;s mental health.</description>
+  <dc:date>2026-10-23T09:04:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79739606</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Wadephul says &apos;threat of famine&apos; due to ongoing wars</title>
+  <link>https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-rdf</link>
+  <description>German Foreign Minister Johann Wadephul is joining counterparts in Turkey for discussions on a range of interlinked geopolitical crises. Back in Germany, the Bavarian CSU party begins its two-day conference in Munich.</description>
+  <dc:date>2026-10-23T08:48:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79738902</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf">
+  <title>Israel preparing &apos;full closure&apos; of West Bank, Netanyahu says</title>
+  <link>https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf</link>
+  <description>Prime Minister Benjamin Netanyahu said Israel is shutting down the occupied West Bank after having prevented a &quot;major attack.&quot;</description>
+  <dc:date>2026-10-23T08:25:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79739292</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf">
+  <title>South Korea proposes military talks with North again</title>
+  <link>https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf</link>
+  <description>South Korea is attempting to mutually determine the land border with North Korea amid military incidents and escalating tensions.</description>
+  <dc:date>2026-10-23T07:50:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79739208</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf">
+  <title>Germany sit out FIFA Under-15 World Cup as Russia return</title>
+  <link>https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany is one a handful of FIFA&apos;s 211 nations to refuse an invitation to play at the inaugural Under-15 World Cup. The tournament will also mark Russia&apos;s return to the FIFA fold.</description>
+  <dc:date>2026-10-23T07:17:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79734040</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf">
+  <title>Taiwan braces as El Nino-supercharged Typhoon Champi approaches island</title>
+  <link>https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf</link>
+  <description>One person has died and thousands have been evacuated as Taiwan prepares for a possible direct hit. Though no longer a &quot;super&quot; typhoon, Champi is still packing winds of nearly 200 kmh and will bring torrential rain.</description>
+  <dc:date>2026-10-23T06:40:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79738819</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf">
   <title>Musk&apos;s Starshield system &apos;back&apos; in Ukraine, says Trump</title>
   <link>https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf</link>
-  <description>Trump said that he did not want to comment on who called for capping Starshield for Ukraine, but that Musk had &quot;put it back.&quot;</description>
+  <description>US President Trump has said he wouldn&apos;t comment on who called for capping Ukraine&apos;s Starshield access but added that Elon Musk had &quot;put it back.&quot; His account was rejected by Ukraine, which says nothing has changed.</description>
   <dc:date>2026-10-23T05:37:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -171,9 +234,9 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79724068</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights-government-facilitating-return/live-79738437?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Thousands of Indian pilgrims stranded in Saudi Arabia as Houthi attacks disrupt flights, government facilitating return</title>
-  <link>https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights-government-facilitating-return/live-79738437?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights/live-79738437?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Thousands of Indian pilgrims stranded in Saudi Arabia as Houthi attacks disrupt flights</title>
+  <link>https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights/live-79738437?maca=en-rss-en-all-1573-rdf</link>
   <description>Indian pilgrims have been caught up in flight disruptions in Saudi Arabia amid escalating Houthi attacks. The government says it is working to arrange their return. DW has the latest.</description>
   <dc:date>2026-10-23T04:46:00Z</dc:date>
   <dc:subject>News</dc:subject>
@@ -269,60 +332,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79732855</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-all-1573-rdf">
-  <title>Is Iran ready for another major US attack after midterm elections?</title>
-  <link>https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-all-1573-rdf</link>
-  <description>Iranian officials say the goal is to keep the regime in power and threaten enough regional costs to make a prolonged campaign unattractive. US media reports indicate that Trump is considering strikes after the midterms.</description>
-  <dc:date>2026-10-22T14:16:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79734082</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf">
-  <title>Is EU putting profits over human rights in Vietnam?</title>
-  <link>https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf</link>
-  <description>The EU and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi&apos;s human rights record, labor standards and trade imbalances.</description>
-  <dc:date>2026-10-22T14:12:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79732812</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-news-government-expecting-increased-tax-revenue-in-2027/live-79728628?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Government expecting increased tax revenue in 2027</title>
-  <link>https://www.dw.com/en/germany-news-government-expecting-increased-tax-revenue-in-2027/live-79728628?maca=en-rss-en-all-1573-rdf</link>
-  <description>Finance Minister Lars Klingbeil said state tax revenue will increase by €4 billion in 2027. Meanwhile, public service websites have been coming back online after a PHP security scare.</description>
-  <dc:date>2026-10-22T13:47:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79728628</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-news-gandhi-s-nephew-forced-to-pull-protest-photos/live-79727462?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Gandhi&apos;s nephew forced to pull protest photos</title>
-  <link>https://www.dw.com/en/india-news-gandhi-s-nephew-forced-to-pull-protest-photos/live-79727462?maca=en-rss-en-all-1573-rdf</link>
-  <description>The requested removal of &quot;objectionable&quot; photos from a cultural center took place in state run by Modi&apos;s BJP.</description>
-  <dc:date>2026-10-22T12:58:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79727462</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf">
-  <title>France confirms first Shamonda virus infection in a human death of &apos;severely immunocompromised&apos; individual</title>
-  <link>https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Shamonda virus has been detected in a human for the first time, French health officials said. Authorities see no risk to the public, adding that the victim, who died in early October, was severely immunocompromised.</description>
-  <dc:date>2026-10-22T12:46:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79731991</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-s-balochistan-border-region-sees-growing-unrest/a-79716399?maca=en-rss-en-all-1573-rdf">
-  <title>Iran&apos;s Balochistan border region sees growing unrest</title>
-  <link>https://www.dw.com/en/iran-s-balochistan-border-region-sees-growing-unrest/a-79716399?maca=en-rss-en-all-1573-rdf</link>
-  <description>Violence is on the rise in Iran&apos;s border region with Afghanistan and Pakistan. The Iran war could shift the strategic balance for militant groups operating in the area.</description>
-  <dc:date>2026-10-22T11:48:00Z</dc:date>
-  <dc:subject>TOP STORIES</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79716399</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine: Life near the front line in Sloviansk</title>
@@ -440,24 +449,6 @@
   <dc:subject>Climate</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79714915</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf">
-  <title>UK fighter jets to protect Saudi Arabia from Houthi attacks</title>
-  <link>https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf</link>
-  <description>The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom.</description>
-  <dc:date>2026-10-21T01:23:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79718467</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf">
-  <title>Portugal housing protests continue after police clear camps</title>
-  <link>https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf</link>
-  <description>Demonstrators vow to continue their campaign to call for affordable housing in Portugal after police cleared tent camps and arrested at least 55 people.</description>
-  <dc:date>2026-10-20T23:11:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79717904</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-rdf">
   <title>New EU plan for Arctic warily eyes influence of Russia, US</title>
@@ -701,6 +692,15 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79671673</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf">
+  <title>EU summit to focus on China, Ukraine and bloc budget</title>
+  <link>https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf</link>
+  <description>EU leaders meeting in Brussels will examine measures to curb the bloc&apos;s huge trade deficit with China. But they will also be looking to further agreement on the next EU budget ahead of some major elections next year.</description>
+  <dc:date>2026-10-15T14:37:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79665338</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/resignation-of-bärbel-bas-shines-light-on-harsh-era-of-german-politics/a-79671395?maca=en-rss-en-all-1573-rdf">
   <title>Resignation of Bärbel Bas shines light on harsh era of German politics</title>

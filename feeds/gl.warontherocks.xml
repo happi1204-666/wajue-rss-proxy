@@ -39,6 +39,25 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Deception in Mass Autonomous Warfare</title>
+		<link>https://warontherocks.com/deception-in-mass-autonomous-warfare/</link>
+		
+		<dc:creator><![CDATA[Édouard R. Maurin]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 07:30:37 +0000</pubDate>
+				<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Drones]]></category>
+		<category><![CDATA[Electronic Warfare]]></category>
+		<category><![CDATA[Russo-Ukrainian War]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48203</guid>
+
+					<description><![CDATA[<p>&#8220;[T]he exigencies of desperate survival do stimulate wise leaders to seek such unorthodox solutions.&#8221; &#8212;Barton Whaley, StratagemOn the night of Jan. 5, 2025, my first mission in the Pokrovsk command post was to make a fake radio call. We knew Russian forces were listening in. We did not know whether the position our men were due to occupy the next day, the Homar trench at Kotlyne, was still in our hands or if the enemy had already taken it. I did as instructed: I pretended to be in the trench and called the command center for help.Two minutes later, through</p>
+<p>The post <a href="https://warontherocks.com/deception-in-mass-autonomous-warfare/">Deception in Mass Autonomous Warfare</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Brothers in Arms, Partners in Healing: A Story about a Breakthrough in Treating Post-Traumatic Stress</title>
 		<link>https://warontherocks.com/brothers-in-arms-partners-in-healing-a-story-about-a-breakthrough-in-treating-post-traumatic-stress/</link>
 		
@@ -1927,24 +1946,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		<dc:creator><![CDATA[Jakub Eberle]]></dc:creator>
 	</item>
-		<item>
-		<title>A Rulebook for Surprises: Commanding Autonomous Aircraft</title>
-		<link>https://warontherocks.com/cogs-of-war/a-rulebook-for-surprises-commanding-autonomous-aircraft/</link>
-		
-		<dc:creator><![CDATA[Greg Search]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 08:00:28 +0000</pubDate>
-				<category><![CDATA[Cogs of War]]></category>
-		<category><![CDATA[Air Force]]></category>
-		<category><![CDATA[Autonomy]]></category>
-		<category><![CDATA[Defense Tech]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46144</guid>
-
-					<description><![CDATA[<p>My greatest challenge while flight testing collaborative combat aircraft was not troubleshooting errors at high speed in the cockpit. It was when, in a single keystroke, my job shifted from pilot to something like a dog handler &#8212; a supervisor of an autonomous agent. As a test pilot, my instinct is to stop for surprise machine behavior, but that met a system where such unexpected behavior could be a good thing. Managing autonomy means accounting for a new phenomenon &#8212; machine behavior that is both correct and unexpected.Historically, aircrews have handled surprises by assuming there&#8217;s a malfunction and fixing it,</p>
-<p>The post <a href="https://warontherocks.com/cogs-of-war/a-rulebook-for-surprises-commanding-autonomous-aircraft/">A Rulebook for Surprises: Commanding Autonomous Aircraft</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
