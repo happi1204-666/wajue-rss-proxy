@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Sat, 24 Oct 2026 21:49:47 +0200</lastBuildDate>
-  <pubDate>Sat, 24 Oct 2026 21:49:47 +0200</pubDate>
+  <lastBuildDate>Sat, 24 Oct 2026 22:51:03 +0200</lastBuildDate>
+  <pubDate>Sat, 24 Oct 2026 22:51:03 +0200</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,20 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Young protesters clash with police on Rome streets</title>
+   <link>https://www.euronews.com/video/2026/10/24/young-protesters-clash-with-police-on-rome-streets</link>
+   <guid>https://www.euronews.com/video/2026/10/24/young-protesters-clash-with-police-on-rome-streets</guid>
+   <pubDate>Sat, 24 Oct 2026 22:51:03 +0200</pubDate>
+   <description>Young protesters clashed with police in Rome on Saturday as demonstrations over wages, the cost of living and public services spread across Italy.</description>
+  </item>
+  <item>
+   <title>Protests sweep across Europe from France to Albania, Italy, Spain and Portugal. </title>
+   <link>https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal</link>
+   <guid>https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal</guid>
+   <pubDate>Sat, 24 Oct 2026 22:46:57 +0200</pubDate>
+   <description>Violence in earlier protests prompted authorities to take additional security measures, with massive deployments of police and even soldiers observed across several European capitals.</description>
+  </item>
   <item>
    <title>Brussels shops boarded up amid fears of repeat of last week's looting</title>
    <link>https://www.euronews.com/2026/10/24/brussels-shops-boarded-up-amid-fears-of-repeat-of-last-weeks-looting</link>
@@ -100,11 +114,11 @@
    <description>Milan is on alert ahead of expected protests, with additional soldiers deployed and shops boarding up their windows a week after looting and clashes with police.</description>
   </item>
   <item>
-   <title>Clashes erupt between police and protesters in Paris with teargas and water cannons deployed</title>
+   <title>Clashes between French police and protesters after largely peaceful demonstrations that drew thousands</title>
    <link>https://www.euronews.com/2026/10/24/new-round-of-protests-underway-in-france-as-police-fire-tear-gas-at-demonstrators</link>
    <guid>https://www.euronews.com/2026/10/24/new-round-of-protests-underway-in-france-as-police-fire-tear-gas-at-demonstrators</guid>
    <pubDate>Sat, 24 Oct 2026 13:55:30 +0200</pubDate>
-   <description>Organisers said more than 800,000 took part in demonstrations across the country, with 250,000 in Paris alone. Authorities said 410,000 demonstrated nationwide. They protested over the high cost of living and lack of funding for education.</description>
+   <description>Organisers said more than 800,000 took part in demonstrations across the country, with 250,000 in Paris alone. Authorities said 410,000 demonstrated nationwide. The protests were over the high cost of living and lack of funding for education.</description>
   </item>
   <item>
    <title>Tensions mount in France as thousands rally against Marine Le Pen’s National rally</title>
@@ -350,20 +364,6 @@
    <guid>https://www.euronews.com/2026/10/23/carbon-sucking-fungi-and-forever-chemical-crackdowns-positive-environmental-stories-from-2</guid>
    <pubDate>Fri, 23 Oct 2026 15:45:18 +0200</pubDate>
    <description>Eco anxiety is very real, so we share this year's most uplifting stories to prove there’s hope for our climate.</description>
-  </item>
-  <item>
-   <title>Late invitations and spats leave Hungary’s 1956 commemoration with ‘modest’ guest list</title>
-   <link>https://www.euronews.com/2026/10/23/late-invitations-and-spats-leave-hungarys-1956-commemoration-with-modest-guest-list</link>
-   <guid>https://www.euronews.com/2026/10/23/late-invitations-and-spats-leave-hungarys-1956-commemoration-with-modest-guest-list</guid>
-   <pubDate>Fri, 23 Oct 2026 15:38:15 +0200</pubDate>
-   <description>Hungarian PM Péter Magyar had hoped to host top leaders in Budapest for the 70th anniversary of the 1956 revolution. But last-minute invitations and spats with Paris and Kyiv kept Macron, Tusk and Zelenskyy away, leaving only EU chiefs Ursula von der Leyen and António Costa attending.</description>
-  </item>
-  <item>
-   <title>Storm Austen batters France and UK with winds of up to 160 km/h</title>
-   <link>https://www.euronews.com/video/2026/10/23/storm-austen-batters-france-and-uk-with-winds-of-up-to-160-kmh</link>
-   <guid>https://www.euronews.com/video/2026/10/23/storm-austen-batters-france-and-uk-with-winds-of-up-to-160-kmh</guid>
-   <pubDate>Fri, 23 Oct 2026 15:16:54 +0200</pubDate>
-   <description>Huge waves, uprooted trees and damaged boats mark Storm Austen's arrival in France and the UK. Gusts of up to 160 km/h have battered Brittany, while fallen branches have blocked roads in southern England.</description>
   </item>
  </channel>
 </rss>
