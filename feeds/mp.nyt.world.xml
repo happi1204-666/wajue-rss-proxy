@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 22:52:44 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 22:42:23 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:20:48 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2026 01:07:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -100,7 +100,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html" rel="standout"></atom:link>
       <description>Officials said the shooting, during a funeral at an Orthodox church in the southern province of Karak, was a terrorist act motivated by extremist ideology.</description>
       <dc:creator>Raja Abdulrahim and Euan Ward</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 22:42:23 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 23:07:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -329,6 +329,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Thomas Wayne (1944- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23xp-markle-whct/23xp-markle-whct-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Jonathan Brady</media:credit>
       <media:description>Meghan, the Duchess of Sussex, on a trip to Australia in April.</media:description>
@@ -356,10 +357,9 @@
       <pubDate>Fri, 23 Oct 2026 12:18:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
@@ -964,31 +964,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Benoit Tessier</media:credit>
       <media:description>President Emmanuel Macron of France in Lusail, Qatar, on Wednesday. “All the people who are speaking ill of our country right now are people who don’t like our country,” he said.</media:description>
-    </item>
-    <item>
-      <title>When Starshield Cut Out, Ukrainian Drones Fell From the Skies</title>
-      <link>https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html" rel="standout"></atom:link>
-      <description>Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.</description>
-      <dc:creator>Siobhán O’Grady, Carlotta Gall and Anton Troianovski</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 17:11:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-ukraine-starshield-01-hglc/21int-ukraine-starshield-01-hglc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Reuters</media:credit>
-      <media:description>A Ukrainian soldier flying a drone in the Donetsk region last week. Members of the military have reported issues with drone connectivity since Starshield was disrupted.</media:description>
     </item>
   </channel>
 </rss>
