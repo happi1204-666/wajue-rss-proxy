@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-24T01:20:44Z</dc:date>
+  <dc:date>2026-10-24T06:10:12Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-india-china-border-tensions-back-in-focus-despite-ongoing-talks/live-79748098?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf"/>
@@ -28,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf"/>
@@ -142,7 +143,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-would-francis-of-assisi-make-of-his-fame-today/a-79346151?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/bundesliga-other-top-european-leagues-call-for-major-fifa-reforms/a-79431717?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -152,6 +152,33 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf">
+  <title>Taiwan: Typhoon Champi leaves 1 dead, over 500 injured</title>
+  <link>https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf</link>
+  <description>After killing one person and causing major disruptions in Taiwan, Typhoon Champi is now headed towards China.</description>
+  <dc:date>2026-10-24T05:26:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79748221</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-india-china-border-tensions-back-in-focus-despite-ongoing-talks/live-79748098?maca=en-rss-en-all-1573-rdf">
+  <title>India news: India-China border tensions back in focus despite ongoing talks</title>
+  <link>https://www.dw.com/en/india-news-india-china-border-tensions-back-in-focus-despite-ongoing-talks/live-79748098?maca=en-rss-en-all-1573-rdf</link>
+  <description>India says Chinese forces deviating from established patrolling patterns continue to disrupt the border situation, a day after the ITBP chief reported face-offs at multiple locations in Arunachal Pradesh. DW has more.</description>
+  <dc:date>2026-10-24T04:56:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79748098</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf">
+  <title>Hitler&apos;s Eagle&apos;s Nest retreat catches fire, police say</title>
+  <link>https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf</link>
+  <description>Authorities have arrested a suspect as firemen try to put out the fire in Bavaria, near the Austrian border.</description>
+  <dc:date>2026-10-24T02:40:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79747820</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-rdf">
   <title>France to deploy 70,000 police officers ahead of protests</title>
   <link>https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-rdf</link>
@@ -304,24 +331,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79738902</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf">
-  <title>Israel orders home demolitions after soldiers killed in West Bank</title>
-  <link>https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf</link>
-  <description>Prime Minister Benjamin Netanyahu said Israeli forces will demolish homes in the West Bank after gunmen killed two Israeli soldiers in the West Bank city of Hebron.</description>
-  <dc:date>2026-10-23T08:25:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79739292</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf">
-  <title>South Korea proposes military talks with North again</title>
-  <link>https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf</link>
-  <description>South Korea is attempting to mutually determine the land border with North Korea amid military incidents and escalating tensions.</description>
-  <dc:date>2026-10-23T07:50:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79739208</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf">
   <title>Germany sit out FIFA Under-15 World Cup as Russia return</title>
@@ -1330,14 +1339,5 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79419800</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/bundesliga-other-top-european-leagues-call-for-major-fifa-reforms/a-79431717?maca=en-rss-en-all-1573-rdf">
-  <title>Bundesliga, other top European leagues call for major FIFA reforms</title>
-  <link>https://www.dw.com/en/bundesliga-other-top-european-leagues-call-for-major-fifa-reforms/a-79431717?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Bundesliga and three other leading European football leagues have said major reforms to world-governing body FIFA are &quot;essential.&quot; However, they stopped short of calling for the resignation of boss Gianni Infantino.</description>
-  <dc:date>2026-09-25T13:52:00Z</dc:date>
-  <dc:subject>Sports</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79431717</dwsyn:contentID>
  </item>
 </rdf:RDF>

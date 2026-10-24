@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 01:20:48 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Oct 2026 01:07:32 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:08:54 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2026 04:45:37 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -46,7 +46,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html" rel="standout"></atom:link>
       <description>The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.</description>
       <dc:creator>Adam Rasgon</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 17:11:13 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 04:42:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebron (West Bank)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
@@ -63,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html" rel="standout"></atom:link>
       <description>Government officials are trying to avoid a repeat of last weekend’s unrest across the country, which injured police officers and damaged stores.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 18:31:39 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 18:31:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
@@ -289,6 +289,75 @@
       <media:content height="1137" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23int-china-tibet-quake-pvlf/23int-china-tibet-quake-pvlf-mediumSquareAt3X.jpg" width="1138"></media:content>
       <media:credit>Xinhua, via Associated Press</media:credit>
       <media:description>Rescuers at an earthquake-hit village in Baqen County of Nagqu, a city in Tibet, on Friday. The area is at a high altitude and snow is expected in the coming days.</media:description>
+    </item>
+    <item>
+      <title>Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?</title>
+      <link>https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html" rel="standout"></atom:link>
+      <description>The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Sat, 24 Oct 2026 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
+      <media:description>Prime Minister Benjamin Netanyahu of Israel speaking to supporters at a mall in Holon, Israel, this month.</media:description>
+    </item>
+    <item>
+      <title>How Defiant Youth Are Testing India’s Idea of Democracy</title>
+      <link>https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html" rel="standout"></atom:link>
+      <description>Four takeaways from India’s protest movement, at a moment when democracies around the world are under pressure.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Sat, 24 Oct 2026 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aiyar, Yamini</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Indira</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rahul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/00INT-INDIA-PROTESTS-LESSONS-01-wgml/00INT-INDIA-PROTESTS-LESSONS-01-wgml-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <media:description>Security personnel detaining protesters demanding the resignation of the head of India’s election commission this month in New Delhi.</media:description>
+    </item>
+    <item>
+      <title>Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say</title>
+      <link>https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html" rel="standout"></atom:link>
+      <description>The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.</description>
+      <dc:creator>Edward Wong, Jonathan Swan and Julian E. Barnes</dc:creator>
+      <pubDate>Sat, 24 Oct 2026 03:46:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clayton, Walter J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/dc-iran-security-gcqh/dc-iran-security-gcqh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ahmad Al-Rubaye/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Security stationed outside the U.S. embassy in Baghdad’s fortified Green Zone in March.</media:description>
     </item>
     <item>
       <title>Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy</title>
@@ -943,27 +1012,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
       <media:content height="919" medium="image" url="https://static01.nyt.com/images/2026/10/21/video/21vid-sudan-screengrab/21vid-sudan-screengrab-mediumSquareAt3X.png" width="918"></media:content>
       <media:credit>Aweil News Agency, via Associated Press</media:credit>
-    </item>
-    <item>
-      <title>Macron Says Trump Does Not Like France and Distorts Its Troubles</title>
-      <link>https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html" rel="standout"></atom:link>
-      <description>Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.</description>
-      <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 19:16:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Benoit Tessier</media:credit>
-      <media:description>President Emmanuel Macron of France in Lusail, Qatar, on Wednesday. “All the people who are speaking ill of our country right now are people who don’t like our country,” he said.</media:description>
     </item>
   </channel>
 </rss>
