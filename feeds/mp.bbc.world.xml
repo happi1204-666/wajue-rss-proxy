@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 17:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 20:13:20 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwkg5md14j8go#0</guid>
             <pubDate>Sat, 24 Oct 2026 12:12:40 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palestinian families displaced as Israeli forces demolish Hebron homes]]></title>
+            <description><![CDATA[The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0</guid>
+            <pubDate>Sat, 24 Oct 2026 17:21:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat]]></title>
@@ -51,14 +59,14 @@
             <description><![CDATA[The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#0</guid>
-            <pubDate>Sat, 24 Oct 2026 14:45:30 GMT</pubDate>
+            <pubDate>Sat, 24 Oct 2026 19:12:51 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg"/>
         </item>
         <item>
             <title><![CDATA[Three released without charge after fatal arson attack in Ireland]]></title>
             <description><![CDATA[Three people - two women and one man - have been released, and one person remains in custody, gardaí say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv0ld9571511o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv0ld9571511o#1</guid>
             <pubDate>Sat, 24 Oct 2026 09:38:28 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b0c/live/63ec3980-cf8d-11f1-bef0-7f8eb636c50b.jpg"/>
         </item>
@@ -135,14 +143,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead]]></title>
-            <description><![CDATA[The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4g1p974wxko#1</guid>
-            <pubDate>Fri, 23 Oct 2026 15:37:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Argentina drops investigation into President Milei over crypto fraud]]></title>
             <description><![CDATA[Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -175,7 +175,15 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6926/live/c5f26d10-cef3-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
-            <title><![CDATA[Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat]]></title>
+            <title><![CDATA[Fireworks and tear gas as protesters and riot police clash in Paris]]></title>
+            <description><![CDATA[Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#2</guid>
+            <pubDate>Sat, 24 Oct 2026 19:37:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fire engulfs Hitler's mountaintop Eagle's Nest retreat]]></title>
             <description><![CDATA[Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.
 
 ]]></description>
@@ -207,14 +215,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck240lmvqjyjo#2</guid>
             <pubDate>Fri, 23 Oct 2026 05:05:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0bc/live/21d3ca50-ceb0-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['It's part of the culture' - New York bans horse-drawn carriages after more than 160 years]]></title>
-            <description><![CDATA[The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o#2</guid>
-            <pubDate>Thu, 22 Oct 2026 20:48:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4afd/live/9cabf440-cd62-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[The rise of AI election ads in US midterms campaign]]></title>

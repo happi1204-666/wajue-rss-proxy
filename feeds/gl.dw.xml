@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-24T17:47:53Z</dc:date>
+  <dc:date>2026-10-24T20:12:40Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-rdf"/>
@@ -18,7 +19,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/journalist-or-spy-russia-s-arrest-of-a-japanese-reporter-sparks-a-high-stakes-diplomatic-showdown/a-79742995?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-neha-bora-refuses-to-sign-peace-bond-cites-right-to-democratic-dissent/live-79748098?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf"/>
@@ -69,7 +70,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/formula-one-in-rwanda-sportswashing-claims-vs-hopes-for-african-legacy/a-79650744?maca=en-rss-en-all-1573-rdf"/>
@@ -151,6 +151,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine: Starlink satellite speeds restored to normal</title>
+  <link>https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf</link>
+  <description>The announcement comes after Starlink and Starshield restrictions had disrupted military operations in Ukraine and sparked tensions with the US.</description>
+  <dc:date>2026-10-24T19:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79752155</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-rdf">
   <title>German national facing trial for alleged attempt to join IS</title>
   <link>https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-rdf</link>
@@ -208,15 +217,15 @@
  <item rdf:about="https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-all-1573-rdf">
   <title>France: Clashes break out as protests go nationwide</title>
   <link>https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-all-1573-rdf</link>
-  <description>Police and elite security forces are out in force in French cities as tens of thousands participate in a new round of protests. The situation is slowing turning tense in some cities like Paris and Marseille. Follow DW.</description>
+  <description>Police and elite security forces are out in force in French cities as tens of thousands participate in a new round of protests. The situation turned tense Follow DW.</description>
   <dc:date>2026-10-24T06:34:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79748223</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/journalist-or-spy-russia-s-arrest-of-a-japanese-reporter-sparks-a-high-stakes-diplomatic-showdown/a-79742995?maca=en-rss-en-all-1573-rdf">
-  <title>Journalist or spy? Russia&apos;s arrest of a Japanese reporter sparks a high-stakes diplomatic showdown.</title>
-  <link>https://www.dw.com/en/journalist-or-spy-russia-s-arrest-of-a-japanese-reporter-sparks-a-high-stakes-diplomatic-showdown/a-79742995?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-rdf">
+  <title>Why Russia&apos;s arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.</title>
+  <link>https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-rdf</link>
   <description>Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.</description>
   <dc:date>2026-10-24T05:29:00Z</dc:date>
   <dc:subject>World</dc:subject>
@@ -672,15 +681,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79682217</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf">
-  <title>The EU wants an AI revolution. But on whose terms?</title>
-  <link>https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf</link>
-  <description>As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate?</description>
-  <dc:date>2026-10-16T13:12:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79673456</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf">
   <title>Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter</title>
