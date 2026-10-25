@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 10:39:46 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Oct 2026 09:31:44 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:45:16 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 14:37:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html" rel="standout"></atom:link>
       <description>Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.</description>
       <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 09:01:45 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 14:08:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
@@ -40,6 +40,49 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/25/multimedia/25int-brazil-election-wtk-kwpv/25int-brazil-election-wtk-kwpv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriano Machado/Reuters</media:credit>
       <media:description>Campaign towels depicting Mr. Bolsonaro and Mr. Lula in Brasília this week. </media:description>
+    </item>
+    <item>
+      <title>A Day After Renewed Street Clashes in France, Relief and Anxiety Mix</title>
+      <link>https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html" rel="standout"></atom:link>
+      <description>While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow.</description>
+      <dc:creator>Mark Landler and Ségolène Le Stradic</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 14:34:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orleans (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/25/multimedia/25int-france-assess-01-fvtc/25int-france-assess-01-fvtc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Manu Brabo/Getty Images</media:credit>
+      <media:description>Protesters shielding themselves from a water cannon in Paris on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks</title>
+      <link>https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html" rel="standout"></atom:link>
+      <description>The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.</description>
+      <dc:creator>Vivian Nereim</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 14:05:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">King Khalid International Airport (Riyadh, Saudi Arabia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Arabian Airlines</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/25/multimedia/25int-saudi-airport-1-pqfm/25int-saudi-airport-1-pqfm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>The departure terminal at King Khalid International Airport in Riyadh, Saudi Arabia, in April.</media:description>
     </item>
     <item>
       <title>What to Know as Serbia Votes for a New Parliament</title>
@@ -101,7 +144,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html" rel="standout"></atom:link>
       <description>The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.</description>
       <dc:creator>Sheera Frenkel, Siobhán O’Grady and Liubov Sholudko</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 09:28:35 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 09:28:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
@@ -149,32 +192,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salvini, Matteo</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-italy-jgzt/24france-protests-italy-jgzt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yara Nardi/Reuters</media:credit>
-      <media:description>Young people protested the rising cost of living in Milan on Saturday, a week after similar demonstrations in cities across northern Italy ended in violent clashes and looting. </media:description>
-    </item>
-    <item>
-      <title>Unrest Erupts Again in France, but This Time, With Less Property Damage</title>
-      <link>https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html" rel="standout"></atom:link>
-      <description>After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.</description>
-      <dc:creator>Mark Landler, Catherine Porter and Ségolène Le Stradic</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 21:23:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bagayoko, Bally</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orleans (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Philippe Lopez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Protesters amid tear gas near Place de la Bourse in Bordeaux, western France, on Saturday.</media:description>
+      <media:description>Young people protested the rising cost of living in Milan on Saturday, a week after similar demonstrations in cities across northern Italy ended in violent clashes and looting.</media:description>
     </item>
     <item>
       <title>‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire</title>
@@ -194,29 +212,6 @@
       <media:content height="1489" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-germany-fire-tlcj/24int-germany-fire-tlcj-mediumSquareAt3X.jpg" width="1491"></media:content>
       <media:credit>Kerstin Joensson/Agence France-Presse — Getty Images</media:credit>
       <media:description>The Kehlsteinhaus, also known as the Eagle’s Nest, on Saturday morning after the fire.</media:description>
-    </item>
-    <item>
-      <title>Israel Cracks Down in West Bank City After Deadly Attack</title>
-      <link>https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html" rel="standout"></atom:link>
-      <description>Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.</description>
-      <dc:creator>Aaron Boxerman and Fatima AbdulKarim</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 14:52:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebron (West Bank)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demolition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-westbank-operation-01-hvzq/24int-westbank-operation-01-hvzq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>John Wessels/Agence France-Presse — Getty Images</media:credit>
-      <media:description>An Israeli soldier at the northern checkpoint in Hebron, in the West Bank, on Saturday.</media:description>
     </item>
     <item>
       <title>Ukraine’s Feeling of Moral Whiplash at the Hands of Trump</title>
@@ -329,6 +324,31 @@
       <media:description>Members of the United Nations-backed Gang Suppression Force last month in Port-au-Prince, Haiti.</media:description>
     </item>
     <item>
+      <title>Unrest Erupts Again in France, but This Time, With Less Property Damage</title>
+      <link>https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html" rel="standout"></atom:link>
+      <description>After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.</description>
+      <dc:creator>Mark Landler, Catherine Porter and Ségolène Le Stradic</dc:creator>
+      <pubDate>Sat, 24 Oct 2026 21:23:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bagayoko, Bally</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orleans (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Philippe Lopez/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters amid tear gas near Place de la Bourse in Bordeaux, western France, on Saturday.</media:description>
+    </item>
+    <item>
       <title>Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors</title>
       <link>https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html</guid>
@@ -352,6 +372,29 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-paris-shutdown-scene-topart-jftw/24france-protests-paris-shutdown-scene-topart-jftw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Aris Messinis/Agence France-Presse — Getty Images</media:credit>
       <media:description>Security forces blocked access to the Place de la Bastille in Paris on Saturday for protesters and visitors alike.</media:description>
+    </item>
+    <item>
+      <title>Israel Cracks Down in West Bank City After Deadly Attack</title>
+      <link>https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html" rel="standout"></atom:link>
+      <description>Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.</description>
+      <dc:creator>Aaron Boxerman and Fatima AbdulKarim</dc:creator>
+      <pubDate>Sat, 24 Oct 2026 14:52:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebron (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demolition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-westbank-operation-01-hvzq/24int-westbank-operation-01-hvzq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>John Wessels/Agence France-Presse — Getty Images</media:credit>
+      <media:description>An Israeli soldier at the northern checkpoint in Hebron, in the West Bank, on Saturday.</media:description>
     </item>
     <item>
       <title>Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future</title>
@@ -493,9 +536,9 @@
       <link>https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html" rel="standout"></atom:link>
-      <description>Brazil’s President Luiz Inácio Lula da Silva faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.</description>
+      <description>Brazil’s President Luiz Inácio Lula da Silva, a leftist, faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.</description>
       <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 09:02:26 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 13:42:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
@@ -792,7 +835,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html" rel="standout"></atom:link>
       <description>With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis.</description>
       <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 21:29:29 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 14:37:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
@@ -1043,43 +1086,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23int-theworld-cancer-01-thlm-promo/23int-theworld-cancer-01-thlm-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kristian Thacker for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>He Was Reporting on Floods in Australia. Then He Jumped to the Rescue.</title>
-      <link>https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html" rel="standout"></atom:link>
-      <description>Will Murray of Australia’s public broadcaster spotted a man in a sinking truck, then jumped in the water with a bystander. (Just don’t call him Clark Kent.)</description>
-      <dc:creator>Remy Tumin and James McManagan</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 18:39:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Australian Broadcasting Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brisbane (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1252" medium="image" url="https://static01.nyt.com/images/2026/11/21/video/21vid-aus-rescue-screengrab/21vid-aus-rescue-screengrab-mediumSquareAt3X.png" width="1253"></media:content>
-      <media:credit>Australian Broadcasting Corporation, via Reuters</media:credit>
-    </item>
-    <item>
-      <title>Italy Experiences Food and Fuel Shortages After Truckers on Strike Block Roads</title>
-      <link>https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html" rel="standout"></atom:link>
-      <description>Truckers protesting high gas prices have prevented deliveries to parts of southern Italy, leading to empty shelves and dry pumps.</description>
-      <dc:creator>Josephine de La Bruyère</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 17:14:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Naples (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Service and Charging Stations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/22int-Italy-shortages-01-mvfz/22int-Italy-shortages-01-mvfz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alessandro Garofalo/LaPresse, Associated Press</media:credit>
-      <media:description>Mostly empty shelves at a grocery store in Naples, Italy, on Thursday.</media:description>
     </item>
   </channel>
 </rss>
