@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 18:03:52 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Oct 2026 17:52:46 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:00:29 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 20:59:25 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,15 +19,17 @@
       <link>https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html" rel="standout"></atom:link>
-      <description>After nearly 10 months in exile, Ms. Machado, the Nobel laureate and leader of Venezuela’s opposition, returned to challenge leaders who have sidelined her and press for new elections.</description>
-      <dc:creator>Julie Turkewitz</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 17:39:06 +0000</pubDate>
+      <description>After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.</description>
+      <dc:creator>Julie Turkewitz, Edward Wong and Adam Entous</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 20:35:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-jzmw/25int-venezuela-machado-jzmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nathalia Angarita for The New York Times</media:credit>
-      <media:description>María Corina Machado this month in Panama City.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-wlbq/25int-venezuela-machado-wlbq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jesus Hernandez/Associated Press</media:credit>
+      <media:description>María Corina Machado greets supporters on Sunday in Barquisimeto, Venezuela.</media:description>
     </item>
     <item>
       <title>What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula</title>
@@ -36,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html" rel="standout"></atom:link>
       <description>Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.</description>
       <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 14:08:51 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 19:53:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
@@ -162,11 +164,14 @@
       <pubDate>Sun, 25 Oct 2026 09:28:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lynsey Addario for The New York Times</media:credit>
       <media:description>Ukrainian soldiers operated a drone over Russian-occupied territory from the Zaporizhzhia region in 2023.</media:description>
@@ -178,14 +183,14 @@
       <atom:link href="https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html" rel="standout"></atom:link>
       <description>The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.</description>
       <dc:creator>Farnaz Fassihi and Leily Nikounazar</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 05:14:43 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:14:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fear (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-iran-mood-bwvj/24int-iran-mood-bwvj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
       <media:description>People passing photos of the three supreme leaders and a display featuring a Donald Trump impersonator behind bars in Tehran, on Thursday.</media:description>
@@ -197,14 +202,14 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests" rel="standout"></atom:link>
       <description>Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.</description>
       <dc:creator>Josephine de La Bruyère</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 15:41:09 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 15:41:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milan (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salvini, Matteo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-italy-jgzt/24france-protests-italy-jgzt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yara Nardi/Reuters</media:credit>
       <media:description>Young people protested the rising cost of living in Milan on Saturday, a week after similar demonstrations in cities across northern Italy ended in violent clashes and looting.</media:description>
@@ -218,12 +223,14 @@
       <dc:creator>Christopher F. Schuetze</dc:creator>
       <pubDate>Sat, 24 Oct 2026 19:53:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hitler, Adolf</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bavaria (Germany)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berchtesgaden (Germany)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alps Mountains</category>
       <media:content height="1489" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-germany-fire-tlcj/24int-germany-fire-tlcj-mediumSquareAt3X.jpg" width="1491"></media:content>
       <media:credit>Kerstin Joensson/Agence France-Presse — Getty Images</media:credit>
       <media:description>The Kehlsteinhaus, also known as the Eagle’s Nest, on Saturday morning after the fire.</media:description>
@@ -237,16 +244,11 @@
       <dc:creator>Marc Santora</dc:creator>
       <pubDate>Sat, 24 Oct 2026 09:03:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-whiplash-cmvg/24int-ukraine-whiplash-cmvg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Guttenfelder/The New York Times</media:credit>
       <media:description>Cars burning in the parking lot after a Russian drone strike on Friday in Dnipro, Ukraine.</media:description>
@@ -276,6 +278,67 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-albania-protests-wtk-fhbj/24int-albania-protests-wtk-fhbj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Armend Nimani/Agence France-Presse — Getty Images</media:credit>
       <media:description>Protesters clashed with police officers on Saturday in central Tirana, Albania.</media:description>
+    </item>
+    <item>
+      <title>Modi’s Plan to Stop India’s Protests</title>
+      <link>https://www.nytimes.com/2026/10/25/world/modi-india-protests-brazil-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/modi-india-protests-brazil-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/25/world/modi-india-protests-brazil-election.html" rel="standout"></atom:link>
+      <description>The Indian leader, facing a volatile youth uprising, appears to be deliberately drawing into the fray a political rival he’s beaten before.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 20:41:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rahul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/26int-theworld-india-01-jlwz-promo/26int-theworld-india-01-jlwz-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <media:description>A protest against the voter roll revision in New Delhi this month.</media:description>
+    </item>
+    <item>
+      <title>A corruption scandal involving a Brazilian Supreme Court justice has shaken up the election.</title>
+      <link>https://www.nytimes.com/live/2026/10/25/world/brazil-election/a-corruption-scandal-involving-a-brazilian-supreme-court-justice-has-shaken-up-the-election</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/25/world/brazil-election/a-corruption-scandal-involving-a-brazilian-supreme-court-justice-has-shaken-up-the-election</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/25/world/brazil-election/a-corruption-scandal-involving-a-brazilian-supreme-court-justice-has-shaken-up-the-election" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Ana Ionova</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 19:43:01 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/23/multimedia/00int-brazil-supreme-court-pwhl/00int-brazil-supreme-court-pwhl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dado Galdieri for The New York Times</media:credit>
+      <media:description>The Brazilian Supreme Court Justice Alexandre de Moraes has become a polarizing figure in the debate over policing online speech.</media:description>
+    </item>
+    <item>
+      <title>What’s at Stake in Brazil’s Elections?</title>
+      <link>https://www.nytimes.com/2026/10/25/world/americas/whats-at-stake-in-brazils-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/americas/whats-at-stake-in-brazils-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/25/world/americas/whats-at-stake-in-brazils-elections.html" rel="standout"></atom:link>
+      <description>On Sunday, Brazilians will choose between a beleaguered left-wing incumbent and a right-wing challenger. Trade, security and democracy are on the table.</description>
+      <dc:creator>Zane Irwin</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 18:49:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/25/multimedia/25brazil-election-stakes-topart-qpkf/25brazil-election-stakes-topart-qpkf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dado Galdieri for The New York Times</media:credit>
+      <media:description>Conservationists fear a return to the rapid deforestation in the Amazon rainforest if Flávio Bolsonaro carries the vote on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Adam B. Ellick and Ana Ionova</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 20:59:25 +0000</pubDate>
     </item>
     <item>
       <title>The Expat Voters Hoping to Swing Israel’s Election</title>
@@ -319,19 +382,14 @@
       <description>After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.</description>
       <dc:creator>Mark Landler, Catherine Porter and Ségolène Le Stradic</dc:creator>
       <pubDate>Sat, 24 Oct 2026 21:23:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bagayoko, Bally</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orleans (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Philippe Lopez/Agence France-Presse — Getty Images</media:credit>
       <media:description>Protesters amid tear gas near Place de la Bourse in Bordeaux, western France, on Saturday.</media:description>
@@ -370,20 +428,16 @@
       <atom:link href="https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html" rel="standout"></atom:link>
       <description>Americans on hand for the N.F.L.’s first-ever game in France found famous museums closed and shops boarded up.</description>
       <dc:creator>Mark Landler and Catherine Porter</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 16:00:32 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 19:41:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Louvre Museum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Musee d&#39;Orsay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Louvre Museum</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Notre Dame Cathedral (Paris, France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Champs-Elysees (Paris)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-paris-shutdown-scene-topart-jftw/24france-protests-paris-shutdown-scene-topart-jftw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Aris Messinis/Agence France-Presse — Getty Images</media:credit>
       <media:description>Security forces blocked access to the Place de la Bastille in Paris on Saturday for protesters and visitors alike.</media:description>
@@ -396,17 +450,15 @@
       <description>Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.</description>
       <dc:creator>Aaron Boxerman and Fatima AbdulKarim</dc:creator>
       <pubDate>Sat, 24 Oct 2026 14:52:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebron (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebron (West Bank)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demolition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-westbank-operation-01-hvzq/24int-westbank-operation-01-hvzq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>John Wessels/Agence France-Presse — Getty Images</media:credit>
       <media:description>An Israeli soldier at the northern checkpoint in Hebron, in the West Bank, on Saturday.</media:description>
@@ -504,12 +556,16 @@
       <description>Flávio Bolsonaro, the son of the former president who was jailed over a coup plot, could be on the cusp of winning Brazil’s presidency.</description>
       <dc:creator>Ana Ionova</dc:creator>
       <pubDate>Sat, 24 Oct 2026 09:03:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-brazil-bolsonaro-profile-cwqg/24int-brazil-bolsonaro-profile-cwqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Silvio Avila/Agence France-Presse — Getty Images</media:credit>
       <media:description>Flávio Bolsonaro during a campaign event this month in Porto Alegre, Brazil.</media:description>
@@ -553,16 +609,17 @@
       <atom:link href="https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html" rel="standout"></atom:link>
       <description>Brazil’s President Luiz Inácio Lula da Silva, a leftist, faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.</description>
       <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 13:42:54 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 13:42:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/00int-brazil-lula-profile-bwkl/00int-brazil-lula-profile-bwkl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Victor Moriyama for The New York Times</media:credit>
       <media:description>President Luiz Inácio Lula da Silva during the launch of his re-election campaign in São Paulo in August. He is seeking a fourth term on Sunday.</media:description>
@@ -587,14 +644,13 @@
       <description>The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.</description>
       <dc:creator>Choe Sang-Hun and Chris Buckley</dc:creator>
       <pubDate>Sun, 25 Oct 2026 01:14:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dandong (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Korean War</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-nkorea-china-fblv/24int-nkorea-china-fblv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>KCNA, via Reuters</media:credit>
       <media:description>The North Korean leader, Kim Jong-un, waved as he walked along the New Yalu River Bridge, in a photograph released by North Korean state media on Saturday.</media:description>
@@ -622,11 +678,14 @@
       <description>The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.</description>
       <dc:creator>Isabel Kershner</dc:creator>
       <pubDate>Sat, 24 Oct 2026 17:45:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
       <media:description>Prime Minister Benjamin Netanyahu of Israel speaking to supporters at a mall in Holon, Israel, this month.</media:description>
@@ -913,7 +972,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html" rel="standout"></atom:link>
       <description>Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election.</description>
       <dc:creator>Adam B. Ellick and Seth Kugel</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 02:46:38 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 20:33:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
@@ -999,88 +1058,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/00int-korea-arms-01-vbct/00int-korea-arms-01-vbct-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Korean Central News Agency, via Reuters</media:credit>
       <media:description>A photograph provided by North Korean state media showing the leader, Kim Jong-un, and his daughter, Kim Ju-ae, overseeing the firing of an intermediate-range missile from the country’s east coast during a drill in October.</media:description>
-    </item>
-    <item>
-      <title>How Pastors Mobilize Communities in Congo’s Fight Against Ebola</title>
-      <link>https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html" rel="standout"></atom:link>
-      <description>As health care workers fought to control the latest outbreak this year, they got crucial aid from churches in beating back fear and misinformation.</description>
-      <dc:creator>Finbarr O’Reilly</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 04:01:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mongbwalu (Congo, Democratic Republic of)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Care Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ministers (Protestant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clergy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23int-ebola-congo-religion-promo-lqwc/23int-ebola-congo-religion-promo-lqwc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?</title>
-      <link>https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html" rel="standout"></atom:link>
-      <description>Mr. Eisenkot, an ex-military chief leading in the polls, calls the Israeli prime minister an “anti-leader.” But his low-key campaigning style is worrying supporters.</description>
-      <dc:creator>David M. Halbfinger, Natan Odenheimer and Johnatan Reiss</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 06:47:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/21Israel-Eisenkot-01-mvtj/21Israel-Eisenkot-01-mvtj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amit Elkayam for The New York Times</media:credit>
-      <media:description>Gadi Eisenkot, the leading candidate against Prime Minister Benjamin Netanyahu, at a campaign event in Haifa, Israel, last month.</media:description>
-    </item>
-    <item>
-      <title>Powerful Earthquake in Tibet Kills at Least 16</title>
-      <link>https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html" rel="standout"></atom:link>
-      <description>Dozens were injured and more than 300 homes were toppled by the 7.0-magnitude quake, which sent residents fleeing into the cold night air, state media said.</description>
-      <dc:creator>Alexandra Stevenson</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 07:40:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tibet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Himalayas</category>
-      <media:content height="1137" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23int-china-tibet-quake-pvlf/23int-china-tibet-quake-pvlf-mediumSquareAt3X.jpg" width="1138"></media:content>
-      <media:credit>Xinhua, via Associated Press</media:credit>
-      <media:description>Rescuers at an earthquake-hit village in Baqen County of Nagqu, a city in Tibet, on Friday. The area is at a high altitude and snow is expected in the coming days.</media:description>
-    </item>
-    <item>
-      <title>Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell</title>
-      <link>https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html" rel="standout"></atom:link>
-      <description>The Islamic republic has long used billboards in Tehran to mock its opponents and hammer home its messaging, but this piece of performance propaganda is perhaps the most eccentric yet.</description>
-      <dc:creator>Erika Solomon and Sanam Mahoozi</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 21:25:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/10/22/world/middleeast/Trump_billb2/Trump_billb2-mediumSquareAt3X.png" width="1080"></media:content>
-      <media:credit>WANA, via Reuters</media:credit>
     </item>
   </channel>
 </rss>
