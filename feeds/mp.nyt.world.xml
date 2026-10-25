@@ -7,13 +7,28 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 14:45:16 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Oct 2026 14:37:53 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:03:52 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 17:52:46 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>María Corina Machado Returns to Venezuela</title>
+      <link>https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html" rel="standout"></atom:link>
+      <description>After nearly 10 months in exile, Ms. Machado, the Nobel laureate and leader of Venezuela’s opposition, returned to challenge leaders who have sidelined her and press for new elections.</description>
+      <dc:creator>Julie Turkewitz</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 17:39:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-jzmw/25int-venezuela-machado-jzmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nathalia Angarita for The New York Times</media:credit>
+      <media:description>María Corina Machado this month in Panama City.</media:description>
+    </item>
     <item>
       <title>What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula</title>
       <link>https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html</link>
@@ -46,9 +61,9 @@
       <link>https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html" rel="standout"></atom:link>
-      <description>While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow.</description>
+      <description>While the police kept a lid on vandalism, the huge number of protesters and France’s fraught politics suggest unrest could grow.</description>
       <dc:creator>Mark Landler and Ségolène Le Stradic</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 14:34:10 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 17:52:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
@@ -62,13 +77,13 @@
       <media:description>Protesters shielding themselves from a water cannon in Paris on Saturday.</media:description>
     </item>
     <item>
-      <title>Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks</title>
+      <title>Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes</title>
       <link>https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html" rel="standout"></atom:link>
-      <description>The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.</description>
+      <description>The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.</description>
       <dc:creator>Vivian Nereim</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 14:05:17 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 15:50:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
@@ -182,7 +197,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests" rel="standout"></atom:link>
       <description>Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.</description>
       <dc:creator>Josephine de La Bruyère</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 01:26:08 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 15:41:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milan (Italy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
@@ -237,33 +252,6 @@
       <media:description>Cars burning in the parking lot after a Russian drone strike on Friday in Dnipro, Ukraine.</media:description>
     </item>
     <item>
-      <title>Why Is the U.S. Accusing Canada of Election Interference?</title>
-      <link>https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html" rel="standout"></atom:link>
-      <description>The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”</description>
-      <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 16:02:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joly, Melanie (1979- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hoekstra, Peter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navarro, Peter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/00int-canada-midterms-explainer-zvbw/00int-canada-midterms-explainer-zvbw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>President Trump with Prime Minister Mark Carney of Canada at the Group of 7 summit in Evian-les-Bains, France, in June. Mr. Carney has said that his government was ready to “drop everything” to negotiate an end to its costly trade war with the United States.</media:description>
-    </item>
-    <item>
       <title>Violent Protests Resurface in Albania: What to Know</title>
       <link>https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html</guid>
@@ -313,7 +301,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html" rel="standout"></atom:link>
       <description>El Salvador had sent hundreds of troops to find the four men, who disappeared six days ago. The president of El Salvador denied the bodies were those of his soldiers.</description>
       <dc:creator>David C. Adams and Frances Robles</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 02:01:15 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 02:01:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
@@ -347,6 +335,33 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Philippe Lopez/Agence France-Presse — Getty Images</media:credit>
       <media:description>Protesters amid tear gas near Place de la Bourse in Bordeaux, western France, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Why Is the U.S. Accusing Canada of Election Interference?</title>
+      <link>https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html" rel="standout"></atom:link>
+      <description>The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”</description>
+      <dc:creator>Zane Irwin</dc:creator>
+      <pubDate>Sat, 24 Oct 2026 16:02:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joly, Melanie (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hoekstra, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navarro, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/00int-canada-midterms-explainer-zvbw/00int-canada-midterms-explainer-zvbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>President Trump with Prime Minister Mark Carney of Canada at the Group of 7 summit in Evian-les-Bains, France, in June. Mr. Carney has said that his government was ready to “drop everything” to negotiate an end to its costly trade war with the United States.</media:description>
     </item>
     <item>
       <title>Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors</title>
@@ -591,12 +606,11 @@
       <atom:link href="https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html" rel="standout"></atom:link>
       <description>The GR20, a 112-mile hiking trail that bisects the craggy Mediterranean island, is often billed as the continent’s most demanding trek. Here’s an insider’s look.</description>
       <dc:creator>Marta Giaccone</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 09:00:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
+      <pubDate>Sat, 24 Oct 2026 09:00:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Corsica</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23trav-corsica-PROMO-plcw/23trav-corsica-PROMO-plcw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Marta Giaccone for The New York Times</media:credit>
     </item>
@@ -1067,25 +1081,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
       <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/10/22/world/middleeast/Trump_billb2/Trump_billb2-mediumSquareAt3X.png" width="1080"></media:content>
       <media:credit>WANA, via Reuters</media:credit>
-    </item>
-    <item>
-      <title>A Cancer Revolution</title>
-      <link>https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html" rel="standout"></atom:link>
-      <description>We look at how screening and groundbreaking treatments have radically reduced death rates.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Fri, 23 Oct 2026 05:00:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breast Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Condition (Health)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23int-theworld-cancer-01-thlm-promo/23int-theworld-cancer-01-thlm-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kristian Thacker for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
