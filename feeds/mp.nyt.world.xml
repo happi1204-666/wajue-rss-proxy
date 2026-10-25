@@ -7,23 +7,56 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 22:36:34 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Oct 2026 22:33:56 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:45:06 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 00:41:04 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>France Protest Updates: Hundreds of Thousands March Amid Heavy Security</title>
-      <link>https://www.nytimes.com/live/2026/10/24/world/france-protests-riots</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/24/world/france-protests-riots</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/24/world/france-protests-riots" rel="standout"></atom:link>
-      <description>The marches were largely peaceful until evening, when clashes popped up and the police used tear gas and water cannons to disperse some protesters in Marseille and Paris.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 20:05:25 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-carousel-1130am-qzwl/24france-protests-carousel-1130am-qzwl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Thibaud Moritz/Agence France-Presse — Getty Images</media:credit>
+      <title>Elon Musk Says Ukraine Violated Starlink’s Rules</title>
+      <link>https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html" rel="standout"></atom:link>
+      <description>The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.</description>
+      <dc:creator>Sheera Frenkel, Siobhán O’Grady and Liubov Sholudko</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 00:10:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Ukrainian soldiers operated a drone over Russian-occupied territory from the Zaporizhzhia region in 2023.</media:description>
+    </item>
+    <item>
+      <title>Unrest Erupts Again in France, but This Time, With Less Property Damage</title>
+      <link>https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html" rel="standout"></atom:link>
+      <description>After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.</description>
+      <dc:creator>Mark Landler, Catherine Porter and Ségolène Le Stradic</dc:creator>
+      <pubDate>Sat, 24 Oct 2026 21:23:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bagayoko, Bally</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orleans (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Philippe Lopez/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters amid tear gas near Place de la Bourse in Bordeaux, western France, on Saturday.</media:description>
     </item>
     <item>
       <title>‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire</title>
@@ -66,6 +99,23 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-westbank-operation-01-hvzq/24int-westbank-operation-01-hvzq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>John Wessels/Agence France-Presse — Getty Images</media:credit>
       <media:description>An Israeli soldier at the northern checkpoint in Hebron, in the West Bank, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers</title>
+      <link>https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html" rel="standout"></atom:link>
+      <description>El Salvador had sent hundreds of troops to find the men, who were ambushed six days ago while working as part of a U.N.-backed anti-gang task force.</description>
+      <dc:creator>David C. Adams and Frances Robles</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 00:06:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-haiti-dead-tjwv/24int-haiti-dead-tjwv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael Anthony Adams/The New York Times</media:credit>
+      <media:description>Members of the United Nations-backed Gang Suppression Force last month in Port-au-Prince, Haiti.</media:description>
     </item>
     <item>
       <title>Ukraine’s Feeling of Moral Whiplash at the Hands of Trump</title>
@@ -159,25 +209,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
       <media:description>Prime Minister Benjamin Netanyahu of Israel speaking to supporters at a mall in Holon, Israel, this month.</media:description>
-    </item>
-    <item>
-      <title>Drones on Starshield Network Are Back to Normal Speeds, Ukraine Says</title>
-      <link>https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html" rel="standout"></atom:link>
-      <description>The announcement followed more than a week of unexplained problems with Starshield, the Pentagon-funded satellite network Ukraine relies on to thwart Russian attacks.</description>
-      <dc:creator>Siobhán O’Grady and Liubov Sholudko</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 16:11:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lynsey Addario for The New York Times</media:credit>
-      <media:description>Ukrainian soldiers operated a drone over Russian-occupied territory from the Zaporizhzhia region in 2023.</media:description>
     </item>
     <item>
       <title>Looting Left Damage and Fear on Paradise Street in Marseille</title>
@@ -291,68 +322,23 @@
       <media:description>Flávio Bolsonaro during a campaign event this month in Porto Alegre, Brazil.</media:description>
     </item>
     <item>
-      <title>Why Are There Protests in France?</title>
-      <link>https://www.nytimes.com/article/france-student-protests-why.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/france-student-protests-why.html</guid>
-      <atom:link href="https://www.nytimes.com/article/france-student-protests-why.html" rel="standout"></atom:link>
-      <description>The authorities deployed tens of thousands of security forces and banned demonstrations in some cities, hoping to avoid a repeat of the riots that shook the country a week ago.</description>
-      <dc:creator>Catherine Porter, Ségolène Le Stradic and Lynsey Chutel</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 11:08:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Denis (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jeff Pachoud/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Forensic officers examining the tourist office in Lyon, France, on Sunday, Oct. 18.</media:description>
-    </item>
-    <item>
-      <title>4 Bodies Found in Haiti Are Thought to Be Those of Missing Salvadoran Soldiers</title>
-      <link>https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html" rel="standout"></atom:link>
-      <description>El Salvador had sent hundreds of troops to find the men, who were ambushed six days ago while working as part of the Gang Suppression Force.</description>
-      <dc:creator>David C. Adams and Frances Robles</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 22:33:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-haiti-dead-tjwv/24int-haiti-dead-tjwv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael Anthony Adams/The New York Times</media:credit>
-      <media:description>Members of the United Nations-backed Gang Suppression Force last month in Port-au-Prince, Haiti.</media:description>
-    </item>
-    <item>
-      <title>Unrest Erupts Again in France, but This Time, With Less Property Damage</title>
-      <link>https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html" rel="standout"></atom:link>
-      <description>After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.</description>
-      <dc:creator>Mark Landler, Catherine Porter and Ségolène Le Stradic</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 21:23:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">France Unbowed (Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bagayoko, Bally</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orleans (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Philippe Lopez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Protesters amid tear gas near Place de la Bourse in Bordeaux, western France, on Saturday.</media:description>
+      <title>Iranians Face Anxious Wait as Threat of Attack Looms</title>
+      <link>https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html" rel="standout"></atom:link>
+      <description>The United States and Israel have drawn plans to renew strikes against Iran, but the uncertainty about if or when those attacks might happen has created a sense of dread.</description>
+      <dc:creator>Farnaz Fassihi and Leily Nikounazar</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 00:41:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fear (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-iran-mood-bwvj/24int-iran-mood-bwvj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>People passing photos of the three supreme leaders and a display featuring a Donald Trump impersonator behind bars in Tehran, on Thursday.</media:description>
     </item>
     <item>
       <title>Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors</title>
@@ -1073,6 +1059,31 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/22int-france-protests-qzmc/22int-france-protests-qzmc-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Simon Wohlfahrt/Agence France-Presse — Getty Images</media:credit>
       <media:description>Police officers in Paris on Tuesday during a partial curfew put in place after last weekend’s demonstrations.</media:description>
+    </item>
+    <item>
+      <title>As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off</title>
+      <link>https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html" rel="standout"></atom:link>
+      <description>One expert said the likelihood that a mayor announces closure of work and school because of a typhoon increases 31 percent during an election year.</description>
+      <dc:creator>Lily Kuo and Pei-Lin Wu</dc:creator>
+      <pubDate>Thu, 22 Oct 2026 17:39:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chinese Nationalist Party (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Progressive Party (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lai Ching-te</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hsinchu (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tainan (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taipei (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/22int-taiwan-typhoon-fgbh/22int-taiwan-typhoon-fgbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chiang Ying-Ying/Associated Press</media:credit>
+      <media:description>A high wave hitting the shore in Keelung, northern Taiwan, on Thursday, as Typhoon Champi approached the area.</media:description>
     </item>
   </channel>
 </rss>
