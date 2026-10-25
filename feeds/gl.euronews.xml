@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Sun, 25 Oct 2026 21:53:43 +0100</lastBuildDate>
-  <pubDate>Sun, 25 Oct 2026 21:53:43 +0100</pubDate>
+  <lastBuildDate>Sun, 25 Oct 2026 23:12:39 +0100</lastBuildDate>
+  <pubDate>Sun, 25 Oct 2026 23:12:39 +0100</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -16,11 +16,32 @@
    <link>https://www.euronews.com</link>
   </image>
   <item>
-   <title>Vučić concedes defeat in pivotal Serbian elections, says Student Movement has won</title>
+   <title>Serbia: crowds celebrate in Belgrade after Vučić admits defeat</title>
+   <link>https://www.euronews.com/video/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat</link>
+   <guid>https://www.euronews.com/video/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat</guid>
+   <pubDate>Sun, 25 Oct 2026 23:12:39 +0100</pubDate>
+   <description>Crowds celebrated in Belgrade after President Aleksandar Vučić conceded defeat for his ruling party in Serbia's snap parliamentary election, following nearly two years of student-led demonstrations.</description>
+  </item>
+  <item>
+   <title>Songs of praise: An emotional Greek-German musical collaboration at Berlin Cathedral</title>
+   <link>https://www.euronews.com/2026/10/25/songs-of-praise-an-emotional-greek-german-musical-collaboration-at-berlin-cathedral</link>
+   <guid>https://www.euronews.com/2026/10/25/songs-of-praise-an-emotional-greek-german-musical-collaboration-at-berlin-cathedral</guid>
+   <pubDate>Sun, 25 Oct 2026 23:01:57 +0100</pubDate>
+   <description>Thirty-eight students from the Chios Music School joined forces with choirs and ensembles from Berlin’s Song Academy as part of German Unity Day.</description>
+  </item>
+  <item>
+   <title>Ukraine's Zelenskyy confirms trilateral talks with Russia and US to take place in November</title>
+   <link>https://www.euronews.com/2026/10/25/ukraines-zelenskyy-confirms-trilateral-talks-with-russia-and-us-to-take-place-in-november</link>
+   <guid>https://www.euronews.com/2026/10/25/ukraines-zelenskyy-confirms-trilateral-talks-with-russia-and-us-to-take-place-in-november</guid>
+   <pubDate>Sun, 25 Oct 2026 22:26:06 +0100</pubDate>
+   <description>The trilateral talks aim to restart stalled peace talks between Ukraine and Russia, with the latter's invasion well into its fifth year.</description>
+  </item>
+  <item>
+   <title>Student List wins Serbian election in political earthquake as Vučić concedes defeat </title>
    <link>https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won</link>
    <guid>https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won</guid>
    <pubDate>Sun, 25 Oct 2026 21:51:39 +0100</pubDate>
-   <description>The election was seen as a referendum on Vučić’s political dominance and the political system that has been in place in Serbia for more than a decade.</description>
+   <description>The election was seen as a referendum on Vučić’s political dominance and the political system that had been in place in Serbia for more than a decade.</description>
   </item>
   <item>
    <title>Marine Le Pen launches presidential campaign with vow to restore 'rule of law'</title>
@@ -343,27 +364,6 @@
    <guid>https://www.euronews.com/video/2026/10/24/video-shows-extensive-damage-inside-frances-historic-limoges-town-hall</guid>
    <pubDate>Sat, 24 Oct 2026 09:43:39 +0200</pubDate>
    <description>Limoges Town Hall, a historic building dating back to 1883, was largely destroyed by fire during riots on 17 October. Images released by the city council show the extensive damage inside the building.</description>
-  </item>
-  <item>
-   <title>Winter time or summer time? What the science says about the best option for health</title>
-   <link>https://www.euronews.com/2026/10/24/winter-time-or-summer-time-what-the-science-says-about-the-best-option-for-health</link>
-   <guid>https://www.euronews.com/2026/10/24/winter-time-or-summer-time-what-the-science-says-about-the-best-option-for-health</guid>
-   <pubDate>Sat, 24 Oct 2026 09:32:18 +0200</pubDate>
-   <description>Permanent standard time would be better for health, experts say, while once again we are to change our clocks over the weekend.</description>
-  </item>
-  <item>
-   <title>Rubio calls on Cubans seeking change to form 'discrete partnership' with CIA</title>
-   <link>https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia</link>
-   <guid>https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia</guid>
-   <pubDate>Sat, 24 Oct 2026 09:28:46 +0200</pubDate>
-   <description>The Trump administration has repeatedly stated that its goal is to bring about a change in Havana's leadership, with President Donald Trump himself having claimed the country is &quot;ready to fall.&quot;</description>
-  </item>
-  <item>
-   <title>Debt: Moody's spares France, &quot;a brief respite&quot;, not a &quot;vote of confidence&quot;</title>
-   <link>https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence</link>
-   <guid>https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence</guid>
-   <pubDate>Sat, 24 Oct 2026 09:21:15 +0200</pubDate>
-   <description>Despite downgrade consensus, the agency kept France's sovereign rating unchanged, a short-lived relief, say economists, warning of a debt time bomb and worsening political and social tensions.</description>
   </item>
  </channel>
 </rss>
