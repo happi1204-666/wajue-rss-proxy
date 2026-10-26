@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Fri, 23 Oct 2026 20:34:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Oct 2026 18:34:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,23 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Are Critiques of Zelensky a Side Effect of Societal Exhaustion?</title>
+		<link>https://warontherocks.com/are-critiques-of-zelensky-a-side-effect-of-societal-exhaustion/</link>
+		
+		<dc:creator><![CDATA[Nicole Wiley]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 18:45:56 +0000</pubDate>
+				<category><![CDATA[Members]]></category>
+		<category><![CDATA[The Ukraine Compass]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48240</guid>
+
+					<description><![CDATA[<p>Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.Western coverage often narrows the view to the battlefield &#8212; these pieces widen it, revealing the texture of daily life, politics, and public argument in a nation at war. The perspectives gathered here are varied, candid, and often surprising, together forming a more complete picture of Ukraine as it really is.Frontline</p>
+<p>The post <a href="https://warontherocks.com/are-critiques-of-zelensky-a-side-effect-of-societal-exhaustion/">Are Critiques of Zelensky a Side Effect of Societal Exhaustion?</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Lessons for Pentagon Procurement from the Special Operations Enterprise</title>
 		<link>https://warontherocks.com/cogs-of-war/lessons-for-pentagon-procurement-from-the-special-operations-enterprise/</link>
 		
@@ -1929,26 +1946,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 		<dc:creator><![CDATA[Yuster Yu]]></dc:creator>
-	</item>
-		<item>
-		<title>European Resilience in Digital Infrastructure: The Changing Nature of State-Business Relations</title>
-		<link>https://warontherocks.com/cogs-of-war/european-resilience-in-digital-infrastructure-the-changing-nature-of-state-business-relations/</link>
-		
-		<dc:creator><![CDATA[Michiel Foulon]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 08:00:52 +0000</pubDate>
-				<category><![CDATA[Cogs of War]]></category>
-		<category><![CDATA[Defense Industry]]></category>
-		<category><![CDATA[Defense Policy]]></category>
-		<category><![CDATA[Defense Tech]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46575</guid>
-
-					<description><![CDATA[<p>As the war in Ukraine progressed, Russian strikes increasingly degraded Ukraine&#8217;s terrestrial communications infrastructure, steadily deepening Kyiv&#8217;s dependence on SpaceX&#8217;s Starlink. The satellite constellation became indispensable for crucial military functions, including command and control, drone operations, and artillery fire coordination, with no readily available European alternative should access be withdrawn.This reality exemplifies the idea that today, governments rely on critical infrastructure that is privately owned and globally embedded. But these interdependencies can be weaponized, and state-firm relations can become misaligned. Recent controversies over the ability of American and Chinese technology companies to restrict access to critical AI models, alongside NVIDIA&#8217;s</p>
-<p>The post <a href="https://warontherocks.com/cogs-of-war/european-resilience-in-digital-infrastructure-the-changing-nature-of-state-business-relations/">European Resilience in Digital Infrastructure: The Changing Nature of State-Business Relations</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Ivan Zaccagnini]]></dc:creator>
 	</item>
 	</channel>
 </rss>
