@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 19:42:28 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 19:40:36 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:33:35 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 23:12:02 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html" rel="standout"></atom:link>
       <description>The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.</description>
       <dc:creator>Erika Solomon and Rania Khaled</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 19:40:33 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 19:42:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
@@ -109,7 +109,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html" rel="standout"></atom:link>
       <description>President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago.</description>
       <dc:creator>Ana Ionova and Adam B. Ellick</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 17:22:26 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 20:32:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
@@ -242,12 +242,14 @@
       <atom:link href="https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html" rel="standout"></atom:link>
       <description>After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.</description>
       <dc:creator>Julie Turkewitz, Edward Wong and Adam Entous</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 16:40:42 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 16:40:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-venezuela-machado-pwtq/25int-venezuela-machado-pwtq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Federico Parra/Agence France-Presse — Getty Images</media:credit>
       <media:description>Ms. Machado greetings supporters in Caracas on Sunday.</media:description>
@@ -259,7 +261,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html" rel="standout"></atom:link>
       <description>Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan.</description>
       <dc:creator>Raja Abdulrahim</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 12:09:50 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 20:28:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Orthodox Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
@@ -269,6 +271,172 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/26int-jordan-attack-1-kcfq/26int-jordan-attack-1-kcfq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Salah Malkawi/Getty Images</media:credit>
       <media:description>People attending a funeral in Hamoud, Jordan, on Sunday for victims of the attack on a Greek Orthodox church.</media:description>
+    </item>
+    <item>
+      <title>Machado’s Return to Venezuela Tests Limits of U.S. Sway</title>
+      <link>https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html" rel="standout"></atom:link>
+      <description>Seeking new elections, María Corina Machado will need to tread carefully to avoid offending the Trump administration, while also asserting her own leadership.</description>
+      <dc:creator>Simon Romero and Edward Wong</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 23:09:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Authoritarianism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/26int-venezuela-machado-fzkh/26int-venezuela-machado-fzkh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Leonardo Fernandez Viloria/Reuters</media:credit>
+      <media:description>The Venezuelan opposition leader María Corina Machado greeting supporters in the Venezuelan capital, Caracas, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>France Makes Concessions to Students, but Not Enough to Halt Protests</title>
+      <link>https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html" rel="standout"></atom:link>
+      <description>The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 22:22:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/26int-france-students-1-bvfj/26int-france-students-1-bvfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anne-Christine Poujoulat/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Student representatives after a meeting on Monday with Prime Minister Sébastien Lecornu in Paris.</media:description>
+    </item>
+    <item>
+      <title>How Lula’s Social Media Campaign Helped Him Win Brazil’s Election</title>
+      <link>https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html" rel="standout"></atom:link>
+      <description>President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.</description>
+      <dc:creator>Ana Ionova, Adam B. Ellick and Jack Nicas</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 21:51:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-election-assess-mwht/26brazil-election-assess-mwht-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Rodrigo Paiva/Getty Images</media:credit>
+      <media:description>President Luiz Inácio Lula da Silva’s army of supporters, mobilized over a WhatsApp chat group, delivered an unexpected victory over Flávio Bolsonaro, the right-wing challenger.</media:description>
+    </item>
+    <item>
+      <title>Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say</title>
+      <link>https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html" rel="standout"></atom:link>
+      <description>Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.</description>
+      <dc:creator>David M. Halbfinger, Ronen Bergman, Natan Odenheimer, Adam Rasgon and Aaron Boxerman</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 22:44:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zamir, Eyal</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-netanyahu-iran-qmcz/26int-israel-netanyahu-iran-qmcz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A campaign billboard in Tel Aviv depicting Prime Minister Benjamin Netanyahu and President Trump on Monday, the eve of Israel’s national election.</media:description>
+    </item>
+    <item>
+      <title>Mexico’s Top Election Official Resigns Amid Corruption Scandal</title>
+      <link>https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html" rel="standout"></atom:link>
+      <description>Guadalupe Taddei Zavala, the head of the electoral watchdog, stepped down after facing accusations of corruption and influence peddling.</description>
+      <dc:creator>Paulina Villegas</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 22:33:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Electoral Institute (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guadalupe Taddei Zavala</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/26mexico-1-vphz/26mexico-1-vphz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jose Luis Torales/NurPhoto, via Getty Images</media:credit>
+      <media:description>The president of the National Electoral Institute, Guadalupe Taddei Zavala, resigned days after the nation’s top auditing and oversight authority announced it had opened an investigation based on irregularities in contracts awarded by the electoral agency.</media:description>
+    </item>
+    <item>
+      <title>Election Surprises</title>
+      <link>https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html" rel="standout"></atom:link>
+      <description>Serbia and Brazil are very different countries. But their unexpected election results tell us a lot.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 21:37:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Serbia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sao Paulo (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ghana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Chris (1989- )</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27int-theworld-elections-lula-tkhg-promo/27int-theworld-elections-lula-tkhg-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ricardo Moreira/Getty Images</media:credit>
+      <media:description>Lula after the results in São Paulo on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says</title>
+      <link>https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html" rel="standout"></atom:link>
+      <description>The panel also accuses Israel of committing crimes against humanity in the West Bank. Israel condemned the report.</description>
+      <dc:creator>Nick Cumming-Bruce</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 20:30:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="975" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/26int-un-israel-gaza-01-jbhv/26int-un-israel-gaza-01-jbhv-mediumSquareAt3X.jpg" width="975"></media:content>
+      <media:credit>Saher Alghorra for The New York Times</media:credit>
+      <media:description>An Israeli strike on a Gaza City mosque in July.</media:description>
+    </item>
+    <item>
+      <title>Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says</title>
+      <link>https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html" rel="standout"></atom:link>
+      <description>The assaults on infrastructure, which cut off heat and power on bitterly cold winter days, amounted to a crime against humanity, investigators said.</description>
+      <dc:creator>Nick Cumming-Bruce</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 23:12:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/26int-un-ukraine-russia-1-jbfk/26int-un-ukraine-russia-1-jbfk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Svitlana Zinoviyeva, left, and her daughter, Oleksandra Buzko, mounted a tent above the bed last winter to stay warm at home amid subzero temperatures, power outages and minimal to no heat in buildings across the city in Kyiv, Ukraine.</media:description>
     </item>
     <item>
       <title>Convicted Australian Murderer Loses Bid to Eat Vegemite in Prison</title>
@@ -311,7 +479,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html" rel="standout"></atom:link>
       <description>President Luiz Inácio Lula da Silva won a fourth term, halting a string of conservative victories in Latin America. His opponent disputed the result.</description>
       <dc:creator>Ana Ionova, Adam B. Ellick and Yan Zhuang</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 17:54:20 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 20:55:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
@@ -420,6 +588,13 @@
       <description></description>
       <dc:creator>Ana Ionova</dc:creator>
       <pubDate>Sun, 25 Oct 2026 21:18:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
     </item>
     <item>
       <title>Who Is María Corina Machado?</title>
@@ -472,6 +647,13 @@
       <description></description>
       <dc:creator>Ana Ionova</dc:creator>
       <pubDate>Sun, 25 Oct 2026 23:33:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moraes, Alexandre de (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/23/multimedia/00int-brazil-supreme-court-pwhl/00int-brazil-supreme-court-pwhl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
       <media:description>The Brazilian Supreme Court Justice Alexandre de Moraes has become a polarizing figure in the debate over policing online speech.</media:description>
@@ -576,10 +758,12 @@
       <dc:creator>Ephrat Livni</dc:creator>
       <pubDate>Sun, 25 Oct 2026 09:01:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-simple-explainer-kgjv/27israel-simple-explainer-kgjv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Amir Cohen/Reuters</media:credit>
       <media:description>Campaign billboards featuring Prime Minister Benjamin Netanyahu and Gadi Eisenkot this month in Kiryat Malachi, Israel.</media:description>
@@ -595,10 +779,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tristan da Cunha</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Islands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/00int-island-tristan-promo-1-chvq/00int-island-tristan-promo-1-chvq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Julia Gunther for The New York Times</media:credit>
     </item>
@@ -910,195 +1093,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-whiplash-cmvg/24int-ukraine-whiplash-cmvg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Guttenfelder/The New York Times</media:credit>
       <media:description>Cars burning in the parking lot after a Russian drone strike on Friday in Dnipro, Ukraine.</media:description>
-    </item>
-    <item>
-      <title>The Other Bolsonaro Who Could Become Brazil’s Next President</title>
-      <link>https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html" rel="standout"></atom:link>
-      <description>Flávio Bolsonaro, the son of the former president who was jailed over a coup plot, could be on the cusp of winning Brazil’s presidency.</description>
-      <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 09:03:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-brazil-bolsonaro-profile-cwqg/24int-brazil-bolsonaro-profile-cwqg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Silvio Avila/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Flávio Bolsonaro during a campaign event this month in Porto Alegre, Brazil.</media:description>
-    </item>
-    <item>
-      <title>U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections</title>
-      <link>https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html" rel="standout"></atom:link>
-      <description>The Trump administration wants a public victory soon, as well as a potential path to U.S. military forces in Mexico.</description>
-      <dc:creator>Steve Fisher, Jack Nicas, Eric Schmitt, Maria Abi-Habib, Julian E. Barnes and Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 09:03:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jalisco New Generation Cartel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oseguera Cervantes, Nemesio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23int-mexico-pressure-bhlk/23int-mexico-pressure-bhlk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Paul Ratje for The New York Times</media:credit>
-      <media:description>American soldiers awaited a visit by Defense Secretary Pete Hegseth and the White House border czar, Tom Homan, last year near the United States-Mexico border at Sunland Park, N.M.</media:description>
-    </item>
-    <item>
-      <title>Lula, Latin America’s Most Influential Statesman, Halts a Right-Wing Surge</title>
-      <link>https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html" rel="standout"></atom:link>
-      <description>Brazil’s President Luiz Inácio Lula da Silva, a leftist, staged a remarkable comeback on Sunday, winning re-election and stopping a right-wing wave.</description>
-      <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 12:13:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/00int-brazil-lula-profile-bwkl/00int-brazil-lula-profile-bwkl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Victor Moriyama for The New York Times</media:credit>
-      <media:description>President Luiz Inácio Lula da Silva during the launch of his re-election campaign in São Paulo in August. </media:description>
-    </item>
-    <item>
-      <title>Why Brazil’s Election Could Come Down to Crime</title>
-      <link>https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html" rel="standout"></atom:link>
-      <description>Ana Ionova examines how the Brazilian presidential candidate Flávio Bolsonaro is making crime and safety the center of his campaign, following a right-wing playbook from other Latin American countries.</description>
-      <dc:creator>Ana Ionova, Leila Medina and Thomas Vollkommer</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 14:32:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-    </item>
-    <item>
-      <title>Kim Jong-un Makes First Visit to China in Over a Year</title>
-      <link>https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html" rel="standout"></atom:link>
-      <description>The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.</description>
-      <dc:creator>Choe Sang-Hun and Chris Buckley</dc:creator>
-      <pubDate>Sun, 25 Oct 2026 01:14:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24int-nkorea-china-fblv/24int-nkorea-china-fblv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>KCNA, via Reuters</media:credit>
-      <media:description>The North Korean leader, Kim Jong-un, waved as he walked along the New Yalu River Bridge, in a photograph released by North Korean state media on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Corsica’s GR20: A Visual Diary of the Hike</title>
-      <link>https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html" rel="standout"></atom:link>
-      <description>The GR20, a 112-mile hiking trail that bisects the craggy Mediterranean island, is often billed as the continent’s most demanding trek. Here’s an insider’s look.</description>
-      <dc:creator>Marta Giaccone</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 09:00:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Corsica</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/23trav-corsica-PROMO-plcw/23trav-corsica-PROMO-plcw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Marta Giaccone for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?</title>
-      <link>https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html" rel="standout"></atom:link>
-      <description>The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.</description>
-      <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 17:45:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
-      <media:description>Prime Minister Benjamin Netanyahu of Israel speaking to supporters at a mall in Holon, Israel, this month.</media:description>
-    </item>
-    <item>
-      <title>How Defiant Youth Are Testing India’s Idea of Democracy</title>
-      <link>https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html" rel="standout"></atom:link>
-      <description>Four takeaways from India’s protest movement, at a moment when democracies around the world are under pressure.</description>
-      <dc:creator>Somini Sengupta</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 13:00:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rahul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/00INT-INDIA-PROTESTS-LESSONS-01-wgml/00INT-INDIA-PROTESTS-LESSONS-01-wgml-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
-      <media:description>Security personnel detaining protesters demanding the resignation of the head of India’s election commission this month in New Delhi.</media:description>
-    </item>
-    <item>
-      <title>Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say</title>
-      <link>https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html" rel="standout"></atom:link>
-      <description>The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.</description>
-      <dc:creator>Edward Wong, Jonathan Swan and Julian E. Barnes</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 16:09:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/dc-iran-security-gcqh/dc-iran-security-gcqh-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Ahmad Al-Rubaye/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Security stationed outside the U.S. embassy in Baghdad’s fortified Green Zone in March.</media:description>
     </item>
   </channel>
 </rss>
