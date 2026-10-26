@@ -7,7 +7,7 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-26T01:29:33Z</dc:date>
+  <dc:date>2026-10-26T06:50:33Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
@@ -152,8 +152,8 @@
  <item rdf:about="https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf">
   <title>Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro</title>
   <link>https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf</link>
-  <description>Leftist President Lula has defeated right-wing challenger Flavio Bolsonaro to win another term in office. DW has the latest.</description>
-  <dc:date>2026-10-26T01:22:00Z</dc:date>
+  <description>Leftist President Lula has defeated right-wing challenger Flavio Bolsonaro to win another term in office. Bolsonaro has refused to concede and called for the results to be annulled. DW has the latest.</description>
+  <dc:date>2026-10-26T03:45:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79755630</dwsyn:contentID>
@@ -161,7 +161,7 @@
  <item rdf:about="https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf">
   <title>Serbia election: Vucic concedes defeat to student-led movement</title>
   <link>https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf</link>
-  <description>In a seismic political shift, Serbia&apos;s longtime strongman leader Aleksandar Vucic has conceded defeat to a student-led movement in the country&apos;s parliamentary elections.</description>
+  <description>In a seismic political shift, Serbia&apos;s longtime strongman leader Aleksandar Vucic has conceded defeat to a student-led opposition movement in the country&apos;s parliamentary elections.</description>
   <dc:date>2026-10-25T21:07:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
