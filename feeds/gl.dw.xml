@@ -7,11 +7,14 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-27T15:42:13Z</dc:date>
+  <dc:date>2026-10-27T20:24:25Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://www.dw.com/en/myanmar-is-us-undermining-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/turnout-at-israel-s-election-has-reached-a-record-high-at-the-halfway-stage/live-79713839?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-all-1573-rdf"/>
@@ -28,9 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/steinmeier-in-china-a-major-state-visit-in-uncertain-times/a-79764205?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf"/>
@@ -150,10 +150,37 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
- <item rdf:about="https://www.dw.com/en/myanmar-is-us-undermining-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf">
-  <title>Myanmar: Is US undermining EU&apos;s diplomatic blockade?</title>
-  <link>https://www.dw.com/en/myanmar-is-us-undermining-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf</link>
-  <description>With the US reopening talks with Myanmar&apos;s military-backed government and several Southeast Asian countries restarting diplomatic contacts, the EU is facing uncomfortable questions about its own boycott of the junta.</description>
+ <item rdf:about="https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf">
+  <title>Flavio Bolsonaro flees Brazil for US amid investigation  — reports</title>
+  <link>https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf</link>
+  <description>Flavio Bolsonaro is reportedly on the way to the US, according to reports citing people close to the senator. Bolsonaro&apos;s passports were canceled earlier Tuesday.</description>
+  <dc:date>2026-10-27T19:34:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79781094</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf">
+  <title>EU proposes giving Frontex border agency new major powers</title>
+  <link>https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf</link>
+  <description>The European Commission has unveiled a new plan to give Frontex more resources to ensure the return of irregular migrants, including by supporting non-EU countries. The move comes after the tragedy in Ceuta.</description>
+  <dc:date>2026-10-27T17:44:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79779690</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf">
+  <title>Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark</title>
+  <link>https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf</link>
+  <description>French soccer star Kylian Mbappe has apologized after apparently referring to Mao Zedong as a dictator. Chinese sponsors have dropped him, while state television has suspended Spanish league broadcasts.</description>
+  <dc:date>2026-10-27T16:49:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79779831</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf">
+  <title>Myanmar: Is the US undermining the EU&apos;s diplomatic blockade?</title>
+  <link>https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf</link>
+  <description>With the US reopening talks with Myanmar&apos;s military-backed government, and several Southeast Asian countries restarting diplomatic contacts, the EU is facing uncomfortable questions about its own boycott of the junta.</description>
   <dc:date>2026-10-27T15:16:00Z</dc:date>
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
@@ -302,33 +329,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79770228</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-all-1573-rdf">
-  <title>A bad omen? Syria bans women from university courses</title>
-  <link>https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-all-1573-rdf</link>
-  <description>The recent announcement that Syrian tertiary institutes will not allow women into some courses has triggered debate. Critics worry it may be a sign that the new Syrian government is restricting women&apos;s rights.</description>
-  <dc:date>2026-10-26T20:07:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79769348</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-rdf">
-  <title>AI company Anthropic files its IPO in hopes of raising $100 billion</title>
-  <link>https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-rdf</link>
-  <description>Anthropic has filed paperwork for an initial public offering that could be one of the biggest in history. The co-founders have outlined both the benefits and the risks of AI in their pitch to potential investors.</description>
-  <dc:date>2026-10-26T18:22:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79768876</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-all-1573-rdf">
-  <title>German police probe cruise ship captain after Bremerhaven collision</title>
-  <link>https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-all-1573-rdf</link>
-  <description>A three-ship collision has led to the cancellation of a cruise and expensive damages. Shipyard repairs are needed, and further cruises could be affected.</description>
-  <dc:date>2026-10-26T17:00:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79769346</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf">
   <title>What Germany thinks of carmaker Audi&apos;s $4 billion deal with Trump</title>

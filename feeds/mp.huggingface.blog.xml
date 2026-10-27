@@ -7,10 +7,16 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
-   <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-   <pubDate>Fri, 23 Oct 2026 16:15:50 GMT</pubDate>
-   <link>https://huggingface.co/blog/allenai/litpivot</link>
-   <guid isPermaLink="false">https://huggingface.co/blog/allenai/litpivot</guid>
+   <title>Build specialized multimodal models with LFM3</title>
+   <pubDate>Tue, 27 Oct 2026 17:16:52 GMT</pubDate>
+   <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm3</guid>
+  </item>
+  <item>
+   <title>Can we trust LLMs to judge whether a research idea is novel?</title>
+   <pubDate>Tue, 27 Oct 2026 16:12:42 GMT</pubDate>
+   <link>https://huggingface.co/blog/allenai/novelty-bench</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/allenai/novelty-bench</guid>
   </item>
   <item>
    <title>Does Your Model Run on AWS Trainium? Look It Up</title>
