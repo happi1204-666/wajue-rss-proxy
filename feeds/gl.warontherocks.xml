@@ -39,6 +39,45 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>The Machine Staff</title>
+		<link>https://warontherocks.com/cogs-of-war/the-machine-staff/</link>
+		
+		<dc:creator><![CDATA[Josh Richards]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 08:00:35 +0000</pubDate>
+				<category><![CDATA[Cogs of War]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Defense Policy]]></category>
+		<category><![CDATA[Future Warfare]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48183</guid>
+
+					<description><![CDATA[<p>At Nellis Air Force Base last year, an AI system was tasked with building courses of action, a complex operational problem that military planners have spent generations learning to perform. The AI system took less than a minute to complete its task with solutions rated at 97 percent viable and tactically valid (essentially, whether the proposed plan could work given operational constraints such as fuel and force composition). By contrast, their human counterparts took roughly 19 minutes and only reached 48 percent viability.That comparison needs two qualifiers. First, the tool that hit 97 percent came from a single vendor that</p>
+<p>The post <a href="https://warontherocks.com/cogs-of-war/the-machine-staff/">The Machine Staff</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Gabe Arrington]]></dc:creator>
+	</item>
+		<item>
+		<title>The Anti-Taliban Resistance Has Survived. Can It Win?</title>
+		<link>https://warontherocks.com/the-anti-taliban-resistance-has-survived-can-it-win/</link>
+		
+		<dc:creator><![CDATA[Will Selber]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 07:30:16 +0000</pubDate>
+				<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Afghanistan]]></category>
+		<category><![CDATA[Insurgency]]></category>
+		<category><![CDATA[Taliban]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48252</guid>
+
+					<description><![CDATA[<p>As the Taliban enters its sixth year in power, it remains more powerful than it was before the Sept. 11 attacks. The Taliban&#8217;s flag flies in all of Afghanistan&#8217;s 34 provinces. While only Russia has formally recognized the group as the country&#8217;s government, China and the United Arab Emirates have officially accredited or accepted Taliban ambassadors and exchanged diplomatic staff, with Pakistan, Qatar, Iran, Kazakhstan, Uzbekistan, Turkmenistan, and Turkey establishing de facto working relationships with the Sunni Deobandi group. Even its archrival, the Islamic State in Afghanistan, has seen its attack activity decline after years of counter-terrorism operations.However, beneath the</p>
+<p>The post <a href="https://warontherocks.com/the-anti-taliban-resistance-has-survived-can-it-win/">The Anti-Taliban Resistance Has Survived. Can It Win?</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Tensions Rise</title>
 		<link>https://warontherocks.com/tensions-rise/</link>
 		
@@ -1907,44 +1946,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<dc:creator><![CDATA[Kimberly Elenberg]]></dc:creator>
 <dc:creator><![CDATA[Eric Elster]]></dc:creator>
 	</item>
-		<item>
-		<title>Where Does AI Escalation Come From? We Don’t Know. We Should Find Out.</title>
-		<link>https://warontherocks.com/where-does-ai-escalation-come-from-we-dont-know-we-should-find-out/</link>
-		
-		<dc:creator><![CDATA[Dustin League]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 07:30:30 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Nuclear Weapons]]></category>
-		<category><![CDATA[Wargaming]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46551</guid>
-
-					<description><![CDATA[<p>We played a wargame using AI players. Two nuclear-armed nations &#8212; Red and Blue &#8212; with a long-standing, fierce border dispute were placed into a militarized crisis. Over the course of several turns, the states managed to avoid escalation to war, though there were non-operational nuclear demonstrations. Surprised by the lack of escalation we&#8217;d been primed to find by Juan-Pablo Rivera, Gabriel Mukobi, Anka Reuel, Max Lamparth, Chandler Smith, and Jacquelyn Schneider, as well as Kenneth Payne, we tried upping the stakes. We gave Red some new tactical nuclear weapons, altering the balance a bit in their favor. The states</p>
-<p>The post <a href="https://warontherocks.com/where-does-ai-escalation-come-from-we-dont-know-we-should-find-out/">Where Does AI Escalation Come From? We Don’t Know. We Should Find Out.</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[William Dawson]]></dc:creator>
-	</item>
-		<item>
-		<title>Russia’s Road to El Dorado</title>
-		<link>https://warontherocks.com/russias-road-to-el-dorado/</link>
-		
-		<dc:creator><![CDATA[Raphael Parens]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 07:00:03 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Mali]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Security Cooperation]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46561</guid>
-
-					<description><![CDATA[<p>As a new convoy of Russian armored vehicles arrives from the port of Lom&#233; to support Russia&#8217;s Africa Corps deployment in Mali, that mission has entered its fifth year. Russia&#8217;s investment of blood and treasure urgently demands a return, but what could this return be? What is the Russian end goal in Mali?When the Wagner Group, Africa Corps&#8217; predecessor, entered Mali in December 2021, it was pursuing a resources-for-security deal like the one it had achieved in the Central African Republic. Along with my co-authors Chris Faulkner and Colin Clarke in our book, Moscow&#8217;s Mercenaries, I documented Wagner&#8217;s lessons learned,</p>
-<p>The post <a href="https://warontherocks.com/russias-road-to-el-dorado/">Russia’s Road to El Dorado</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>

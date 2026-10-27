@@ -7,10 +7,16 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-27T03:41:36Z</dc:date>
+  <dc:date>2026-10-27T09:34:38Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf"/>
@@ -19,7 +25,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/macron-vows-strong-measures-to-combat-protests-that-rocked-france/a-79764224?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-all-1573-rdf"/>
@@ -27,10 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-audi-boss-slammed-over-trump-rally-appearance/live-79760097?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/venezuelan-opposition-leader-machado-returns-from-exile/a-79759187?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/prague-honors-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf"/>
@@ -150,6 +151,60 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-rdf">
+  <title>Two men face UK national security charges following an incident near RAF Fairford, with police suspecting Iranian state involvement</title>
+  <link>https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-rdf</link>
+  <description>British prosecutors have charged two men over an incident near RAF Fairford in September. Police suspect Iranian involvement in the case at a base used for US strikes on Iran.</description>
+  <dc:date>2026-10-27T09:32:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79773432</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-all-1573-rdf">
+  <title>Police in northern Germany search for suspects after car ramming overnight injures several</title>
+  <link>https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-all-1573-rdf</link>
+  <description>A person intentionally drove into a group of people in a northern German town, police have said. The suspects fled on foot and remain at large.</description>
+  <dc:date>2026-10-27T07:38:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>78107062</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Arunachal sees fresh violence over proposed dam</title>
+  <link>https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf</link>
+  <description>More violence erupted in India&apos;s northeastern state of Arunachal Pradesh over proposed hydroelectric projects that locals are protesting. Also, India&apos;s top court will hear pleas against the poll body chief. More on DW.</description>
+  <dc:date>2026-10-27T07:23:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79771650</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf">
+  <title>Israel election: Israelis vote for 1st time since October 7 terror attack</title>
+  <link>https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf</link>
+  <description>Israel&apos;s longest-serving prime minister, Benjamin Netanyahu, faces a battle to stay in power amid fierce competition from a bloc led by former military chief Gadi Eisenkot. Arab parties are projected to play kingmakers.</description>
+  <dc:date>2026-10-27T05:59:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79713839</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf">
+  <title>Brazil elections: Merz, world leaders congratulate Lula on his win</title>
+  <link>https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf</link>
+  <description>Brazilian President Lula secured a surprise win over far-right challenger Flavio Bolsonaro, whose party recognizes Lula&apos;s election victory.</description>
+  <dc:date>2026-10-27T04:46:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79755630</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine and Russia begin Oleshky ceasefire for aid mission</title>
+  <link>https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf</link>
+  <description>Around 2,000 people remain stranded in the city of Oleshky, facing severe shortages of food and medicine. The Russian-occupied town has been devastated by fighting and flooding since Moscow&apos;s invasion in 2022.</description>
+  <dc:date>2026-10-27T03:52:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79771473</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf">
   <title>US seeks new charges against former FBI chief James Comey</title>
   <link>https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf</link>
@@ -180,7 +235,7 @@
  <item rdf:about="https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-rdf">
   <title>UN sounds the alarm over Israel&apos;s West Bank military operation</title>
   <link>https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-rdf</link>
-  <description>The UN has sounded the alarm on Israeli action in the West Bank city of Hebron after hundreds of families were displaced at the weekend. Israel has ordered the military to demolish homes after soldiers were killed there.</description>
+  <description>The UN has sounded the alarm on Israeli action in the West Bank city of Hebron after hundreds of families were displaced over the weekend. Israel has ordered the military to demolish homes after soldiers were killed.</description>
   <dc:date>2026-10-26T20:56:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -221,15 +276,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79760479</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf">
-  <title>Brazil elections: Merz, world leaders congratulate Lula on his win</title>
-  <link>https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf</link>
-  <description>Brazilian President Lula secured a surprise win over far-right challenger Flavio Bolsonaro, whose party recognizes Lula&apos;s election victory. DW has the latest.</description>
-  <dc:date>2026-10-26T15:08:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79755630</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-all-1573-rdf">
   <title>Why Ukraine may be involved in Mali&apos;s conflict</title>
@@ -294,46 +340,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79734659</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Remark on Modi&apos;s father stirs political row</title>
-  <link>https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-rdf</link>
-  <description>An opposition leader&apos;s impromptu remark concerning PM Modi is causing a political stir in India with the ruling party now planning a protest. Also, the prince of Liechtenstein is in Mumbai.</description>
-  <dc:date>2026-10-26T07:17:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79758965</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf">
-  <title>Serbia election: Vucic concedes defeat to student-led movement</title>
-  <link>https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf</link>
-  <description>In a seismic political shift, Serbia&apos;s longtime strongman leader Aleksandar Vucic has conceded defeat to a student-led opposition movement in the country&apos;s parliamentary elections.</description>
-  <dc:date>2026-10-25T21:07:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79753482</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-rdf">
-  <title>Protein shakes for teenagers: Good or bad idea?</title>
-  <link>https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-rdf</link>
-  <description>Protein products are marketed as a way of building muscle and losing weight — and they&apos;re very popular with young people. They also claim to promote healthy growth in children. Is this true? How much protein is healthy?</description>
-  <dc:date>2026-10-25T16:12:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79751929</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf">
-  <title>Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny</title>
-  <link>https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf</link>
-  <description>Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda&apos;s main airport as conflicting accounts cloud the source of one infection.</description>
-  <dc:date>2026-10-25T13:41:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79741580</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf">
-  <title>Harry Kane: Ballon d’Or for Bayern Munich striker?</title>
+  <title>Harry Kane: Ballon d’Or for Bayern Munich striker</title>
   <link>https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf</link>
-  <description>Bayern Munich striker Harry Kane is the clear front-runner for football&apos;s most prestigious individual prize, which will be awarded on Monday. Kane has developed even more in the Bundesliga despite an uneven league.</description>
+  <description>Bayern Munich striker Harry Kane has won football&apos;s most prestigious individual prize, beating Kylian Mbappe and Lamine Yamal. Kane has developed even more in the Bundesliga despite an uneven league.</description>
   <dc:date>2026-10-25T13:20:00Z</dc:date>
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
