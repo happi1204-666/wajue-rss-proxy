@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 23:53:09 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 23:53:02 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:55:56 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 03:36:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,15 +41,15 @@
       <media:description>Steve Witkoff and Jared Kushner, President Trump’s envoys, with Kirill Dmitriev, the head of the Russian Direct Investment Fund, in Moscow last month.</media:description>
     </item>
     <item>
-      <title>Live Updates: Opposition Holds Slim Lead Over Netanyahu’s Coalition in Israeli Elections</title>
+      <title>Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear</title>
       <link>https://www.nytimes.com/live/2026/10/27/world/israel-elections</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/27/world/israel-elections</guid>
       <atom:link href="https://www.nytimes.com/live/2026/10/27/world/israel-elections" rel="standout"></atom:link>
-      <description>Exit polls showed no clear winner after the highest voter turnout in decades. A bloc of parties led by the former military chief Gadi Eisenkot is trying to unseat Prime Minister Benjamin Netanyahu and his right-wing allies.</description>
+      <description>Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 23:53:02 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-live-promo7p-mzkq/27israel-live-promo7p-mzkq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Shir Torem/Reuters</media:credit>
+      <pubDate>Wed, 28 Oct 2026 02:52:21 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jalaa Marey/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>European Leaders Split Over Phone Call to Putin</title>
@@ -186,7 +186,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html" rel="standout"></atom:link>
       <description>Mada Masr, one of Egypt’s few independent media outlets, said a judge ordered it closed for operating without a license and detained its editor in chief.</description>
       <dc:creator>Erika Solomon and Rania Khaled</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 17:21:41 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 02:38:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mada Masr (News Service)</category>
@@ -278,7 +278,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html" rel="standout"></atom:link>
       <description>The airstrikes late Monday, which a Syrian agency said killed at least seven civilians, were in retaliation for an attack on a Jordanian church, Jordan said.</description>
       <dc:creator>Raja Abdulrahim</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 18:33:27 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 18:33:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
@@ -341,11 +341,14 @@
       <atom:link href="https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html" rel="standout"></atom:link>
       <description>Voters supporting two leading Arab parties turned out in record numbers to voice their opposition to the Netanyahu government.</description>
       <dc:creator>Liam Stack</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 23:50:51 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 00:56:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-arab-parties1-qwmp/27israel-arab-parties1-qwmp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ahmad Gharabli/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Supporters of Israel’s Arab-led Joint List political alliance cheering as the first exit polls are announced on Tuesday.</media:description>
     </item>
     <item>
       <title>Tensions Between North and South Korea Stem From Decade-Old Border Dispute</title>
@@ -398,7 +401,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html" rel="standout"></atom:link>
       <description>The U.S. plans to issue a visa to Mr. Bolsonaro, a U.S. official said. Brazilian police had asked him to hand over his passports because of his links to an investigation.</description>
       <dc:creator>Ana Ionova, Edward Wong and Thayz Guimarães</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 22:54:13 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 00:26:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
@@ -412,16 +415,16 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27int-brazil-bolsonaro-flight-jtzq/27int-brazil-bolsonaro-flight-jtzq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pablo Porciuncula/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Flávio Bolsonaro in Brasília on Sunday, when he lost the election to President Luiz Inácio Lula da Silva. Mr. Bolsonaro said he planned to file a legal challenge over the outcome.</media:description>
+      <media:description>Flávio Bolsonaro in Brasília on Sunday after hearing early results in the election he lost to President Luiz Inácio Lula da Silva. Mr. Bolsonaro said he planned to file a legal challenge over the outcome.</media:description>
     </item>
     <item>
       <title>What to Expect Now That Polls Are Closed in Israel</title>
       <link>https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html" rel="standout"></atom:link>
-      <description>Polls have closed across the country. Exits polls may offer clues about the direction of the voting but not necessarily a clear winner.</description>
+      <description>Polls have closed across the country. Exit polls may offer clues about the direction of the voting but not necessarily a clear winner.</description>
       <dc:creator>Liam Stack</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 20:35:26 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 02:00:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
@@ -471,7 +474,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 19:30:04 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 19:30:05 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-economy-jmcw/27israel-economy-jmcw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ammar Awad/Reuters</media:credit>
       <media:description>Prime Minister Benjamin Netanyahu has argued that Israel’s economy is healthy, but warned that its financial isolation could deepen.</media:description>
@@ -554,7 +557,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/27/world/middleeast/house-democrats-us-israel.html" rel="standout"></atom:link>
       <description>Anger has focused on Prime Minister Benjamin Netanyahu, who has become a political lightning rod in the United States, and the high death toll in Gaza.</description>
       <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 16:52:00 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 16:52:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
@@ -650,7 +653,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html" rel="standout"></atom:link>
       <description>Two British men were charged Tuesday over a suspected plot targeting a base used by the United States. Prosecutors believe they were directed by a man working for Iran.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 20:09:33 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 02:39:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -707,13 +710,13 @@
       <media:description>Ultra-Orthodox Israelis protesting military conscription for members of their community in Jerusalem last year.</media:description>
     </item>
     <item>
-      <title>Hong Kong’s ‘Apartment Horror’ Films Skewer Its Ghastly Property Market</title>
+      <title>Hong Kong’s Property Market Is (Literally) the Stuff of Horror Movies</title>
       <link>https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html" rel="standout"></atom:link>
-      <description>In one of the world’s least affordable housing markets, high-density housing is a backdrop for exploring superstition and socioeconomic anxiety.</description>
+      <description>In the city’s “apartment horror” films, one of the world’s least affordable housing markets is a backdrop for exploring superstition and socioeconomic anxiety.</description>
       <dc:creator>Hari Raj</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 09:01:02 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 03:36:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
@@ -732,7 +735,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest</guid>
       <atom:link href="https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest" rel="standout"></atom:link>
       <description></description>
-      <pubDate>Tue, 27 Oct 2026 23:53:01 +0000</pubDate>
+      <dc:creator>David M. Halbfinger, Max Bearak, Isabel Kershner, Aaron Boxerman and Johnatan Reiss</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 02:40:52 +0000</pubDate>
     </item>
     <item>
       <title>Book Review: ‘Princes and Thieves,’ by Matthew Cole</title>
@@ -1071,9 +1075,9 @@
       <link>https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html" rel="standout"></atom:link>
-      <description>President Luis Inácio Lula da Silva’s victory ended a string of presidential election wins by right-wing candidates in Latin America. His opponent has refused to accept defeat.</description>
+      <description>President Luis Inácio Lula da Silva’s victory ended a string of election wins by right-wing candidates in Latin America. His opponent, Flávio Bolsonaro, refused to accept defeat and has fled Brazil.</description>
       <dc:creator>Ana Ionova, Adam B. Ellick and Yan Zhuang</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 04:08:13 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 02:36:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
