@@ -7,13 +7,24 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 16:43:28 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 16:41:58 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:27:15 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 21:19:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>At Least 68 Killed in Train Crash in Spain, Officials Say</title>
+      <link>https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo" rel="standout"></atom:link>
+      <description>A high-speed passenger train rear-ended another near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 19:12:18 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28spain-145-jgvp/28spain-145-jgvp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manu Fernandez/Associated Press</media:credit>
+    </item>
     <item>
       <title>Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear</title>
       <link>https://www.nytimes.com/live/2026/10/27/world/israel-elections</link>
@@ -21,38 +32,31 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/27/world/israel-elections" rel="standout"></atom:link>
       <description>Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 15:05:49 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 18:17:50 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jalaa Marey/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
-      <title>Live Updates: At Least 68 Killed in Train Crash in Spain, Officials Say</title>
-      <link>https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo" rel="standout"></atom:link>
-      <description>A high-speed passenger train rear-ended another near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 16:41:42 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-promo-1215pm-mvbj/28spain-crash-promo-1215pm-mvbj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Javier Soriano/Agence France-Presse — Getty Images</media:credit>
-    </item>
-    <item>
-      <title>The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.</title>
-      <link>https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html" rel="standout"></atom:link>
-      <description>To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily.</description>
-      <dc:creator>David Shortell and Cristopher Rogel Blanquet</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 12:08:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seaweed</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cancun (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <title>Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers</title>
+      <link>https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html" rel="standout"></atom:link>
+      <description>More than a week after the first case was reported in Africa’s most populous nation, pressing questions about the infection remain unanswered.</description>
+      <dc:creator>Saikou Jammeh</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 18:16:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaseya, Jean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abuja (Nigeria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bundibugyo (Uganda)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-nigeria-ebola-questions-1-kbgp/28int-nigeria-ebola-questions-1-kbgp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Geneva University Hospitals</media:credit>
+      <media:description>A photograph released by the Geneva University Hospitals shows paramedics carrying from a helicopter a woman who had been diagnosed with Ebola following her flight from Nigeria, on Monday.</media:description>
     </item>
     <item>
       <title>Tommy Robinson Found Guilty of Harassing 2 UK Journalists</title>
@@ -83,13 +87,31 @@
       <media:description>Stephen Yaxley-Lennon, who goes by the name Tommy Robinson, outside Southwark Crown Court in London on Wednesday.</media:description>
     </item>
     <item>
+      <title>The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.</title>
+      <link>https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html" rel="standout"></atom:link>
+      <description>To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily.</description>
+      <dc:creator>David Shortell and Cristopher Rogel Blanquet</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 12:08:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seaweed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cancun (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
       <title>Flávio Bolsonaro Lands in Miami After Fleeing Brazil</title>
       <link>https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html" rel="standout"></atom:link>
       <description>Mr. Bolsonaro, who lost Sunday’s presidential election, fled Brazil for the United States via Argentina after the police canceled his passport in relation to an investigation.</description>
-      <dc:creator>Ana Ionova, Edward Wong and Alice Maciel</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 15:33:33 +0000</pubDate>
+      <dc:creator>Ana Ionova, Edward Wong, Alice Maciel and Lucía Cholakian Herrera</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 21:04:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Passports</category>
@@ -104,7 +126,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eva Marie Uzcategui/Reuters</media:credit>
-      <media:description>Flávio Bolsonaro arriving at Opa-locka airport near Miami on Wednesday.</media:description>
+      <media:description>Flávio Bolsonaro arriving at Miami Opa-Locka Airport on Wednesday.</media:description>
     </item>
     <item>
       <title>Israel’s President, Isaac Herzog, Faces a Difficult Choice</title>
@@ -152,21 +174,17 @@
       <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html" rel="standout"></atom:link>
       <description>A state broadcaster says it cannot afford the restoration of a 1922 steel tower, prompting rare wartime dissent and a movement to save the Modernist masterpiece.</description>
       <dc:creator>Ivan Nechepurenko and Michael Kimmelman</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 15:27:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="">Shukhov Radio Tower</category>
+      <pubDate>Wed, 28 Oct 2026 15:27:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demolition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demolition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="">Shukhov Radio Tower</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Russian Television and Radio Broadcasting Network (RTRN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lenin, Vladimir</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Russian Television and Radio Broadcasting Network</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-russia-tower-01-mwcj/29int-russia-tower-01-mwcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pavel Golovkin/Associated Press</media:credit>
@@ -290,24 +308,155 @@
       <media:description>Protesters outside the U.S. Embassy in Warsaw demanding help for the residents of Oleshky, a Ukrainian town under siege by the Russians, this month.</media:description>
     </item>
     <item>
-      <title>Hong Kong’s Property Market Is (Literally) the Stuff of Horror Movies</title>
-      <link>https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html" rel="standout"></atom:link>
-      <description>In the city’s “apartment horror” films, one of the world’s least affordable housing markets is a backdrop for exploring superstition and socioeconomic anxiety.</description>
-      <dc:creator>Hari Raj</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 03:36:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Superstitions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Haunted Houses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ghosts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chinese University of Hong Kong, The</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hong Kong Baptist University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/23/multimedia/00xp-halloween-hongkong-promo/00xp-halloween-hongkong-ckzj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <title>What to Make of Israel’s Ambiguous Election</title>
+      <link>https://www.nytimes.com/2026/10/28/world/israel-election-results-spain-train.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/israel-election-results-spain-train.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/israel-election-results-spain-train.html" rel="standout"></atom:link>
+      <description>Neither Benjamin Netanyahu nor his rivals won a majority, leaving Arab lawmakers as potential kingmakers in the new Parliament.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 20:43:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lauren, Ralph</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-theworld-israel-election-01-vchb-promo/29int-theworld-israel-election-01-vchb-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alexi J. Rosenfeld/Getty Images</media:credit>
+      <media:description>Benjamin Netanyahu in Jerusalem yesterday.</media:description>
+    </item>
+    <item>
+      <title>How André Janones Helped Turbocharge Lula’s Comeback in Brazil’s Election</title>
+      <link>https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html" rel="standout"></atom:link>
+      <description>With street talk and tactics from the far-right’s playbook, André Janones used a WhatsApp channel to help organize millions of Brazilians online.</description>
+      <dc:creator>Adam B. Ellick and Victor Moriyama</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 20:35:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/00brazil-election-influencer-promo/00brazil-election-influencer-cbkz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>The Brazilian congressman André Janones created a digital “army” by setting up WhatsApp groups and posting on Instagram, which helped mobilized the vote for the reelection of President Luiz Inácio Lula da Silva.</media:description>
+    </item>
+    <item>
+      <title>Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path</title>
+      <link>https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html" rel="standout"></atom:link>
+      <description>Votes are still being counted, but it appears that neither Prime Minister Benjamin Netanyahu’s right-wing coalition nor the opposition alliance headed by Gadi Eisenkot will have a majority.</description>
+      <dc:creator>Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Michael Levenson</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 20:13:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-ledeall-1-kzpm/28int-israel-ledeall-1-kzpm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
+      <media:description>Torn Likud party campaign ad featuring Prime Minister Benjamin Netanyahu of Israel and President Trump in Jerusalem on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Spain Train Crash Kills at Least 68</title>
+      <link>https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html" rel="standout"></atom:link>
+      <description>The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country’s history.</description>
+      <dc:creator>Jason Horowitz, José Bautista and Carlos Barragán</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 20:26:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (Jan 18, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intermodalidad de Levante SA (Iryo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seville (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-train-2-gbkt/28int-spain-train-2-gbkt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manu Fernandez/Associated Press</media:credit>
+      <media:description>Emergency services work at the scene of a crash between two trains in Urda, Spain, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded</title>
+      <link>https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html" rel="standout"></atom:link>
+      <description>The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.</description>
+      <dc:creator>Ceylan Yeğinsu</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 19:20:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miray International Cruises &amp; Management</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/28/realestate/28trav-cruise-canceled/28trav-cruise-canceled-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Villa Vie Residences</media:credit>
+      <media:description>The Villa Vie ship Odyssey was supposed to be sailing on an endless around-the-world cruise</media:description>
+    </item>
+    <item>
+      <title>Israel’s opposition may not be able to form a government, but it still could control Parliament.</title>
+      <link>https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 18:38:34 +0000</pubDate>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28israel-parliament-topart-01-wbfv/28israel-parliament-topart-01-wbfv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ronen Zvulun/Reuters</media:credit>
+      <media:description>Empty seats at the Knesset, the Israeli Parliament, following a vote to dissolve the assembly in May ahead of the elections. </media:description>
+    </item>
+    <item>
+      <title>An Inconclusive Vote Leaves Israelis Pondering an Uncertain Future</title>
+      <link>https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html" rel="standout"></atom:link>
+      <description>A day after the election, supporters of Prime Minister Benjamin Netanyahu were relieved he still had a chance to stay in power, while his opponents worried the mixed results could lead to a political stalemate.</description>
+      <dc:creator>Natan Odenheimer, Gabby Sobelman and Heedo Abu Laban</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 18:22:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28israel-voices-topart-01-fqbp/28israel-voices-topart-01-fqbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Goldman/Associated Press</media:credit>
+      <media:description>A day after polling, Israelis were uncertain about the future, as no party appeared headed for a majority in Parliament. A campaign ad features Gadi Eisenkot.</media:description>
+    </item>
+    <item>
+      <title>Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’</title>
+      <link>https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html" rel="standout"></atom:link>
+      <description>Fernando Seco, 62, said he and others moved at least a dozen wounded passengers from the crash site, using parts of the wreckage as makeshift stretchers.</description>
+      <dc:creator>Carlos Barragán</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 17:29:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-passenger-lqtk/28spain-crash-passenger-lqtk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ana Beltran/Reuters</media:credit>
+      <media:description>The scene of the crash on Wednesday, near Toledo, Spain.</media:description>
     </item>
     <item>
       <title>What We Know About the Deadly Train Crash in Spain</title>
@@ -316,17 +465,14 @@
       <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html" rel="standout"></atom:link>
       <description>A train accident near Toledo, Spain, which killed at least 68 people, was one of the deadliest in the country’s history.</description>
       <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 16:41:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (Jan 18, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <pubDate>Wed, 28 Oct 2026 21:19:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intermodalidad de Levante SA (Iryo)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="">Spain Tran Crash (Oct. 28, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seville (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28xp-spain-wtk-swap-bkmc/28xp-spain-wtk-swap-bkmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Manu Fernandez/Associated Press</media:credit>
       <media:description>A train en route to Seville slammed into another that was parked on the tracks on Wednesday. </media:description>
@@ -355,12 +501,12 @@
     </item>
     <item>
       <title>Spain’s Transportation Minister Said Incorrect Instructions Led to Train Crash</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/spains-transportation-minister-described-what-led-to-the-crash.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/spains-transportation-minister-described-what-led-to-the-crash.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/spains-transportation-minister-described-what-led-to-the-crash.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-cause.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-cause.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-cause.html" rel="standout"></atom:link>
       <description>An “inexplicable” decision by traffic control operators sent a train on its way toward another stopped miles in front of it, the minister said.</description>
       <dc:creator>Carlos Barragán</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 16:37:30 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:36:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intermodalidad de Levante SA (Iryo)</category>
@@ -375,7 +521,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/dutch-zookeeper-dead-leopard-netherlands.html" rel="standout"></atom:link>
       <description>A woman working with big cats was attacked on Saturday. She died from her injuries on Tuesday, the zoo said.</description>
       <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 15:28:02 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 21:18:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Attacks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
@@ -463,7 +609,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo" rel="standout"></atom:link>
       <description>One train rear-ended another, sending two carriages down an embankment.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 16:18:45 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:27:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Spain)</category>
@@ -495,7 +641,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Leo Sands</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 15:25:23 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 20:04:23 +0000</pubDate>
     </item>
     <item>
       <title>A Historic Show of Strength for Israel’s Arab Minority</title>
@@ -887,214 +1033,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-bennett-lieberman-bkwf/27israel-bennett-lieberman-bkwf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
-    </item>
-    <item>
-      <title>India Evacuates Tens of Thousands as Cyclone Arnab Approaches</title>
-      <link>https://www.nytimes.com/2026/10/27/world/asia/india-cyclone-arnab-evacuations-nepal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/asia/india-cyclone-arnab-evacuations-nepal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/27/world/asia/india-cyclone-arnab-evacuations-nepal.html" rel="standout"></atom:link>
-      <description>The storm, Arnab, is forecast to make landfall Wednesday on the country’s eastern coast and then cut inland and head north toward Nepal.</description>
-      <dc:creator>Max Kim and Hari Kumar</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 20:32:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andhra Pradesh (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bay of Bengal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Odisha (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/world/asia/27vid-india-cyclone-cover-image/27vid-india-cyclone-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Noah Seelam/Agence France-Presse — Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Itamar Ben-Gvir and Bezalel Smotrich Diverge in Israel’s Election</title>
-      <link>https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-ben-gvir-smotrich.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-ben-gvir-smotrich.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-ben-gvir-smotrich.html" rel="standout"></atom:link>
-      <description>Itamar Ben-Gvir and Bezalel Smotrich lead ultranationalist parties that previously joined forces, in deals brokered by Benjamin Netanyahu. They are not on the same slate this time.</description>
-      <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 11:04:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ben-Gvir, Itamar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smotrich, Bezalel (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feiglin, Moshe Zalman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jewish Power Party (Otzma Yehudit)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-far-right-plhm/27israel-far-right-plhm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Maya Alleruzzo</media:credit>
-      <media:description>The far-right Israeli lawmakers Itamar Ben-Gvir and Bezalel Smotrich are not running on the same slate in this election.</media:description>
-    </item>
-    <item>
-      <title>RAF Fairford Incident Was Coordinated By Man Acting for Iran, UK Prosecutors Say</title>
-      <link>https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html" rel="standout"></atom:link>
-      <description>Two British men were charged Tuesday over a suspected plot targeting a base used by the United States. Prosecutors believe they were directed by a man working for Iran.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 02:39:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gloucestershire (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27uk-raf-fairford-charges-hqvg/27uk-raf-fairford-charges-hqvg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Toby Shepheard/Reuters</media:credit>
-      <media:description>Police officers outside the perimeter of the R.A.F. Fairford air base in Gloucestershire, England, last month.</media:description>
-    </item>
-    <item>
-      <title>5 Key Moments From Israel’s Pivotal Election Campaign</title>
-      <link>https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-campaign-highlights.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-campaign-highlights.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-campaign-highlights.html" rel="standout"></atom:link>
-      <description>New political alliances, a contentious A.I. video and accusations about security failures all featured in the run-up to Tuesday’s election, widely seen as one of the most consequential in Israeli history.</description>
-      <dc:creator>Adam Rasgon</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 09:45:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-campaign-recap-jtlz/27israel-campaign-recap-jtlz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gideon Markowitz/Reuters</media:credit>
-      <media:description>Naftali Bennett, left, and Yair Lapid announced in April that they would join forces in the hope of ousting Prime Minister Benjamin Netanyahu. But polls have suggested that their new party is likely to finish third.</media:description>
-    </item>
-    <item>
-      <title>The Key Election Issues Dividing Israelis as They Vote</title>
-      <link>https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html" rel="standout"></atom:link>
-      <description>The question of accountability for the government’s failures in the Hamas-led attacks on Oct. 7, 2023, looms over the election.</description>
-      <dc:creator>Aaron Boxerman</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 17:30:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-issues-glzv/27israel-issues-glzv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Guttenfelder/The New York Times</media:credit>
-      <media:description>Ultra-Orthodox Israelis protesting military conscription for members of their community in Jerusalem last year.</media:description>
-    </item>
-    <item>
-      <title>Jordan Says Its Deadly Strikes in Syria Targeted Islamic State</title>
-      <link>https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html" rel="standout"></atom:link>
-      <description>The airstrikes late Monday, which a Syrian agency said killed at least seven civilians, were in retaliation for an attack on a Jordanian church, Jordan said.</description>
-      <dc:creator>Raja Abdulrahim</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 18:33:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdullah II, King of Jordan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27int-jordan-strikes-wkql/27int-jordan-strikes-wkql-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ghaith Alsayed/Associated Press</media:credit>
-      <media:description>People inspecting the aftermath of a Jordanian airstrike in Lutf in Daraa Province in southern Syria on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>David M. Halbfinger, Max Bearak, Isabel Kershner, Aaron Boxerman and Johnatan Reiss</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 02:40:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Israel’s Election, It’s Nationalism vs. Founding Ideals</title>
-      <link>https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html" rel="standout"></atom:link>
-      <description>As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years.</description>
-      <dc:creator>Roger Cohen</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 21:49:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zionism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Religious Zionism (Israeli Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rothman, Simcha (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smotrich, Bezalel (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Segalovitz, Yoav (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/22Israel-Identity-add-01-jfpz/22Israel-Identity-add-01-jfpz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
-      <media:description>A banner for the Likud party and its leader, Prime Minister Benjamin Netanyahu, right, with the slogan, “The Right or Palestine.” Other candidates in the elections are to the left of it.</media:description>
-    </item>
-    <item>
-      <title>What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean</title>
-      <link>https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html" rel="standout"></atom:link>
-      <description>King Charles III is traveling to host a meeting of the leaders of more than 50 nations.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 04:01:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reparations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apologies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Browne, Gaston Alfonso</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">George VI, King of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antigua and Barbuda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27int-uk-commonwealth-wtk-vhpc/27int-uk-commonwealth-wtk-vhpc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by WPA</media:credit>
-      <media:description>King Charles III and Queen Camilla in Wales earlier this month.</media:description>
     </item>
   </channel>
 </rss>
