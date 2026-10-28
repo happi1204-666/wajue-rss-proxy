@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Mon, 26 Oct 2026 19:34:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Oct 2026 21:26:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,26 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>The Next Congress Needs to Reclaim Its Oversight of the Department of Defense</title>
+		<link>https://warontherocks.com/the-next-congress-needs-to-reclaim-its-oversight-of-the-department-of-defense/</link>
+		
+		<dc:creator><![CDATA[Margaret M. Cassidy]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 07:30:00 +0000</pubDate>
+				<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Congress]]></category>
+		<category><![CDATA[Defense Policy]]></category>
+		<category><![CDATA[Department of Defense]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48266</guid>
+
+					<description><![CDATA[<p>Since returning to office in January 2025, the Trump administration has aggressively exercised executive authority across the federal government. Meanwhile, Congress has not adequately applied its oversight role to rein in the executive branch, particularly over the Department of Defense. We have watched these dynamics with specific interest, in discussions with congressional staff over bills and appropriations, and in conversations with our clients.Congress adjourned at the end of September until after the midterm elections following an unproductive summer legislative session, particularly on foreign policy. While Congress passed a long-debated Russia sanctions bill in September, President Donald Trump has already issued</p>
+<p>The post <a href="https://warontherocks.com/the-next-congress-needs-to-reclaim-its-oversight-of-the-department-of-defense/">The Next Congress Needs to Reclaim Its Oversight of the Department of Defense</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Andrew Swick]]></dc:creator>
+	</item>
+		<item>
 		<title>The Machine Staff</title>
 		<link>https://warontherocks.com/cogs-of-war/the-machine-staff/</link>
 		
@@ -1926,25 +1946,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 		<dc:creator><![CDATA[Samuele C. A. Abrami]]></dc:creator>
-	</item>
-		<item>
-		<title>The Future of Combat Medicine</title>
-		<link>https://warontherocks.com/the-future-of-combat-medicine/</link>
-		
-		<dc:creator><![CDATA[John Quinn]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 17:30:11 +0000</pubDate>
-				<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Members]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46620</guid>
-
-					<description><![CDATA[<p>War has always been a brutal engine of medical innovation, running on a feedback loop: Civilian breakthroughs are adapted for the battlefield, while battlefield necessity pushes advances back into civilian care. We asked three experts to identify the innovations from the last five years most likely to shape the future of combat medicine.Read more below.John Quinn Adjunct Lecturer, College of Remote and Offshore Medicine Foundation Medical Volunteer in UkraineThe war in Ukraine has made it clear that the most important combat-medical innovations are not gadgets, but new distributions of risk, skill, and authority. First, blood-forward resuscitation will require moving whole</p>
-<p>The post <a href="https://warontherocks.com/the-future-of-combat-medicine/">The Future of Combat Medicine</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Kimberly Elenberg]]></dc:creator>
-<dc:creator><![CDATA[Eric Elster]]></dc:creator>
 	</item>
 	</channel>
 </rss>
