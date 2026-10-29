@@ -7,16 +7,17 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-28T21:29:08Z</dc:date>
+  <dc:date>2026-10-29T01:10:31Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-president-elect-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spanish-train-crash-leaves-68-dead-pm-sanchez-declares-3-days-of-mourning/live-79785087?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-cyclone-arnab-turns-deadly-after-landfall/live-79782323?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf"/>
@@ -135,9 +135,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ireland-will-boycott-eurovision-again-because-of-israel-s-participation-but-the-song-contest-is-still-expanding/a-79401752?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/south-park-satirist-pushes-for-accountability-in-cornell-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -147,6 +144,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf">
+  <title>EU countries block Canada&apos;s &apos;associate membership&apos; plan</title>
+  <link>https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf</link>
+  <description>European Commission President Ursula von der Leyen wanted to give Canada a special status within the EU. But Germany and other member states have raised objections ahead of a summit in Montreal.</description>
+  <dc:date>2026-10-29T00:49:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79791601</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf">
+  <title>Flavio Bolsonaro lands in US, declares himself &apos;leader&apos; of Brazil</title>
+  <link>https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf</link>
+  <description>Flavio Bolsonaro declared himself the rightful leader of his country despite losing the presidential election runoff on Sunday. He and his family have fled to the US.</description>
+  <dc:date>2026-10-28T22:26:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79788659</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-all-1573-rdf">
   <title>How do the US midterms work, and why are they so important for Trump&apos;s presidency?</title>
   <link>https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-all-1573-rdf</link>
@@ -191,15 +206,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79788616</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-president-elect-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf">
-  <title>Flavio Bolsonaro lands in US, declares himself &apos;president-elect&apos; of Brazil</title>
-  <link>https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-president-elect-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf</link>
-  <description>Defeated Brazilian presidential candidate Flavio Bolsonaro and his family landed in Florida early on Wednesday. Facing money laundering allegations, he fled just days after refusing to concede defeat to incumbent Lula.</description>
-  <dc:date>2026-10-28T15:10:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79788659</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/spanish-train-crash-leaves-68-dead-pm-sanchez-declares-3-days-of-mourning/live-79785087?maca=en-rss-en-all-1573-rdf">
   <title>Spanish train crash leaves 68 dead, PM Sanchez declares 3 days of mourning</title>
@@ -317,15 +323,6 @@
   <dc:subject>Climate</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79773232</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-all-1573-rdf">
-  <title>Egypt orders closure of independent news site Mada Masr</title>
-  <link>https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-all-1573-rdf</link>
-  <description>Editor-in-chief Lina Attalah was briefly detained and fined over licensing violations. Rights groups condemned the ruling as a major blow to press freedom in Egypt, where independent media face growing pressure.</description>
-  <dc:date>2026-10-27T23:16:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79781842</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf">
   <title>Harry Kane: Ballon d’Or for Bayern Munich striker</title>
@@ -1262,32 +1259,5 @@
   <dc:subject>Science</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79430945</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/south-park-satirist-pushes-for-accountability-in-cornell-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-rdf">
-  <title>South Park satirist pushes for accountability in Cornell gang-rape lawsuit</title>
-  <link>https://www.dw.com/en/south-park-satirist-pushes-for-accountability-in-cornell-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-rdf</link>
-  <description>Writer Toby Morton is using a new website to amplify allegations in a high-profile sexual assault lawsuit involving seven Cornell students. The reopening of the case is causing an outcry on social media.</description>
-  <dc:date>2026-09-29T14:20:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79475382</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf">
-  <title>Global trade weathers Iran, Ukraine and Trump&apos;s tariffs</title>
-  <link>https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf</link>
-  <description>Over the past six years, COVID, two wars and Donald Trump&apos;s tariffs have shaken world trade. With globalization already stalling, is this a temporary shock or the start of a great reversal?</description>
-  <dc:date>2026-09-29T10:35:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79352643</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf">
-  <title>Spain grows fruit and vegetables for Europe, but it&apos;s running out of water</title>
-  <link>https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf</link>
-  <description>Spain&apos;s southern coast produces up to 25% of Europe&apos;s fruit and vegetables. But amid intensive farming, climate change and illegal wells, the water it takes to grow them is drying up.</description>
-  <dc:date>2026-09-29T09:51:00Z</dc:date>
-  <dc:subject>Environment</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79399905</dwsyn:contentID>
  </item>
 </rdf:RDF>
