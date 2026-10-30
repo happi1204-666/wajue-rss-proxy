@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 00:02:46 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 00:01:39 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:11:09 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 05:36:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -72,7 +72,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v5.png" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v6.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -140,7 +140,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html" rel="standout"></atom:link>
       <description>Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities.</description>
       <dc:creator>Tiffany May</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 09:09:01 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:24:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -196,7 +196,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html" rel="standout"></atom:link>
       <description>Xi Jinping has enforced loyalty as he prepares to claim a fourth term as leader. Among those removed was a prominent former diplomat, Liu Jianchao.</description>
       <dc:creator>Chris Buckley</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 12:49:05 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 01:41:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Communism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -300,6 +300,63 @@
       <media:description>A photograph released by the Geneva University Hospitals shows paramedics carrying from a helicopter a woman who had been diagnosed with Ebola following her flight from Nigeria, on Monday.</media:description>
     </item>
     <item>
+      <title>Oldest Recording of Louisiana’s Vanishing Creole Language Is Published</title>
+      <link>https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html" rel="standout"></atom:link>
+      <description>The rediscovery of a forgotten recording from 1935 sheds light on a language rooted in the state’s history of slavery and French colonialism.</description>
+      <dc:creator>Leo Sands</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 05:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turner, Lorenzo Dow</category>
+      <media:content height="615" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/30xp-creole-woman/30xp-creole-woman-mediumSquareAt3X.jpg" width="615"></media:content>
+      <media:credit>Valencia Pradier-Linton and Vincent Phillips</media:credit>
+      <media:description>portrait of Emma Benoit</media:description>
+    </item>
+    <item>
+      <title>An Arab Town in Israel Celebrates the Election but Wonders What Will Change</title>
+      <link>https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html" rel="standout"></atom:link>
+      <description>Gains for Arab-led parties have electrified Taibe, in central Israel, even as voters elsewhere in Israel say they have no place in any future government.</description>
+      <dc:creator>Adam Rasgon and Natan Odenheimer</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 04:01:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taibe, Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-taibe-01-ckvb/29int-israel-taibe-01-ckvb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ammar Awad/Reuters</media:credit>
+      <media:description>Ahmad Tibi, a leader of the Joint List party, with supporters on Tuesday outside a polling station in Taibe, Israel, a predominantly Arab town. “We’re ready to swallow frogs to take down Netanyahu’s government,” he said.</media:description>
+    </item>
+    <item>
+      <title>In China, the War on Mosquitoes Has Entered the A.I. Era</title>
+      <link>https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html" rel="standout"></atom:link>
+      <description>Using sensors developed for self-driving cars, a Chinese start-up claims it can track and destroy tiny flying targets while avoiding people, pets and reflective surfaces.</description>
+      <dc:creator>Keith Bradsher</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 04:01:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laser (Light Amplification by Stimulated Emission of Radiation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg" width="1080"></media:content>
+      <media:credit>Qilai Shen for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Newly Freed American Describes His Years in Russian Prison</title>
       <link>https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html</guid>
@@ -367,13 +424,13 @@
       <media:credit>Alexi J. Rosenfeld/Getty Images</media:credit>
     </item>
     <item>
-      <title>Court to Rule on Erin Patterson’s Appeal in Mushroom Murders Case</title>
+      <title>Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case</title>
       <link>https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html" rel="standout"></atom:link>
-      <description>Erin Patterson was sentenced to life in prison for killing three people, including her in-laws, who fell ill and died after a lunch of beef Wellington in 2023.</description>
+      <description>Judges took away the possibility of parole for an Australian woman, Erin Patterson, and rejected a bid to overturn her conviction over deadly beef Wellington lunch.</description>
       <dc:creator>Victoria Kim</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 21:00:05 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 00:48:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -436,7 +493,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/29/world/glass-skyscrapers-climate-patrick-stewart.html" rel="standout"></atom:link>
       <description>Glass skyscrapers are transforming cities, but do they make sense in a world that’s getting hotter?</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 20:31:15 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:36:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
@@ -571,7 +628,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html" rel="standout"></atom:link>
       <description>News organizations owned by two billionaires close to Prime Minister Narendra Modi say the legislation could make investigative reporting nearly impossible.</description>
       <dc:creator>Pragati K.B.</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 18:32:33 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 18:32:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
@@ -730,7 +787,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html" rel="standout"></atom:link>
       <description>With street talk and tactics from the far-right’s playbook, André Janones used a WhatsApp channel to help organize millions of Brazilians online.</description>
       <dc:creator>Adam B. Ellick and Victor Moriyama</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 14:44:20 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 14:44:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Janones, Andre (1984- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
@@ -1069,41 +1126,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28israel-arab-world-zptj/28israel-arab-world-zptj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Guttenfelder/The New York Times</media:credit>
       <media:description>Parts of Lebanon have been greatly damaged in fighting between Israel and Hezbollah since March, including the Dahiya neighborhood, a Hezbollah stronghold in the capital, Beirut.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo" rel="standout"></atom:link>
-      <description>One train rear-ended another, sending two carriages down an embankment.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 17:27:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (Jan 18, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intermodalidad de Levante SA (Iryo)</category>
-    </item>
-    <item>
-      <title>Behind Italy’s Protests: Rising Prices and Sinking Hopes</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html" rel="standout"></atom:link>
-      <description>Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year.</description>
-      <dc:creator>Motoko Rich and Josephine de La Bruyère</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 13:16:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milan (Italy)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-italy-protests-vjmw/28int-italy-protests-vjmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Piero Cruciatti/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Demonstrators clashed with police in Milan this month.</media:description>
     </item>
   </channel>
 </rss>
