@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 20:01:36 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 19:35:46 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:02:46 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 00:01:39 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -106,7 +106,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html" rel="standout"></atom:link>
       <description>The suspect, identified only as Kévin T., admitted to planning the attacks near Paris last week, the prosecutor said. One person was killed and seven wounded.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 14:05:07 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 14:05:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Trappes (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -169,13 +169,13 @@
       <media:description>Protesters and the police in Marseille on Saturday. The city stands as a poignant example of mounting social and economic strains in France.</media:description>
     </item>
     <item>
-      <title>Spain Crash Investigators Focus on Train Traffic Controllers’ Role</title>
+      <title>After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error</title>
       <link>https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html" rel="standout"></atom:link>
       <description>After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 19:10:07 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 22:14:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High-Speed Rail Projects</category>
@@ -300,13 +300,162 @@
       <media:description>A photograph released by the Geneva University Hospitals shows paramedics carrying from a helicopter a woman who had been diagnosed with Ebola following her flight from Nigeria, on Monday.</media:description>
     </item>
     <item>
+      <title>Newly Freed American Describes His Years in Russian Prison</title>
+      <link>https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html" rel="standout"></atom:link>
+      <description>Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope.</description>
+      <dc:creator>Kim Barker</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 23:32:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hubbard, Stephen James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
+      <media:content height="961" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-hubbard-lgpk/29int-ukraine-hubbard-lgpk-mediumSquareAt3X.jpg" width="961"></media:content>
+      <media:credit>U.S. Government, via Reuters</media:credit>
+      <media:description>Stephen James Hubbard with relatives and U.S. officials aboard a flight to the United States after his release from Russian prison, in a photo released by the U.S. government.</media:description>
+    </item>
+    <item>
+      <title>What Israeli Election Results Reveal About the Electorate</title>
+      <link>https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html" rel="standout"></atom:link>
+      <description>Some groups stood by Prime Minister Benjamin Netanyahu’s party, but support fell off among others. Turnout was also a striking factor in the election.</description>
+      <dc:creator>Johnatan Reiss</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 23:45:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smotrich, Bezalel (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Religious Zionism (Israeli Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shas Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Torah Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29Int-Israel-Voter-Data-vtlz/29Int-Israel-Voter-Data-vtlz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Erik Marmor/Getty Images</media:credit>
+      <media:description>Election campaign posters for Prime Minister Benjamin Netanyahu’s Likud party in Adora, an Israeli settlement in the occupied West Bank, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>No Clear Winner in Israel Election, Final Results Show</title>
+      <link>https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html" rel="standout"></atom:link>
+      <description>Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government. The main opposition bloc, led by Gadi Eisenkot, won 48.</description>
+      <dc:creator>Leo Sands, Johnatan Reiss and Ephrat Livni</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 23:07:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="944" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-result-netanyahu-hflp/29int-israel-result-netanyahu-hflp-mediumSquareAt3X-v4.jpg" width="943"></media:content>
+      <media:credit>Alexi J. Rosenfeld/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Court to Rule on Erin Patterson’s Appeal in Mushroom Murders Case</title>
+      <link>https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html" rel="standout"></atom:link>
+      <description>Erin Patterson was sentenced to life in prison for killing three people, including her in-laws, who fell ill and died after a lunch of beef Wellington in 2023.</description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 21:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mushrooms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Victoria (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="1717" medium="image" url="https://static01.nyt.com/images/2026/10/30/world/30int-oz-mushroom-appeal-aohgq/30int-oz-mushroom-appeal-aohgq-mediumSquareAt3X.jpg" width="1717"></media:content>
+      <media:credit>William West/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Erin Patterson leaving the Supreme Court of Victoria in Melbourne, Australia, in 2025.</media:description>
+    </item>
+    <item>
+      <title>Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington</title>
+      <link>https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html" rel="standout"></atom:link>
+      <description>Finally home in Caracas, María Corina Machado called for elections next year, and said her return was organized by her team, not any government.</description>
+      <dc:creator>Julie Turkewitz and Isayen Herrera</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 22:28:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Authoritarianism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Betancourt Lopez, Alejandro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-venezuela-machado-ljth/29int-venezuela-machado-ljth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gaby Oraa/Reuters</media:credit>
+      <media:description>Maria Corina Machado in Caracas, Venezuela, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Cuba’s Foreign Minister: We’ll Outlast Trump</title>
+      <link>https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html" rel="standout"></atom:link>
+      <description>The Trump administration is carrying out the most intense pressure campaign on Cuba in decades. The Cuban government says its plan is simply to endure.</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 22:49:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Bruno</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-cuba-interview-jpgt/29int-cuba-interview-jpgt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Graham Dickie for The New York Times</media:credit>
+      <media:description>Foreign Minister Bruno Rodríguez Parrilla of Cuba during an interview with The New York Times this week.</media:description>
+    </item>
+    <item>
+      <title>The Perils of Glittering Skylines</title>
+      <link>https://www.nytimes.com/2026/10/29/world/glass-skyscrapers-climate-patrick-stewart.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/glass-skyscrapers-climate-patrick-stewart.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/world/glass-skyscrapers-climate-patrick-stewart.html" rel="standout"></atom:link>
+      <description>Glass skyscrapers are transforming cities, but do they make sense in a world that’s getting hotter?</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 20:31:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuala Lumpur (Malaysia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stewart, Patrick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/30int-theworld-glass-skyscrapers-01-cwqz-promo/30int-theworld-glass-skyscrapers-01-cwqz-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ulet Ifansasti for The New York Times</media:credit>
+      <media:description>The Petronas Twin Towers in Kuala Lumpur, Malaysia.</media:description>
+    </item>
+    <item>
       <title>Why Miami Is a Destination for Latin America’s Political Exiles</title>
       <link>https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html" rel="standout"></atom:link>
       <description>The city’s Hispanic majority, news media reach and air links to Latin America have made it an ideal base for politicians escaping their home countries.</description>
       <dc:creator>Francesca Regalado and Victor Mather</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 19:13:09 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 21:36:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami (Fla)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
@@ -955,136 +1104,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-italy-protests-vjmw/28int-italy-protests-vjmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Piero Cruciatti/Agence France-Presse — Getty Images</media:credit>
       <media:description>Demonstrators clashed with police in Milan this month.</media:description>
-    </item>
-    <item>
-      <title>The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.</title>
-      <link>https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html" rel="standout"></atom:link>
-      <description>To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily.</description>
-      <dc:creator>David Shortell and Cristopher Rogel Blanquet</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 12:08:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seaweed</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cancun (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-    </item>
-    <item>
-      <title>Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html" rel="standout"></atom:link>
-      <description>A state broadcaster says it cannot afford the restoration of a 1922 steel tower, prompting rare wartime dissent and a movement to save the Modernist masterpiece.</description>
-      <dc:creator>Ivan Nechepurenko and Michael Kimmelman</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 15:27:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demolition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="">Shukhov Radio Tower</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Russian Television and Radio Broadcasting Network (RTRN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lenin, Vladimir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-russia-tower-01-mwcj/29int-russia-tower-01-mwcj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pavel Golovkin/Associated Press</media:credit>
-      <media:description>The Shukhov Radio Tower was commissioned by Vladimir Lenin to spread the word of Communism across the vast Soviet territory.</media:description>
-    </item>
-    <item>
-      <title>How to Plan a Trip Around a Running Race</title>
-      <link>https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html" rel="standout"></atom:link>
-      <description>When should you arrive? How do you choose an event? Here are some tips on how best to center a vacation around a race.</description>
-      <dc:creator>Amisha Padnani</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 15:59:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marathon Running</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/travel/28trav101-races-illo/28trav101-races-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Philip Lindeman</media:credit>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Leo Sands</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 22:32:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel’s President, Isaac Herzog, Faces a Difficult Choice</title>
-      <link>https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html" rel="standout"></atom:link>
-      <description>The president has a largely ceremonial role, except after elections when it is his responsibility to pick a candidate for prime minister.</description>
-      <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 05:18:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28israel-PresidentHerzog-mwqh/28israel-PresidentHerzog-mwqh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
-      <media:description>Israeli President Isaac Herzog casting his ballot Tuesday in Jerusalem during Israel’s general election.</media:description>
-    </item>
-    <item>
-      <title>A Chinese Port Could Be a Lifeline for Spain, but Also a Threat</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html" rel="standout"></atom:link>
-      <description>Residents say a proposed Chinese car plant in northern Spain will create new jobs. Others say it’s a long-term risk, distilling a debate about the costs and perks of ties to China.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 04:01:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferrol (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SAIC Motor Corporation Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-china-01-bckv/28int-spain-china-01-bckv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniel Rodrigues for The New York Times</media:credit>
-      <media:description>Boats in Ferrol, Spain, in 2020. The city is becoming known for its warm welcome of Chinese industry into Spain and Western Europe.</media:description>
-    </item>
-    <item>
-      <title>A Historic Show of Strength for Israel’s Arab Minority</title>
-      <link>https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html" rel="standout"></atom:link>
-      <description>Voters supporting two leading Arab parties turned out in record numbers to voice their opposition to the Netanyahu government in Tuesday’s election.</description>
-      <dc:creator>Liam Stack</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 11:32:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-arab-parties1-qwmp/27israel-arab-parties1-qwmp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ahmad Gharabli/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Supporters of Israel’s Arab-led Joint List political alliance cheering as the first exit polls were announced on Tuesday.</media:description>
     </item>
   </channel>
 </rss>
