@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 13:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 18:43:29 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US tech stocks see sharp falls as AI spending nears $1tn]]></title>
+            <description><![CDATA[Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo#0</guid>
+            <pubDate>Fri, 30 Oct 2026 17:47:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Google value plunges by $500bn as its own AI search hits ad sales]]></title>
             <description><![CDATA[Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.]]></description>
@@ -23,7 +31,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What we know so far about the Binance hack]]></title>
+            <title><![CDATA[Who could be behind the Binance hack and what we know so far]]></title>
             <description><![CDATA[Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo#0</guid>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o#0</guid>
             <pubDate>Mon, 26 Oct 2026 19:57:23 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing]]></title>
-            <description><![CDATA[The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq398p1wd1evo#0</guid>
-            <pubDate>Mon, 26 Oct 2026 16:27:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
