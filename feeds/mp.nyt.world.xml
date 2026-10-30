@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 18:43:14 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 18:36:51 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:42:29 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 22:16:17 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html" rel="standout"></atom:link>
       <description>The Trump administration plans to fly the Afghan immigrants from Louisiana to Pakistan, where they are expected to be expelled over the border to Afghanistan.</description>
       <dc:creator>Pranav Baskar, Hamed Aleaziz and Elian Peltier</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 18:18:30 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 18:53:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
@@ -56,6 +56,49 @@
       <media:description>Removing a wrecked carriage at the scene of the crash near Urda, Spain, on Friday. At least 69 people were killed.</media:description>
     </item>
     <item>
+      <title>Could El Salvador’s Bukele Be Haiti’s Savior?</title>
+      <link>https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html" rel="standout"></atom:link>
+      <description>The Salvadoran government dispatched more than 2,000 troops to Haiti this week in an extraordinary deployment on foreign soil.</description>
+      <dc:creator>Frances Robles</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 20:06:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fils-Aime, Alix Didier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/30int-Haiti-Salvador-zgwj/30int-Haiti-Salvador-zgwj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael Anthony Adams/The New York Times</media:credit>
+      <media:description>A Salvadoran gunner in a UH-1N Twin Huey helicopter during an aerial patrol over Port-au-Prince last month. Some Salvadoran troops are members of a U.N.-backed international force in Haiti.</media:description>
+    </item>
+    <item>
+      <title>Israel’s Election Is Unlikely to Change Its Policies and Global Isolation</title>
+      <link>https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html" rel="standout"></atom:link>
+      <description>The leading contenders, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, aren’t substantially different in their approach to Israel’s security or in their opposition to a Palestinian state.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 09:03:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/30int-israel-global-01-tczp/30int-israel-global-01-tczp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amir Levy/Getty Images</media:credit>
+      <media:description>Campaign posters for Prime Minister Benjamin Netanyahu and the Likud party, and Gadi Eisenkot, leader of the Yashar party, in Hadera, Israel, on Tuesday.</media:description>
+    </item>
+    <item>
       <title>An Arab Town in Israel Celebrates the Election but Wonders What Will Change</title>
       <link>https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html</guid>
@@ -78,32 +121,13 @@
       <media:description>Ahmad Tibi, a leader of the Joint List party, with supporters on Tuesday outside a polling station in Taibe, Israel, a predominantly Arab town. “We’re ready to swallow frogs to take down Netanyahu’s government,” he said.</media:description>
     </item>
     <item>
-      <title>Israel’s Election Is Unlikely to Change Its Policies and Global Isolation</title>
-      <link>https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html" rel="standout"></atom:link>
-      <description>The leading contenders, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, aren’t substantially different in their approach to Israel’s security or in their opposition to a Palestinian state.</description>
-      <dc:creator>Steven Erlanger</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 09:03:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/30int-israel-global-01-tczp/30int-israel-global-01-tczp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amir Levy/Getty Images</media:credit>
-      <media:description>Campaign posters for Prime Minister Benjamin Netanyahu and the Likud party, and Gadi Eisenkot, leader of the Yashar party, in Hadera, Israel, on Tuesday.</media:description>
-    </item>
-    <item>
       <title>3 Arrested in Connection With Deadly Blast in Central Athens</title>
       <link>https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html" rel="standout"></atom:link>
       <description>The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people.</description>
       <dc:creator>Niki Kitsantonis</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 14:45:46 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 18:45:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
@@ -122,7 +146,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html" rel="standout"></atom:link>
       <description>Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise.</description>
       <dc:creator>Valerie Hopkins</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 17:19:55 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 19:09:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novaya Gazeta</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Muratov, Dmitri A</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -139,7 +163,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html" rel="standout"></atom:link>
       <description>Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 17:43:50 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 18:51:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maxwell, Ghislaine</category>
@@ -179,7 +203,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html" rel="standout"></atom:link>
       <description>I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.</description>
       <dc:creator>Maria Varenikova and Finbarr O’Reilly</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 13:33:25 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 20:40:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
@@ -278,6 +302,54 @@
       <media:description>Beijing says the popular Japanese series “Vivant” promotes negative views of China.</media:description>
     </item>
     <item>
+      <title>Carney Commits Canada to Becoming European Union’s First ‘Associate Member’</title>
+      <link>https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html" rel="standout"></atom:link>
+      <description>The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 21:08:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/30int-canada-assess-fmtk/30int-canada-assess-fmtk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Christopher Katsarov</media:credit>
+      <media:description>Prime Minister Mark Carney on Thursday during the 21st E.U.-Canada summit in Montreal, Quebec.</media:description>
+    </item>
+    <item>
+      <title>I Covered the Tiananmen Square Massacre. It Still Weighs on Me.</title>
+      <link>https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html" rel="standout"></atom:link>
+      <description>The day that changed modern China also taught me how to recognize true courage.</description>
+      <dc:creator>Nicholas Kristof</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 21:04:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tiananmen Square (Beijing)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wudunn, Sheryl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">anniversary-175</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">archives-informed</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/01/multimedia/1101-175-EYEWITNESS-TIANANMEN-Print1/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-01-zwtm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Peter Turnley/Getty Images</media:credit>
+      <media:description>Protesters in Tiananmen Square on May 4, 1989.</media:description>
+    </item>
+    <item>
       <title>Taking the Saga of a Criminal Gang From Page to Screen to Opera Stage</title>
       <link>https://www.nytimes.com/2026/10/30/world/europe/italy-romanzo-criminale-opera.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/italy-romanzo-criminale-opera.html</guid>
@@ -298,28 +370,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/00int-italy-opera-01-ztbj/00int-italy-opera-01-ztbj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michele Monastra/New Press/IPA Agency, via Shutterstock</media:credit>
       <media:description>“Romanzo Criminale,” an opera based on the best-selling novel, at the Maggio Musicale theater in Florence, Italy, this month.</media:description>
-    </item>
-    <item>
-      <title>I Covered the Tiananmen Square Massacre. It Still Weighs on Me.</title>
-      <link>https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html" rel="standout"></atom:link>
-      <description>The day that changed modern China also taught me how to recognize true courage.</description>
-      <dc:creator>Nicholas Kristof</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 17:07:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tiananmen Square (Beijing)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wudunn, Sheryl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">anniversary-175</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">archives-informed</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/01/multimedia/1101-175-EYEWITNESS-TIANANMEN-Print1/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-01-zwtm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Peter Turnley/Getty Images</media:credit>
-      <media:description>Protesters in Tiananmen Square on May 4, 1989.</media:description>
     </item>
     <item>
       <title>How Ukrainian Soldiers Are Moving Underground</title>
@@ -457,15 +507,14 @@
       <description>Finally home in Caracas, María Corina Machado called for elections next year, and said her return was organized by her team, not any government.</description>
       <dc:creator>Julie Turkewitz and Isayen Herrera</dc:creator>
       <pubDate>Thu, 29 Oct 2026 22:28:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Authoritarianism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Betancourt Lopez, Alejandro</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-venezuela-machado-ljth/29int-venezuela-machado-ljth-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -548,6 +597,7 @@
       <description>President Trump ensured Flávio Bolsonaro, who lost a presidential election in Brazil and faces multiple criminal investigations there, could enter the United States, U.S. officials said.</description>
       <dc:creator>Edward Wong, Ana Ionova, Hamed Aleaziz and Tyler Pager</dc:creator>
       <pubDate>Thu, 29 Oct 2026 18:53:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
@@ -563,8 +613,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Jason (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29brazil-bolsonaro-flight-khcf/29brazil-bolsonaro-flight-khcf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ricardo Arduengo/Agence France-Presse — Getty Images</media:credit>
       <media:description>Flávio Bolsonaro after arriving at Opa Locka airport near Miami on Wednesday.</media:description>
@@ -1089,70 +1139,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-ledeall-1-kzpm/28int-israel-ledeall-1-kzpm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
       <media:description>Torn Likud party campaign ad featuring Prime Minister Benjamin Netanyahu of Israel and President Trump in Jerusalem on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Spain Train Crash Kills at Least 68</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html" rel="standout"></atom:link>
-      <description>The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country’s history.</description>
-      <dc:creator>Jason Horowitz, José Bautista and Carlos Barragán</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 20:26:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (Jan 18, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intermodalidad de Levante SA (Iryo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seville (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-train-2-gbkt/28int-spain-train-2-gbkt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manu Fernandez/Associated Press</media:credit>
-      <media:description>Emergency services work at the scene of a crash between two trains in Urda, Spain, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded</title>
-      <link>https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html" rel="standout"></atom:link>
-      <description>The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.</description>
-      <dc:creator>Ceylan Yeğinsu</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 08:22:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miray International Cruises &amp; Management</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/28/realestate/28trav-cruise-canceled/28trav-cruise-canceled-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Villa Vie Residences</media:credit>
-      <media:description>The Villa Vie ship Odyssey was supposed to be sailing on an endless around-the-world cruise</media:description>
-    </item>
-    <item>
-      <title>Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers</title>
-      <link>https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html" rel="standout"></atom:link>
-      <description>More than a week after the first case was reported in Africa’s most populous nation, pressing questions about the infection remain unanswered.</description>
-      <dc:creator>Saikou Jammeh</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 18:14:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaseya, Jean</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abuja (Nigeria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bundibugyo (Uganda)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-nigeria-ebola-questions-1-kbgp/28int-nigeria-ebola-questions-1-kbgp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Geneva University Hospitals</media:credit>
-      <media:description>A photograph released by the Geneva University Hospitals shows paramedics carrying from a helicopter a woman who had been diagnosed with Ebola following her flight from Nigeria, on Monday.</media:description>
     </item>
   </channel>
 </rss>
