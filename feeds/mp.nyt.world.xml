@@ -7,13 +7,71 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 19:25:22 +0000</lastBuildDate>
-    <pubDate>Sat, 31 Oct 2026 19:11:56 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 22:40:42 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 22:15:14 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories</title>
+      <link>https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html" rel="standout"></atom:link>
+      <description>Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.</description>
+      <dc:creator>Carlotta Gall, Oleksandr Chubko and David Guttenfelder</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 21:43:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oleshky (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Ukrainians evacuated from the frontline town of Oleshky, Ukraine, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Clashes Erupt Again in France, After Festive Start to Day of Protest</title>
+      <link>https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html" rel="standout"></atom:link>
+      <description>More than 300,000 people took to the streets, some wearing Halloween costumes, before the demonstrations ended in violence.</description>
+      <dc:creator>Mark Landler, Catherine Porter and Ségolène Le Stradic</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 21:50:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-france-protests-leadall-vpqj/31int-france-protests-leadall-vpqj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeff Pachoud/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A protester in Lyon, France, on Saturday dressed as Marie Antoinette and held a sign translating to “Let them eat cake.”</media:description>
+    </item>
+    <item>
+      <title>North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.</title>
+      <link>https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html" rel="standout"></atom:link>
+      <description>This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.</description>
+      <dc:creator>Pranav Baskar</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 22:09:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhou, Ben (Financial Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bangladesh Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Binance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lazarus Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sony Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sony Pictures Entertainment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stimson Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tyrone Siu/Reuters</media:credit>
+      <media:description>Changpeng Zhao, the founder of Binance, the world’s largest cryptocurrency exchange, in 2025.</media:description>
+    </item>
     <item>
       <title>Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?</title>
       <link>https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html</link>
@@ -32,34 +90,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/00int-vietnam-graves-mtjp/00int-vietnam-graves-mtjp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>The remains of Communist soldiers found at a park in Ho Chi Minh City, lined up for a memorial service.</media:description>
-    </item>
-    <item>
-      <title>Evacuees Arrive to Safety From Besieged Ukrainian City of Oleshky</title>
-      <link>https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html" rel="standout"></atom:link>
-      <description>A few days of truce allowed the removal of remaining civilians from Oleshky, which continual Russian attacks have made all but uninhabitable.</description>
-      <dc:creator>Carlotta Gall and Oleksandr Chubko</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 15:24:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oleshky (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/30vid-Oleshky-new/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Guttenfelder/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Live Updates: Hundreds of Thousands Join Another Round of Protests in France</title>
-      <link>https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween" rel="standout"></atom:link>
-      <description>The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 19:11:56 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-310-bwfz/31france-protests-promo-310-bwfz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>Train Disaster Is Blow to Spain’s Leader, Already Election Underdog</title>
@@ -152,7 +182,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html" rel="standout"></atom:link>
       <description>With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.</description>
       <dc:creator>Yeganeh Torbati</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 18:15:16 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 20:04:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
@@ -196,28 +226,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/03int-ethiopia-wtk-1-btwq/03int-ethiopia-wtk-1-btwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>via Reuters</media:credit>
       <media:description>A shattered window of Tigray Television Station after a drone strike in Mekelle, Ethiopia, last week.</media:description>
-    </item>
-    <item>
-      <title>Why Are There Protests in France?</title>
-      <link>https://www.nytimes.com/article/france-student-protests-why.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/france-student-protests-why.html</guid>
-      <atom:link href="https://www.nytimes.com/article/france-student-protests-why.html" rel="standout"></atom:link>
-      <description>For a third consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.</description>
-      <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 11:48:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Denis (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jeff Pachoud/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Forensic officers at the tourism office in Lyon, France, on Oct. 18, the day after the country’s worst riots in years.</media:description>
     </item>
     <item>
       <title>Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery</title>
@@ -384,7 +392,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween" rel="standout"></atom:link>
       <description>Thousands, potentially in masks and costumes, are expected on the streets on Saturday, prompting the authorities to prepare another vast security response.</description>
       <dc:creator>Mark Landler and Ségolène Le Stradic</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 16:26:19 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 19:46:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
@@ -506,14 +514,18 @@
       <atom:link href="https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html" rel="standout"></atom:link>
       <description>The day that changed modern China also taught me how to recognize true courage.</description>
       <dc:creator>Nicholas Kristof</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 21:04:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <pubDate>Fri, 30 Oct 2026 21:04:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tiananmen Square (Beijing)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wudunn, Sheryl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wudunn, Sheryl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">anniversary-175</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">archives-informed</category>
@@ -642,18 +654,19 @@
       <atom:link href="https://www.nytimes.com/2026/10/30/travel/via-transilvanica-romania-hike.html" rel="standout"></atom:link>
       <description>On a three-day hike in Romania, a writer sidesteps the usual Bram Stoker draws and instead discovers medieval villages, ancient forests and rich living history.</description>
       <dc:creator>Erin Vivid Riley and Ioana Moldovan</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 09:00:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
+      <pubDate>Fri, 30 Oct 2026 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Transylvania (Romania)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palaces and Castles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vampires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palaces and Castles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Dracula (Book)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stoker, Bram</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eggers, Robert (Filmmaker)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Carpathian Mountains</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cluj-Napoca (Romania)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Transylvania (Romania)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/30trav-hiking-transylvania-khzb/30trav-hiking-transylvania-khzb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>The medieval town of Sighisoara, a popular stop along the 1,000-mile Via Transilvanica.</media:description>
     </item>
@@ -1140,24 +1153,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-spain-crash-01-cjqk/29int-spain-crash-01-cjqk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
       <media:description>Emergency workers were still searching for survivors and victims at the site of the crash on Thursday.</media:description>
-    </item>
-    <item>
-      <title>How Netanyahu Used Fear, Again, to Win Votes in the Israel Elections</title>
-      <link>https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html" rel="standout"></atom:link>
-      <description>Despite years of political baggage, the Israeli prime minister outperformed expectations, and his rivals, by playing on Jewish voters’ fears of Arab political power and potential security threats.</description>
-      <dc:creator>David M. Halbfinger</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 10:29:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-netanyahu-tjfp/29int-israel-netanyahu-tjfp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ronen Zvulun/Reuters</media:credit>
-      <media:description>Prime Minister Benjamin Netanyahu reacts to exit polls during a speech at his party headquarters in Jerusalem on Wednesday.</media:description>
     </item>
   </channel>
 </rss>
