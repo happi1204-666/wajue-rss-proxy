@@ -7,13 +7,15 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-10-31T08:37:38Z</dc:date>
+  <dc:date>2026-10-31T15:00:05Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/massive-gen-z-protests-set-to-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/un-peacekeeping-mission-in-western-sahara-to-expire-amid-us-russia-vetoes/a-79814338?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/brazil-s-new-anti-gang-law-can-it-curb-organized-crime/a-79799450?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iihf-ordered-to-allow-russia-back-into-world-championships/a-79805650?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/many-turkish-guest-workers-hit-by-poverty-in-old-age/a-79746838?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-dachshund-a-humorous-icon-with-political-symbolism/a-79640191?maca=en-rss-en-all-1573-rdf"/>
@@ -145,6 +145,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Merkel calls for first female president</title>
+  <link>https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf</link>
+  <description>Former Chancellor Angela Merkel says it&apos;s time to consider a woman as Germany&apos;s next president. Meanwhile, Berlin&apos;s Left Party is deciding whether to enter coalition talks. DW has more.</description>
+  <dc:date>2026-10-31T11:18:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79814961</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/massive-gen-z-protests-set-to-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf">
+  <title>Massive Gen Z protests set to sweep cities across Germany</title>
+  <link>https://www.dw.com/en/massive-gen-z-protests-set-to-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf</link>
+  <description>Young people in Germany are taking to the streets in some 34 cities, calling for greater political say and a more hopeful future. The protests come amid a wave of youth demonstrations across Europe. DW has more.</description>
+  <dc:date>2026-10-31T09:47:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79814694</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf">
   <title>Bollywood and the underworld — together in the spotlight?</title>
   <link>https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf</link>
@@ -163,10 +181,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79724068</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Tanker carrying 27 Indians attacked in Strait of Hormuz</title>
-  <link>https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf</link>
-  <description>Two vessels carrying Indian crew members have been attacked in the Strait of Hormuz over the past two days as Iran steps up attacks on shipping. DW has more.</description>
+ <item rdf:about="https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Amit Shah challenges Rahul Gandhi to debate vote theft in parliament</title>
+  <link>https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf</link>
+  <description>Home Minister Amit Shah has challenged Rahul Gandhi to debate electoral irregularity allegations in parliament, ahead of a major opposition rally against the election chief in Delhi.</description>
   <dc:date>2026-10-31T05:06:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -306,24 +324,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79805184</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-rdf">
-  <title>Russia: Critical newspaper &apos;Novaya Gazeta&apos; to close</title>
-  <link>https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-rdf</link>
-  <description>&quot;Novaya Gazeta,&quot; one of the last remaining independent, critical media outlets in Russia, has announced it is closing under pressure from state authorities. Meanwhile, in Ukraine, evacuations have begun in Oleshky.</description>
-  <dc:date>2026-10-30T11:09:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79805693</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/brazil-s-new-anti-gang-law-can-it-curb-organized-crime/a-79799450?maca=en-rss-en-all-1573-rdf">
-  <title>Brazil&apos;s new anti-gang law: Can it curb organized crime?</title>
-  <link>https://www.dw.com/en/brazil-s-new-anti-gang-law-can-it-curb-organized-crime/a-79799450?maca=en-rss-en-all-1573-rdf</link>
-  <description>A tough stance against organized crime? One year after a massacre that left more than 130 people dead, a new law aims to crack down on drug cartels in Rio&apos;s favelas.</description>
-  <dc:date>2026-10-30T11:03:00Z</dc:date>
-  <dc:subject>NRS-Import</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79799450</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/iihf-ordered-to-allow-russia-back-into-world-championships/a-79805650?maca=en-rss-en-all-1573-rdf">
   <title>IIHF ordered to allow Russia back into world championships</title>
