@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 15:00:10 +0000</lastBuildDate>
-    <pubDate>Sat, 31 Oct 2026 14:53:39 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:25:22 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 19:11:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,14 +22,44 @@
       <description>A 500-day campaign to find and identify fallen soldiers has unearthed hundreds of bodies, but not everyone gets a chance at closure.</description>
       <dc:creator>Damien Cave, Tung Ngo and Chang W. Lee</dc:creator>
       <pubDate>Sat, 31 Oct 2026 04:01:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnamese-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnam War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hanoi (Vietnam)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ho Chi Minh City (Vietnam)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnamese-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/00int-vietnam-graves-mtjp/00int-vietnam-graves-mtjp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>The remains of Communist soldiers found at a park in Ho Chi Minh City, lined up for a memorial service.</media:description>
+    </item>
+    <item>
+      <title>Evacuees Arrive to Safety From Besieged Ukrainian City of Oleshky</title>
+      <link>https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html" rel="standout"></atom:link>
+      <description>A few days of truce allowed the removal of remaining civilians from Oleshky, which continual Russian attacks have made all but uninhabitable.</description>
+      <dc:creator>Carlotta Gall and Oleksandr Chubko</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 15:24:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oleshky (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/30vid-Oleshky-new/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Guttenfelder/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Live Updates: Hundreds of Thousands Join Another Round of Protests in France</title>
+      <link>https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween" rel="standout"></atom:link>
+      <description>The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 19:11:56 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-310-bwfz/31france-protests-promo-310-bwfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>Train Disaster Is Blow to Spain’s Leader, Already Election Underdog</title>
@@ -38,7 +68,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html" rel="standout"></atom:link>
       <description>Prime Minister Pedro Sánchez wanted to campaign on inequality and housing, but the second major rail accident this year has put his government’s competence on trial.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 14:14:18 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 14:14:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
@@ -61,18 +91,39 @@
       <atom:link href="https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html" rel="standout"></atom:link>
       <description>After years of legal wrangling, judges backed by the current government suspended the chief justice, as a feud escalated with the right-wing party that last held power.</description>
       <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 14:08:06 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 18:06:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Courts and the Judiciary</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Law and Justice (Poland)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tusk, Donald</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nawrocki, Karol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Warsaw (Poland)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-poland-court-hgvz/31int-poland-court-hgvz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Rafal Niedzielski/Associated Press</media:credit>
-      <media:description>Police officers guarding the entrance to the Polish Constitutional Tribunal court in Warsaw on Saturday.</media:description>
+      <media:description>Police officers guarding the entrance to the Polish Constitutional Tribunal in Warsaw on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages</title>
+      <link>https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html" rel="standout"></atom:link>
+      <description>A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.</description>
+      <dc:creator>Euan Ward and Vivian Nereim</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 17:56:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-syria-mecca-pact-tfhp/31int-syria-mecca-pact-tfhp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Smoke rising in mid-October near Taiz, Yemen, where Saudi-backed forces and the Houthi militia have been battling.</media:description>
     </item>
     <item>
       <title>How Locals and Shopkeepers Tried to Save One Paris Street From Rioters</title>
@@ -101,7 +152,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html" rel="standout"></atom:link>
       <description>With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.</description>
       <dc:creator>Yeganeh Torbati</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 14:22:20 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 18:15:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
@@ -121,19 +172,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
       <media:description>A campaign billboard last week in Tel Aviv showing Prime Minister Benjamin Netanyahu of Israel and President Trump.</media:description>
-    </item>
-    <item>
-      <title>Here is the latest.</title>
-      <link>https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween" rel="standout"></atom:link>
-      <description>Thousands, potentially in masks and costumes, are expected on the streets on Saturday, prompting the authorities to prepare another vast security response.</description>
-      <dc:creator>Mark Landler and Ségolène Le Stradic</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 14:24:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
     </item>
     <item>
       <title>What to Know About Fighting Between Ethiopia and Rebels in Tigray</title>
@@ -188,15 +226,19 @@
       <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html" rel="standout"></atom:link>
       <description>The premier’s comments represent a major change in British policy, but they are unlikely to satisfy those who hoped that reparations would follow.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 09:19:29 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 09:19:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Apologies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antigua and Barbuda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Reparations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antigua and Barbuda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/30/multimedia/30int-uk-slavery-apology-mhgb/30int-uk-slavery-apology-mhgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Russell Cheyne</media:credit>
       <media:description>Prime Minister Andy Burnham of Britain in Glasgow on Friday.</media:description>
@@ -209,14 +251,14 @@
       <description>The former vice premier was one of just six women to have served on the Chinese Communist Party’s elite Politburo, though she was excluded from the top ranks of power.</description>
       <dc:creator>Alexandra Stevenson</dc:creator>
       <pubDate>Sat, 31 Oct 2026 07:18:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu Yandong</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Youth League (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Youth League (China)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31obit-liu-02-wcfq/31obit-liu-02-wcfq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stanley Chou/Getty Images</media:credit>
       <media:description>Liu Yandong, a former vice premier of China who was one of the country’s highest-ranking female officials, died in Beijing on Wednesday. </media:description>
@@ -244,25 +286,6 @@
       <media:description>At a checkpoint in Kabul, Afghanistan’s capital, in July.</media:description>
     </item>
     <item>
-      <title>Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says</title>
-      <link>https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html" rel="standout"></atom:link>
-      <description>The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.</description>
-      <dc:creator>Carlos Barragán</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 23:27:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intermodalidad de Levante SA (Iryo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/30Int-spain-crash-tfqv/30Int-spain-crash-tfqv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Oscar Del Pozo/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Removing a wrecked carriage at the scene of the crash near Urda, Spain, on Friday. At least 69 people were killed.</media:description>
-    </item>
-    <item>
       <title>Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’</title>
       <link>https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html</guid>
@@ -280,25 +303,19 @@
       <media:description>The Nobel laureate Dmitri Muratov, second from left, with colleagues at Novaya Gazeta’s offices in Moscow last year. “We no longer have a home or money,” he said on Friday.</media:description>
     </item>
     <item>
-      <title>Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland</title>
-      <link>https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html" rel="standout"></atom:link>
-      <description>Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 18:51:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maxwell, Ghislaine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Edinburgh (Scotland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrew, Duke of York</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/12/20/multimedia/30int-uk-andrew-epstein-rgdh/30int-uk-andrew-epstein-rgdh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Department of Justice</media:credit>
-      <media:description>An undated image of Jeffrey Epstein and Ghislaine Maxwell released by the U.S. Department of Justice. </media:description>
+      <title>COP17 Biodiversity Talks in Yerevan, Armenia</title>
+      <link>https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html" rel="standout"></atom:link>
+      <description>Countries renewed their promises to protect wildlife at U.N. talks in Armenia, but how to cover the costs remains a question.</description>
+      <dc:creator>Catrin Einhorn</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 17:40:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
+      <category domain="">UN Convention on Biological Diversity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yerevan (Armenia)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31cli-biodiversity-tzwm/31cli-biodiversity-tzwm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karen Minasyan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The 2026 United Nations biodiversity conference wrapped up on Saturday in Yerevan, Armenia. </media:description>
     </item>
     <item>
       <title>In Australia, Halloween Means Spring, Sunshine and Skepticism</title>
@@ -361,6 +378,19 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
+      <title>Here is the latest.</title>
+      <link>https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween" rel="standout"></atom:link>
+      <description>Thousands, potentially in masks and costumes, are expected on the streets on Saturday, prompting the authorities to prepare another vast security response.</description>
+      <dc:creator>Mark Landler and Ségolène Le Stradic</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 16:26:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
+    </item>
+    <item>
       <title>Carney Commits Canada to Becoming European Union’s First ‘Associate Member’</title>
       <link>https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html</guid>
@@ -411,6 +441,25 @@
       <media:description>A Salvadoran gunner in a UH-1N Twin Huey helicopter during an aerial patrol over Port-au-Prince last month. Some Salvadoran troops are members of a U.N.-backed international force in Haiti.</media:description>
     </item>
     <item>
+      <title>Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says</title>
+      <link>https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html" rel="standout"></atom:link>
+      <description>The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.</description>
+      <dc:creator>Carlos Barragán</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 23:27:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intermodalidad de Levante SA (Iryo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/30Int-spain-crash-tfqv/30Int-spain-crash-tfqv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Oscar Del Pozo/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Removing a wrecked carriage at the scene of the crash near Urda, Spain, on Friday. At least 69 people were killed.</media:description>
+    </item>
+    <item>
       <title>3 Arrested in Connection With Deadly Blast in Central Athens</title>
       <link>https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html</guid>
@@ -428,6 +477,27 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/30int-greece-explosion-1-hbjk/30int-greece-explosion-1-hbjk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stelios Misinas/Reuters</media:credit>
       <media:description>The site of a building that partially collapsed following an explosion last month in the Plaka area, a popular area for tourists, in Athens. </media:description>
+    </item>
+    <item>
+      <title>Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland</title>
+      <link>https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html" rel="standout"></atom:link>
+      <description>Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 18:51:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maxwell, Ghislaine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Edinburgh (Scotland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrew, Duke of York</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/12/20/multimedia/30int-uk-andrew-epstein-rgdh/30int-uk-andrew-epstein-rgdh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Department of Justice</media:credit>
+      <media:description>An undated image of Jeffrey Epstein and Ghislaine Maxwell released by the U.S. Department of Justice. </media:description>
     </item>
     <item>
       <title>I Covered the Tiananmen Square Massacre. It Still Weighs on Me.</title>
@@ -1088,68 +1158,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-netanyahu-tjfp/29int-israel-netanyahu-tjfp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ronen Zvulun/Reuters</media:credit>
       <media:description>Prime Minister Benjamin Netanyahu reacts to exit polls during a speech at his party headquarters in Jerusalem on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Israel’s Election Results Show No Clear Winner. What Are the Paths to a New Government?</title>
-      <link>https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html" rel="standout"></atom:link>
-      <description>Deadlock is possible, as neither the bloc of Prime Minister Benjamin Netanyahu nor his main challenger have won a majority. But there are still paths to a new government.</description>
-      <dc:creator>Johnatan Reiss, Adina Renner and Pablo Robles</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 06:31:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v6.png" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>After 28 Years Walking the Globe, Karl Bushby Is Almost Home</title>
-      <link>https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html" rel="standout"></atom:link>
-      <description>Karl Bushby has walked 31,000 miles, crossing some of the world’s harshest landscapes. He plans to reach his mother’s house in England next week.</description>
-      <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 12:12:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Walking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bushby, Karl (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">English Channel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bering Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Punta Arenas (Chile)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/00xp-world-walker-end-gbcz-promo/00xp-world-walker-end-gbcz-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sam Bush for The New York Times</media:credit>
-      <media:description>Mr. Bushby in London. He said his journey was a reminder of people’s kindness.</media:description>
-    </item>
-    <item>
-      <title>China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu</title>
-      <link>https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html" rel="standout"></atom:link>
-      <description>Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities.</description>
-      <dc:creator>Tiffany May</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 05:24:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Millennial Generation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Dream of the Red Chamber (Book)</category>
     </item>
   </channel>
 </rss>
