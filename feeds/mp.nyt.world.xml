@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 22:42:29 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 22:16:17 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:57:34 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 00:51:38 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html" rel="standout"></atom:link>
       <description>The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.</description>
       <dc:creator>Carlos Barragán</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 18:06:15 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 23:27:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html" rel="standout"></atom:link>
       <description>The Salvadoran government dispatched more than 2,000 troops to Haiti this week in an extraordinary deployment on foreign soil.</description>
       <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 20:06:07 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 00:51:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -1115,30 +1115,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/00brazil-election-influencer-promo/00brazil-election-influencer-cbkz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Victor Moriyama for The New York Times</media:credit>
       <media:description>The Brazilian congressman André Janones created a digital “army” by setting up WhatsApp groups and posting on Instagram, which helped mobilized the vote for the reelection of President Luiz Inácio Lula da Silva.</media:description>
-    </item>
-    <item>
-      <title>Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path</title>
-      <link>https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html" rel="standout"></atom:link>
-      <description>Votes are still being counted, but it appears that neither Prime Minister Benjamin Netanyahu’s right-wing coalition nor the opposition alliance headed by Gadi Eisenkot will have a majority.</description>
-      <dc:creator>Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Michael Levenson</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 02:27:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-ledeall-1-kzpm/28int-israel-ledeall-1-kzpm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
-      <media:description>Torn Likud party campaign ad featuring Prime Minister Benjamin Netanyahu of Israel and President Trump in Jerusalem on Wednesday.</media:description>
     </item>
   </channel>
 </rss>
