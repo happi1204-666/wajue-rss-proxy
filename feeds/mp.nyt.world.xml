@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 01 Nov 2026 15:41:27 +0000</lastBuildDate>
-    <pubDate>Sun, 01 Nov 2026 15:10:28 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:07:17 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 18:03:16 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,14 +21,18 @@
       <atom:link href="https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html" rel="standout"></atom:link>
       <description>Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.</description>
       <dc:creator>Jeremy W. Peters and Hari Kumar</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 14:34:54 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 16:51:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rahul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bhawika Chhabra/Reuters</media:credit>
       <media:description>Demonstrators at a protest in New Delhi on Sunday against a revision to voter rolls that has so far expunged many millions of names.</media:description>
@@ -92,8 +96,12 @@
       <pubDate>Sat, 31 Oct 2026 21:43:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oleshky (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Ukrainians evacuated from the frontline town of Oleshky, Ukraine, on Saturday.</media:description>
     </item>
@@ -324,8 +332,7 @@
       <dc:creator>Catrin Einhorn</dc:creator>
       <pubDate>Sat, 31 Oct 2026 17:40:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
-      <category domain="">UN Convention on Biological Diversity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yerevan (Armenia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Convention on Biological Diversity</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31cli-biodiversity-tzwm/31cli-biodiversity-tzwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Karen Minasyan/Agence France-Presse — Getty Images</media:credit>
       <media:description>The 2026 United Nations biodiversity conference wrapped up on Saturday in Yerevan, Armenia. </media:description>
@@ -1124,26 +1131,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29cli-newsletter-marathon-01-bctk/29cli-newsletter-marathon-01-bctk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kamil Krzaczynski/Agence France-Presse — Getty Images</media:credit>
       <media:description>Temperatures approached 80 degrees Fahrenheit during this year’s Chicago marathon. </media:description>
-    </item>
-    <item>
-      <title>State Dept. to Shift Millions in Contraception Funding to Cover Energy Costs</title>
-      <link>https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html" rel="standout"></atom:link>
-      <description>In a memo, the department told lawmakers it was redirecting up to $125 million in foreign aid, including nearly $49 million that Congress appropriated for family planning programs in low-income countries.</description>
-      <dc:creator>Olivia Diaz and Stephanie Nolen</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 16:31:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Control and Family Planning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29dc-foreignaid-contraception2-cmgj/29dc-foreignaid-contraception2-cmgj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Moses Sawasawa/Associated Press</media:credit>
-      <media:description>A sex worker sorting through condoms at her home in eastern Democratic Republic of Congo in 2024.</media:description>
     </item>
   </channel>
 </rss>
