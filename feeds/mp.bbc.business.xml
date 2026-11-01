@@ -9,18 +9,26 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 08:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 15:44:31 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea]]></title>
-            <description><![CDATA[The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo#0</guid>
-            <pubDate>Fri, 30 Oct 2026 21:13:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[No more washing up: How Airbnb's new house rules have divided hosts and guests]]></title>
+            <description><![CDATA[Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo#0</guid>
+            <pubDate>Sun, 01 Nov 2026 00:17:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crypto firm Binance covers 90% of losses after $6.3bn hack]]></title>
+            <description><![CDATA[The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#0</guid>
+            <pubDate>Sun, 01 Nov 2026 13:11:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"/>
         </item>
         <item>
             <title><![CDATA[US tech stocks see sharp falls as AI spending nears $1tn]]></title>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d4/live/4a441ff0-d48a-11f1-9a20-f717db279e3e.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How Poundland grew from a market stall to a high street giant]]></title>
-            <description><![CDATA[The retail giant - which started life at a Wolverhampton market - is now at threat of collapse. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw07304l5je7o#0</guid>
-            <pubDate>Fri, 30 Oct 2026 06:08:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/2dd0c130-d3d0-11f1-9c32-1532a6164171.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[How video game remakes tap the power of nostalgia]]></title>
             <description><![CDATA[Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -63,10 +63,26 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How Poundland grew from a market stall to a high street giant]]></title>
+            <description><![CDATA[The retail giant - which started life at a Wolverhampton market - is now at threat of collapse. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw07304l5je7o#0</guid>
+            <pubDate>Fri, 30 Oct 2026 06:08:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/2dd0c130-d3d0-11f1-9c32-1532a6164171.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea]]></title>
+            <description><![CDATA[The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo#1</guid>
+            <pubDate>Fri, 30 Oct 2026 21:13:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[From Levi's to Primark - the fashion chains selling mended clothes]]></title>
             <description><![CDATA[A new generation is embracing eye-catching patching and visible mends.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o#1</guid>
             <pubDate>Fri, 30 Oct 2026 00:00:35 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f93/live/75a32910-c9a5-11f1-ad54-aba20166b422.jpg"/>
         </item>
@@ -295,12 +311,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0645/live/cb36dd30-bd80-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Shops looted as German cost of living protests turn violent]]></title>
+            <title><![CDATA[Shops looted as German cost-of-living protests turn violent]]></title>
             <description><![CDATA[The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#3</guid>
-            <pubDate>Sun, 01 Nov 2026 07:36:18 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg"/>
+            <pubDate>Sun, 01 Nov 2026 11:57:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"/>
         </item>
         <item>
             <title><![CDATA[Energy bills help 'doesn't go far enough']]></title>
@@ -316,7 +332,7 @@
             <link>https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm20wyg8j121o#3</guid>
             <pubDate>Sun, 01 Nov 2026 07:11:33 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29ff/live/5be19580-d570-11f1-858c-9b90cf3a2059.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4469/live/f01ae000-d5eb-11f1-bfdd-73f39e6db31d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Soaring cost of Halloween treats spooks shoppers]]></title>
