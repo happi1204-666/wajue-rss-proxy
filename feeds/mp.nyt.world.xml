@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 01 Nov 2026 20:07:17 +0000</lastBuildDate>
-    <pubDate>Sun, 01 Nov 2026 18:03:16 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:42:35 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 22:10:17 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -45,20 +45,17 @@
       <description>Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.</description>
       <dc:creator>Paul Sonne</dc:creator>
       <pubDate>Sun, 01 Nov 2026 10:04:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Twenty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stubb, Alexander (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gahr Store, Jonas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/01/multimedia/01int-russia-putin-week-cfkh/01int-russia-putin-week-cfkh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Anastasia Barashkova</media:credit>
       <media:description>President Vladimir V. Putin of Russia during a Russia-Africa Summit in Moscow on Thursday.</media:description>
@@ -134,12 +131,14 @@
       <description>The rise of Korean terms in Japanese is a striking reversal from colonial times and a sign of the global appeal of South Korean culture.</description>
       <dc:creator>Hisako Ueno and Jin Yu Young</dc:creator>
       <pubDate>Sun, 01 Nov 2026 04:01:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Japanese Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slang</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/00int-japan-korea-slang-01-vzqc/00int-japan-korea-slang-01-vzqc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>A street lined with Korean-language signs in Shin-Okubo, in Tokyo, which has long had a Koreatown neighborhood.</media:description>
@@ -188,20 +187,15 @@
       <description>This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.</description>
       <dc:creator>Pranav Baskar</dc:creator>
       <pubDate>Sat, 31 Oct 2026 23:05:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhou, Ben (Financial Executive)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bangladesh Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Binance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lazarus Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sony Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sony Pictures Entertainment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stimson Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bybit Fintech Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tyrone Siu/Reuters</media:credit>
       <media:description>Changpeng Zhao, the founder of Binance, the world’s largest cryptocurrency exchange, in 2025.</media:description>
@@ -234,16 +228,16 @@
       <dc:creator>Jason Horowitz</dc:creator>
       <pubDate>Sat, 31 Oct 2026 14:14:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spanish Socialist Workers&#39; Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Popular Party (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vox (Spanish Political Party)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feijoo, Alberto Nunez</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abascal, Santiago</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-spain-crash-politics-1-fwzt/31int-spain-crash-politics-1-fwzt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Violeta Santos Moura/Reuters</media:credit>
       <media:description>Prime Minister Pedro Sánchez of Spain speaking on Wednesday after a deadly crash involving two high-speed trains near Toledo.</media:description>
@@ -275,7 +269,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html" rel="standout"></atom:link>
       <description>A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.</description>
       <dc:creator>Euan Ward and Vivian Nereim</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 17:56:18 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 20:08:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -290,6 +284,29 @@
       <media:description>Smoke rising in mid-October near Taiz, Yemen, where Saudi-backed forces and the Houthi militia have been battling.</media:description>
     </item>
     <item>
+      <title>A Lesson From Germany</title>
+      <link>https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html" rel="standout"></atom:link>
+      <description>Trump is betting on economic incentives to stop Putin in Ukraine. Germany’s experience shows why that strategy is risky.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 20:45:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sovereign Wealth Funds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Russian Direct Investment Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/02/multimedia/02int-theworld-trump-ostpolitik-02-mltw-promo/02int-theworld-trump-ostpolitik-02-mltw-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ramil Sitdikov/Reuters</media:credit>
+      <media:description>Lukoil is one of Russia’s biggest energy companies.</media:description>
+    </item>
+    <item>
       <title>Joseph Lagu, Who Led Independence Movement in Southern Sudan, Has Died</title>
       <link>https://www.nytimes.com/2026/11/01/world/africa/joseph-lagu-sudan-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/01/world/africa/joseph-lagu-sudan-dead.html</guid>
@@ -297,17 +314,19 @@
       <description>He played a pivotal role in winning his region’s autonomy from Sudan in 1972, then served as a high-ranking diplomat. He was 94.</description>
       <dc:creator>Clay Risen</dc:creator>
       <pubDate>Sun, 01 Nov 2026 10:02:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lagu, Joseph (1931-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bashir, Omar Hassan Al-</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/obituaries/280bit-lagu-topper/280bit-lagu-topper-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/obituaries/280bit-lagu-topper/280bit-lagu-topper-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Keystone Pictures USA/Zumapress.Com</media:credit>
-      <media:description>Joseph Lagu in 1968. </media:description>
+      <media:description>Joseph Lagu in 1968.</media:description>
     </item>
     <item>
       <title>Thailand’s Most Famous Snake Catcher</title>
@@ -350,9 +369,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pumpkins</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spring (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Melbourne (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
     </item>
     <item>
       <title>French officials eye social media’s role in promoting unrest.</title>
@@ -373,17 +389,13 @@
       <atom:link href="https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html" rel="standout"></atom:link>
       <description>The dance company started on a shoestring and went on to become internationally acclaimed.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 10:00:08 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 10:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Ballet of Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Windsor (NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kain, Karen (1951- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Franca, Celia (1921-2007)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Little Ghosts Books (Toronto, Ontario, Retailer)</category>
     </item>
     <item>
       <title>Stage Fright</title>
@@ -419,21 +431,14 @@
       <dc:creator>Yeganeh Torbati</dc:creator>
       <pubDate>Sat, 31 Oct 2026 20:04:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
       <media:description>A campaign billboard last week in Tel Aviv showing Prime Minister Benjamin Netanyahu of Israel and President Trump.</media:description>
@@ -1111,26 +1116,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29brazil-bolsonaro-flight-khcf/29brazil-bolsonaro-flight-khcf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ricardo Arduengo/Agence France-Presse — Getty Images</media:credit>
       <media:description>Flávio Bolsonaro after arriving at Opa Locka airport near Miami on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>A Marathon Runner’s Hard Lesson</title>
-      <link>https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html" rel="standout"></atom:link>
-      <description>Racing in Chicago showed your newsletter host firsthand how warming is disrupting the sport.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 16:57:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marathon Running</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chicago Marathon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29cli-newsletter-marathon-01-bctk/29cli-newsletter-marathon-01-bctk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kamil Krzaczynski/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Temperatures approached 80 degrees Fahrenheit during this year’s Chicago marathon. </media:description>
     </item>
   </channel>
 </rss>

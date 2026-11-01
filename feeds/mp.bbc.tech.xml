@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 20:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 23:44:49 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -121,8 +121,8 @@
         <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jys#2</guid>
+            <link>https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet#2</guid>
             <pubDate>Tue, 27 Oct 2026 20:30:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pjwm9g.jpg"/>
         </item>
