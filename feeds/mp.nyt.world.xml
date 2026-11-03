@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 22:06:04 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 21:53:36 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:34:53 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 03:34:01 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -38,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html" rel="standout"></atom:link>
       <description>Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.</description>
       <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 16:48:12 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 16:48:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -124,7 +124,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html" rel="standout"></atom:link>
       <description>Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.</description>
       <dc:creator>Erika Solomon, Sanam Mahoozi, Adam Rasgon and Vivian Nereim</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 20:25:33 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 20:25:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
@@ -186,11 +186,11 @@
       <atom:link href="https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html" rel="standout"></atom:link>
       <description>Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.</description>
       <dc:creator>Motoko Rich</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 21:26:14 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 21:26:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ITA Airways</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alitalia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alitalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ITA Airways</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
@@ -351,13 +351,14 @@
       <atom:link href="https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html" rel="standout"></atom:link>
       <description>Efforts to pull together more funding for the ship, stuck in Cambodia, appear to have faltered, leaving its passengers unsure about what to do next.</description>
       <dc:creator>Ceylan Yeğinsu</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 21:18:59 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 21:19:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Villa Vie Residences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
     </item>
     <item>
       <title>America Votes</title>
@@ -628,7 +629,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html" rel="standout"></atom:link>
       <description>This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.</description>
       <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 23:05:42 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 03:29:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
