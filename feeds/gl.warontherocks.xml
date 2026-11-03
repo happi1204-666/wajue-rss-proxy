@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Mon, 02 Nov 2026 19:01:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Nov 2026 20:54:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,43 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Quantum’s Quietest Branch: A Case for Magnetometry</title>
+		<link>https://warontherocks.com/cogs-of-war/quantums-quietest-branch-a-case-for-magnetometry/</link>
+		
+		<dc:creator><![CDATA[Kerry Chávez]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2026 09:00:36 +0000</pubDate>
+				<category><![CDATA[Cogs of War]]></category>
+		<category><![CDATA[defense t]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48375</guid>
+
+					<description><![CDATA[<p>After an F-15E went down in Operation Epic Fury, the weapons systems officer landed injured, behind enemy lines, and with a bounty on his head. CIA Director John Ratcliffe analogized locating him to finding a &#8220;grain of sand in the middle of a desert.&#8221; When commandos pulled him out 36 hours later, one detail in news reports of the rescue captured public imagination: &#8220;Ghost Murmur,&#8221; an alleged CIA quantum magnetometer, was said to have detected the officer&#8217;s heartbeat at long range. As one source ominously remarked, &#8220;If your heart is beating, we will find you.&#8221;Despite the story having all the</p>
+<p>The post <a href="https://warontherocks.com/cogs-of-war/quantums-quietest-branch-a-case-for-magnetometry/">Quantum’s Quietest Branch: A Case for Magnetometry</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Priscilla Yao]]></dc:creator>
+	</item>
+		<item>
+		<title>Humanity’s Promethean Gap with AI</title>
+		<link>https://warontherocks.com/humanitys-promethean-gap-with-ai/</link>
+		
+		<dc:creator><![CDATA[Raluca Csernatoni]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2026 08:30:09 +0000</pubDate>
+				<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Command and Control]]></category>
+		<category><![CDATA[Future Warfare]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48392</guid>
+
+					<description><![CDATA[<p>Frontier AI systems are beginning to test the limits of human oversight, while the companies developing them retain considerable power to define the risks and the terms of their scrutiny. In security and defense, the stakes are particularly high. The industry&#8217;s new calls to pace the frontier also risk becoming performative restraint, and defense establishments should act before agentic swarm systems enter chains of command.The OpenAI/Hugging Face incident provides a clear illustration of the emerging governance problem. Several reports in August from OpenAI, METR, and Redwood Research found that during internal cybersecurity evaluations, successive so-called generations of AI agents discovered</p>
+<p>The post <a href="https://warontherocks.com/humanitys-promethean-gap-with-ai/">Humanity’s Promethean Gap with AI</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Corruption in the Crosshairs: The Debate Over Transparency and Saving Face</title>
 		<link>https://warontherocks.com/corruption-in-the-crosshairs-the-debate-over-transparency-and-saving-face/</link>
 		
@@ -1908,43 +1945,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 
 					<description><![CDATA[<p>In 2019, Steve Fetter wrote &#8220;A Cheaper Nuclear Sponge,&#8221; in which he argued that building a new intercontinental ballistic missile (ICBM) was unnecessary for strengthening U.S. land-based deterrence. After several years of changing defense budgets and strategic priorities, we asked Steve to revisit his arguments.Image: U.S. Air Force (John Ingle)In your 2019 article, you argued that building an entirely new ICBM was unnecessary and that the Pentagon could save tens of billions by extending the life of the Minuteman III instead. Nearly seven years on, how has that argument held up? What has the new ballistic missile program&#8217;s trajectory looked</p>
 <p>The post <a href="https://warontherocks.com/forced-into-the-right-decision-a-look-at-u-s-land-based-deterrence-posture/">Forced Into the Right Decision? A Look at U.S. Land-Based Deterrence Posture</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Tyranny of Shipyard Cost-Plus Contracting</title>
-		<link>https://warontherocks.com/cogs-of-war/the-tyranny-of-shipyard-cost-plus-contracting/</link>
-		
-		<dc:creator><![CDATA[Kavon Hakimzadeh]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 08:00:38 +0000</pubDate>
-				<category><![CDATA[Cogs of War]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Navy]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46698</guid>
-
-					<description><![CDATA[<p>As a naval shipyard commander, my mandate from Navy leadership is straightforward:&#160;return warships to the fleet as quickly as possible.&#160;Neither my shipyard nor many other public and private shipyards are consistently fulfilling that mission.Public shipyard availabilities &#8212; the scheduled periods during which nuclear-powered warships are taken out of operational service for maintenance, repair, or modernization &#8212; are often delayed well beyond their original timelines. A recent Government Accountability Office report highlighted that over the past 10 years, maintenance delays for attack submarines have resulted in 15,000 lost operational days and an estimated $3.4 billion in costs. This problem of maintenance</p>
-<p>The post <a href="https://warontherocks.com/cogs-of-war/the-tyranny-of-shipyard-cost-plus-contracting/">The Tyranny of Shipyard Cost-Plus Contracting</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Strange Transformation of the Front Line in Ukraine</title>
-		<link>https://warontherocks.com/the-strange-transformation-of-the-front-line-in-ukraine/</link>
-		
-		<dc:creator><![CDATA[Édouard Maurin]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 07:30:29 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Drones]]></category>
-		<category><![CDATA[Landpower]]></category>
-		<category><![CDATA[Russo-Ukrainian War]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46594</guid>
-
-					<description><![CDATA[<p>On Jan. 5, 2025, my volunteer platoon attached to the 23rd Special Purpose Battalion of the Presidential Brigade entered a 1-kilometer-long tree line called CHAI, on the outskirts of Kotlyne, a few kilometers west of Pokrovsk, Ukraine. Our task was to occupy a position whose status on DeepState, an open-source map tracking military operations in the Russo-Ukrainian war, had been shifting out of gray for five days. On DeepState&#8217;s map, different colors illustrate the fighting situation: the red area is held by the aggressor, while green or blue areas show territory successfully defended or recaptured by the Ukrainian army. The</p>
-<p>The post <a href="https://warontherocks.com/the-strange-transformation-of-the-front-line-in-ukraine/">The Strange Transformation of the Front Line in Ukraine</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
 ]]></description>
 		
 		
