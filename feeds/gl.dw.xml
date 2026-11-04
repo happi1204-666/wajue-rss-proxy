@@ -7,10 +7,15 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-04T00:02:48Z</dc:date>
+  <dc:date>2026-11-04T06:49:04Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-midterms-democrats-gain-control-of-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-rdf"/>
@@ -26,11 +31,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-midterms-polling-stations-have-closed-in-five-eastern-states/live-79829440?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-midterm-election-why-it-s-important-and-races-to-watch/a-79789932?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ice-hockey-officials-considering-options-after-cas-order-to-reinstate-russia/a-79831451?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf"/>
@@ -72,7 +73,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/steinmeier-in-china-a-major-state-visit-in-uncertain-times/a-79764205?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/prague-honors-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf"/>
@@ -96,7 +96,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf"/>
@@ -143,6 +142,51 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf">
+  <title>US midterm election results: Democrats flip House and Senate. Here&apos;s what else the data tells us</title>
+  <link>https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf</link>
+  <description>Democrats have won the majority in both House and Senate. Vote counts are still ongoing. DW takes a look at who voted Republican, who voted Democrat and what it all means.</description>
+  <dc:date>2026-11-04T06:34:00Z</dc:date>
+  <dc:subject>TOP STORIES</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79841886</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-midterms-democrats-gain-control-of-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf">
+  <title>US midterms: Democrats gain control of House and Senate from Republicans</title>
+  <link>https://www.dw.com/en/us-midterms-democrats-gain-control-of-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Democratic Party gained control of the House and Senate, delivering a stinging rebuke to US President Donald Trump and his Republican Party. Follow DW&apos;s live updates.</description>
+  <dc:date>2026-11-04T06:32:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79829440</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Election body opens door for voter reinclusion</title>
+  <link>https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Indian poll body said no action will be taken against deleted voters for using Form 6 for re-enrolment in voter rolls. Follow DW for more.</description>
+  <dc:date>2026-11-04T05:58:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79849888</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf">
+  <title>From rotten food to political opponents: Researchers explore how disgust relates to our beliefs, and why the connection is complicated</title>
+  <link>https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf</link>
+  <description>Some studies have linked disgust sensitivity to socially conservative attitudes. But does disgust shape our politics, or do our beliefs shape what we find disgusting?</description>
+  <dc:date>2026-11-04T05:19:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79734659</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf">
+  <title>US to cut nearly $4 billion in Israel military aid, Trump says</title>
+  <link>https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf</link>
+  <description>President Donald Trump said that the United States would still sell weapons to Israel. He added that Democratic candidates were using US military support for Israel against Republicans in the midterm elections.</description>
+  <dc:date>2026-11-04T00:21:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79848860</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf">
   <title>Spain transport minister offers resignation in wake of train accident</title>
   <link>https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf</link>
@@ -227,7 +271,7 @@
  <item rdf:about="https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-rdf">
   <title>Multiple flights to European airports targeted by bomb threats</title>
   <link>https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-rdf</link>
-  <description>The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, and a fourth flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.</description>
+  <description>The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, two flights to Rome and a flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.</description>
   <dc:date>2026-11-03T14:18:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -278,24 +322,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79511985</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/us-midterms-polling-stations-have-closed-in-five-eastern-states/live-79829440?maca=en-rss-en-all-1573-rdf">
-  <title>US midterms: Polling stations have closed in five eastern states</title>
-  <link>https://www.dw.com/en/us-midterms-polling-stations-have-closed-in-five-eastern-states/live-79829440?maca=en-rss-en-all-1573-rdf</link>
-  <description>The crucial midterms could put a check on how much power President Donald Trump can wield during the last two years of his term. Follow DW&apos;s live updates.</description>
-  <dc:date>2026-11-03T10:16:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79829440</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-midterm-election-why-it-s-important-and-races-to-watch/a-79789932?maca=en-rss-en-all-1573-rdf">
-  <title>US midterm election: Why it&apos;s important and races to watch</title>
-  <link>https://www.dw.com/en/us-midterm-election-why-it-s-important-and-races-to-watch/a-79789932?maca=en-rss-en-all-1573-rdf</link>
-  <description>US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump&apos;s second term as president.</description>
-  <dc:date>2026-11-03T08:05:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79789932</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Ukraine in focus at Berlin Security Conference</title>
   <link>https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf</link>
@@ -304,24 +330,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79835322</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Cyclone Murasu wreaks havoc after landfall</title>
-  <link>https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-all-1573-rdf</link>
-  <description>Cyclone Murasu made landfall in Andhra Pradesh, leaving a trail of destruction. Weather agencies have warned of heavy rainfall in the next 12 hours. Follow DW for more.</description>
-  <dc:date>2026-11-03T06:12:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79835410</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-rdf">
-  <title>North Korea denies role in record Binance hack, calls US charge &apos;provocation&apos;</title>
-  <link>https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-rdf</link>
-  <description>Kim Yo Jong dismissed FBI claims that North Korean hackers stole more than $6 billion from Binance, as the exchange began reopening withdrawals on more networks.</description>
-  <dc:date>2026-11-03T05:34:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79835321</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ice-hockey-officials-considering-options-after-cas-order-to-reinstate-russia/a-79831451?maca=en-rss-en-all-1573-rdf">
   <title>Ice hockey officials considering options after CAS order to reinstate Russia</title>
@@ -692,15 +700,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79764205</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf">
-  <title>From rotten food to political opponents: Researchers explore how disgust relates to our beliefs, and why the connection is complicated</title>
-  <link>https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf</link>
-  <description>Some studies have linked disgust sensitivity to socially conservative attitudes. But ahead of the US midterm elections, does disgust shape our politics, or do our beliefs shape what we find disgusting?</description>
-  <dc:date>2026-10-26T08:13:00Z</dc:date>
-  <dc:subject>Science</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79734659</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf">
   <title>France: Hundreds arrested after nationwide protests</title>
   <link>https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf</link>
@@ -907,15 +906,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79400925</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf">
-  <title>Is Germany&apos;s eight-hour workday under threat?</title>
-  <link>https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf</link>
-  <description>Would you work 12 hours straight? The CDU/CSU and SPD are locked in a dispute over reforms to the Working Hours Act. Workplace flexibility, collective bargaining agreements and worker protection rules are at stake.</description>
-  <dc:date>2026-10-18T10:28:00Z</dc:date>
-  <dc:subject>Germany</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79680984</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf">
   <title>China&apos;s influence in the gaming industry is growing</title>
