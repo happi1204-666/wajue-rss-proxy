@@ -7,13 +7,50 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 18:59:06 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 18:38:17 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:59:29 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 23:19:17 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Afghan Woman Is Among Dozens to Be Deported to Afghanistan</title>
+      <link>https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html" rel="standout"></atom:link>
+      <description>The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.</description>
+      <dc:creator>Pranav Baskar, Hamed Aleaziz, Mattathias Schwartz and Elian Peltier</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 20:57:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/12/02/multimedia/02int-afghan-deport-folo01-photo-pqcf/02int-afghan-deport-folo01-photo-pqcf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+      <media:description>A view of Kabul, Afghanistan.</media:description>
+    </item>
+    <item>
+      <title>West Bank Property Sales Tactics Face a Challenge in Canada</title>
+      <link>https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html" rel="standout"></atom:link>
+      <description>The marketing practices of some firms promoting property in the Israeli-occupied territory to foreign purchasers are deceptive, a recent filing claims.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 20:58:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/03int-canada-westbank-properties01a-photo-tzvl/03int-canada-westbank-properties01a-photo-tzvl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Leo Correa/Associated Press</media:credit>
+      <media:description>A Palestinian man harvesting olives near the Israeli settlement of Shiloh in the West Bank in October.</media:description>
+    </item>
     <item>
       <title>Poland Beefs Up Security at Border With Russia</title>
       <link>https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html</link>
@@ -52,9 +89,9 @@
       <link>https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html" rel="standout"></atom:link>
-      <description>The monarch called Britain’s trafficking of slaves from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.</description>
+      <description>The monarch called Britain’s trafficking of enslaved people from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 15:33:45 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 22:19:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -116,7 +153,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html" rel="standout"></atom:link>
       <description>President Trump has repeatedly reminded Americans of a losing campaign issue just as voters head to the polls. Why?</description>
       <dc:creator>Lara Jakes</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 14:09:33 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:30:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -187,7 +224,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html" rel="standout"></atom:link>
       <description>Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights.</description>
       <dc:creator>Victoria Kim</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 18:32:17 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 19:18:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
@@ -287,37 +324,124 @@
       <media:description>Protesting outside Poland’s Constitutional Tribunal in Warsaw on Sunday.</media:description>
     </item>
     <item>
-      <title>Trump Removes South Africa From the African Growth and Opportunity Act Trade Program</title>
-      <link>https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html" rel="standout"></atom:link>
-      <description>The decision is the latest measure taken against the country, which the administration has accused of discriminating against white people.</description>
-      <dc:creator>John Eligon</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 21:01:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/02/multimedia/02int-safrica-agoa-1-mwfk/02int-safrica-agoa-1-mwfk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Esa Alexander/Reuters</media:credit>
-      <media:description>The port in Cape Town, South Africa. Under the trade program, South Africa has exported about $1.5 billion worth of goods to the United States last year.</media:description>
+      <title>Helicopters Collide Over Everest Trail, Killing 1 and Injuring 3 Others</title>
+      <link>https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html" rel="standout"></atom:link>
+      <description>The crash, in a popular tourist area during the autumn climbing season, highlighted the safety challenges posed by growing numbers of aircraft in the Himalayas.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 23:19:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Everest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Himalayas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
     </item>
     <item>
-      <title>Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal</title>
-      <link>https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html" rel="standout"></atom:link>
-      <description>Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.</description>
-      <dc:creator>Erika Solomon, Sanam Mahoozi, Adam Rasgon and Vivian Nereim</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 16:32:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <title>Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash</title>
+      <link>https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html" rel="standout"></atom:link>
+      <description>Nearly 70 people died in the crash, the second high-speed rail accident in less than a year.</description>
+      <dc:creator>Carlos Barragán</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 22:36:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Puente, Oscar (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/03int-spain-train-crash-photo-gvlj/03int-spain-train-crash-photo-gvlj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Radamés/Europa Press, via Associated Press</media:credit>
+      <media:description>Óscar Puente, Spain’s minister of transportation, during a meeting with lawmakers in Madrid on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>How Will the Midterms Play Out? These Races May Provide Early Clues.</title>
+      <link>https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html" rel="standout"></atom:link>
+      <description>Election results in states where voting ends early could indicate how each party will fare in House and Senate races elsewhere in the country.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 22:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/03pol-early-clues-5p-qwhc/03pol-early-clues-5p-qwhc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+      <media:description>Analysts said the House race in Virginia this year was a tossup.</media:description>
+    </item>
+    <item>
+      <title>U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say</title>
+      <link>https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html" rel="standout"></atom:link>
+      <description>The attack on a drug-trafficking group killed about two dozen people, a rights group said. It comes as the United States is militarizing the fight against “narcoterrorism” in Latin America.</description>
+      <dc:creator>Annie Correal, Eric Schmitt, Isayen Herrera and Julie Turkewitz</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 23:03:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Liberation Army (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/03int-venezuela-us-bombing01-photo-vwmt/03int-venezuela-us-bombing01-photo-vwmt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>The National Liberation Army, or ELN, in Arauca, Colombia. The rebel army is active in Colombia and Venezuela. </media:description>
+    </item>
+    <item>
+      <title>More Iranians Call for Nuclear Weapons After War With U.S.</title>
+      <link>https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html" rel="standout"></atom:link>
+      <description>Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 23:04:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/02/multimedia/02-int-Iran-Diplomacy-01-jglt/02-int-Iran-Diplomacy-01-jglt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>Off the coast of Iran in September. The conflict’s effect on shipping has shaken the global economy.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Portraits of former Iranian supreme leaders and the current supreme leader, Ayatollah Mojtaba Khamenei, in Tehran this month.</media:description>
+    </item>
+    <item>
+      <title>Midterm Suspense</title>
+      <link>https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html" rel="standout"></atom:link>
+      <description>Voters in the U.S. are deciding who will control Congress. The election is also seen as a referendum on Trump’s presidency.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 20:51:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-theworld-midterms-virginia-qvcf/04int-theworld-midterms-virginia-qvcf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+      <media:description>Voting in Richmond, Virginia.</media:description>
     </item>
     <item>
       <title>Trump Pushes Venezuela for Agreement Allowing U.S. Troops to Stay</title>
@@ -326,7 +450,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html" rel="standout"></atom:link>
       <description>The two countries have long been adversaries, and the United States attacked Venezuela this year, but Secretary of State Marco Rubio is starting talks on a legal agreement.</description>
       <dc:creator>Edward Wong</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 18:17:14 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 19:47:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
@@ -375,7 +499,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html" rel="standout"></atom:link>
       <description>The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems.</description>
       <dc:creator>Stephanie Nolen and Taiwo Aina</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 17:53:30 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 20:57:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
@@ -394,18 +518,18 @@
       <dc:creator>Siobhán O’Grady and Liubov Sholudko</dc:creator>
       <pubDate>Tue, 03 Nov 2026 15:58:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Komyshuvakha (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Komyshuvakha, Ukraine</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/12/02/multimedia/02int-ukraine-attack-01-wckg/02int-ukraine-attack-01-wckg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Police officers and rescuers on Tuesday carrying the body of a resident killed by a Russian bombing in the Zaporizhzhia region of Ukraine the day before.</media:description>
@@ -490,6 +614,39 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fred Tanneau/Agence France-Presse — Getty Images</media:credit>
       <media:description>Shelves were empty at a grocery store in Névez, France, last month after hundreds of supermarket refrigeration systems in the country were targeted.</media:description>
+    </item>
+    <item>
+      <title>Trump Removes South Africa From the African Growth and Opportunity Act Trade Program</title>
+      <link>https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html" rel="standout"></atom:link>
+      <description>The decision is the latest measure taken against the country, which the administration has accused of discriminating against white people.</description>
+      <dc:creator>John Eligon</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 21:01:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/02/multimedia/02int-safrica-agoa-1-mwfk/02int-safrica-agoa-1-mwfk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Esa Alexander/Reuters</media:credit>
+      <media:description>The port in Cape Town, South Africa. Under the trade program, South Africa has exported about $1.5 billion worth of goods to the United States last year.</media:description>
+    </item>
+    <item>
+      <title>Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal</title>
+      <link>https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html" rel="standout"></atom:link>
+      <description>Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.</description>
+      <dc:creator>Erika Solomon, Sanam Mahoozi, Adam Rasgon and Vivian Nereim</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 16:32:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/02/multimedia/02-int-Iran-Diplomacy-01-jglt/02-int-Iran-Diplomacy-01-jglt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>Off the coast of Iran in September. The conflict’s effect on shipping has shaken the global economy.</media:description>
     </item>
     <item>
       <title>Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier</title>
@@ -936,6 +1093,12 @@
       <pubDate>Sat, 31 Oct 2026 17:40:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Convention on Biological Diversity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guilbeault, Steven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yerevan (Armenia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31cli-biodiversity-tzwm/31cli-biodiversity-tzwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Karen Minasyan/Agence France-Presse — Getty Images</media:credit>
       <media:description>The 2026 United Nations biodiversity conference wrapped up on Saturday in Yerevan, Armenia. </media:description>
@@ -996,185 +1159,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-poland-court-hgvz/31int-poland-court-hgvz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Rafal Niedzielski/Associated Press</media:credit>
       <media:description>Police officers guarding the entrance to the Polish Constitutional Tribunal in Warsaw on Saturday.</media:description>
-    </item>
-    <item>
-      <title>French officials eye social media’s role in promoting unrest.</title>
-      <link>https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/french-officials-eye-social-medias-role-in-promoting-unrest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/french-officials-eye-social-medias-role-in-promoting-unrest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/french-officials-eye-social-medias-role-in-promoting-unrest" rel="standout"></atom:link>
-      <description>President Emmanuel Macron denied that the government had considered suspending online platforms, but he said they would have to be “vigilant” about preventing misuse.</description>
-      <dc:creator>Mark Landler and Ségolène Le Stradic</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 12:56:17 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-social-media-zlhg/31france-protests-social-media-zlhg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Valery Hache/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A protest in Nice, France, on Oct. 17. Far-right activists were arrested in the city last weekend after people in masks attacked protesters.</media:description>
-    </item>
-    <item>
-      <title>75 Years On, the National Ballet of Canada ‘Remains the Icon’</title>
-      <link>https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html" rel="standout"></atom:link>
-      <description>The dance company started on a shoestring and went on to become internationally acclaimed.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 10:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Ballet of Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kain, Karen (1951- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Franca, Celia (1921-2007)</category>
-    </item>
-    <item>
-      <title>Stage Fright</title>
-      <link>https://www.nytimes.com/2026/10/31/briefing/stage-fright.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/briefing/stage-fright.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/briefing/stage-fright.html" rel="standout"></atom:link>
-      <description>Halloween presents an endless parade of ghouls and goblins. Most aren’t actually scary, but can illuminate some things about the nature of fear.</description>
-      <dc:creator>Melissa Kirsch</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 09:58:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>Train Disaster Is Blow to Spain’s Leader, Already Election Underdog</title>
-      <link>https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html" rel="standout"></atom:link>
-      <description>Prime Minister Pedro Sánchez wanted to campaign on inequality and housing, but the second major rail accident this year has put his government’s competence on trial.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 14:14:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spanish Socialist Workers&#39; Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Popular Party (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vox (Spanish Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feijoo, Alberto Nunez</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abascal, Santiago</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-spain-crash-politics-1-fwzt/31int-spain-crash-politics-1-fwzt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Violeta Santos Moura/Reuters</media:credit>
-      <media:description>Prime Minister Pedro Sánchez of Spain speaking on Wednesday after a deadly crash involving two high-speed trains near Toledo.</media:description>
-    </item>
-    <item>
-      <title>Here is the latest.</title>
-      <link>https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween" rel="standout"></atom:link>
-      <description>Thousands, potentially in masks and costumes, are expected on the streets on Saturday, prompting the authorities to prepare another vast security response.</description>
-      <dc:creator>Mark Landler and Ségolène Le Stradic</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 19:46:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
-    </item>
-    <item>
-      <title>Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections</title>
-      <link>https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html" rel="standout"></atom:link>
-      <description>With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.</description>
-      <dc:creator>Yeganeh Torbati</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 20:04:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A campaign billboard last week in Tel Aviv showing Prime Minister Benjamin Netanyahu of Israel and President Trump.</media:description>
-    </item>
-    <item>
-      <title>How Locals and Shopkeepers Tried to Save One Paris Street From Rioters</title>
-      <link>https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html" rel="standout"></atom:link>
-      <description>As arson, looting and destruction overwhelmed Rue Beaurepaire, some residents pleaded with rioters to stop. Others hid out of fear. Many dread a repeat.</description>
-      <dc:creator>Catherine Porter and Giulia Imbert</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 14:32:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/business/31int-france-street-top-fdcd/31int-france-street-top-fdcd-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kiran Ridley/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The bar La Barrique on Rue Beaurepaire in Paris was set on fire during violence that grew out of protests on Oct. 17. Looting, burglary and other destruction also occurred on the three-block-long street.</media:description>
-    </item>
-    <item>
-      <title>Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80</title>
-      <link>https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html" rel="standout"></atom:link>
-      <description>The former vice premier was one of just six women to have served on the Chinese Communist Party’s elite Politburo, though she was excluded from the top ranks of power.</description>
-      <dc:creator>Alexandra Stevenson</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 07:18:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu Yandong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Youth League (China)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31obit-liu-02-wcfq/31obit-liu-02-wcfq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stanley Chou/Getty Images</media:credit>
-      <media:description>Liu Yandong, a former vice premier of China who was one of the country’s highest-ranking female officials, died in Beijing on Wednesday. </media:description>
-    </item>
-    <item>
-      <title>Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?</title>
-      <link>https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html" rel="standout"></atom:link>
-      <description>A 500-day campaign to find and identify fallen soldiers has unearthed hundreds of bodies, but not everyone gets a chance at closure.</description>
-      <dc:creator>Damien Cave, Tung Ngo and Chang W. Lee</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 04:01:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnam War</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hanoi (Vietnam)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ho Chi Minh City (Vietnam)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnamese-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/00int-vietnam-graves-mtjp/00int-vietnam-graves-mtjp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>The remains of Communist soldiers found at a park in Ho Chi Minh City, lined up for a memorial service.</media:description>
-    </item>
-    <item>
-      <title>Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery</title>
-      <link>https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html" rel="standout"></atom:link>
-      <description>The premier’s comments represent a major change in British policy, but they are unlikely to satisfy those who hoped that reparations would follow.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 09:19:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apologies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reparations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antigua and Barbuda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/30/multimedia/30int-uk-slavery-apology-mhgb/30int-uk-slavery-apology-mhgb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Russell Cheyne</media:credit>
-      <media:description>Prime Minister Andy Burnham of Britain in Glasgow on Friday.</media:description>
     </item>
   </channel>
 </rss>

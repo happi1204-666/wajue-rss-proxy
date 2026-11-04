@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-03T19:00:57Z</dc:date>
+  <dc:date>2026-11-04T00:02:48Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-rdf"/>
@@ -24,13 +26,11 @@
     <rdf:li rdf:resource="https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-midterms-americans-vote-in-elections-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-midterms-polling-stations-have-closed-in-five-eastern-states/live-79829440?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-midterm-election-why-it-s-important-and-races-to-watch/a-79789932?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-trump-labels-democrats-dangerous-ahead-of-midterms/a-79834945?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ice-hockey-officials-considering-options-after-cas-order-to-reinstate-russia/a-79831451?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf"/>
@@ -134,9 +134,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nobel-prize-in-literature-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ai-models-keep-hacking-real-systems-during-tests-what-does-this-mean/a-79471943?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/jürgen-klopp-faces-myriad-of-issues-after-rough-start-with-germany/a-79547308?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -146,6 +143,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf">
+  <title>Spain transport minister offers resignation in wake of train accident</title>
+  <link>https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf</link>
+  <description>After two deadly train crashes this year, Spanish Transport Minister Oscar Puente has said he will step down.</description>
+  <dc:date>2026-11-03T20:41:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79848097</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-rdf">
+  <title>Greenland&apos;s parliament ratifies Trump&apos;s US security agreement</title>
+  <link>https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US is set to expand its military footprint on the Arctic island, part of the Kingdom of Denmark. It follows pressure from Donald Trump earlier in the year which opened a major rift in the transatlantic alliance.</description>
+  <dc:date>2026-11-03T20:08:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79847399</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-rdf">
   <title>UK&apos;s King Charles III decries &apos;monstrous injustice&apos; of slave trade</title>
   <link>https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-rdf</link>
@@ -263,9 +278,9 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79511985</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/us-midterms-americans-vote-in-elections-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf">
-  <title>US midterms: Americans vote in elections seen as referendum on Trump</title>
-  <link>https://www.dw.com/en/us-midterms-americans-vote-in-elections-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/us-midterms-polling-stations-have-closed-in-five-eastern-states/live-79829440?maca=en-rss-en-all-1573-rdf">
+  <title>US midterms: Polling stations have closed in five eastern states</title>
+  <link>https://www.dw.com/en/us-midterms-polling-stations-have-closed-in-five-eastern-states/live-79829440?maca=en-rss-en-all-1573-rdf</link>
   <description>The crucial midterms could put a check on how much power President Donald Trump can wield during the last two years of his term. Follow DW&apos;s live updates.</description>
   <dc:date>2026-11-03T10:16:00Z</dc:date>
   <dc:subject>News</dc:subject>
@@ -307,24 +322,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79835321</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-trump-labels-democrats-dangerous-ahead-of-midterms/a-79834945?maca=en-rss-en-all-1573-rdf">
-  <title>US: Trump labels Democrats &apos;dangerous&apos; ahead of midterms</title>
-  <link>https://www.dw.com/en/us-trump-labels-democrats-dangerous-ahead-of-midterms/a-79834945?maca=en-rss-en-all-1573-rdf</link>
-  <description>US President Donald Trump said the Democrats nominated &quot;the most extreme and dangerous&quot; candidates in US history in the midterms. He also lowered expectations by saying a sitting president &quot;doesn&apos;t win&quot; the midterms.</description>
-  <dc:date>2026-11-02T23:37:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79834945</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf">
-  <title>Supreme Court rejects Trump bid to block 20,000 California ballots</title>
-  <link>https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Trump administration had appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens.</description>
-  <dc:date>2026-11-02T23:18:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79833739</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ice-hockey-officials-considering-options-after-cas-order-to-reinstate-russia/a-79831451?maca=en-rss-en-all-1573-rdf">
   <title>Ice hockey officials considering options after CAS order to reinstate Russia</title>
@@ -1252,32 +1249,5 @@
   <dc:subject>Science</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79471943</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf">
-  <title>Merz, Macron seek tougher EU measures against unfair trade</title>
-  <link>https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf</link>
-  <description>Emmanuel Macron and Friedrich Merz have written to Ursula von der Leyen, calling for tougher EU mechanisms against unfair trade practices by other states. They name no names but seem to have China or the US in mind.</description>
-  <dc:date>2026-10-05T17:23:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79554905</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf">
-  <title>Euro plummets against US dollar: Has the next financial crisis begun?</title>
-  <link>https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf</link>
-  <description>The euro has fallen to a 17-month low against the dollar. That will make inflation worse in the EU, where political worries and concern over French debt are already troubling investors. Is a fiscal crisis at hand?</description>
-  <dc:date>2026-10-05T14:28:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79549031</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/jürgen-klopp-faces-myriad-of-issues-after-rough-start-with-germany/a-79547308?maca=en-rss-en-all-1573-rdf">
-  <title>Jürgen Klopp faces myriad of issues after rough start with Germany</title>
-  <link>https://www.dw.com/en/jürgen-klopp-faces-myriad-of-issues-after-rough-start-with-germany/a-79547308?maca=en-rss-en-all-1573-rdf</link>
-  <description>Jürgen Klopp has done things a little differently since becoming Germany coach. Casting a wider net for talent and trying to connect with players and country haven&apos;t made an immediate impact, but he is not bowed.</description>
-  <dc:date>2026-10-05T10:34:00Z</dc:date>
-  <dc:subject>Sports</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79547308</dwsyn:contentID>
  </item>
 </rdf:RDF>
