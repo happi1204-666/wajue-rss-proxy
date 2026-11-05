@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-04T21:22:52Z</dc:date>
+  <dc:date>2026-11-05T01:36:18Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-all-1573-rdf"/>
@@ -26,7 +27,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-commerce-chief-calls-for-stable-us-trade-relations-after-midterms-warning-that-uncertainty-over-trump-s-tariff-policies-remains/live-79854127?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-midterms-largely-true-iran-war-led-to-loss-trump-says/live-79829440?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-opens-communist-era-secret-police-files-identifying-informants/a-79853492?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/wawira-njiru-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847?maca=en-rss-en-all-1573-rdf"/>
@@ -98,7 +99,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf"/>
@@ -133,9 +133,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ronaldo-stays-on-under-cloud-as-messi-exits-internationals/a-79574551?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nobelitis-how-winning-a-nobel-prize-can-give-you-delusions-of-grandeur/a-79525772?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/emerging-economies-are-embracing-solar-power-and-skipping-fossil-fuels-much-faster-than-europe-or-the-us/a-79474847?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/nobel-prize-in-literature-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ai-models-keep-hacking-real-systems-during-tests-what-does-this-mean/a-79471943?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -145,10 +142,19 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf">
+  <title>Democrats take House and Senate from Republicans in US midterm rout</title>
+  <link>https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf</link>
+  <description>Democrats will control both chambers of Congress after flipping seats in Republican strongholds across the US in an election seen as a repudiation of President Donald Trump.</description>
+  <dc:date>2026-11-04T23:04:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79859416</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-rdf">
   <title>Bavarian politician Hubert Aiwanger found dead in Berlin hotel</title>
   <link>https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-rdf</link>
-  <description>Aiwanger was Bavaria&apos;s economic minister and the chairman of the Free Voters Party. The circumstances surrounding his death are still unclear.</description>
+  <description>Aiwanger was Bavaria&apos;s Economy Minister and the chairman of the right-wing populist Free Voters party. The circumstances surrounding his death are still unclear.</description>
   <dc:date>2026-11-04T21:00:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -265,7 +271,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-commerce-chief-calls-for-stable-us-trade-relations-after-midterms-warning-that-uncertainty-over-trump-s-tariff-policies-remains/live-79854127?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Commerce chief calls for stable US trade relations after midterms, warning that uncertainty over Trump&apos;s tariff policies remains</title>
   <link>https://www.dw.com/en/germany-news-commerce-chief-calls-for-stable-us-trade-relations-after-midterms-warning-that-uncertainty-over-trump-s-tariff-policies-remains/live-79854127?maca=en-rss-en-all-1573-rdf</link>
-  <description>German business is pinning its hopes on greater stability in US trade relations after a midterm blow for Donald Trump. Meanwhile, Germany&apos;s automakers appear to be feeling less gloomy than in recent years. DW has more.</description>
+  <description>German business is pinning its hopes on greater stability in US trade relations after a midterm blow for Donald Trump. Meanwhile, Germany&apos;s automakers appear to be feeling less gloomy than in recent years.</description>
   <dc:date>2026-11-04T12:58:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -280,10 +286,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79853779</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/us-midterms-largely-true-iran-war-led-to-loss-trump-says/live-79829440?maca=en-rss-en-all-1573-rdf">
-  <title>US midterms: &apos;Largely true&apos; Iran war led to loss, Trump says</title>
-  <link>https://www.dw.com/en/us-midterms-largely-true-iran-war-led-to-loss-trump-says/live-79829440?maca=en-rss-en-all-1573-rdf</link>
-  <description>The US president still insisted he &quot;had to do&quot; the controversial war, after his Vice President Vance also blamed it for the Republican loss. The Democrats now control both the US House and Senate. Follow live.</description>
+ <item rdf:about="https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf">
+  <title>Trump says &apos;largely true&apos; Iran war led to Republicans midterm loss</title>
+  <link>https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf</link>
+  <description>After Democrats won both the House and Senate in a blowout for Republicans, President Donald Trump admitted fuel prices brought on by the Iran war impacted the outcome, but stuck by his decision. DW has more.</description>
   <dc:date>2026-11-04T12:45:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -928,15 +934,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79706745</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Emergency at Leipzig airport sparked by novice driver</title>
-  <link>https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf</link>
-  <description>Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, German Chancellor Friedrich Merz announced an industrial AI partnership with Nvidia. DW has more.</description>
-  <dc:date>2026-10-19T17:26:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79695354</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf">
   <title>The homeless man living in front of a London mega-mansion</title>
   <link>https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf</link>
@@ -1242,32 +1239,5 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79474847</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf">
-  <title>Paramount and Warner Bros merge into one Hollywood giant</title>
-  <link>https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf</link>
-  <description>Paramount has completed an $81 billion purchase of Warner Bros. Discovery, as its owner Skydance creates a new entertainment behemoth. Billionaire David Ellison&apos;s hostile takeover bid defeated rival efforts from Netflix.</description>
-  <dc:date>2026-10-06T14:18:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79565762</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/nobel-prize-in-literature-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf">
-  <title>Nobel Prize in literature: How the winner is secretly chosen</title>
-  <link>https://www.dw.com/en/nobel-prize-in-literature-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf</link>
-  <description>Can Xue is considered one of this year&apos;s favorites; Margaret Atwood and Salman Rushdie are other strong contenders. But what goes on behind the scenes in the selection of the Nobel Prize in literature?</description>
-  <dc:date>2026-10-06T13:15:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79564151</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ai-models-keep-hacking-real-systems-during-tests-what-does-this-mean/a-79471943?maca=en-rss-en-all-1573-rdf">
-  <title>AI models keep hacking real systems during tests. What does this mean?</title>
-  <link>https://www.dw.com/en/ai-models-keep-hacking-real-systems-during-tests-what-does-this-mean/a-79471943?maca=en-rss-en-all-1573-rdf</link>
-  <description>AI models have repeatedly broken into real commercial and government systems during safety tests during 2026. Cybersecurity researcher Thorsten Holz explains what that means, and why he isn&apos;t expecting a robot uprising.</description>
-  <dc:date>2026-10-06T10:05:00Z</dc:date>
-  <dc:subject>Science</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79471943</dwsyn:contentID>
  </item>
 </rdf:RDF>
