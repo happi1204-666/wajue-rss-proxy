@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Wed, 04 Nov 2026 21:05:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Nov 2026 14:04:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,27 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>The Golden Dome Proposal is Destabilizing and Dangerous</title>
+		<link>https://warontherocks.com/cogs-of-war/the-golden-dome-proposal-is-destabilizing-and-dangerous/</link>
+		
+		<dc:creator><![CDATA[Frederick Lamb]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 09:00:03 +0000</pubDate>
+				<category><![CDATA[Cogs of War]]></category>
+		<category><![CDATA[Defense Policy]]></category>
+		<category><![CDATA[Missiles]]></category>
+		<category><![CDATA[Nuclear Weapons]]></category>
+		<category><![CDATA[Space]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48302</guid>
+
+					<description><![CDATA[<p>Editor&#8217;s Note: This is the second article in a two-part series exploring the Golden Dome for America proposal. Please also read the first, &#8220;Golden Dome Is Technologically and Financially Infeasible.&#8221;Golden Dome is an ambitious proposal for a comprehensive, layered defense, with ground, sea, and space-based elements. It is supposed to protect the United States, its allies, and deployed forces from attacks by ballistic missiles, cruise missiles, hypersonic boost-glide vehicles, aircraft, and drones launched by any adversary, including peer adversaries. The Golden Dome executive order also mandates further development of capabilities to defeat an adversary&#8217;s missiles before they are launched.A key</p>
+<p>The post <a href="https://warontherocks.com/cogs-of-war/the-golden-dome-proposal-is-destabilizing-and-dangerous/">The Golden Dome Proposal is Destabilizing and Dangerous</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Laura Grego]]></dc:creator>
+	</item>
+		<item>
 		<title>Who Repairs the Internet in Wartime?</title>
 		<link>https://warontherocks.com/who-repairs-the-internet-in-wartime/</link>
 		
@@ -746,7 +767,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<category><![CDATA[Space]]></category>
 		<guid isPermaLink="false">https://warontherocks.com/?p=48000</guid>
 
-					<description><![CDATA[<p>For as long as nuclear-armed, intercontinental ballistic missiles and submarine-launched ballistic missiles have existed, strategists and engineers have pursued a seductive idea: a shield effective enough to diminish &#8212; or even block &#8212; a ballistic missile attack. The appeal is obvious. A state that could reliably intercept ballistic missiles could protect its cities from these terrifying weapons and reduce its adversaries&#8217; leverage.But defenses against strategic ballistic missiles have a long history of disappointments. Over roughly seven decades, the United States has spent more than $500 billion (in 2025 dollars) on missile defenses, much of it to defend against intercontinental ballistic</p>
+					<description><![CDATA[<p>Editor&#8217;s Note: This is the first article in a two-part series exploring the Golden Dome for America proposal. Please also read the second, &#8220;The Golden Dome Proposal is Destabilizing and Dangerous.&#8221;For as long as nuclear-armed, intercontinental ballistic missiles and submarine-launched ballistic missiles have existed, strategists and engineers have pursued a seductive idea: a shield effective enough to diminish &#8212; or even block &#8212; a ballistic missile attack. The appeal is obvious. A state that could reliably intercept ballistic missiles could protect its cities from these terrifying weapons and reduce its adversaries&#8217; leverage.But defenses against strategic ballistic missiles have a long</p>
 <p>The post <a href="https://warontherocks.com/cogs-of-war/golden-dome-is-technologically-and-financially-infeasible/">Golden Dome Is Technologically and Financially Infeasible</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
 ]]></description>
 		
@@ -1933,24 +1954,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <dc:creator><![CDATA[Joseph Yaffe]]></dc:creator>
 <dc:creator><![CDATA[Jonathan Panter]]></dc:creator>
 	</item>
-		<item>
-		<title>The Age of Strategic Exclusion</title>
-		<link>https://warontherocks.com/the-age-of-strategic-exclusion/</link>
-		
-		<dc:creator><![CDATA[Patrick Gill-Tiney]]></dc:creator>
-		<pubDate>Mon, 14 Sep 2026 07:30:13 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Economic Statecraft]]></category>
-		<category><![CDATA[Grand Strategy]]></category>
-		<category><![CDATA[U.S.-Chinese Competition]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46671</guid>
-
-					<description><![CDATA[<p>Major powers are increasingly trying to shut out their rivals. Russia invaded Ukraine in part to prevent the latter&#8217;s further integration with the West. The United States is restricting China&#8217;s access to advanced semiconductors and encouraging allies to do the same. China&#8217;s Belt and Road Initiative secures privileged positions in strategic infrastructure and economic relationships. Though these examples vary in aims and methods, they reflect a growing willingness of major powers to restrict rivals&#8217; access and influence.I use the term &#8216;strategic exclusion&#8217; to describe policies that move competition from shared access to restricted access. Territorial control is its most extreme</p>
-<p>The post <a href="https://warontherocks.com/the-age-of-strategic-exclusion/">The Age of Strategic Exclusion</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
