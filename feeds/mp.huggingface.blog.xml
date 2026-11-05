@@ -7,6 +7,12 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
+   <title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
+   <pubDate>Thu, 05 Nov 2026 19:35:16 GMT</pubDate>
+   <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
+  </item>
+  <item>
    <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
    <link>https://huggingface.co/blog/phonon-tts</link>
@@ -41,12 +47,6 @@
    <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
    <link>https://huggingface.co/blog/transformers-mic</link>
    <guid isPermaLink="true">https://huggingface.co/blog/transformers-mic</guid>
-  </item>
-  <item>
-   <title>nemotron-halloween</title>
-   <pubDate>Fri, 30 Oct 2026 17:57:24 GMT</pubDate>
-   <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
-   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
   </item>
   <item>
    <title>Granite Switch 4.1.1 — Update models like you update software</title>
