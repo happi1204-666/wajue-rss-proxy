@@ -7,10 +7,17 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-06T18:11:52Z</dc:date>
+  <dc:date>2026-11-06T23:22:20Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf"/>
@@ -24,12 +31,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-bomb-threats-target-irish-media-more-european-flights/a-79875884?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/no-choice-but-to-bear-it-delhi-s-unrelenting-air-pollution-crisis/a-79873124?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/turkey-ex-minister-arrested-in-a-major-fund-manipulation-scandal/a-79872732?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/french-bus-carrying-school-children-crashes-killing-2/a-79873221?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-postelection-cleanup/a-79868652?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-gen-z-protests-spark-debate-on-integration-bias/a-79868497?maca=en-rss-en-all-1573-rdf"/>
@@ -140,6 +142,69 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf">
+  <title>Pope Leo arrives in Uruguay at start of South America tour</title>
+  <link>https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf</link>
+  <description>Pope Leo has arrived in Uruguay at the start of a 12-day trip through three South American nations. His trip, which is intense with a packed itinerary, comes just weeks after his lung cancer surgery.</description>
+  <dc:date>2026-11-06T22:54:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79872584</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf">
+  <title>Tankers carrying Russian diesel to the US change course</title>
+  <link>https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf</link>
+  <description>Despite an ostensible deal between Donald Trump and Vladimir Putin to bring diesel to the US, tankers are reportedly unable to dock due to existing sanctions.</description>
+  <dc:date>2026-11-06T20:55:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79870807</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf">
+  <title>Stephen Miller named by Trump as new White House chief of staff</title>
+  <link>https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf</link>
+  <description>Trump said he would be replacing Susie Wiles for the top advisory role. Miller is controversial figure, known as a key architect of the administration&apos;s hardline immigration policies.</description>
+  <dc:date>2026-11-06T20:41:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79881571</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf">
+  <title>Ueno Bank scandal plunges Paraguay into political crisis</title>
+  <link>https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf</link>
+  <description>Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Ueno Bank. President Santiago Pena is facing impeachment.</description>
+  <dc:date>2026-11-06T20:23:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79881388</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-all-1573-rdf">
+  <title>Critics say Democrats should look into Trump&apos;s Middle East deals in future corruption investigations</title>
+  <link>https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-all-1573-rdf</link>
+  <description>After their victory in the US midterm elections, the Democrats have promised to investigate corruption in the Trump administration. Critics say the president&apos;s Middle East deals is an area they should focus on.</description>
+  <dc:date>2026-11-06T19:16:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79877104</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-all-1573-rdf">
+  <title>Ilse Aigner tipped by party allies as next German president</title>
+  <link>https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-all-1573-rdf</link>
+  <description>German media reports suggest that Bavarian politician Ilse Aigner&apos;s chances of becoming the next president are on the up. Long favored by her Bavarian CSU, now it seems Christian Democrats nationwide plan to back her.</description>
+  <dc:date>2026-11-06T18:48:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79880594</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-all-1573-rdf">
+  <title>Meghan Markle&apos;s father arrested in US over child sex abuse material</title>
+  <link>https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-all-1573-rdf</link>
+  <description>US federal agents arrested Thomas Markle in Florida. The Duchess of Sussex and television actress Meghan Markle, who is estranged from her father, said she was &quot;deeply distressed&quot; by the charges.</description>
+  <dc:date>2026-11-06T18:43:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79879676</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf">
   <title>Iran war: Gulf tanker attacked, 1 seaferer killed</title>
   <link>https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf</link>
@@ -257,33 +322,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79875884</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-all-1573-rdf">
-  <title>Tanzania: Opposition leader Tundu Lissu jailed for four years</title>
-  <link>https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-all-1573-rdf</link>
-  <description>Tanzanian opposition leader Tundu Lissu has been sentenced to four years in prison after being cleared of treason. Lissu condemned his conviction for incitement, which had not been among the charges he faced.</description>
-  <dc:date>2026-11-06T12:19:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79875248</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/no-choice-but-to-bear-it-delhi-s-unrelenting-air-pollution-crisis/a-79873124?maca=en-rss-en-all-1573-rdf">
-  <title>&apos;No choice but to bear it&apos;: Delhi&apos;s unrelenting air pollution crisis</title>
-  <link>https://www.dw.com/en/no-choice-but-to-bear-it-delhi-s-unrelenting-air-pollution-crisis/a-79873124?maca=en-rss-en-all-1573-rdf</link>
-  <description>Despite years of government interventions, emergency restrictions and public outrage, Delhi continues to battle dangerously polluted air every winter. Why isn&apos;t there a lasting solution to a predictable crisis?</description>
-  <dc:date>2026-11-06T12:05:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79873124</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-all-1573-rdf">
-  <title>Kenya cult leader Paul Mackenzie sentenced to 200 years</title>
-  <link>https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-all-1573-rdf</link>
-  <description>A court in Kenya has sentenced Paul Mackenzie to 200 years in prison for the murders of 190 children and an adult. He told them to starve themselves to death as part of his apocalyptic religious cult.</description>
-  <dc:date>2026-11-06T12:03:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79875112</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-rdf">
   <title>Exercise and cancer: What &quot;living longer&quot; really means</title>
   <link>https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-rdf</link>
@@ -292,24 +330,6 @@
   <dc:subject>Science</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79856133</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/turkey-ex-minister-arrested-in-a-major-fund-manipulation-scandal/a-79872732?maca=en-rss-en-all-1573-rdf">
-  <title>Turkey: Ex-minister arrested in a major fund manipulation scandal</title>
-  <link>https://www.dw.com/en/turkey-ex-minister-arrested-in-a-major-fund-manipulation-scandal/a-79872732?maca=en-rss-en-all-1573-rdf</link>
-  <description>Fatma Betul Sayan Kaya, a former deputy chair of President Erdogan&apos;s party, was arrested in a major funds scandal. The opposition claims Sayan Kaya and her husband cashed in shares worth millions in the illegal scheme.</description>
-  <dc:date>2026-11-06T10:38:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79872732</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/french-bus-carrying-school-children-crashes-killing-2/a-79873221?maca=en-rss-en-all-1573-rdf">
-  <title>French bus carrying school children crashes, killing 2</title>
-  <link>https://www.dw.com/en/french-bus-carrying-school-children-crashes-killing-2/a-79873221?maca=en-rss-en-all-1573-rdf</link>
-  <description>The bus reportedly veered off the road and crashed into a tree. French Transport Minister Philippe Tabarot was on his way to the scene.</description>
-  <dc:date>2026-11-06T10:10:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79873221</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf">
   <title>European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets</title>

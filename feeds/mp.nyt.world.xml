@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 18:10:49 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 18:06:54 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:18:28 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 23:05:42 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html" rel="standout"></atom:link>
       <description>President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.</description>
       <dc:creator>Adam Rasgon, Adina Renner and Pablo Robles</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 17:50:02 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 22:36:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
@@ -42,6 +42,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?</title>
+      <link>https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html" rel="standout"></atom:link>
+      <description>In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.</description>
+      <dc:creator>Victoria Kim and Laura Chung</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 23:05:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maori</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (New Zealand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Party (New Zealand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hipkins, Chris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luxon, Christopher</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peters, Winston (1945- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-NZ-elections-gjhz/06int-NZ-elections-gjhz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fiona Goodall/Getty Images</media:credit>
+      <media:description>A voting station in Auckland, New Zealand, on Saturday.</media:description>
     </item>
     <item>
       <title>Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout</title>
@@ -74,7 +97,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html" rel="standout"></atom:link>
       <description>Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.</description>
       <dc:creator>Motoko Rich</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 14:35:42 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 19:24:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
@@ -112,17 +135,17 @@
       <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html" rel="standout"></atom:link>
       <description>Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 17:16:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Parliament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <pubDate>Fri, 06 Nov 2026 20:07:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hoaxes and Pranks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aer Lingus Airlines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raidio Teilifis Eireann (RTE)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Irish Independent</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sky News</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Newstalk (Ireland)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dublin (Ireland)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
@@ -199,7 +222,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html" rel="standout"></atom:link>
       <description>Paul Nthenge Mackenzie told followers to starve themselves in order to meet Jesus, an edict that was violently enforced, a court heard during his trial.</description>
       <dc:creator>Brian O. Otieno</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 18:01:28 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 21:13:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Religious Cults</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Doomsday</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -207,9 +230,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mackenzie, Paul Nthenge</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shakahola Forest (Kenya)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-kenya-cult-sentence-1-qbvt/06int-kenya-cult-sentence-1-qbvt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/06/world/africa/kenya-cult-cover-image/kenya-cult-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Luis Tato/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Paul Nthenge Mackenzie, center, at a court in Mombasa, Kenya, on Friday. He was arrested in 2023 after the Kenyan authorities exhumed the bodies of more than 400 people.</media:description>
     </item>
     <item>
       <title>Europe Still Sees Trump As Powerful, Especially in Foreign Policy</title>
@@ -261,7 +283,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html" rel="standout"></atom:link>
       <description>Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country.</description>
       <dc:creator>Jeanna Smialek, Koba Ryckewaert and Jim Tankersley</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 10:00:58 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 18:23:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Parliament</category>
@@ -302,32 +324,42 @@
       <media:description>The Chinese leader Xi Jinping with President Donald Trump at the National Archives Museum in Washington in September.</media:description>
     </item>
     <item>
-      <title>Who’s Hiding Secrets About Dag Hammarskjöld’s Death?</title>
-      <link>https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html" rel="standout"></atom:link>
-      <description>The U.N. leader died in a plane crash in 1961. Many suspect foul play, but a lot of information still remains secret.</description>
-      <dc:creator>Amelia Nierenberg, Christina Anderson and Lynsey Chutel</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 09:12:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hammarskjold, Dag</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <media:content height="1600" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/00int-un-sweden-dag-02-clbz/00int-un-sweden-dag-02-clbz-mediumSquareAt3X.jpg" width="1600"></media:content>
-      <media:credit>Topical Press Agency/Getty Images</media:credit>
-      <media:description>Dag Hammarskjöld, the secretary general of the United Nations, in London in the mid-1950s.</media:description>
+      <title>Paraguay’s President Removed Over Financial Crisis</title>
+      <link>https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html" rel="standout"></atom:link>
+      <description>Millions lost access to their savings, and the nation’s president was impeached and removed from office Friday after a major bank with close ties to his administration went under.</description>
+      <dc:creator>Zane Irwin and Laurence Blair</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 22:55:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paraguay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pena, Santiago</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Duarte/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Police officers outside a Ueno bank building in downtown Asunción, Paraguay’s capital, on Friday.</media:description>
+    </item>
+    <item>
+      <title>They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.</title>
+      <link>https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html" rel="standout"></atom:link>
+      <description>Secrecy, debt and soaring fuel costs all contributed to the Odyssey’s downfall. Here’s an inside look at how the “endless cruise” unraveled.</description>
+      <dc:creator>Ceylan Yeğinsu</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 18:58:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miray International Cruises &amp; Management</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Villa Vie Residences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05trav-cruise-lkwz/05trav-cruise-lkwz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Soveit Yarn/Reuters</media:credit>
+      <media:description>The Odyssey, docked last week in Cambodia. Its main lender has since taken control of the ship.</media:description>
     </item>
     <item>
       <title>U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn</title>
@@ -360,7 +392,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html" rel="standout"></atom:link>
       <description>Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.</description>
       <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 16:59:43 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 21:59:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Thomas Wayne (1944- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
@@ -376,9 +408,9 @@
       <link>https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html" rel="standout"></atom:link>
-      <description>In Trappes, a suburb of Paris with a large immigrant population, residents believe that a shooting rampage was fueled by years of anti-immigrant sentiment.</description>
+      <description>In Trappes, a suburb of Paris with a large immigrant population, residents believe that a shooting was fueled by years of anti-immigrant sentiment.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 05:01:17 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 19:19:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
@@ -393,6 +425,34 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/00int-france-shooting-01-hfwq/00int-france-shooting-01-hfwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pedro Nunes/Reuters</media:credit>
       <media:description>Ali Rabeh, the mayor of Trappes, France, speaking at a gathering in the city last week. He has criticized how right-wing critics have portrayed the city.</media:description>
+    </item>
+    <item>
+      <title>Who’s Hiding Secrets About Dag Hammarskjöld’s Death?</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html" rel="standout"></atom:link>
+      <description>The U.N. leader died in a plane crash in 1961. Many suspect foul play, but a lot of information still remains secret.</description>
+      <dc:creator>Amelia Nierenberg, Christina Anderson and Lynsey Chutel</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 09:12:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hammarskjold, Dag</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <media:content height="1600" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/00int-un-sweden-dag-02-clbz/00int-un-sweden-dag-02-clbz-mediumSquareAt3X.jpg" width="1600"></media:content>
+      <media:credit>Topical Press Agency/Getty Images</media:credit>
+      <media:description>Dag Hammarskjöld, the secretary general of the United Nations, in London in the mid-1950s.</media:description>
     </item>
     <item>
       <title>Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal</title>
@@ -590,9 +650,9 @@
       <dc:creator>Elisabetta Povoledo</dc:creator>
       <pubDate>Thu, 05 Nov 2026 16:33:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <media:content height="1779" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-italy-verdict-02-zfjk/05int-italy-verdict-02-zfjk-mediumSquareAt3X.jpg" width="1779"></media:content>
       <media:credit>Francesco Benvenuti/LaPresse, via Associated Press</media:credit>
       <media:description>Investigators in Villa Pamphili park in Rome, where the bodies of Anastasia Trofimova and her daughter Andromeda were found, in 2025.</media:description>
@@ -680,13 +740,13 @@
       <media:description>A demonstrator hurled back a tear gas shell fired by the police in Narayanganj, Bangladesh, on Wednesday.</media:description>
     </item>
     <item>
-      <title>British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports</title>
+      <title>British Doctor Infected With Ebola While Working on Outbreak Evacuated to U.K.</title>
       <link>https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html" rel="standout"></atom:link>
       <description>The government said the risk to the British public from the disease was low. The current outbreak in Africa has spread widely across the continent, killing more than 5,000 people.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 21:18:03 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 21:18:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
@@ -1107,85 +1167,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Erik Marmor/Getty Images</media:credit>
       <media:description>Israeli President Isaac Herzog delivers remarks at his official residence in Jerusalem on Monday.</media:description>
-    </item>
-    <item>
-      <title>Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC</title>
-      <link>https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html" rel="standout"></atom:link>
-      <description>As South Africans head to the polls on Wednesday, Helen Zille, 75, is betting voters care less about race and more about public services in her bid to become mayor of Johannesburg.</description>
-      <dc:creator>John Eligon and Zimasa Matiwane</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 10:23:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zille, Helen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Johannesburg (South Africa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaphosa, Cyril</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African National Congress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Alliance (South Africa)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-safrica-elections-pwfq/04int-safrica-elections-pwfq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joao Silva/The New York Times</media:credit>
-      <media:description>Helen Zille, the Democratic Alliance’s mayoral candidate for Johannesburg, voting on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Why Doctors in Thailand Fear KFC</title>
-      <link>https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html" rel="standout"></atom:link>
-      <description>In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken.</description>
-      <dc:creator>Max Kim</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 10:01:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Superstitions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kentucky Fried Chicken</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Annals of Surgery</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-thailand-kfc-01-zbgh/04int-thailand-kfc-01-zbgh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lauren DeCicca for The New York Times</media:credit>
-      <media:description>Dr. Thanat Tantinam, a surgeon who works at Vajira Hospital in Bangkok, recently conducted a study to test a popular medical superstition involving KFC.</media:description>
-    </item>
-    <item>
-      <title>Under Patagonian Spires: Where Pumas, Sheep Herding and Fine Dining Collide</title>
-      <link>https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html" rel="standout"></atom:link>
-      <description>Estancia Cerro Guido, a Chilean ranch that swapped puma bounties for conservation tours, offers travelers luxury experiences on the edge of the wilderness.</description>
-      <dc:creator>John Bartlett and Cristóbal Olivares</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 10:00:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Patagonia (Chile)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ranches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sheep</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountain Lions and Cougars</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eco-Tourism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Torres del Paine National Park (Patagonia, Chile)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/patagonia-still-promo-mvpq/patagonia-still-promo-mvpq-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Cristobal Olivares for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Could a Viral Video Save Her Mom’s Chinese Restaurant?</title>
-      <link>https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html" rel="standout"></atom:link>
-      <description>Millions viewed Lisa He’s post about her mother’s struggling business in Edinburgh. But internet fame created its own complications — and obscured bigger questions.</description>
-      <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 15:15:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Food (Cuisine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Edinburgh (Scotland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/20/multimedia/20xp-restaurant-promo-wpgl/20xp-restaurant-promo-wpgl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Robert Ormerod for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
