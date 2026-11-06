@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 22:44:19 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 22:31:33 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:06:45 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 02:30:48 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -310,7 +310,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html" rel="standout"></atom:link>
       <description>The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.</description>
       <dc:creator>Laurence Blair</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 21:37:01 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 02:30:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paraguay</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pena, Santiago</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
@@ -457,9 +457,9 @@
       <link>https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html" rel="standout"></atom:link>
-      <description>Israeli party leaders held discussions with President Isaac Herzog on Thursday about who should get the first chance to form a governing coalition.</description>
+      <description>President Isaac Herzog wrapped up two days of talks with party leaders by saying he will ask one of them on Sunday to try to assemble a governing coalition.</description>
       <dc:creator>Ephrat Livni, Johnatan Reiss and Aaron Boxerman</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 20:55:34 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 23:18:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
@@ -589,6 +589,24 @@
       <media:description>Pro-democracy activist Joshua Wong arriving at prison after a hearing for 47 opposition activists charged with violating the national security law in Hong Kong in 2021.</media:description>
     </item>
     <item>
+      <title>Bob Dylan Meets With Pope Leo</title>
+      <link>https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html" rel="standout"></atom:link>
+      <description>Pope Leo wore his usual white vestments. Bob Dylan visited the Vatican in a hooded sweatshirt and polka-dot tie. There was no singing.</description>
+      <dc:creator>Eric Nagourney</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 23:14:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dylan, Bob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vatican City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-pope-1-fpkg/04int-pope-1-fpkg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vatican Media</media:credit>
+      <media:description>A photograph released by Vatican media showing Pope Leo and Bob Dylan on Wednesday.</media:description>
+    </item>
+    <item>
       <title>After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island</title>
       <link>https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html</guid>
@@ -605,23 +623,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-kiribati-rescue-photo-clvj/04int-kiribati-rescue-photo-clvj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Business Wire</media:credit>
       <media:description>A boat missing since July ran ashore Saturday on the Pacific island nation of Kiribati, more than 3,000 miles from its intended destination.</media:description>
-    </item>
-    <item>
-      <title>Bob Dylan Meets With Pope Leo</title>
-      <link>https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html" rel="standout"></atom:link>
-      <description>Pope Leo wore his usual white vestments. Bob Dylan visited the Vatican in a hooded sweatshirt and polka-dot tie. There was no singing.</description>
-      <dc:creator>Eric Nagourney</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 23:14:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dylan, Bob</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-pope-1-fpkg/04int-pope-1-fpkg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vatican Media</media:credit>
-      <media:description>A photograph released by Vatican media showing Pope Leo and Bob Dylan on Wednesday.</media:description>
     </item>
     <item>
       <title>A Trump Reckoning</title>
