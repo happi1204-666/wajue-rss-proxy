@@ -39,6 +39,25 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Can Washington and China Build Confidence Around AI and Stability?</title>
+		<link>https://warontherocks.com/can-washington-and-china-build-confidence-around-ai-and-stability/</link>
+		
+		<dc:creator><![CDATA[Erica D. Lonergan]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2026 08:30:05 +0000</pubDate>
+				<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Diplomacy]]></category>
+		<category><![CDATA[U.S.-Chinese Competition]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48474</guid>
+
+					<description><![CDATA[<p>In the lead-up to General Secretary Xi Jinping&#8217;s September 2026 visit to the White House to discuss, among other topics, AI, U.S. Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng at JPMorgan Chase&#8217;s New York City offices. At the meeting, U.S. officials proposed establishing a dialogue between the United States and China, which would serve as a mechanism for notification of AI-related national security incidents. Bessent clarified the intent as: &#8220;We think that just like with any cross-border activity, that moving from opaque to more transparency between the No. 1 and the No. 2 AI powers in</p>
+<p>The post <a href="https://warontherocks.com/can-washington-and-china-build-confidence-around-ai-and-stability/">Can Washington and China Build Confidence Around AI and Stability?</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Golden Dome Proposal is Destabilizing and Dangerous</title>
 		<link>https://warontherocks.com/cogs-of-war/the-golden-dome-proposal-is-destabilizing-and-dangerous/</link>
 		
@@ -1933,26 +1952,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 			</item>
-		<item>
-		<title>The Big Bet on the Emerging Space Economy</title>
-		<link>https://warontherocks.com/cogs-of-war/the-big-bet-on-the-emerging-space-economy/</link>
-		
-		<dc:creator><![CDATA[Dan Wald]]></dc:creator>
-		<pubDate>Mon, 14 Sep 2026 07:45:57 +0000</pubDate>
-				<category><![CDATA[Cogs of War]]></category>
-		<category><![CDATA[Defense Tech]]></category>
-		<category><![CDATA[Space]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46917</guid>
-
-					<description><![CDATA[<p>The space economy has surpassed $600 billion in annual value, with some projecting it will reach a trillion by the 2030s. Jonathan Panter is joined by Joseph Yaffe (Cowboy Space), Brian Weeden (The Aerospace Corporation), and Dan Wald (Booz Allen) to weigh where the real growth is. They discuss how AI infrastructure is blurring the line between the space economy and the regular economy, the regulatory tangle, the leap toward autonomous constellations of hundreds of thousands of satellites, competition with China, and the dual-use risks of data centers in orbit.Image: Giuseppe Donatiello via Wikimedia Commons.</p>
-<p>The post <a href="https://warontherocks.com/cogs-of-war/the-big-bet-on-the-emerging-space-economy/">The Big Bet on the Emerging Space Economy</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Brian Weeden]]></dc:creator>
-<dc:creator><![CDATA[Joseph Yaffe]]></dc:creator>
-<dc:creator><![CDATA[Jonathan Panter]]></dc:creator>
-	</item>
 	</channel>
 </rss>
