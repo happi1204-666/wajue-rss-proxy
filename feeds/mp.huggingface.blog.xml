@@ -7,6 +7,12 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
+   <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+   <pubDate>Fri, 06 Nov 2026 14:00:48 GMT</pubDate>
+   <link>https://huggingface.co/blog/allenai/toyblocks</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/allenai/toyblocks</guid>
+  </item>
+  <item>
    <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
    <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
@@ -29,12 +35,6 @@
    <pubDate>Wed, 04 Nov 2026 17:50:10 GMT</pubDate>
    <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
    <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
-  </item>
-  <item>
-   <title>StateBench: Testing how language models track state changes over long documents</title>
-   <pubDate>Tue, 03 Nov 2026 17:15:21 GMT</pubDate>
-   <link>https://huggingface.co/blog/allenai/statebench</link>
-   <guid isPermaLink="false">https://huggingface.co/blog/allenai/statebench</guid>
   </item>
   <item>
    <title>Palette: teaching a small model to build decks in your design language</title>
