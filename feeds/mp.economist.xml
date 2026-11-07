@@ -8,9 +8,20 @@
       <![CDATA[The most recent blogs and online articles from The Economist]]>
     </description>
     <link>https://www.economist.com/latest</link>
-    <pubDate>Sat, 07 Nov 2026 02:41:56 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Nov 2026 02:41:56 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 09:26:56 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 09:26:56 +0000</lastBuildDate>
     <atom:link href="https://www.economist.com/latest/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>
+        <![CDATA[When is a suit not a suit?]]>
+      </title>
+      <description>
+        <![CDATA[The weird ways prediction markets determine truth]]>
+      </description>
+      <link>https://www.economist.com/podcasts/2026/11/07/when-is-a-suit-not-a-suit</link>
+      <guid isPermaLink="false">f1f49a7d-0aef-4764-98fd-1e59a6205005</guid>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>
         <![CDATA[The Climate Issue newsletter: The world braces for an almighty El Niño]]>
@@ -3283,17 +3294,6 @@
       <link>https://www.economist.com/podcasts/2026/10/21/how-the-lost-generation-found-itself</link>
       <guid isPermaLink="false">023241f3-2e78-46e5-ace9-1a120ac724ed</guid>
       <pubDate>Wed, 21 Oct 2026 08:25:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[Personal AI assistants could soon reshape the digital economy]]>
-      </title>
-      <description>
-        <![CDATA[But they will first have to prove they are safe for users and helpful for businesses]]>
-      </description>
-      <link>https://www.economist.com/business/2026/10/20/personal-ai-assistants-could-soon-reshape-the-digital-economy</link>
-      <guid isPermaLink="false">73d4d650-6b33-469b-801f-9e037d1f8bd3</guid>
-      <pubDate>Tue, 20 Oct 2026 19:55:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
