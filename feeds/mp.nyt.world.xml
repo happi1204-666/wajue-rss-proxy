@@ -7,13 +7,57 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 09:53:28 +0000</lastBuildDate>
-    <pubDate>Sat, 07 Nov 2026 09:47:05 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:02:34 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 15:44:24 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>This Israeli Vows to Oust Netanyahu. Here’s How.</title>
+      <link>https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html" rel="standout"></atom:link>
+      <description>Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.</description>
+      <dc:creator>David M. Halbfinger</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 12:42:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lieberman, Avigdor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu (Israeli Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Torah Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Amit Elkayam for The New York Times</media:credit>
+      <media:description>Gadi Eisenkot, a former military chief and the leading opposition candidate, at a campaign event in September in Haifa, Israel.</media:description>
+    </item>
+    <item>
+      <title>Gunman Opens Fire in Krakow, Killing at Least 5, Polish Police Say</title>
+      <link>https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html" rel="standout"></atom:link>
+      <description>The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.</description>
+      <dc:creator>Carlos Barragán</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 15:44:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Krakow (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-pcgh/07int-poland-shooting-pcgh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jakub Włodek/Agencja Wyborcza.pl, via Reuters</media:credit>
+      <media:description>The police securing an area near Krakow’s main market square after a shooting in Poland on Saturday.</media:description>
+    </item>
     <item>
       <title>King Charles Was Umbrella-Less but in His Element on Caribbean Tour</title>
       <link>https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html</link>
@@ -21,7 +65,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html" rel="standout"></atom:link>
       <description>In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 05:01:07 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 09:57:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
@@ -41,28 +85,129 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guyana</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-uk-king-trip-01-fhwt/07int-uk-king-trip-01-fhwt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Chris Jackson</media:credit>
-      <media:description>King Charles III, left, gestures while walking in the rain with Chief of Defense Staff, Brigadier General Telbert Benjamin of Antigua and Barbuda at the annual Independence Ceremonial Parade at the Sir Vivian Richards Stadium, in St John’s, Antigua and Barbuda, in November.</media:description>
+      <media:description>King Charles III walking in the rain with Brig. Gen. Telbert Benjamin of the Antigua and Barbuda Defense Force this past week in St. John’s, the capital of Antigua and Barbuda.</media:description>
     </item>
     <item>
-      <title>Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?</title>
+      <title>Inside the Operation That Helped Ukraine Reverse Some Russian War Gains</title>
+      <link>https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html" rel="standout"></atom:link>
+      <description>After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.</description>
+      <dc:creator>Carlotta Gall, Kamila Hrabchuk and Mauricio Lima</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 10:01:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Remote Control Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="">Operation Vivaldi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life</title>
+      <link>https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html" rel="standout"></atom:link>
+      <description>A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.</description>
+      <dc:creator>Adam Goldman</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 10:32:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refrigerators</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-europe-security-01-zbtv/07int-europe-security-01-zbtv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Marie Mannes/Reuters</media:credit>
+      <media:description>A cyberattack damaged freezers at a store in Stockholm, part of a wave of such attacks in supermarkets across Europe.</media:description>
+    </item>
+    <item>
+      <title>Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo</title>
+      <link>https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html" rel="standout"></atom:link>
+      <description>At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 12:06:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Allied Democratic Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gradel Muyisa Mumbere/Reuters</media:credit>
+      <media:description>Congolese civilians checking destroyed buildings after an attack by Islamic State-linked militants in Cantine-Aloya, Democratic Republic of Congo, on Friday.</media:description>
+    </item>
+    <item>
+      <title>Another Day of Protests Unfurls in France’s Autumn of Discontent</title>
+      <link>https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html" rel="standout"></atom:link>
+      <description>Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday.</description>
+      <dc:creator>Mark Landler and Ségolène Le Stradic</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 14:47:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-hqvk/07int-france-protest-hqvk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stephanie Lecocq/Reuters</media:credit>
+      <media:description>A protest scene in Paris on Saturday. In an early assessment, the authorities said there were fewer protesters than there had been on previous weekends.</media:description>
+    </item>
+    <item>
+      <title>Why Are There Protests in France?</title>
+      <link>https://www.nytimes.com/article/france-student-protests-why.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/france-student-protests-why.html</guid>
+      <atom:link href="https://www.nytimes.com/article/france-student-protests-why.html" rel="standout"></atom:link>
+      <description>For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.</description>
+      <dc:creator>Lynsey Chutel and Carlos Barragán</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 10:13:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Denis (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeff Pachoud/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Forensic officers at the tourism office in Lyon, France, on Oct. 18, the day after the country’s worst riots in years.</media:description>
+    </item>
+    <item>
+      <title>New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties</title>
       <link>https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html" rel="standout"></atom:link>
-      <description>Preliminary results showed no clear front-runner after an election that was dominated by economic concerns.</description>
+      <description>Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.</description>
       <dc:creator>Victoria Kim and Laura Chung</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 09:44:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <pubDate>Sat, 07 Nov 2026 13:13:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maori</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (New Zealand)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Party (New Zealand)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hipkins, Chris</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luxon, Christopher</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peters, Winston (1945- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qiulae Wong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wong, Qiulae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-NZ-elections-gjhz/06int-NZ-elections-gjhz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fiona Goodall/Getty Images</media:credit>
       <media:description>A voting station in Auckland, New Zealand, on Saturday.</media:description>
@@ -159,89 +304,6 @@
       <media:description>Pope Leo XIV offering Mass in St. Peter’s Basilica at the Vatican on Thursday.</media:description>
     </item>
     <item>
-      <title>Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say</title>
-      <link>https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html" rel="standout"></atom:link>
-      <description>A 500-pound bomb supplied by the United States appears to have been used in the Oct. 18 strike, according to video footage examined by The New York Times.</description>
-      <dc:creator>Sanjana Varghese, Vivian Nereim and Shuaib Almosawa</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 16:59:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <media:content height="1642" medium="image" url="https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png" width="1642"></media:content>
-      <media:credit>Reuters, via Al-Masirah TV</media:credit>
-      <media:description>Victims of an airstrike are dug out from rubble in Sa’ada, north Yemen, on October 18.</media:description>
-    </item>
-    <item>
-      <title>Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says</title>
-      <link>https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html" rel="standout"></atom:link>
-      <description>Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 20:07:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hoaxes and Pranks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aer Lingus Airlines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raidio Teilifis Eireann (RTE)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Irish Independent</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sky News</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Newstalk (Ireland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dublin (Ireland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Natalia Campos/Reuters</media:credit>
-      <media:description>Outside RTÉ, the Irish national broadcaster, in Dublin on Friday after the staff there was evacuated over a bomb threat.</media:description>
-    </item>
-    <item>
-      <title>Tanzania’s Opposition Leader Gets a Four-Year Sentence</title>
-      <link>https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html" rel="standout"></atom:link>
-      <description>Tundu Lissu was found guilty of incitement for statements he had made ahead of a presidential election in October 2025.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 17:36:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Treason and Sedition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lissu, Tundu</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassan, Samia Suluhu (1960- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tanzania</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-tanzania-1-phwt/06int-tanzania-1-phwt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emmanuel Herman/Reuters</media:credit>
-      <media:description>Tundu Lissu, the Tanzanian opposition leader, gestures to supporters as he stands inside the dock at the high court in Dar es Salaam, Tanzania, on Friday.</media:description>
-    </item>
-    <item>
-      <title>Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated</title>
-      <link>https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html" rel="standout"></atom:link>
-      <description>Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.</description>
-      <dc:creator>Josephine de La Bruyère and Carlos Barragán</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 16:21:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-bomb-threat-voices-1-vgjz/06int-bomb-threat-voices-1-vgjz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Attila Kisbenedek/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A plane operated by Wizz Air at a Budapest airport on Monday. The flight from London, originally bound for Sofia, Bulgaria, was diverted after a bomb threat.</media:description>
-    </item>
-    <item>
       <title>Pope Leo’s Trip to Latin America: What to Know</title>
       <link>https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html</guid>
@@ -263,115 +325,45 @@
       <media:description>Pope Leo greeting a child in St. Peter’s Square at the Vatican on Wednesday. His trip to Latin America will be a test of his stamina.</media:description>
     </item>
     <item>
-      <title>Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder</title>
-      <link>https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html" rel="standout"></atom:link>
-      <description>Paul Nthenge Mackenzie told followers to starve themselves in order to meet Jesus, an edict that was violently enforced, a court heard during his trial.</description>
-      <dc:creator>Brian O. Otieno</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 21:13:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religious Cults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doomsday</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mackenzie, Paul Nthenge</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shakahola Forest (Kenya)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/06/world/africa/kenya-cult-cover-image/kenya-cult-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Luis Tato/Agence France-Presse — Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Europe Still Sees Trump As Powerful, Especially in Foreign Policy</title>
-      <link>https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html" rel="standout"></atom:link>
-      <description>The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.</description>
-      <dc:creator>Steven Erlanger</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 10:00:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alternative for Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06europe-trump-01-bwzm/06europe-trump-01-bwzm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump at the NATO summit in Ankara, Turkey, in July. He has questioned the utility of the trans-Atlantic alliance.</media:description>
-    </item>
-    <item>
-      <title>Alberta’s Librarians Brace for a New Era of ‘Book Bans’</title>
-      <link>https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html" rel="standout"></atom:link>
-      <description>A new provincial law requires public libraries to pull and restrict items with “graphic visual depictions of sexual acts.” Librarians argue the mandate opens the door to censorship.</description>
-      <dc:creator>Vjosa Isai</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 14:41:59 +0000</pubDate>
+      <title>America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony</title>
+      <link>https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html" rel="standout"></atom:link>
+      <description>While U.S. voters largely oppose the trade war with Canada, many Democrats and their supporters have protectionist leanings.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 11:00:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Bans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/00int-canada-libraries-hfgz/00int-canada-libraries-hfgz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Todd Korol for The New York Times</media:credit>
-      <media:description>Sarah Meilleur is the chief executive of Calgary Public Library, the largest of Alberta’s 221 municipal library boards.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">North American Free Trade Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Peterson, Peter G, Institute for International Economics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-canada-letter-cqlt/07int-canada-letter-cqlt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>The new Congress controlled by Democrats will face President Trump’s veto powers.</media:description>
     </item>
     <item>
-      <title>Why Israel’s Ex-Army Chief’s Next Mission Could Be Mission Impossible</title>
-      <link>https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html" rel="standout"></atom:link>
-      <description>Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.</description>
-      <dc:creator>David M. Halbfinger</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 09:47:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lieberman, Avigdor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu (Israeli Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Torah Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amit Elkayam for The New York Times</media:credit>
-      <media:description>Gadi Eisenkot, a former military chief and the leading opposition candidate, gives a speech during a campaign event in Haifa, Israel, in September.</media:description>
-    </item>
-    <item>
-      <title>Another Day of Protests Is Planned in France’s Autumn of Discontent</title>
-      <link>https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html" rel="standout"></atom:link>
-      <description>Two days after a general strike and huge demonstrations, students and workers aim to take to the streets again on Saturday.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 05:01:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-photo-wmgh/07int-france-protest-photo-wmgh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Baradat/Reuters</media:credit>
-      <media:description>Students demanding better school conditions in Paris on Friday. Their protests have evolved from a school-based movement to a national one.</media:description>
+      <title>Inside the Nightclub Sheltering Haitians From Violent Gangs</title>
+      <link>https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html" rel="standout"></atom:link>
+      <description>Club International was once a popular music venue in Port-au-Prince. Now it’s a makeshift shelter for hundreds of Haitian families fleeing gang violence, and the club’s owner wants them out.</description>
+      <dc:creator>Frances Robles, Michael Anthony Adams, Danielle Miller and André Paultre</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 10:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Port-au-Prince (Haiti)</category>
+      <category domain="">vis-vid</category>
     </item>
     <item>
       <title>They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.</title>
@@ -419,6 +411,24 @@
       <media:description>A burial crew carrying the body of a possible Ebola patient in the Ituri province of the Democratic Republic of Congo in August. </media:description>
     </item>
     <item>
+      <title>Tanzania’s Opposition Leader Gets a Four-Year Sentence</title>
+      <link>https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html" rel="standout"></atom:link>
+      <description>Tundu Lissu was found guilty of incitement for statements he had made ahead of a presidential election in October 2025.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 17:36:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Treason and Sedition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lissu, Tundu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassan, Samia Suluhu (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tanzania</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-tanzania-1-phwt/06int-tanzania-1-phwt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Emmanuel Herman/Reuters</media:credit>
+      <media:description>Tundu Lissu, the Tanzanian opposition leader, gestures to supporters as he stands inside the dock at the high court in Dar es Salaam, Tanzania, on Friday.</media:description>
+    </item>
+    <item>
       <title>Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges</title>
       <link>https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html</guid>
@@ -437,6 +447,89 @@
       <media:description>Thomas Markle Sr. was arrested in Florida on Friday.</media:description>
     </item>
     <item>
+      <title>Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html" rel="standout"></atom:link>
+      <description>Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 20:07:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hoaxes and Pranks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aer Lingus Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raidio Teilifis Eireann (RTE)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Irish Independent</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sky News</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Newstalk (Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dublin (Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Natalia Campos/Reuters</media:credit>
+      <media:description>Outside RTÉ, the Irish national broadcaster, in Dublin on Friday after the staff there was evacuated over a bomb threat.</media:description>
+    </item>
+    <item>
+      <title>Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder</title>
+      <link>https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html" rel="standout"></atom:link>
+      <description>Paul Nthenge Mackenzie told followers to starve themselves in order to meet Jesus, an edict that was violently enforced, a court heard during his trial.</description>
+      <dc:creator>Brian O. Otieno</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 21:13:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religious Cults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doomsday</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mackenzie, Paul Nthenge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shakahola Forest (Kenya)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/06/world/africa/kenya-cult-cover-image/kenya-cult-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Luis Tato/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html" rel="standout"></atom:link>
+      <description>Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.</description>
+      <dc:creator>Josephine de La Bruyère and Carlos Barragán</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 16:21:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-bomb-threat-voices-1-vgjz/06int-bomb-threat-voices-1-vgjz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Attila Kisbenedek/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A plane operated by Wizz Air at a Budapest airport on Monday. The flight from London, originally bound for Sofia, Bulgaria, was diverted after a bomb threat.</media:description>
+    </item>
+    <item>
+      <title>Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say</title>
+      <link>https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html" rel="standout"></atom:link>
+      <description>A 500-pound bomb supplied by the United States appears to have been used in the Oct. 18 strike, according to video footage examined by The New York Times.</description>
+      <dc:creator>Sanjana Varghese, Vivian Nereim and Shuaib Almosawa</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 16:59:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <media:content height="1642" medium="image" url="https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png" width="1642"></media:content>
+      <media:credit>Reuters, via Al-Masirah TV</media:credit>
+      <media:description>Victims of an airstrike are dug out from rubble in Sa’ada, north Yemen, on October 18.</media:description>
+    </item>
+    <item>
       <title>European Countries Push, Again, To Deport Migrants to Rwanda</title>
       <link>https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html</guid>
@@ -453,6 +546,49 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-europe-rwanda-01-btpj/05int-europe-rwanda-01-btpj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yuhi Irakiza/Associated Press</media:credit>
       <media:description>Kigali, Rwanda, last month. Germany, Austria, Denmark, the Netherlands and Greece are hoping that Rwanda may serve as a hub for deported migrants.</media:description>
+    </item>
+    <item>
+      <title>Alberta’s Librarians Brace for a New Era of ‘Book Bans’</title>
+      <link>https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html" rel="standout"></atom:link>
+      <description>A new provincial law requires public libraries to pull and restrict items with “graphic visual depictions of sexual acts.” Librarians argue the mandate opens the door to censorship.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 14:41:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Bans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/30/multimedia/00int-canada-libraries-hfgz/00int-canada-libraries-hfgz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Todd Korol for The New York Times</media:credit>
+      <media:description>Sarah Meilleur is the chief executive of Calgary Public Library, the largest of Alberta’s 221 municipal library boards.</media:description>
+    </item>
+    <item>
+      <title>Europe Still Sees Trump As Powerful, Especially in Foreign Policy</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html" rel="standout"></atom:link>
+      <description>The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 10:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alternative for Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06europe-trump-01-bwzm/06europe-trump-01-bwzm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump at the NATO summit in Ankara, Turkey, in July. He has questioned the utility of the trans-Atlantic alliance.</media:description>
     </item>
     <item>
       <title>In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric</title>
@@ -1084,129 +1220,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-election-turnout-analysis-zwkq/05int-election-turnout-analysis-zwkq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Victor J. Blue for The New York Times</media:credit>
       <media:description>Voting in Detroit on Tuesday. Turnout was a factor in turning the midterms’ expected blue wave into a blue tsunami.</media:description>
-    </item>
-    <item>
-      <title>Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison</title>
-      <link>https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html" rel="standout"></atom:link>
-      <description>Mr. Wong, one of the most high-profile members of a movement that was quashed in 2020, was accused of conspiracy to collude with foreign forces, a national security offense.</description>
-      <dc:creator>Tiffany May</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 06:56:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wong, Joshua (1996- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scholarism (Hong Kong)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/00int-hongkong-joshua-hlwt/00int-hongkong-joshua-hlwt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lam Yik Fei for The New York Times</media:credit>
-      <media:description>Pro-democracy activist Joshua Wong arriving at prison after a hearing for 47 opposition activists charged with violating the national security law in Hong Kong in 2021.</media:description>
-    </item>
-    <item>
-      <title>Bob Dylan Meets With Pope Leo</title>
-      <link>https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html" rel="standout"></atom:link>
-      <description>Pope Leo wore his usual white vestments. Bob Dylan visited the Vatican in a hooded sweatshirt and polka-dot tie. There was no singing.</description>
-      <dc:creator>Eric Nagourney</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 23:14:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dylan, Bob</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vatican City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-pope-1-fpkg/04int-pope-1-fpkg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vatican Media</media:credit>
-      <media:description>A photograph released by Vatican media showing Pope Leo and Bob Dylan on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island</title>
-      <link>https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html" rel="standout"></atom:link>
-      <description>A boat in Micronesia went missing in July. This weekend, five of its passengers landed, unclothed and emaciated, on an island in Kiribati — more than 3,000 miles away.</description>
-      <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 20:31:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Micronesia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kiribati</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-kiribati-rescue-photo-clvj/04int-kiribati-rescue-photo-clvj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Business Wire</media:credit>
-      <media:description>A boat missing since July ran ashore Saturday on the Pacific island nation of Kiribati, more than 3,000 miles from its intended destination.</media:description>
-    </item>
-    <item>
-      <title>A Trump Reckoning</title>
-      <link>https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html" rel="standout"></atom:link>
-      <description>The results from the U.S. midterm elections could be the beginning of the end of the Trump era.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 05:14:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-theworld-midterms-sweep-01-wltc-promo/05int-theworld-midterms-sweep-01-wltc-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>John Frieda, Hair-Care Mogul Who Soothed Women’s Curls, Has Died</title>
-      <link>https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html" rel="standout"></atom:link>
-      <description>He was a celebrity stylist to rock stars and royalty whose blockbuster product, Frizz Ease, changed his fortunes (and women’s hair) forever. He was 75.</description>
-      <dc:creator>Penelope Green</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 14:27:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frieda, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beauty Salons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cosmetics and Toiletries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lulu (Singer) (1948- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lumley, Joanna</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1755" medium="image" url="https://static01.nyt.com/images/2026/11/04/obituaries/04xp-frieda-topper/04xp-frieda-topper-mediumSquareAt3X-v2.jpg" width="1755"></media:content>
-      <media:credit>Seth Wenig/Associated Press</media:credit>
-      <media:description>John Frieda in 2008. He made his name as a young assistant stylist in Mayfair in the late 1960s and then made a fortune with a blockbuster product called Frizz Ease.</media:description>
-    </item>
-    <item>
-      <title>For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America</title>
-      <link>https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html" rel="standout"></atom:link>
-      <description>Israel once had bipartisan support in the United States, but a strong showing for Democrats, some of whom are deeply critical of the war in Gaza, has left the country with fewer friends in Congress.</description>
-      <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 22:04:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-midterms01a-photo-jqck/04int-israel-midterms01a-photo-jqck-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Todd Heisler/The New York Times</media:credit>
-      <media:description>The Detroit election night party of the Democratic Senate candidate Abdul El-Sayed of Michigan. Mr. El-Sayed won his race.</media:description>
     </item>
   </channel>
 </rss>
