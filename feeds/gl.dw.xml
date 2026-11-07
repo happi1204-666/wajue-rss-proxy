@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-06T23:22:20Z</dc:date>
+  <dc:date>2026-11-07T02:59:00Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/what-to-know-about-the-iihf-women-s-ice-hockey-world-championship/a-79876148?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/new-bomb-threats-target-irish-media-more-european-flights/a-79875884?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-postelection-cleanup/a-79868652?maca=en-rss-en-all-1573-rdf"/>
@@ -129,10 +129,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/early-onset-cancer-rising-worldwide-causes-risk-prevention/a-79597097?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -142,6 +138,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf">
+  <title>Paraguay: President Santiago Pena under house arrest over bank crisis</title>
+  <link>https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf</link>
+  <description>Paraguay’s Senate has ousted President Santiago Pena over the collapse of a major bank tied to his government. Millions of customers&apos; accounts are frozen, with public pension and health care funds also tied up.</description>
+  <dc:date>2026-11-06T23:23:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79868484</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf">
   <title>Pope Leo arrives in Uruguay at start of South America tour</title>
   <link>https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf</link>
@@ -312,15 +317,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79875438</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/new-bomb-threats-target-irish-media-more-european-flights/a-79875884?maca=en-rss-en-all-1573-rdf">
-  <title>New bomb threats target Irish media, more European flights</title>
-  <link>https://www.dw.com/en/new-bomb-threats-target-irish-media-more-european-flights/a-79875884?maca=en-rss-en-all-1573-rdf</link>
-  <description>Newsrooms have been evacuated across Ireland after another wave of bomb threats. Dublin is hosting a high-level EU meeting in several days.</description>
-  <dc:date>2026-11-06T12:48:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79875884</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-rdf">
   <title>Exercise and cancer: What &quot;living longer&quot; really means</title>
@@ -1203,41 +1199,5 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79544348</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf">
-  <title>2026 Nobel Prize winner Anne Carson: Where to start reading</title>
-  <link>https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf</link>
-  <description>The works of this year&apos;s Nobel Prize-winning poet and essayist Anne Carson can feel slightly daunting. Here are some keys to understanding her universe.</description>
-  <dc:date>2026-10-08T14:57:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79598953</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/early-onset-cancer-rising-worldwide-causes-risk-prevention/a-79597097?maca=en-rss-en-all-1573-rdf">
-  <title>Early-onset cancer rising worldwide: Causes, risk, prevention</title>
-  <link>https://www.dw.com/en/early-onset-cancer-rising-worldwide-causes-risk-prevention/a-79597097?maca=en-rss-en-all-1573-rdf</link>
-  <description>Across Latin America, early-onset cancer rates have risen, especially of bowel, breast and cervical cancers. But it is a worldwide trend.</description>
-  <dc:date>2026-10-08T13:26:00Z</dc:date>
-  <dc:subject>Science</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79597097</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf">
-  <title>How a multibillion-dollar oilfield has ignited the UK-Argentina feud over the Falklands</title>
-  <link>https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf</link>
-  <description>Argentina and the UK once fought a war over the Falkland Islands. Now, the multibillion-dollar Sea Lion oil project has reignited old tensions, with Buenos Aires seeking to put a stop to the plans.</description>
-  <dc:date>2026-10-08T11:40:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79588973</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf">
-  <title>Nobel Prize in literature goes to Canada&apos;s Anne Carson</title>
-  <link>https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf</link>
-  <description>Carson won for her &quot;bold and inventive oeuvre.&quot; The decorated poet and essayist is known for her reverence for Latin and Greek classics.</description>
-  <dc:date>2026-10-08T11:02:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79594136</dwsyn:contentID>
  </item>
 </rdf:RDF>

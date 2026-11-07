@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 23:18:28 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 23:05:42 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 02:57:25 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 02:56:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -50,7 +50,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html" rel="standout"></atom:link>
       <description>In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.</description>
       <dc:creator>Victoria Kim and Laura Chung</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 23:05:42 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 02:14:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
@@ -62,6 +62,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luxon, Christopher</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peters, Winston (1945- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qiulae Wong</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-NZ-elections-gjhz/06int-NZ-elections-gjhz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fiona Goodall/Getty Images</media:credit>
       <media:description>A voting station in Auckland, New Zealand, on Saturday.</media:description>
@@ -97,7 +98,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html" rel="standout"></atom:link>
       <description>Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.</description>
       <dc:creator>Motoko Rich</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 19:24:08 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 19:24:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
@@ -135,7 +136,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html" rel="standout"></atom:link>
       <description>Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 20:07:47 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 20:07:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hoaxes and Pranks</category>
@@ -324,13 +325,13 @@
       <media:description>The Chinese leader Xi Jinping with President Donald Trump at the National Archives Museum in Washington in September.</media:description>
     </item>
     <item>
-      <title>Paraguay’s President Removed Over Financial Crisis</title>
+      <title>Paraguay’s President Removed and Arrested Over Financial Crisis</title>
       <link>https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html" rel="standout"></atom:link>
-      <description>Millions lost access to their savings, and the nation’s president was impeached and removed from office Friday after a major bank with close ties to his administration went under.</description>
+      <description>Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.</description>
       <dc:creator>Zane Irwin and Laurence Blair</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 22:55:02 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 01:29:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
@@ -461,7 +462,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html" rel="standout"></atom:link>
       <description>The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.</description>
       <dc:creator>Laurence Blair</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 05:49:51 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 05:49:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paraguay</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pena, Santiago</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
