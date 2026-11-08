@@ -7,10 +7,14 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-08T11:27:17Z</dc:date>
+  <dc:date>2026-11-08T17:11:10Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/egypt-train-crash-leaves-several-dead-many-injured/a-79892916?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf"/>
@@ -25,12 +29,8 @@
     <rdf:li rdf:resource="https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/should-ai-companies-pay-for-the-journalism-they-use/a-79884854?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf"/>
@@ -137,6 +137,42 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/egypt-train-crash-leaves-several-dead-many-injured/a-79892916?maca=en-rss-en-all-1573-rdf">
+  <title>Egypt train crash leaves several dead, many injured</title>
+  <link>https://www.dw.com/en/egypt-train-crash-leaves-several-dead-many-injured/a-79892916?maca=en-rss-en-all-1573-rdf</link>
+  <description>A train derailed after colliding with another train south of Cairo, with authorities confirming several deaths and saying scores of passengers were injured. Over 50 ambulances were deployed to the scene.</description>
+  <dc:date>2026-11-08T16:49:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79892916</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf">
+  <title>Israel: Eisenkot officially tasked with forming a government</title>
+  <link>https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf</link>
+  <description>Israeli President Isaac Herzog tasked Gadi Eisenkot with the right of trying to form a government. The opposition leader&apos;s way to replacing Benjamin Netanyahu as prime minister is full of political challenges.</description>
+  <dc:date>2026-11-08T15:18:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79891422</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf">
+  <title>At least 21 killed after migrant boat sinks off Senegal</title>
+  <link>https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf</link>
+  <description>The incident occurred near Kebemer off the coast of northwestern Senegal. Authorities on El Hierro in the Canary Islands have declared an emergency after a marked increase in migrant boat arrivals.</description>
+  <dc:date>2026-11-08T13:48:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79890883</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf">
+  <title>Iran: US strikes ship after Hormuz blockade breach</title>
+  <link>https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US military said a vessel trying to leave an Iranian port was hit due to the naval blockade on the country. On its part, Iran said three &quot;non compliant&quot; oil tankers caught fire in the Strait of Hormuz.</description>
+  <dc:date>2026-11-08T13:00:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79890434</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-all-1573-rdf">
   <title>Gaza: Rains add misery to humanitarian catastrophe</title>
   <link>https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-all-1573-rdf</link>
@@ -158,7 +194,7 @@
  <item rdf:about="https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf">
   <title>Poland begins two days of mourning over Krakow shooting</title>
   <link>https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf</link>
-  <description>Mourners left candles in Krakow&apos;s main market square to honor the victims of the attack. Police confirmed that the bodies found at the suspect&apos;s home were those of his parents and sister.</description>
+  <description>Polish authorities have opened a terror probe after the shooting on Krakow&apos;s Main Square. Police confirmed that the bodies found at the suspect&apos;s home were those of his parents and sister.</description>
   <dc:date>2026-11-08T09:43:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -176,7 +212,7 @@
  <item rdf:about="https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-rdf">
   <title>India: Delhi chokes on most polluted Diwali eve in 10 years</title>
   <link>https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-rdf</link>
-  <description>Delhi was ranked as the world&apos;s most polluted major city on the eve of Diwali. Delhi&apos;s air pollution is expected to get worse in the coming days. DW has more.</description>
+  <description>Delhi was ranked as the world&apos;s most polluted major city on the eve of Diwali. Delhi&apos;s air pollution is expected to get worse in the coming days.</description>
   <dc:date>2026-11-08T07:53:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -263,9 +299,9 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79886543</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-rdf">
-  <title>Journalism and AI: Who owns the news?</title>
-  <link>https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/should-ai-companies-pay-for-the-journalism-they-use/a-79884854?maca=en-rss-en-all-1573-rdf">
+  <title>Should AI companies pay for the journalism they use?</title>
+  <link>https://www.dw.com/en/should-ai-companies-pay-for-the-journalism-they-use/a-79884854?maca=en-rss-en-all-1573-rdf</link>
   <description>Publishers say AI chatbots are using their reporting to answer readers&apos; questions while sending back less traffic and less money. Should the companies that build these tools pay for the journalism they rely on?</description>
   <dc:date>2026-11-07T15:14:00Z</dc:date>
   <dc:subject>World</dc:subject>
@@ -280,42 +316,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79885661</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf">
-  <title>After victory in the midterms, what next for US Democrats?</title>
-  <link>https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf</link>
-  <description>Donald Trump&apos;s Republican party has lost its majority in both chambers of the US Congress. But the president still has a lot of power — and the Democrats have yet to agree on how best to use theirs.</description>
-  <dc:date>2026-11-07T14:15:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79884957</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf">
-  <title>Italy&apos;s Meloni blames pro-Russian hackers for cyberattack on minister</title>
-  <link>https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf</link>
-  <description>Antonio Tajani has said hackers published personal data stolen from him as Giorgia Meloni blamed pro-Russia criminals for the incident. The news follows a string of bomb threats that have grounded flights across the EU.</description>
-  <dc:date>2026-11-07T14:07:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79885200</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf">
-  <title>Yemen: 33 killed in strike near Sanaa, Houthis say</title>
-  <link>https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital.</description>
-  <dc:date>2026-11-07T13:50:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79885177</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf">
-  <title>New Zealand election too close to call with over 95% of votes counted</title>
-  <link>https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf</link>
-  <description>Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren&apos;t expected until later this month once special votes have been counted.</description>
-  <dc:date>2026-11-07T11:54:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79883056</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf">
   <title>Germany hopes to host world ice hockey championship — without Russia</title>
