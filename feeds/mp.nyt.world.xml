@@ -7,13 +7,72 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 04:26:57 +0000</lastBuildDate>
-    <pubDate>Sun, 08 Nov 2026 03:52:05 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:23:16 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 10:21:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali</title>
+      <link>https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html" rel="standout"></atom:link>
+      <description>India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”</description>
+      <dc:creator>Jeremy W. Peters and Suhasini Raj</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 05:01:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diwali (Hindu Festival)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-diwali-pollution-01-qwjm/08int-diwali-pollution-01-qwjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arun Sankar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A drone show for Diwali in New Delhi’s Central Park on Friday.</media:description>
+    </item>
+    <item>
+      <title>In Argentina, Pope Leo to Meet Church at Odds With President Milei</title>
+      <link>https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html" rel="standout"></atom:link>
+      <description>The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.</description>
+      <dc:creator>Emma Bubola and Sarah Pabst</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 10:00:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milei, Javier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buenos Aires (Argentina)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Catholic clergy members gathered for prayer last month after a march for social rights and justice in La Matanza, Buenos Aires Province, Argentina.</media:description>
+    </item>
+    <item>
+      <title>South Africa’s Politics May Never Be the Same Again</title>
+      <link>https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html" rel="standout"></atom:link>
+      <description>The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”</description>
+      <dc:creator>John Eligon</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 05:01:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Alliance (South Africa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Johannesburg (South Africa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-safrica-election-analysis-chqf/08int-safrica-election-analysis-chqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Marco Longari/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Supporters of the uMkhonto we Sizwe party, which is led by Jacob Zuma, in Durban, South Africa, after local government elections on Wednesday.</media:description>
+    </item>
     <item>
       <title>Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government</title>
       <link>https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html</link>
@@ -21,7 +80,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html" rel="standout"></atom:link>
       <description>Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.</description>
       <dc:creator>Ephrat Livni and Aaron Boxerman</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 23:03:29 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 09:41:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
@@ -35,33 +94,21 @@
       <media:description>Gadi Eisenkot, shown in Tel Aviv last month, has the daunting task of forming an Israeli coalition from disparate parties.</media:description>
     </item>
     <item>
-      <title>Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.</title>
-      <link>https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html" rel="standout"></atom:link>
-      <description>Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.</description>
-      <dc:creator>David M. Halbfinger</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 21:52:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lieberman, Avigdor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu (Israeli Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Torah Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Amit Elkayam for The New York Times</media:credit>
-      <media:description>Gadi Eisenkot, a former military chief and the leading opposition candidate, at a campaign event in September in Haifa, Israel.</media:description>
+      <title>Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene</title>
+      <link>https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html" rel="standout"></atom:link>
+      <description>Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand.</description>
+      <dc:creator>Victoria Kim and Tatsiana Chypsanava</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 05:01:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michelin Guide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Samoa</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/00int-nz-samoan-chef-01-ghmt/00int-nz-samoan-chef-01-ghmt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tatsiana Chypsanava for The New York Times</media:credit>
     </item>
     <item>
       <title>At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say</title>
@@ -122,7 +169,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html" rel="standout"></atom:link>
       <description>In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 09:57:14 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 05:55:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
@@ -178,27 +225,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/00INT-UNBoss-zfpq/00INT-UNBoss-zfpq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Angelina Katsanis for The New York Times</media:credit>
       <media:description>The United Nations headquarters in New York City. The global body will replace António Guterres as secretary general.</media:description>
-    </item>
-    <item>
-      <title>Inside the Operation That Helped Ukraine Reverse Some Russian War Gains</title>
-      <link>https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html" rel="standout"></atom:link>
-      <description>After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.</description>
-      <dc:creator>Carlotta Gall, Kamila Hrabchuk and Mauricio Lima</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 18:17:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Remote Control Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="">Operation Vivaldi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mauricio Lima for The New York Times</media:credit>
     </item>
     <item>
       <title>Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life</title>
@@ -259,52 +285,6 @@
       <media:description>Protesting in Paris on Saturday. The continued demonstrations suggest the depth and breadth of grievances across France.</media:description>
     </item>
     <item>
-      <title>Why Are There Protests in France?</title>
-      <link>https://www.nytimes.com/article/france-student-protests-why.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/france-student-protests-why.html</guid>
-      <atom:link href="https://www.nytimes.com/article/france-student-protests-why.html" rel="standout"></atom:link>
-      <description>For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.</description>
-      <dc:creator>Lynsey Chutel and Carlos Barragán</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 10:13:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Denis (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jeff Pachoud/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Forensic officers at the tourism office in Lyon, France, on Oct. 18, the day after the country’s worst riots in years.</media:description>
-    </item>
-    <item>
-      <title>Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout</title>
-      <link>https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html" rel="standout"></atom:link>
-      <description>Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.</description>
-      <dc:creator>Paul Sonne, Andrew E. Kramer and Marc Santora</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 10:22:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-russia-ukraine-midterms01-photo-kbzh/06int-russia-ukraine-midterms01-photo-kbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Volodymyr Zelensky of Ukraine meeting with President Trump at the United Nations in September. Mr. Trump has blown hot and at times very cold on Kyiv.</media:description>
-    </item>
-    <item>
       <title>Pope Leo’s Trip to Latin America: What to Know</title>
       <link>https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html</guid>
@@ -324,6 +304,43 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Remo Casilli/Reuters</media:credit>
       <media:description>Pope Leo greeting a child in St. Peter’s Square at the Vatican on Wednesday. His trip to Latin America will be a test of his stamina.</media:description>
+    </item>
+    <item>
+      <title>A Guide to COP31 Climate Talks in Antalya, Turkey</title>
+      <link>https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html" rel="standout"></atom:link>
+      <description>Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold.</description>
+      <dc:creator>Chico Harlan</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 10:01:50 +0000</pubDate>
+      <category domain="">COP31</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antalya (Turkey)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08CLI-COP31-FAQ-jqfw/08CLI-COP31-FAQ-jqfw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Goksel Yapar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The entrance to the Antalya Expo, venue of the COP31 climate talks that begin on Monday in Turkey.</media:description>
+    </item>
+    <item>
+      <title>The Small-Town Colossus Faces the End of the Road</title>
+      <link>https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html" rel="standout"></atom:link>
+      <description>Giant roadside attractions have helped put hundreds of communities on the map. What happens when their novelty fades and costs pile up?</description>
+      <dc:creator>Karla Adam</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 05:01:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dinosaurs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/00xp-roadside-alamy-03/00xp-roadside-alamy-03-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Buzzard/Alamy</media:credit>
+      <media:description>At 86 feet tall, Tyra the Tyrannosaurus of Drumheller, Alberta, is about four times the size of a real T. rex.</media:description>
     </item>
     <item>
       <title>America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony</title>
@@ -352,6 +369,27 @@
       <media:description>The new Congress controlled by Democrats will face President Trump’s veto powers.</media:description>
     </item>
     <item>
+      <title>Inside the Operation That Helped Ukraine Reverse Some Russian War Gains</title>
+      <link>https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html" rel="standout"></atom:link>
+      <description>After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.</description>
+      <dc:creator>Carlotta Gall, Kamila Hrabchuk and Mauricio Lima</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 18:17:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Remote Control Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="">Operation Vivaldi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Inside the Nightclub Sheltering Haitians From Violent Gangs</title>
       <link>https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html</guid>
@@ -365,6 +403,35 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Port-au-Prince (Haiti)</category>
       <category domain="">vis-vid</category>
+    </item>
+    <item>
+      <title>Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.</title>
+      <link>https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html" rel="standout"></atom:link>
+      <description>Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.</description>
+      <dc:creator>David M. Halbfinger</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 21:52:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lieberman, Avigdor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu (Israeli Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Torah Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Amit Elkayam for The New York Times</media:credit>
+      <media:description>Gadi Eisenkot, a former military chief and the leading opposition candidate, at a campaign event in September in Haifa, Israel.</media:description>
     </item>
     <item>
       <title>New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties</title>
@@ -563,6 +630,30 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-bomb-threat-voices-1-vgjz/06int-bomb-threat-voices-1-vgjz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Attila Kisbenedek/Agence France-Presse — Getty Images</media:credit>
       <media:description>A plane operated by Wizz Air at a Budapest airport on Monday. The flight from London, originally bound for Sofia, Bulgaria, was diverted after a bomb threat.</media:description>
+    </item>
+    <item>
+      <title>Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html" rel="standout"></atom:link>
+      <description>Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.</description>
+      <dc:creator>Paul Sonne, Andrew E. Kramer and Marc Santora</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 10:22:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-russia-ukraine-midterms01-photo-kbzh/06int-russia-ukraine-midterms01-photo-kbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Volodymyr Zelensky of Ukraine meeting with President Trump at the United Nations in September. Mr. Trump has blown hot and at times very cold on Kyiv.</media:description>
     </item>
     <item>
       <title>Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say</title>
@@ -1114,72 +1205,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-japan-wave-kgzc/05int-japan-wave-kgzc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yuki Iwamura/Associated Press</media:credit>
       <media:description>A New York Post cover featuring the “Great Wave” by Katsushika Hokusai.</media:description>
-    </item>
-    <item>
-      <title>Netanyahu Alleges Election Fraud in Connection With Arab Turnout</title>
-      <link>https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html" rel="standout"></atom:link>
-      <description>The Israeli leader and his allies are alleging that Arab voters last month stole the election. Election officials say that while foul play was being investigated, it could not have affected the result.</description>
-      <dc:creator>David M. Halbfinger, Aaron Boxerman and Ronen Bergman</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 11:04:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shin Bet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-steal-jvlt/04int-israel-steal-jvlt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chris McGrath/Getty Images</media:credit>
-      <media:description>Prime Minister Benjamin Netanyahu speaking to supporters of his Likud party on election night in Jerusalem last month.</media:description>
-    </item>
-    <item>
-      <title>Midterm Election Losses Complicate Trump’s Options on Iran War</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html" rel="standout"></atom:link>
-      <description>The midterm results laid bare the deep unpopularity of the war of choice that President Trump started and is now struggling to end.</description>
-      <dc:creator>David E. Sanger</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 10:04:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04dc-prexy-wmkf/04dc-prexy-wmkf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Toby Shepheard/Reuters</media:credit>
-      <media:description>An American B-1 bomber taking off from an air base in the United Kingdom earlier this year. </media:description>
-    </item>
-    <item>
-      <title>At the Root of K-Pop’s Controversies, a Restrictive Business Model</title>
-      <link>https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html" rel="standout"></atom:link>
-      <description>Labels exert extraordinary control over performers because only a few acts turn a profit.</description>
-      <dc:creator>Jin Yu Young and Sarah Hurtes</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 10:23:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hybe Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freelancing, Self-Employment and Independent Contracting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ador Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NewJeans (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/00int-kpop-takeaways-fmhk/00int-kpop-takeaways-fmhk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lam Yik Fei for The New York Times</media:credit>
-      <media:description>NewJeans performing in Hong Kong in 2025. K-pop remains dogged by complaints of physical, emotional and financial abuse.</media:description>
     </item>
   </channel>
 </rss>
