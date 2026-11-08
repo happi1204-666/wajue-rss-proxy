@@ -7,7 +7,7 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-07T23:46:22Z</dc:date>
+  <dc:date>2026-11-08T04:26:11Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
@@ -128,9 +128,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -206,7 +203,7 @@
  <item rdf:about="https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf">
   <title>More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay</title>
   <link>https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf</link>
-  <description>Massive crowds have turned out for the pontiff as he celebrates the first Mass of his South America tour. A nighttime prayer vigil in Montevideo is expected to draw more than 60,000 young people.</description>
+  <description>Leo celebrated the first Mass of his South America tour less than a month after undergoing cancer surgery. He is seeking to raise interest in the Catholic Church in Uruguay, South America&apos;s most secular country.</description>
   <dc:date>2026-11-07T16:26:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -1192,32 +1189,5 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79608158</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf">
-  <title>Author or artificial intelligence? Literature in crisis</title>
-  <link>https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf</link>
-  <description>AI is a hot topic at this year&apos;s Frankfurt Book Fair. An international literary scandal has raised questions about machine-generated texts.</description>
-  <dc:date>2026-10-09T15:04:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79618610</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf">
-  <title>Art for freedom: Maria Kalesnikava in Bonn</title>
-  <link>https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Belarusian musician and civil rights activist Maria Kalesnikava held the keynote speech on the importance of art at the 2026 Beethovenfest in Bonn. She also visited DW.</description>
-  <dc:date>2026-10-09T13:03:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79612009</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf">
-  <title>Finland, the world&apos;s happiest nation, faces a glum winter</title>
-  <link>https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf</link>
-  <description>Finns have many reasons to feel content, but the country&apos;s pile of debt is not one of them. Russia&apos;s war in Ukraine has added to the fiscal burden. Can the Nordic nation absorb another shock?</description>
-  <dc:date>2026-10-09T08:12:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79544348</dwsyn:contentID>
  </item>
 </rdf:RDF>
