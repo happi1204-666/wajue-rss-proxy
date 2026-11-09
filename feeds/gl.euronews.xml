@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Sun, 08 Nov 2026 21:55:14 +0100</lastBuildDate>
-  <pubDate>Sun, 08 Nov 2026 21:55:14 +0100</pubDate>
+  <lastBuildDate>Sun, 08 Nov 2026 23:18:56 +0100</lastBuildDate>
+  <pubDate>Sun, 08 Nov 2026 23:18:56 +0100</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,20 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Netherlands: Sea of red fills Amsterdam streets in Gaza protest</title>
+   <link>https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest</link>
+   <guid>https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest</guid>
+   <pubDate>Sun, 08 Nov 2026 23:18:56 +0100</pubDate>
+   <description>Tens of thousands of people, many dressed in red, marched through Amsterdam in the Netherlands on Sunday 8 November, demanding that the Dutch government take stronger action against Israel over the war in Gaza.</description>
+  </item>
+  <item>
+   <title>Poland: Kraków mourns six victims as shooting site reopens</title>
+   <link>https://www.euronews.com/video/2026/11/08/poland-krakow-mourns-six-victims-as-shooting-site-reopens</link>
+   <guid>https://www.euronews.com/video/2026/11/08/poland-krakow-mourns-six-victims-as-shooting-site-reopens</guid>
+   <pubDate>Sun, 08 Nov 2026 23:06:27 +0100</pubDate>
+   <description>Kraków's historic main square in southern Poland reopened to the public on Sunday 8 November, just over 24 hours after a deadly shooting left six people dead and 15 others injured. Residents are lighting candles in memory of the victims, while bullet marks remain visible on café windows.</description>
+  </item>
   <item>
    <title>Pope Leo XIV ends his visit to Uruguay with a tribute to women before departing to Argentina</title>
    <link>https://www.euronews.com/2026/11/08/pope-leo-xiv-ends-his-visit-to-uruguay-with-a-tribute-to-women-before-departing-to-argenti</link>
@@ -350,20 +364,6 @@
    <guid>https://www.euronews.com/2026/11/07/europe-needs-cold-war-like-deterrence-for-ai-warfare-poland-says</guid>
    <pubDate>Sat, 07 Nov 2026 08:00:56 +0100</pubDate>
    <description>The rise in AI-powered cyberattacks requires Europe to build a deterrence system similar to the one that prevented mutual destruction during the Cold War, Polish Deputy Minister Krzysztof Gawkowski has said.</description>
-  </item>
-  <item>
-   <title>‘Brief burst of intense heat’ could give hard-to-recycle wind turbine blades a second life</title>
-   <link>https://www.euronews.com/2026/11/07/brief-burst-of-intense-heat-could-give-hard-to-recycle-wind-turbine-blades-a-second-life</link>
-   <guid>https://www.euronews.com/2026/11/07/brief-burst-of-intense-heat-could-give-hard-to-recycle-wind-turbine-blades-a-second-life</guid>
-   <pubDate>Sat, 07 Nov 2026 07:02:39 +0100</pubDate>
-   <description>Europe risks becoming a dumping ground for hard-to-recycle wind turbine blades but new research has found a ‘hot’ solution</description>
-  </item>
-  <item>
-   <title>Earn points, save cash: A basic guide to frequent-flyer programmes in Europe</title>
-   <link>https://www.euronews.com/2026/11/07/earn-points-save-cash-a-basic-guide-to-frequent-flyer-programmes-in-europe</link>
-   <guid>https://www.euronews.com/2026/11/07/earn-points-save-cash-a-basic-guide-to-frequent-flyer-programmes-in-europe</guid>
-   <pubDate>Sat, 07 Nov 2026 07:00:36 +0100</pubDate>
-   <description>With airline alliances and partnerships, frequent flyers can rack up miles in their sleep.</description>
   </item>
  </channel>
 </rss>
