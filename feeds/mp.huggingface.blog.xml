@@ -7,6 +7,18 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
+   <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context </title>
+   <pubDate>Mon, 09 Nov 2026 15:05:57 GMT</pubDate>
+   <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
+  </item>
+  <item>
+   <title>Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together</title>
+   <pubDate>Mon, 09 Nov 2026 12:34:29 GMT</pubDate>
+   <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
+  </item>
+  <item>
    <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
    <pubDate>Fri, 06 Nov 2026 14:00:48 GMT</pubDate>
    <link>https://huggingface.co/blog/allenai/toyblocks</link>
@@ -17,12 +29,6 @@
    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
    <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
    <guid isPermaLink="true">https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
-  </item>
-  <item>
-   <title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
-   <pubDate>Thu, 05 Nov 2026 19:35:16 GMT</pubDate>
-   <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
-   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
   </item>
   <item>
    <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
