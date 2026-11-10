@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Mon, 09 Nov 2026 15:20:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Nov 2026 20:00:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,23 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Stained Glass and Sacred Spaces: Symbolism Abounds in Ukrainian Media</title>
+		<link>https://warontherocks.com/stained-glass-and-sacred-spaces-symbolism-abounds-in-ukrainian-media/</link>
+		
+		<dc:creator><![CDATA[Nicole Wiley]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 19:15:33 +0000</pubDate>
+				<category><![CDATA[Members]]></category>
+		<category><![CDATA[The Ukraine Compass]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48550</guid>
+
+					<description><![CDATA[<p>Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.Western coverage often narrows the view to the battlefield &#8212; these pieces widen it, revealing the texture of daily life, politics, and public argument in a nation at war. The perspectives gathered here are varied, candid, and often surprising, together forming a more complete picture of Ukraine as it really is.Frontline</p>
+<p>The post <a href="https://warontherocks.com/stained-glass-and-sacred-spaces-symbolism-abounds-in-ukrainian-media/">Stained Glass and Sacred Spaces: Symbolism Abounds in Ukrainian Media</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp</title>
 		<link>https://warontherocks.com/cogs-of-war/the-record-budgets-and-missing-suppliers-shaping-americas-munitions-ramp/</link>
 		
@@ -1937,26 +1954,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 		<dc:creator><![CDATA[Christopher McCallion]]></dc:creator>
-	</item>
-		<item>
-		<title>Strategic Stability and the Rebuilding of Xi’s Military</title>
-		<link>https://warontherocks.com/strategic-stability-and-the-rebuilding-of-xis-military/</link>
-		
-		<dc:creator><![CDATA[Christopher Nye]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 07:30:51 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Civil-Military Relations]]></category>
-		<category><![CDATA[U.S.-Chinese Competition]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46926</guid>
-
-					<description><![CDATA[<p>For all the warnings about an increasingly capable Chinese military, this may very well be an awkward moment for Beijing to have that military tested. General Secretary Xi Jinping has hollowed out much of the People&#8217;s Liberation Army&#8217;s senior command through purges and is now trying to rebuild it while preserving the appearance of uninterrupted strength. Several factors have allowed Xi to purge and rebuild on this scale, among them a temporary easing of external pressure. The United States unintentionally provided that comfort.One year ago, on the stage of the Shangri-La Dialogue in Singapore, U.S. Defense Secretary Pete Hegseth said</p>
-<p>The post <a href="https://warontherocks.com/strategic-stability-and-the-rebuilding-of-xis-military/">Strategic Stability and the Rebuilding of Xi’s Military</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Charles Sun]]></dc:creator>
 	</item>
 	</channel>
 </rss>

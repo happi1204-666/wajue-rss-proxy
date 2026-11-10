@@ -7,10 +7,14 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-09T18:58:46Z</dc:date>
+  <dc:date>2026-11-10T01:58:47Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/skydance-replaces-james-gunn-and-peter-safran-as-dc-studios-chiefs-following-warner-bros-takeover/a-79904972?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-rdf"/>
@@ -27,10 +31,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/who-is-ilse-aigner-leading-candidate-for-germany-s-next-president/a-79898848?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/turkey-pushes-for-transition-at-cop31-as-coal-burns/a-79871687?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-germany-marks-fateful-date-of-november-9/live-79895613?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-delhi-air-quality-level-severe-after-diwali/live-79895307?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf"/>
@@ -96,7 +97,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-shadow-fleet-sanctions-can-the-eu-act-without-us/a-79787035?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-chancellor-friedrich-merz-accuses-north-korea-of-threatening-europe-s-freedom/live-79792915?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bayern-munich-head-coach-vincent-kompany-s-health-scare-highlights-the-need-for-better-support-for-elite-coaches/a-79764661?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-we-regrow-damaged-seagrass-meadows/a-79617925?maca=en-rss-en-all-1573-rdf"/>
@@ -139,10 +139,46 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-rdf">
+  <title>Nvidia shareholders sue Jensen Huang over alleged spy ties</title>
+  <link>https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-rdf</link>
+  <description>Nvidia shareholders have sued the chipmaker and its CEO, Jensen Huang, over his alleged ties to a suspected Chinese spy. The case adds to scrutiny over whether sensitive information at the AI giant was compromised.</description>
+  <dc:date>2026-11-09T23:55:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79905809</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf">
+  <title>New trilateral talks on Ukraine war in Abu Dhabi: What to expect?</title>
+  <link>https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf</link>
+  <description>Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.</description>
+  <dc:date>2026-11-09T23:46:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79905734</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/skydance-replaces-james-gunn-and-peter-safran-as-dc-studios-chiefs-following-warner-bros-takeover/a-79904972?maca=en-rss-en-all-1573-rdf">
+  <title>Skydance replaces James Gunn and Peter Safran as DC Studios chiefs following Warner Bros. takeover</title>
+  <link>https://www.dw.com/en/skydance-replaces-james-gunn-and-peter-safran-as-dc-studios-chiefs-following-warner-bros-takeover/a-79904972?maca=en-rss-en-all-1573-rdf</link>
+  <description>In another major shake-up for the DC Studios, Skydance is replacing Hollywood director James Gunn and producer Peter Safran with a former Marvel executive.</description>
+  <dc:date>2026-11-09T20:19:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79904972</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf">
+  <title>US Pentagon chief Hegseth faces impeachment push over Iran war</title>
+  <link>https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf</link>
+  <description>Trump critic Thomas Massie is calling for a vote to impeach Pentagon chief Pete Hegseth, accusing Hegseth of waging war without congressional approval.</description>
+  <dc:date>2026-11-09T20:15:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79905323</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-rdf">
   <title>Pope Leo draws 2.5 million in Buenos Aires, renews warning over Milei&apos;s austerity</title>
   <link>https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-rdf</link>
-  <description>An estimated 2.5 million people have attended Pope Leo&apos;s mass in Buenos Aires, his largest gathering yet. The pontiff once called for protecting the vulnerable as President Milei cuts disability care and social services.</description>
+  <description>Some 2.5 million people have attended Pope Leo&apos;s mass in Buenos Aires, his largest gathering yet. The pontiff once again called for protecting the vulnerable as President Milei cuts disability care and social services.</description>
   <dc:date>2026-11-09T18:38:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -283,15 +319,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79895613</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-delhi-air-quality-level-severe-after-diwali/live-79895307?maca=en-rss-en-all-1573-rdf">
-  <title>India news:  Delhi air quality level &apos;severe&apos; after Diwali</title>
-  <link>https://www.dw.com/en/india-news-delhi-air-quality-level-severe-after-diwali/live-79895307?maca=en-rss-en-all-1573-rdf</link>
-  <description>Illegal fireworks during Diwali celebrations have impacted New Delhi&apos;s air quality level. DW has the latest.</description>
-  <dc:date>2026-11-09T07:12:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79895307</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf">
   <title>Krakow mass shooting suspect has died in hospital, police in Poland say</title>
   <link>https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf</link>
@@ -300,24 +327,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79895626</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf">
-  <title>US President Donald Trump says deportation policy was &apos;too tough&apos; for voters</title>
-  <link>https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf</link>
-  <description>Trump said his deportation policy may be one of the reasons the Republicans lost so much ground in the midterm elections.</description>
-  <dc:date>2026-11-09T06:14:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79895321</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-rdf">
-  <title>G7 ministers meet as Europe seeks greater say in Ukraine peace talks</title>
-  <link>https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-rdf</link>
-  <description>With Washington preparing negotiations with Moscow and Kyiv, European leaders fear Ukraine could face pressure to accept a bad deal. Iran tensions and the threat of renewed US strikes are also on the agenda.</description>
-  <dc:date>2026-11-09T04:18:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79894960</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-rdf">
   <title>Germany: Chancellor Merz to nominate Aigner for president</title>
@@ -903,15 +912,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79792915</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf">
-  <title>European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends</title>
-  <link>https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf</link>
-  <description>European Central Bank (ECB) President Christine Lagarde is to resign nine months ahead of the end of her 8-year term. European Council President Antonio Costa has said the process to find a successor is underway.</description>
-  <dc:date>2026-10-29T10:33:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79794353</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/bayern-munich-head-coach-vincent-kompany-s-health-scare-highlights-the-need-for-better-support-for-elite-coaches/a-79764661?maca=en-rss-en-all-1573-rdf">
   <title>Bayern Munich head coach Vincent Kompany&apos;s health scare highlights the need for better support for elite coaches</title>

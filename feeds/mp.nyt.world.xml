@@ -7,21 +7,48 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 18:56:25 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 18:53:07 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:54:41 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 22:29:12 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
+      <title>Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency</title>
+      <link>https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html" rel="standout"></atom:link>
+      <description>Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.</description>
+      <dc:creator>Amelia Nierenberg, Saikou Jammeh and Carlos Barragán</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 20:50:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Surge into Ceuta, Spain (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Human Rights Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Faye, Bassirou Diomaye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abascal, Santiago</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canary Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ceuta (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Senegal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Africa</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/09/multimedia/09int-senegal-migrants-02-tvqp/09int-senegal-migrants-02-tvqp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Patrick Meinhardt/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The remains of migrant boat involved in an accident at sea washed upon a beach in northwestern Senegal. Officials said it had been used by migrants to try to cross the Atlantic Ocean to Europe.</media:description>
+    </item>
+    <item>
       <title>France Blames Iran for Cyberattack on Refrigeration Systems</title>
       <link>https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html" rel="standout"></atom:link>
       <description>The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month. Iran did not immediately respond.</description>
-      <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 18:16:06 +0000</pubDate>
+      <dc:creator>Ségolène Le Stradic and Dustin Volz</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 19:29:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrot, Jean-Noel</category>
@@ -42,23 +69,20 @@
       <atom:link href="https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html" rel="standout"></atom:link>
       <description>The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.</description>
       <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 18:53:07 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 22:29:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Krakow (Poland)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Law and Justice (Poland)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tusk, Donald</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Janusz Kowalski</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Krakow (Poland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/09/multimedia/09int-poland-shooting-01-wqzp/09int-poland-shooting-01-wqzp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kowalski, Janusz (1978- )</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/09/multimedia/09int-poland-new2-pqvj/09int-poland-new2-pqvj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Wojtek Radwanski/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The main market in Krakow, Poland, was cordoned off by police officers on Sunday, the day after six people were killed in a shooting.</media:description>
+      <media:description>Poles gathering on Monday evening to mourn the victims of a shooting rampage in Krakow.</media:description>
     </item>
     <item>
       <title>Immigrants Are Being Systematically Returned Home Despite Court Orders</title>
@@ -67,7 +91,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html" rel="standout"></atom:link>
       <description>Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them.</description>
       <dc:creator>Megha Rajagopalan, Edward Wong, Ruth Maclean and Hamed Aleaziz</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 12:04:29 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 21:54:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
@@ -130,14 +154,14 @@
       <atom:link href="https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html" rel="standout"></atom:link>
       <description>Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.</description>
       <dc:creator>Adam B. Ellick and Laurence Blair</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 14:43:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ueno</category>
+      <pubDate>Mon, 09 Nov 2026 21:26:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pena, Santiago</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paraguay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ueno Bank SA</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jorge Saenz/Associated Press</media:credit>
       <media:description>Protesters gathered outside the home of Santiago Peña, the president of Paraguay, in Asunción, the country’s capital, on Friday.</media:description>
@@ -158,7 +182,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buenos Aires (Argentina)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Catholic clergy members gathered for prayer last month after a march for social rights and justice in La Matanza, Buenos Aires Province, Argentina.</media:description>
@@ -174,6 +197,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Krakow (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ostrowiec Swietokrzyski (Poland)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-poland-shooting-family-pjtb/08int-poland-shooting-family-pjtb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kacper Pempel/Reuters</media:credit>
       <media:description>Investigators outside an apartment building in Poland where three members of the same family were found dead.</media:description>
@@ -186,12 +210,11 @@
       <description>At least nine people were dead after shootings in Krakow and another town. The suspected gunman died in the hospital and his motive remains unclear.</description>
       <dc:creator>Amelia Nierenberg</dc:creator>
       <pubDate>Mon, 09 Nov 2026 18:12:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Krakow (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ostrowiec Swietokrzyski (Poland)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/12/08/multimedia/08int-poland-shooting-wtk-01-hvfk/08int-poland-shooting-wtk-01-hvfk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Beata Zawrzel/Associated Press</media:credit>
       <media:description>A memorial in Krakow, Poland, on Monday for victims of the attack.</media:description>
@@ -203,7 +226,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html" rel="standout"></atom:link>
       <description>American forces are helping Colombia and Venezuela hunt the ELN. This weekend, the group attacked a Colombian military base with drones, officials said.</description>
       <dc:creator>Annie Correal</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 05:45:34 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 20:14:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Liberation Army (Colombia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
@@ -214,6 +237,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-colombia-attack-wzqk/08int-colombia-attack-wzqk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
       <media:description>Members of the National Liberation Army, Colombia’s oldest active leftist rebel group, in Arauca, Colombia, in July.</media:description>
@@ -258,33 +282,25 @@
       <media:description>Saudi Aramco’s tower in Riyadh, Saudi Arabia, in March.</media:description>
     </item>
     <item>
-      <title>How Israel’s Opposition Could Unseat Netanyahu (or Not)</title>
-      <link>https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html" rel="standout"></atom:link>
-      <description>Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.</description>
-      <dc:creator>Adam Rasgon, Adina Renner, Pablo Robles and Aaron Boxerman</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 17:31:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Torah Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu (Israeli Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lieberman, Avigdor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <title>The Nvidia Affair</title>
+      <link>https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html" rel="standout"></atom:link>
+      <description>An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 22:05:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brand, Russell</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10int-theworld-nvidia-01-wkfl-promo/10int-theworld-nvidia-01-wkfl-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
+      <media:description>Jensen Huang, the chief executive of Nvidia, in March.</media:description>
     </item>
     <item>
       <title>Bipartisan Support for Israel Erodes as Both Sides Push for New Limits</title>
@@ -337,12 +353,13 @@
       <dc:creator>Katrin Bennhold</dc:creator>
       <pubDate>Mon, 09 Nov 2026 08:05:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orban, Viktor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Serbia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Serbia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/09/multimedia/09int-theworld-election-results-01-jtlq-promo/09int-theworld-election-results-01-jtlq-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -463,13 +480,16 @@
       <atom:link href="https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html" rel="standout"></atom:link>
       <description>Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand.</description>
       <dc:creator>Victoria Kim and Tatsiana Chypsanava</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 13:14:09 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 13:14:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michelin Guide</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Samoa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Onesemo, Henry (Chef)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/00int-nz-samoan-chef-01-ghmt/00int-nz-samoan-chef-01-ghmt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tatsiana Chypsanava for The New York Times</media:credit>
     </item>
@@ -821,13 +841,42 @@
       <media:description>The Odyssey, docked last week in Cambodia. Its main lender has since taken control of the ship.</media:description>
     </item>
     <item>
+      <title>How Israel’s Opposition Could Unseat Netanyahu (or Not)</title>
+      <link>https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html" rel="standout"></atom:link>
+      <description>Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.</description>
+      <dc:creator>Adam Rasgon, Adina Renner, Pablo Robles and Aaron Boxerman</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 17:31:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Torah Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu (Israeli Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lieberman, Avigdor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
       <title>U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn</title>
       <link>https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html" rel="standout"></atom:link>
       <description>The Trump administration has been negotiating agreements with dozens of individual countries. Public health experts say a global agreement would be far more effective.</description>
       <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 17:17:40 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 20:37:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
@@ -1113,63 +1162,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/00int-france-shooting-01-hfwq/00int-france-shooting-01-hfwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pedro Nunes/Reuters</media:credit>
       <media:description>Ali Rabeh, the mayor of Trappes, France, speaking at a gathering in the city last week. He has criticized how right-wing critics have portrayed the city.</media:description>
-    </item>
-    <item>
-      <title>A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.</title>
-      <link>https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html" rel="standout"></atom:link>
-      <description>A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.</description>
-      <dc:creator>David Pierson and Berry Wang</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 12:28:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steinmeier, Frank-Walter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-china-trilateral-01-tcfb/06int-china-trilateral-01-tcfb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>The Chinese leader Xi Jinping with President Donald Trump at the National Archives Museum in Washington in September.</media:description>
-    </item>
-    <item>
-      <title>Who’s Hiding Secrets About Dag Hammarskjöld’s Death?</title>
-      <link>https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html" rel="standout"></atom:link>
-      <description>The U.N. leader died in a plane crash in 1961. Many suspect foul play, but a lot of information still remains secret.</description>
-      <dc:creator>Amelia Nierenberg, Christina Anderson and Lynsey Chutel</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 09:12:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hammarskjold, Dag</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <media:content height="1600" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/00int-un-sweden-dag-02-clbz/00int-un-sweden-dag-02-clbz-mediumSquareAt3X.jpg" width="1600"></media:content>
-      <media:credit>Topical Press Agency/Getty Images</media:credit>
-      <media:description>Dag Hammarskjöld, the secretary general of the United Nations, in London in the mid-1950s.</media:description>
     </item>
   </channel>
 </rss>
