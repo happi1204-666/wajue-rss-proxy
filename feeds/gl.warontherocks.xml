@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 10 Nov 2026 14:58:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Nov 2026 20:48:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,23 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Analyzing the Ethiopian-Somaliland Deal, Two Years On</title>
+		<link>https://warontherocks.com/analyzing-the-ethiopian-somaliland-deal-two-years-on/</link>
+		
+		<dc:creator><![CDATA[James Barnett]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2026 19:00:58 +0000</pubDate>
+				<category><![CDATA[Members]]></category>
+		<category><![CDATA[Rewind and Reconnoiter]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48565</guid>
+
+					<description><![CDATA[<p>In 2024, James Barnett wrote, &#8220;A Port Deal Puts the Horn of Africa on the Brink,&#8221; where he argued that tensions in countries like Ethiopia and Somalia threaten to escalate into a broader regional conflict if not contained. Two years later, with U.S. attention largely diverted to other areas of concern, we asked James to revisit his arguments.Image: Joseph Rullo via DVIDSIn your January 2024 piece, you warned that a memorandum of understanding signed between Ethiopia and Somaliland could actually accelerate al-Shabaab&#8217;s expansion into the two countries, pointing to its 2022 incursion into Ethiopia and its sleeper cells in cities</p>
+<p>The post <a href="https://warontherocks.com/analyzing-the-ethiopian-somaliland-deal-two-years-on/">Analyzing the Ethiopian-Somaliland Deal, Two Years On</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>To Implement Acquisition Transformation, Empower Military Mavericks</title>
 		<link>https://warontherocks.com/cogs-of-war/to-implement-acquisition-transformation-empower-military-mavericks/</link>
 		
@@ -1939,23 +1956,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <dc:creator><![CDATA[Michael Eisenstadt]]></dc:creator>
 <dc:creator><![CDATA[Ryan Evans]]></dc:creator>
 	</item>
-		<item>
-		<title>An Army General Talks Fusing Sensors and Shooters on the Eastern Flank</title>
-		<link>https://warontherocks.com/cogs-of-war/an-army-general-talks-fusing-sensors-and-shooters-on-the-eastern-flank/</link>
-		
-		<dc:creator><![CDATA[Brig. Gen. Steven P. Carpenter]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 08:00:53 +0000</pubDate>
-				<category><![CDATA[Cogs of War]]></category>
-		<category><![CDATA[Army]]></category>
-		<category><![CDATA[Command and Control]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46614</guid>
-
-					<description><![CDATA[<p>This exclusive Cogs of War interview is with Brig. Gen. Steven P. Carpenter, the commanding general of Multi-Domain Command &#8211; Europe, the U.S. Army&#8217;s first multi-domain operations command, headquartered at Clay Kaserne in Mainz-Kastel, Germany. Multi-Domain Command &#8211; Europe serves as the premier multi-domain fires headquarters for U.S. Army Europe and Africa. We spoke with Brig. Gen. Carpenter, following the conclusion of Arcane Thunder 26, the command&#8217;s fourth annual multi-domain exercise, which ran from April 6 to April 29 across Germany, Poland, Fort Irwin, and the Nevada Testing and Training Range. The exercise&#8217;s objective was to qualify multi-domain company teams</p>
-<p>The post <a href="https://warontherocks.com/cogs-of-war/an-army-general-talks-fusing-sensors-and-shooters-on-the-eastern-flank/">An Army General Talks Fusing Sensors and Shooters on the Eastern Flank</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>

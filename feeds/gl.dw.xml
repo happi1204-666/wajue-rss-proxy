@@ -7,10 +7,14 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-10T17:28:51Z</dc:date>
+  <dc:date>2026-11-10T22:28:12Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/controversial-kinship-from-colonial-rule-to-the-holocaust/a-79902228?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-rdf"/>
@@ -28,9 +32,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-australia-push-for-fossil-fuel-exit-at-un-talks/a-79782066?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-new-delhi-ready-to-mediate-black-sea-food-corridors-says-ukraine-s-zelenskyy/live-79906023?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-malnutrition-can-go-unnoticed-and-what-that-means-for-our-health/a-79871016?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/australia-to-introduce-mandatory-ai-safeguards/a-79906006?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-rdf"/>
@@ -86,7 +88,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ethnic-germans-in-kazakhstan-face-legacy-of-the-soviet-union/a-79754048?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-all-1573-rdf"/>
@@ -143,6 +144,42 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf">
+  <title>Former Malaysian leader Najib Razak returns home under royal pardon, but faces a separate 15-year prison sentence</title>
+  <link>https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf</link>
+  <description>Najib Razak has left prison under a royal pardon, prompting a minister to resign in protest. Malaysia&apos;s former leader still faces a separate 15-year sentence over the corruption scandal that brought him down.</description>
+  <dc:date>2026-11-10T20:39:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79913437</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf">
+  <title>British counterterrorism police arrest US soldier accused of spying on behalf of Russia</title>
+  <link>https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf</link>
+  <description>A member of the US Army has been arrested near Gloucester in England. Police said he was suspected of espionage activity in connection with Russia. Investigators from the US and UK are involved in the probe.</description>
+  <dc:date>2026-11-10T19:35:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79913240</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-all-1573-rdf">
+  <title>UK Privy Council overrules Trinidad and Tobago gay sex law</title>
+  <link>https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-all-1573-rdf</link>
+  <description>A London court has overturned a Trinidad and Tobago law criminalizing consensual sexual relations between male same-sex couples. As a result of the colonial legacy, it is the independent country&apos;s last court of appeal.</description>
+  <dc:date>2026-11-10T19:21:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79912163</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf">
+  <title>Victims of Nazi war in Poland call on Germany for support</title>
+  <link>https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf</link>
+  <description>More than 80 years after the end of World War II, Polish victims of the Nazi regime are still waiting for a &quot;humanitarian gesture&quot; from Germany. The 2027 draft budget hasn&apos;t left them much hope for possible reparations.</description>
+  <dc:date>2026-11-10T17:53:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79909311</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf">
   <title>Iran denies role in fridge hack, France summons ambassador</title>
   <link>https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf</link>
@@ -263,7 +300,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Ilse Aigner meets parties at Bundestag</title>
   <link>https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-all-1573-rdf</link>
-  <description>The presidential candidate put forward by the conservative bloc has said she wouldn&apos;t meet with the far-right AfD. Meanwhile, Chancellor Merz is set to host Hungarian Prime Minister Magyar. DW has more.</description>
+  <description>Ilse Aigner said she wouldn&apos;t meet with the far-right AfD. Meanwhile, Chancellor Merz is set to host Hungarian Prime Minister Magyar. DW has more.</description>
   <dc:date>2026-11-10T08:36:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -296,15 +333,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79906232</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-new-delhi-ready-to-mediate-black-sea-food-corridors-says-ukraine-s-zelenskyy/live-79906023?maca=en-rss-en-all-1573-rdf">
-  <title>India news: New Delhi ready to mediate Black Sea food corridors, says Ukraine&apos;s Zelenskyy</title>
-  <link>https://www.dw.com/en/india-news-new-delhi-ready-to-mediate-black-sea-food-corridors-says-ukraine-s-zelenskyy/live-79906023?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ukraine&apos;s President Volodymyr Zelenskyy said he discussed establishing &quot;food corridors&quot; in the Black Sea in a phone call with Indian Prime Minister Narendra Modi.</description>
-  <dc:date>2026-11-10T06:52:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79906023</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/why-malnutrition-can-go-unnoticed-and-what-that-means-for-our-health/a-79871016?maca=en-rss-en-all-1573-rdf">
   <title>Why malnutrition can go unnoticed, and what that means for our health</title>
   <link>https://www.dw.com/en/why-malnutrition-can-go-unnoticed-and-what-that-means-for-our-health/a-79871016?maca=en-rss-en-all-1573-rdf</link>
@@ -313,15 +341,6 @@
   <dc:subject>Science</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79871016</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/australia-to-introduce-mandatory-ai-safeguards/a-79906006?maca=en-rss-en-all-1573-rdf">
-  <title>Australia to introduce mandatory AI safeguards</title>
-  <link>https://www.dw.com/en/australia-to-introduce-mandatory-ai-safeguards/a-79906006?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Australian government&apos;s decision to establish an AI safety regulator comes after an OpenAI agent accessed a government medical statistics portal without authorization.</description>
-  <dc:date>2026-11-10T04:55:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79906006</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-rdf">
   <title>Iran war oil shock drives dip in global emissions, study shows</title>
@@ -817,15 +836,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79825130</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf">
-  <title>Russia&apos;s giant new radar in Kaliningrad raises alarm in NATO</title>
-  <link>https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf</link>
-  <description>Russia is nearing completion of what experts think is a giant radar complex in Kaliningrad, capable of monitoring much of Europe. Experts warn the project could intensify the military standoff between Moscow and NATO.</description>
-  <dc:date>2026-11-01T20:34:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79797815</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ethnic-germans-in-kazakhstan-face-legacy-of-the-soviet-union/a-79754048?maca=en-rss-en-all-1573-rdf">
   <title>Ethnic Germans in Kazakhstan face legacy of the Soviet Union</title>
