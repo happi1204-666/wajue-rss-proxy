@@ -7,10 +7,18 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-11T02:09:31Z</dc:date>
+  <dc:date>2026-11-11T09:41:26Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-over-60s-take-month-of-sick-leave-per-year/live-79915066?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/south-korea-bus-hits-32-vehicles-near-seoul-dozens-injured/a-79914074?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf"/>
@@ -23,17 +31,12 @@
     <rdf:li rdf:resource="https://www.dw.com/en/neuer-injury-gives-urbig-chance-to-shape-bayern-and-germany-future/a-79910042?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pope-leo-vs-javier-milei-how-political-is-the-pope/a-79907666?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-sonia-gandhi-s-memoir-belonging-a-journey-of-love-released/a-79908336?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/borussia-dortmund-s-felix-nmecha-and-the-question-of-religion/a-79900432?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/spain-police-officer-killed-in-oviedo-after-neighborhood-dispute-escalates-with-explosion/a-79907509?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-australia-push-for-fossil-fuel-exit-at-un-talks/a-79782066?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-russia-and-ukraine-start-second-day-of-abu-dhabi-talks/live-79906232?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-malnutrition-can-go-unnoticed-and-what-that-means-for-our-health/a-79871016?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf"/>
@@ -86,8 +89,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ice-hockey-officials-considering-options-after-cas-order-to-reinstate-russia/a-79831451?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ethnic-germans-in-kazakhstan-face-legacy-of-the-soviet-union/a-79754048?maca=en-rss-en-all-1573-rdf"/>
@@ -119,7 +120,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-germany-revive-its-economy-before-the-far-right-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/football-german-coach-hürzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-rdf"/>
@@ -143,6 +143,78 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf">
+  <title>Spain: Housing crisis prompts general strike</title>
+  <link>https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf</link>
+  <description>Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political debate ahead of Spain&apos;s November 29 elections.</description>
+  <dc:date>2026-11-11T09:11:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79915208</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-news-over-60s-take-month-of-sick-leave-per-year/live-79915066?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Over 60s take month of sick leave per year</title>
+  <link>https://www.dw.com/en/germany-news-over-60s-take-month-of-sick-leave-per-year/live-79915066?maca=en-rss-en-all-1573-rdf</link>
+  <description>In total, workers took an average of 15 days off per year due to sickness. Meanwhile, carneval season is beginning in the Rhineland. DW has more.</description>
+  <dc:date>2026-11-11T08:41:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79915066</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-rdf">
+  <title>DW Science explainer on the default mode network: what your brain does when you aren&apos;t focusing on anything, and why it&apos;s important.</title>
+  <link>https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-rdf</link>
+  <description>Doing nothing might be the ultimate brain hack. When you&apos;re bored, the brain goes into default mode network. It&apos;s not only healthy for you, but it may also shape the very essence of your identity.</description>
+  <dc:date>2026-11-11T06:57:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79908787</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-rdf">
+  <title>India: CPCB addresses stark Delhi pollution data gap on Diwali night</title>
+  <link>https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-rdf</link>
+  <description>India&apos;s main pollution monitor has issued a clarification on a wide air quality data gap between official and private reporting in New Delhi that saw the city choked amid Diwali fireworks. DW has the latest.</description>
+  <dc:date>2026-11-11T06:46:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79914190</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf">
+  <title>Germany slips in climate protection rankings as other countries make gains</title>
+  <link>https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf</link>
+  <description>Record renewable energy growth is driving climate progress in some countries, but Germany and many major emitters are falling behind.</description>
+  <dc:date>2026-11-11T06:41:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79913635</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-rdf">
+  <title>How AI worsens online violence against Middle East women</title>
+  <link>https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-rdf</link>
+  <description>Women in the Middle East already have to deal with an above-average share of online harassment and violence. The proliferation of AI-enabled tools is making it worse.</description>
+  <dc:date>2026-11-11T06:38:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79912634</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/south-korea-bus-hits-32-vehicles-near-seoul-dozens-injured/a-79914074?maca=en-rss-en-all-1573-rdf">
+  <title>South Korea: Bus hits 32 vehicles near Seoul, dozens injured</title>
+  <link>https://www.dw.com/en/south-korea-bus-hits-32-vehicles-near-seoul-dozens-injured/a-79914074?maca=en-rss-en-all-1573-rdf</link>
+  <description>The bus plowed into over 30 vehicles, including other buses, during rush hour traffic in the South Korean city of Seongnam, just south of Seoul.</description>
+  <dc:date>2026-11-11T04:17:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79914074</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-rdf">
+  <title>Israel: Eisenkot proposes October 7 probe as new Knesset sworn in</title>
+  <link>https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-rdf</link>
+  <description>Ex-IDF chief Gadi Eisenkot has yet to forge a coalition that would allow him to replace Benjamin Netanyahu, despite the new Knesset being dominated by the critics of the current prime minister.</description>
+  <dc:date>2026-11-11T03:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79913636</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf">
   <title>US Republicans derail push to impeach Defense Secretary Pete Hegseth</title>
   <link>https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf</link>
@@ -155,7 +227,7 @@
  <item rdf:about="https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf">
   <title>US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase</title>
   <link>https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf</link>
-  <description>US prosecutors claim the three men were planning a &quot;campaign of terror&quot; ish communities and a UK airbase. The Fairford incident prompted the withdrawal of US bombers stationed there for operations against Iran.</description>
+  <description>US prosecutors claim the three men were planning a &quot;campaign of terror&quot; against Jewish communities and a UK airbase. The Fairford incident prompted the US to pull out its bombers used for operations against Iran.</description>
   <dc:date>2026-11-10T23:18:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -251,15 +323,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79907666</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-all-1573-rdf">
-  <title>Japan watches for signs of change in Trump&apos;s foreign policy priorities</title>
-  <link>https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-all-1573-rdf</link>
-  <description>Tokyo fears the drubbing US President Donald Trump suffered in last week&apos;s midterm election may push him to pursue a diplomatic quick win at the expense of Washington&apos;s allies in the Indo-Pacific.</description>
-  <dc:date>2026-11-10T13:31:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79909398</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-all-1573-rdf">
   <title>Bulgaria highway pileup kills 12, dozens injured: PM</title>
   <link>https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-all-1573-rdf</link>
@@ -268,15 +331,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79907978</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-sonia-gandhi-s-memoir-belonging-a-journey-of-love-released/a-79908336?maca=en-rss-en-all-1573-rdf">
-  <title>India: Sonia Gandhi&apos;s memoir &apos;Belonging: A Journey of Love&apos; released</title>
-  <link>https://www.dw.com/en/india-sonia-gandhi-s-memoir-belonging-a-journey-of-love-released/a-79908336?maca=en-rss-en-all-1573-rdf</link>
-  <description>The book goes through the Italian-born matriarch&apos;s journey with one of India&apos;s most politically influential families. It has already garnered political controversy, with the ruling BJP accusing her of &quot;whitewashing.&quot;</description>
-  <dc:date>2026-11-10T11:46:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79908336</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/borussia-dortmund-s-felix-nmecha-and-the-question-of-religion/a-79900432?maca=en-rss-en-all-1573-rdf">
   <title>Borussia Dortmund&apos;s Felix Nmecha and the question of religion</title>
@@ -287,15 +341,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79900432</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/spain-police-officer-killed-in-oviedo-after-neighborhood-dispute-escalates-with-explosion/a-79907509?maca=en-rss-en-all-1573-rdf">
-  <title>Spain: Police officer killed in Oviedo after neighborhood dispute escalates with explosion</title>
-  <link>https://www.dw.com/en/spain-police-officer-killed-in-oviedo-after-neighborhood-dispute-escalates-with-explosion/a-79907509?maca=en-rss-en-all-1573-rdf</link>
-  <description>After security services responded to a shooting, a bomb found in a backpack nearby detonated before it could be defused.</description>
-  <dc:date>2026-11-10T10:12:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79907509</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-all-1573-rdf">
   <title>Fact check: Online disinformation rife after Krakow mass shooting</title>
   <link>https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-all-1573-rdf</link>
@@ -304,24 +349,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79900620</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf">
-  <title>DR Congo: 66 soldiers sentenced to death for &apos;cowardice&apos; in conflict with FRN rebels</title>
-  <link>https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf</link>
-  <description>Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders.</description>
-  <dc:date>2026-11-10T09:43:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79906794</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Ilse Aigner meets parties at Bundestag</title>
-  <link>https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ilse Aigner said she wouldn&apos;t meet with the far-right AfD. Meanwhile, Chancellor Merz is set to host Hungarian Prime Minister Magyar. DW has more.</description>
-  <dc:date>2026-11-10T08:36:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79906440</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-rdf">
   <title>Why electrification is the climate game changer we need</title>
@@ -341,10 +368,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79782066</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf">
-  <title>US, Russia and Ukraine start talks in Abu Dhabi</title>
-  <link>https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf</link>
-  <description>Peace talks between Russia, Ukraine and the US are getting underway in the United Arab Emirates. It is the first such meeting since February. DW has the latest updates.</description>
+ <item rdf:about="https://www.dw.com/en/us-russia-and-ukraine-start-second-day-of-abu-dhabi-talks/live-79906232?maca=en-rss-en-all-1573-rdf">
+  <title>US, Russia and Ukraine start second day of Abu Dhabi talks</title>
+  <link>https://www.dw.com/en/us-russia-and-ukraine-start-second-day-of-abu-dhabi-talks/live-79906232?maca=en-rss-en-all-1573-rdf</link>
+  <description>Peace talks between Russia, Ukraine and the US are underway in the United Arab Emirates. The two day talks are the first such meeting since February. DW has the latest updates.</description>
   <dc:date>2026-11-10T07:09:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -818,24 +845,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79830843</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf">
-  <title>Global pedestrian Karl Bushby returns home to UK after 28-year trek</title>
-  <link>https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf</link>
-  <description>Karl Bushby, a British man who traveled 50,000 km without transport over the past 28 years, has come home. Starting in Chile, he crossed the Americas, Russia and parts of Central Asia and Europe — almost all on foot.</description>
-  <dc:date>2026-11-02T12:31:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79829564</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-rdf">
-  <title>How Iliana Yotova won the presidential election in Bulgaria</title>
-  <link>https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-rdf</link>
-  <description>Iliana Yotova won the presidential election in Bulgaria, promising to be a &quot;president of peace.&quot; But the campaign showed how divided Bulgarians are about the war in Ukraine and drone attacks in the Black Sea.</description>
-  <dc:date>2026-11-02T12:15:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79829019</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-rdf">
   <title>Merz says next German president &apos;must be a woman&apos; — report</title>
   <link>https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-rdf</link>
@@ -1114,15 +1123,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79681413</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/football-german-coach-hürzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-rdf">
-  <title>Football: German coach Hürzeler flying high in Premier League</title>
-  <link>https://www.dw.com/en/football-german-coach-hürzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-rdf</link>
-  <description>Fabian Hürzeler is younger than his star player, a fellow Premier League German. But, contrary to his reputation in his homeland, Hürzeler has become a popular figure both on and off the pitch in England.</description>
-  <dc:date>2026-10-21T06:52:00Z</dc:date>
-  <dc:subject>Sports</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79714763</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf">
   <title>Rising emissions and temperatures: The cost of Trump&apos;s climate retreat is now clear</title>

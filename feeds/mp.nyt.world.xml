@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 02:08:58 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 01:30:15 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:39:32 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 09:31:18 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -88,7 +88,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html" rel="standout"></atom:link>
       <description>In a new memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls her political battles and the assassinations of her husband and mother-in-law.</description>
       <dc:creator>Elisabeth Bumiller</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 18:59:34 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 09:23:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Sonia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
@@ -282,9 +282,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Little Britain (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walliams, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="1599" medium="image" url="https://static01.nyt.com/images/2026/11/09/multimedia/00int-uk-celebrity-1-mlbj/00int-uk-celebrity-1-mlbj-mediumSquareAt3X.jpg" width="1600"></media:content>
       <media:credit>Neil Mockford/GC Images, via Getty Images</media:credit>
       <media:description>The TV personality and author David Walliams in 2022. He is a household name in Britain, where he became a comedy star in the 2000s.</media:description>
@@ -296,7 +296,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html" rel="standout"></atom:link>
       <description>Dozens of first-time lawmakers were sworn into the Knesset, where the opposition, led by Gadi Eisenkot, now has a majority.</description>
       <dc:creator>Isabel Kershner and Adam Rasgon</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 19:56:08 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 03:33:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
@@ -330,13 +330,67 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
     </item>
     <item>
+      <title>Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement</title>
+      <link>https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html" rel="standout"></atom:link>
+      <description>Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair.</description>
+      <dc:creator>Abdi Latif Dahir</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 09:31:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bekaa Valley (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salam, Nawaf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amer Bisat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Berehulak/The New York Times</media:credit>
+      <media:description>A fruit vendor at a market in Tyre, Lebanon. Longstanding economic problems have been worsened by strife this year.</media:description>
+    </item>
+    <item>
+      <title>On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics</title>
+      <link>https://www.nytimes.com/2026/11/11/world/africa/on-dakars-packed-beaches-africa-welcomes-its-first-youth-olympics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/africa/on-dakars-packed-beaches-africa-welcomes-its-first-youth-olympics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/11/world/africa/on-dakars-packed-beaches-africa-welcomes-its-first-youth-olympics.html" rel="standout"></atom:link>
+      <description>The 2026 Youth Olympic Games are taking place in Senegal, where the beaches and streets are teeming with sports fans and fitness fanatics.</description>
+      <dc:creator>Ruth Maclean and Ricci Shryock</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 05:00:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/00int-senegal-sports-6-wpvh/00int-senegal-sports-6-wpvh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Skateboarding in Ngor, a neighborhood of Dakar, Senegal’s coastal capital. Fitness and athletic prowess are all-important in Dakar. </media:description>
+    </item>
+    <item>
+      <title>Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers</title>
+      <link>https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html" rel="standout"></atom:link>
+      <description>Wildlife authorities said evidence, including animal DNA, conclusively linked a sow and her three cubs to the deaths of two women along a hiking trail in British Columbia.</description>
+      <dc:creator>Qasim Nauman</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 07:32:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bears</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <media:content height="1365" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10xp-bear/10xp-bear-mediumSquareAt3X.jpg" width="1365"></media:content>
+      <media:credit>Matthew Balcarras</media:credit>
+      <media:description>Selah Reed, left, and her mother, Jennifer Balcarras, were killed by grizzly bears in British Columbia earlier this month.</media:description>
+    </item>
+    <item>
       <title>ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona</title>
       <link>https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html" rel="standout"></atom:link>
       <description>The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.</description>
       <dc:creator>Pranav Baskar, Hamed Aleaziz, Salman Masood and Zach Montague</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 01:30:15 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 03:57:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -360,7 +414,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html" rel="standout"></atom:link>
       <description>As top Trump aides clash over a strategy to end the war, the administration is weighing escalation, narrower strikes and diplomacy.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 21:04:24 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 05:27:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -1116,62 +1170,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/00INT-UNBoss-zfpq/00INT-UNBoss-zfpq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Angelina Katsanis for The New York Times</media:credit>
       <media:description>The United Nations headquarters in New York City. The global body will replace António Guterres as secretary general.</media:description>
-    </item>
-    <item>
-      <title>More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War</title>
-      <link>https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html" rel="standout"></atom:link>
-      <description>Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.</description>
-      <dc:creator>Shuaib Almosawa and Ismaeel Naar</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 21:45:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiz (Yemen)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-YEMEN-DEATHS-mgcp/07int-YEMEN-DEATHS-mgcp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Khaled Abdullah/Reuters</media:credit>
-      <media:description>A boy being treated after being injured in a strike near Sanaa, Yemen, on Saturday.</media:description>
-    </item>
-    <item>
-      <title>At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say</title>
-      <link>https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html" rel="standout"></atom:link>
-      <description>The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.</description>
-      <dc:creator>Andrew Higgins and Carlos Barragán</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 23:36:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Krakow (Poland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-zbcg/07int-poland-shooting-zbcg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Omar Marques/Getty Images</media:credit>
-      <media:description>Emergency responders at an area near Krakow’s main market square after a shooting in the Polish city on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo</title>
-      <link>https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html" rel="standout"></atom:link>
-      <description>At least 48 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.</description>
-      <dc:creator>Declan Walsh</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 18:49:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Allied Democratic Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gradel Muyisa Mumbere/Reuters</media:credit>
-      <media:description>Congolese civilians checking destroyed buildings after an attack by Islamic State-linked militants in Cantine-Aloya, Democratic Republic of Congo, on Friday.</media:description>
     </item>
   </channel>
 </rss>
