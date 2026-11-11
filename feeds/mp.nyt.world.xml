@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 22:26:08 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Nov 2026 22:24:05 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:08:58 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 01:30:15 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -48,14 +48,16 @@
       <description>The workings of a U.S.-controlled bank account shed light on how Washington manages Venezuelan revenue after capturing the country’s president.</description>
       <dc:creator>Tyler Pager and Anatoly Kurmanaev</dc:creator>
       <pubDate>Tue, 10 Nov 2026 16:23:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10venezuela-us-funds-tfkp/10venezuela-us-funds-tfkp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ariana Cubillos/Associated Press</media:credit>
       <media:description>An oil pump in Cabimas, Venezuela, in August. U.S. forces toppled the country’s president in January.</media:description>
@@ -68,12 +70,14 @@
       <description>For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said.</description>
       <dc:creator>Valerie Hopkins and Nanna Heitmann</dc:creator>
       <pubDate>Tue, 10 Nov 2026 20:53:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novaya Gazeta</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/10/world/europe/10vid-russia-newspaper-cover-image/10vid-russia-newspaper-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nanna Heitmann for The New York Times</media:credit>
     </item>
@@ -182,12 +186,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Non-Agriculture)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Mothers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Criminal Justice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shariah (Islamic Law)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sentences (Criminal)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporal Punishment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
       <media:content height="1647" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10int-saudi-migrants-1-hcvz/10int-saudi-migrants-1-hcvz-mediumSquareAt3X-v2.jpg" width="1647"></media:content>
       <media:credit>Iman Al-Dabbagh for The New York Times</media:credit>
       <media:description>Esther Wanja Muthoni with her then-newborn son Abudy, at a gas station where she was living in Riyadh, Saudi Arabia, last year.</media:description>
@@ -325,6 +330,30 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
     </item>
     <item>
+      <title>ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona</title>
+      <link>https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html" rel="standout"></atom:link>
+      <description>The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.</description>
+      <dc:creator>Pranav Baskar, Hamed Aleaziz, Salman Masood and Zach Montague</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 01:30:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iranian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mesa (Ariz)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <media:content height="1289" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10int-iran-1-bqkj/10int-iran-1-bqkj-mediumSquareAt3X.jpg" width="1289"></media:content>
+      <media:credit>Yuki Iwamura/Associated Press</media:credit>
+      <media:description>The Immigration and Customs Enforcement flight from Mesa, Ariz., is part of a larger effort to carry out mass deportations.</media:description>
+    </item>
+    <item>
       <title>No Good Choices on Iran</title>
       <link>https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html</guid>
@@ -389,7 +418,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html" rel="standout"></atom:link>
       <description>The Duchess of Sussex accompanied her husband, Prince Harry, in Brussels at an event about online safety for children.</description>
       <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 15:36:55 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 23:21:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Parliament</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
@@ -1143,32 +1172,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gradel Muyisa Mumbere/Reuters</media:credit>
       <media:description>Congolese civilians checking destroyed buildings after an attack by Islamic State-linked militants in Cantine-Aloya, Democratic Republic of Congo, on Friday.</media:description>
-    </item>
-    <item>
-      <title>America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony</title>
-      <link>https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html" rel="standout"></atom:link>
-      <description>While U.S. voters largely oppose the trade war with Canada, many Democrats and their supporters have protectionist leanings.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 11:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">North American Free Trade Agreement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Peterson, Peter G, Institute for International Economics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-canada-letter-cqlt/07int-canada-letter-cqlt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>The new Congress controlled by Democrats will face President Trump’s veto powers.</media:description>
     </item>
   </channel>
 </rss>

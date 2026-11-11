@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-10T22:28:12Z</dc:date>
+  <dc:date>2026-11-11T02:09:31Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-all-1573-rdf"/>
@@ -132,9 +134,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -144,6 +143,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf">
+  <title>US Republicans derail push to impeach Defense Secretary Pete Hegseth</title>
+  <link>https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf</link>
+  <description>Pentagon chief Pete Hegseth seems set to survive the impeachment bid launched by maverick Republican lawmaker Thomas Massie, with President Donald Trump praising the outcome of the vote.</description>
+  <dc:date>2026-11-11T02:04:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79913761</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf">
+  <title>US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase</title>
+  <link>https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf</link>
+  <description>US prosecutors claim the three men were planning a &quot;campaign of terror&quot; ish communities and a UK airbase. The Fairford incident prompted the withdrawal of US bombers stationed there for operations against Iran.</description>
+  <dc:date>2026-11-10T23:18:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79913543</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf">
   <title>Former Malaysian leader Najib Razak returns home under royal pardon, but faces a separate 15-year prison sentence</title>
   <link>https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf</link>
@@ -1232,32 +1249,5 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>44107236</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf">
-  <title>Pope lung nodule: Could it be cancer?</title>
-  <link>https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf</link>
-  <description>The case of Pope Leo shows how small lung nodules are often found during routine health checks. Quick treatment is generally advised before nodules can grow to become larger life-threatening masses.</description>
-  <dc:date>2026-10-12T14:41:00Z</dc:date>
-  <dc:subject>Science</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79641503</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf">
-  <title>How green is Europe&apos;s urban public transport? A data-driven reality check</title>
-  <link>https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf</link>
-  <description>Greener buses and cleaner fleets are reshaping public transport across Europe. But are cities moving fast enough to meet their zero-emission goals?</description>
-  <dc:date>2026-10-12T07:30:00Z</dc:date>
-  <dc:subject>Environment</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79406721</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf">
-  <title>UK students call for school uniforms to be banned in pornography</title>
-  <link>https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf</link>
-  <description>Short skirts, knee-high socks, white blouses: Girls&apos; school uniform items are widely used as costumes in pornographic videos. As students experience harassment, a group wants to change that.</description>
-  <dc:date>2026-10-12T07:24:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79554324</dwsyn:contentID>
  </item>
 </rdf:RDF>

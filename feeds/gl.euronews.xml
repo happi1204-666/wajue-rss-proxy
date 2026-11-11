@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Tue, 10 Nov 2026 23:19:02 +0100</lastBuildDate>
-  <pubDate>Tue, 10 Nov 2026 23:19:02 +0100</pubDate>
+  <lastBuildDate>Tue, 10 Nov 2026 23:53:11 +0100</lastBuildDate>
+  <pubDate>Tue, 10 Nov 2026 23:53:11 +0100</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Spain: 69 candles lit at Toledo Cathedral for train crash victims</title>
+   <link>https://www.euronews.com/video/2026/11/10/spain-69-candles-lit-at-toledo-cathedral-for-train-crash-victims</link>
+   <guid>https://www.euronews.com/video/2026/11/10/spain-69-candles-lit-at-toledo-cathedral-for-train-crash-victims</guid>
+   <pubDate>Tue, 10 Nov 2026 23:53:11 +0100</pubDate>
+   <description>Spain's King Felipe VI and Queen Letizia attended a state funeral at Toledo Cathedral on Tuesday 10 November for the 69 people killed in a devastating high-speed train collision near Urda on 28 October.</description>
+  </item>
   <item>
    <title>Argentina: Pope Leo XIV celebrates Mass before 650,000 in Córdoba</title>
    <link>https://www.euronews.com/video/2026/11/10/argentina-pope-leo-xiv-celebrates-mass-before-650000-in-cordoba</link>
@@ -55,7 +62,7 @@
    <link>https://www.euronews.com/2026/11/10/democrats-took-the-house-senate-and-a-good-deal-of-republican-pride-so-who-are-the-real-wi</link>
    <guid>https://www.euronews.com/2026/11/10/democrats-took-the-house-senate-and-a-good-deal-of-republican-pride-so-who-are-the-real-wi</guid>
    <pubDate>Tue, 10 Nov 2026 19:55:26 +0100</pubDate>
-   <description>As of Tuesday, projections gave the Democrats 254 seats and the Republicans 165, with 16 races still undecided.</description>
+   <description>Democrats took the House, the Senate and a good deal of Republican pride last Tuesday night. Here is who came out ahead, and whose hangover lingers on this week.</description>
   </item>
   <item>
    <title>Costa seeks to reassure Merz after EU budget ultimatum</title>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/video/2026/11/10/senegal-footage-reveals-wreckage-of-deadly-migrant-boat-in-which-39-people-died</guid>
    <pubDate>Tue, 10 Nov 2026 09:26:25 +0100</pubDate>
    <description>At least 39 people have died after a migrant boat sank off Senegal's Atlantic coast. Footage shows the shattered vessel washed ashore as rescuers continue searching for victims.</description>
-  </item>
-  <item>
-   <title>Trump says Nvidia CEO Huang knew nothing about alleged Chinese spy</title>
-   <link>https://www.euronews.com/video/2026/11/10/trump-says-nvidia-ceo-huang-knew-nothing-about-alleged-chinese-spy</link>
-   <guid>https://www.euronews.com/video/2026/11/10/trump-says-nvidia-ceo-huang-knew-nothing-about-alleged-chinese-spy</guid>
-   <pubDate>Tue, 10 Nov 2026 09:19:21 +0100</pubDate>
-   <description>US President Donald Trump says the FBI is looking into a matter involving Nvidia CEO Jensen Huang and alleged links to a Chinese government agent. Trump said he had spoken to Huang, who denied knowing the person was a spy, and expressed confidence in the tech executive.</description>
   </item>
  </channel>
 </rss>
