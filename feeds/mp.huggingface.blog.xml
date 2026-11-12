@@ -7,6 +7,12 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
+   <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
+   <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/3d-lora-finetuning</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/3d-lora-finetuning</guid>
+  </item>
+  <item>
    <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
    <pubDate>Wed, 11 Nov 2026 05:01:16 GMT</pubDate>
    <link>https://huggingface.co/blog/qvac/botpsy</link>

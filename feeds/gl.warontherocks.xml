@@ -39,6 +39,26 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>The Promise of Biomanufacturing at the Edge</title>
+		<link>https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/</link>
+		
+		<dc:creator><![CDATA[Arye Lipman]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2026 09:00:53 +0000</pubDate>
+				<category><![CDATA[Cogs of War]]></category>
+		<category><![CDATA[Biotechnology]]></category>
+		<category><![CDATA[Defense Policy]]></category>
+		<category><![CDATA[Defense Tech]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48447</guid>
+
+					<description><![CDATA[<p>As the old adage goes, &#8220;Amateurs talk strategy. Professionals talk logistics.&#8221; Military operations are utterly dependent on complex supply chains to move food, fuel, and other essential products across long distances and through contested environments to reach the warfighter. These vital supply lines are fragile at every stage: production concentrated in a single facility can be disrupted, key inputs may come from unreliable &#8212; or adversarial &#8212; foreign suppliers, and the ports, airfields, and roads that deliver goods the final mile are often the most vulnerable.The threat of this fragility eroding a modern force&#8217;s capabilities is very real. As the</p>
+<p>The post <a href="https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/">The Promise of Biomanufacturing at the Edge</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Lucas Fluegel]]></dc:creator>
+	</item>
+		<item>
 		<title>Japan’s Most Dangerous Military Constraint Is Time</title>
 		<link>https://warontherocks.com/japans-most-dangerous-military-constraint-is-time/</link>
 		
@@ -1933,27 +1953,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 		<dc:creator><![CDATA[William Pazos]]></dc:creator>
-	</item>
-		<item>
-		<title>Latin America’s Balancing Act: Washington, Beijing, and the Post-Maduro Environment</title>
-		<link>https://warontherocks.com/latin-americas-balancing-act-washington-beijing-and-the-post-maduro-environment/</link>
-		
-		<dc:creator><![CDATA[Cecilia Farfán-Méndez]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 18:15:01 +0000</pubDate>
-				<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Members]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=47006</guid>
-
-					<description><![CDATA[<p>The year 2026 has brought sweeping change to Latin America&#8217;s relationship with the United States. Following a major military buildup in the Caribbean and strikes against vessels suspected of drug trafficking, U.S. forces captured Venezuelan President Nicol&#225;s Maduro on Jan. 3 &#8212; unilaterally deposing the country&#8217;s leader and making new oil deals with the post-Maduro government. Washington has also intensified economic and political pressure against Cuba, imposed more tariffs across the region, and said it would not renew the United States-Mexico-Canada Agreement, triggering renegotiations. Meanwhile, Washington has deepened security cooperation with several countries, including shifting some funds from other regions</p>
-<p>The post <a href="https://warontherocks.com/latin-americas-balancing-act-washington-beijing-and-the-post-maduro-environment/">Latin America’s Balancing Act: Washington, Beijing, and the Post-Maduro Environment</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Benjamin Gedan]]></dc:creator>
-<dc:creator><![CDATA[Cynthia Sanborn]]></dc:creator>
-<dc:creator><![CDATA[Dorothy Kronick]]></dc:creator>
-<dc:creator><![CDATA[Anya Prusa]]></dc:creator>
 	</item>
 	</channel>
 </rss>
