@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 16:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:26:14 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,35 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/017ae420df17014d529112047b085c51b85faf81-2048x1152.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">cc5f135c-1342-4f8b-b5e8-e3fa5b7f133b</guid>
+      <pubDate>Thu, 12 Nov 2026 21:07:49 +0000</pubDate>
+      <description><![CDATA[Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence.]]></description>
+      <dc:creator>Helene Braun</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Kalshi]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Illinois crypto tax is impossible to enforce as written, crypto industry tells court]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e33b3fcac1c0e8c98ef703b71e95d78b3237411a-8192x5464.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">8c84c373-ea99-428b-a765-9cf57e175a5b</guid>
+      <pubDate>Thu, 12 Nov 2026 16:45:52 +0000</pubDate>
+      <description><![CDATA[The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Tax]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout]]></title>
       <link>https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout</link>
@@ -358,37 +387,6 @@
       <category domain="tag"><![CDATA[tokenized credit]]></category>
       <category domain="tag"><![CDATA[Tokenization]]></category>
       <category domain="tag"><![CDATA[Exclusive]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound]]></title>
-      <link>https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks</link>
-      <guid isPermaLink="false">fb9dd515-0361-4b15-a8d1-dbd323ba7d8d</guid>
-      <pubDate>Wed, 11 Nov 2026 12:21:24 +0000</pubDate>
-      <description><![CDATA[The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.]]></description>
-      <dc:creator>James Van Straten</dc:creator>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="tag"><![CDATA[Live News]]></category>
-      <category domain="https://www.coindesk.com/">live_news</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin barely flinches at hot CPI as ETF selling slows]]></title>
-      <link>https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e3f18a716f3852d35d7aadc9c4c60f1ee22fd9ce-1920x1080.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">a86832a4-4c03-4dee-ad65-0619abccba2d</guid>
-      <pubDate>Wed, 11 Nov 2026 12:19:30 +0000</pubDate>
-      <description><![CDATA[Your day-ahead look for Nov. 11, 2026]]></description>
-      <dc:creator>Oliver Knight</dc:creator>
-      <dc:creator>Saksham Diwan</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
-      <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

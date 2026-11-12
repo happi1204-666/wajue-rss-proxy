@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 10 Nov 2026 20:48:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Nov 2026 16:22:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,27 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies</title>
+		<link>https://warontherocks.com/how-purges-are-affecting-chinese-military-readiness-and-taiwan-contingencies/</link>
+		
+		<dc:creator><![CDATA[Yun Sun]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2026 18:30:19 +0000</pubDate>
+				<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Members]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48579</guid>
+
+					<description><![CDATA[<p>Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of dismissals and disappearances has increased substantially in the last two years. Recent examples include Gen. Zhang Youxia, Gen. Liu Zhenli, and Zhong Shaojun, formerly the head of the General Office of the Central Military Commission. Many of these officials have been accused of corruption, with some facing trial.These widespread purges have fundamentally changed the high command of China&#8217;s military at a time when</p>
+<p>The post <a href="https://warontherocks.com/how-purges-are-affecting-chinese-military-readiness-and-taiwan-contingencies/">How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+		<dc:creator><![CDATA[Jaehwan Lim]]></dc:creator>
+<dc:creator><![CDATA[Ben Lewis]]></dc:creator>
+<dc:creator><![CDATA[Bonny Lin]]></dc:creator>
+<dc:creator><![CDATA[Shanshan Mei]]></dc:creator>
+	</item>
+		<item>
 		<title>The Promise of Biomanufacturing at the Edge</title>
 		<link>https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/</link>
 		
@@ -1934,25 +1955,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 			</item>
-		<item>
-		<title>Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence</title>
-		<link>https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/</link>
-		
-		<dc:creator><![CDATA[Ken Moriyasu]]></dc:creator>
-		<pubDate>Fri, 18 Sep 2026 07:30:22 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Deterrence]]></category>
-		<category><![CDATA[Indo-Pacific]]></category>
-		<category><![CDATA[Taiwan]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46937</guid>
-
-					<description><![CDATA[<p>Washington is preparing for the right war, but in the wrong theater. For years, U.S. strategic thinking has centered on the Indo&#8209;Pacific: the militarized atolls of the South China Sea, China&#8217;s churning naval shipyards, and the tense waters of the Taiwan Strait. Yet the next phase of competition will likely play out on the Eurasian landmass, contested through pipelines, swing states, and shifting alignments along routes that overlap with the ancient Silk Road. This is where China is building alternative trade and energy corridors beyond the immediate reach of U.S. military power.Chinese strategists have long worried that, in a conflict</p>
-<p>The post <a href="https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/">Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[William Pazos]]></dc:creator>
-	</item>
 	</channel>
 </rss>
