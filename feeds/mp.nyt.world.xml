@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 17:41:18 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 17:40:41 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:01:53 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 23:17:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html" rel="standout"></atom:link>
       <description>Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.</description>
       <dc:creator>Erika Solomon, Eric Schmitt and Tyler Pager</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 17:37:31 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 18:02:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
@@ -47,18 +47,15 @@
       <dc:creator>Paul Sonne</dc:creator>
       <pubDate>Wed, 11 Nov 2026 17:40:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medinsky, Vladimir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Altaf Qadri/Associated Press</media:credit>
       <media:description>Jared Kushner speaking alongside diplomats from the United States and Ukraine on Wednesday in Abu Dhabi, United Arab Emirates.</media:description>
@@ -70,16 +67,35 @@
       <atom:link href="https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html" rel="standout"></atom:link>
       <description>Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.</description>
       <dc:creator>Carlos Barragán</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 15:54:21 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 21:53:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-hcqm/11int-spain-strike-hcqm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emilio Morenatti/Associated Press</media:credit>
-      <media:description>Protesters in Barcelona on Wednesday. Unions said millions of workers would participate in the walkout.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-bplz/11int-spain-strike-bplz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joan Mateu Parra/Associated Press</media:credit>
+      <media:description>A person aims fireworks at police in Barcelona, Spain, during a nationwide general strike on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66</title>
+      <link>https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html" rel="standout"></atom:link>
+      <description>The death of Alexander Darchiev was announced by Russia’s foreign ministry. He was appointed to his post in Washington in 2025, as relations between the Kremlin and the White House warmed.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 21:14:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darchiev, Alexander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/world/11int-Russia-ambassador-top/11int-Russia-ambassador-top-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alexey Maishev/Sputnik, via Associated Press</media:credit>
+      <media:description>A photo provided by Russian state media in 2024 of Alexander Darchiev in Moscow. He died on Thursday, according to the foreign ministry.</media:description>
     </item>
     <item>
       <title>Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy</title>
@@ -88,7 +104,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html" rel="standout"></atom:link>
       <description>That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.</description>
       <dc:creator>David Pierson</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 14:57:07 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 21:24:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -106,6 +122,23 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump, left, and Jensen Huang, right, listening to the Chinese leader, Xi Jinping, during a state dinner at the White House in September.</media:description>
+    </item>
+    <item>
+      <title>Kenya Starts Countdown to End of Ebola Outbreak</title>
+      <link>https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html" rel="standout"></atom:link>
+      <description>The milestone is further evidence that African countries have mostly succeeded in preventing community transmission and isolating the small number of cases that have come in from Congo.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 17:50:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-kenya-ebola-tkpc/11int-kenya-ebola-tkpc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Luis Tato/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Nurses walk into an isolation facility in Nairobi, Kenya, in October.</media:description>
     </item>
     <item>
       <title>On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics</title>
@@ -155,29 +188,29 @@
       <dc:creator>Abdi Latif Dahir</dc:creator>
       <pubDate>Wed, 11 Nov 2026 09:31:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bekaa Valley (Lebanon)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salam, Nawaf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amer Bisat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Berehulak/The New York Times</media:credit>
       <media:description>A fruit vendor at a market in Tyre, Lebanon. Longstanding economic problems have been worsened by strife this year.</media:description>
     </item>
     <item>
-      <title>They’re in Ukraine. Why Do Their Phones Say They’re in Peru?</title>
+      <title>This Defense Makes Drones (and GPS) Think They’re in Peru</title>
       <link>https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html" rel="standout"></atom:link>
       <description>GPS-linked devices have been insisting that Ukrainians are in Lima, the Peruvian capital. The culprit is a jamming system built to thwart Russian airstrikes.</description>
       <dc:creator>Kim Barker and Oleksandra Mykolyshyn</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 10:00:40 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 21:20:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Navigation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Positioning System</category>
@@ -275,72 +308,45 @@
       <media:credit>Nanna Heitmann for The New York Times</media:credit>
     </item>
     <item>
-      <title>In Interview, Sonia Gandhi Recalls Love and Loss in India</title>
-      <link>https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html" rel="standout"></atom:link>
-      <description>In a memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls political battles and the killings of family members.</description>
-      <dc:creator>Elisabeth Bumiller</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 14:41:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Sonia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberation Tigers of Tamil Eelam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Penguin Random House</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Indira</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rahul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rajiv</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nehru, Jawaharlal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Singh, Manmohan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10int-sonia-gandhi-01-gkwb/10int-sonia-gandhi-01-gkwb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
-      <media:description>Sonia Gandhi standing in front of the desk of her late husband and the former prime minister, Rajiv Gandhi, at their residence in New Delhi in November.</media:description>
+      <title>Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago</title>
+      <link>https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html" rel="standout"></atom:link>
+      <description>The ruling, which could affect similar laws in other British Commonwealth countries, has spotlighted a legal system still intertwined with a former colonial power.</description>
+      <dc:creator>Zane Irwin and Prior Beharry</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 23:17:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Trinidad and Tobago</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jason Jones</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-trinidad-law-pfvw/11int-trinidad-law-pfvw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Martin Bernetti/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Caribbean Court of Justice is headquartered in Port of Spain, Trinidad and Tobago. But the country has not made it the final court of appeal.</media:description>
     </item>
     <item>
-      <title>Syria Weighs Sending Troops to Aid Saudi War With Houthis</title>
-      <link>https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html" rel="standout"></atom:link>
-      <description>Syrian reconnaissance teams have visited Saudi Arabia and Yemen ahead of a potential deployment, but a final decision has not been made, officials said.</description>
-      <dc:creator>Raja Abdulrahim</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 16:43:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bakr Alkasem/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Syrian Army soldiers in Qarah, Syria, in August. Saudi Arabia has provided aid and investment as Syria has sought to rebuild from a devastating civil war. </media:description>
-    </item>
-    <item>
-      <title>Kenya Starts Countdown to End of Ebola Outbreak</title>
-      <link>https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html" rel="standout"></atom:link>
-      <description>The milestone is further evidence that African countries have mostly succeeded in preventing community transmission and isolating the small number of cases that haver come in from Congo.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 17:38:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-kenya-ebola-tkpc/11int-kenya-ebola-tkpc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Luis Tato/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Nurses walk into an isolation facility in Nairobi, Kenya, in October.</media:description>
+      <title>A.I. and Market Whiplash</title>
+      <link>https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html" rel="standout"></atom:link>
+      <description>A Times reporter who covers financial markets helps us make sense of tech turbulence.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 20:48:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Stock Exchange</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dow Jones Stock Average</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12int-theworld-midterms-stocks-promo/12int-theworld-midterms-stocks-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>The New York Stock Exchange</media:description>
     </item>
     <item>
       <title>Protesters Throw Projectiles at Biden During Dublin Trip</title>
@@ -349,16 +355,17 @@
       <atom:link href="https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html" rel="standout"></atom:link>
       <description>Video showed demonstrators from a pro-Palestinian protest throwing projectiles at former President Joseph R. Biden Jr. after he attended an event at Trinity College Dublin on Tuesday.</description>
       <dc:creator>Ali Watkins</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 16:56:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <pubDate>Wed, 11 Nov 2026 19:34:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dublin (Ireland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Hunter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Jill Tracy Jacobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Hunter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trinity College (Dublin, Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11xp-biden-topart-01-qkbf/11xp-biden-topart-01-qkbf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Niall Carson/PA, via Associated Press</media:credit>
       <media:description>Former President Joseph R. Biden Jr. in Dublin on Tuesday. </media:description>
@@ -370,18 +377,20 @@
       <atom:link href="https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html" rel="standout"></atom:link>
       <description>President Trump is seeking damages from the British broadcaster over a documentary it conceded was misleadingly edited.</description>
       <dc:creator>Karla Adam</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 16:12:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <pubDate>Wed, 11 Nov 2026 21:14:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Trump: A Second Chance? (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Trump: A Second Chance? (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kuntz, Jeffrey T (1981- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11xp-BBC-jqlf/11xp-BBC-jqlf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joshua Bright for The New York Times</media:credit>
       <media:description>BBC headquarters in London in 2024. President Trump sued the broadcaster over its documentary “Trump: A Second Chance?” which aired a week before the 2024 presidential election. </media:description>
@@ -395,10 +404,10 @@
       <dc:creator>Qasim Nauman</dc:creator>
       <pubDate>Wed, 11 Nov 2026 07:32:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bears</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Attacks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
       <media:content height="1365" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10xp-bear/10xp-bear-mediumSquareAt3X.jpg" width="1365"></media:content>
       <media:credit>Matthew Balcarras</media:credit>
@@ -414,6 +423,7 @@
       <pubDate>Wed, 11 Nov 2026 03:57:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
@@ -470,6 +480,55 @@
       <media:description>Secretary of State Marco Rubio speaking to the reporters at the G7 foreign ministers summit in Paris, on Tuesday.</media:description>
     </item>
     <item>
+      <title>In Interview, Sonia Gandhi Recalls Love and Loss in India</title>
+      <link>https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html" rel="standout"></atom:link>
+      <description>In a memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls political battles and the killings of family members.</description>
+      <dc:creator>Elisabeth Bumiller</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 14:41:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Sonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Belonging: A Journey of Love (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberation Tigers of Tamil Eelam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Indira</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rahul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rajiv</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nehru, Jawaharlal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Singh, Manmohan</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10int-sonia-gandhi-01-gkwb/10int-sonia-gandhi-01-gkwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <media:description>Sonia Gandhi standing in front of the desk of her late husband and the former prime minister, Rajiv Gandhi, at their residence in New Delhi in November.</media:description>
+    </item>
+    <item>
+      <title>Syria Weighs Sending Troops to Aid Saudi War With Houthis</title>
+      <link>https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html" rel="standout"></atom:link>
+      <description>Syrian reconnaissance teams have visited Saudi Arabia and Yemen ahead of a potential deployment, but a final decision has not been made, officials said.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 16:43:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bakr Alkasem/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Syrian Army soldiers in Qarah, Syria, in August. Saudi Arabia has provided aid and investment as Syria has sought to rebuild from a devastating civil war. </media:description>
+    </item>
+    <item>
       <title>Jemima Goldsmith, Russell Brand’s Ex-Partner, Accuses Him of Abuse</title>
       <link>https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html</guid>
@@ -513,12 +572,15 @@
       <atom:link href="https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html" rel="standout"></atom:link>
       <description>The Duchess of Sussex accompanied her husband, Prince Harry, in Brussels at an event about online safety for children.</description>
       <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 23:21:31 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 23:21:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Parliament</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Thomas Wayne (1944- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10meghan-promo-wpgm/10meghan-promo-wpgm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Nicolas Tucat</media:credit>
     </item>
@@ -1114,67 +1176,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/09/multimedia/09int-theworld-election-results-01-jtlq-promo/09int-theworld-election-results-01-jtlq-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lexi Parra/The New York Times</media:credit>
       <media:description>U.S. voters in Maine last week.</media:description>
-    </item>
-    <item>
-      <title>More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport</title>
-      <link>https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html" rel="standout"></atom:link>
-      <description>The National Forest and Wildlife Service of Peru said three people had tried to smuggle the tarantulas, which included a threatened species, into Germany.</description>
-      <dc:creator>Amanda Holpuch</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 18:33:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spiders</category>
-      <category domain="">Tarantulas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Trade and Poaching</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lima (Peru)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="552" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08xp-spiders-04-wvlf/08xp-spiders-04-wvlf-mediumSquareAt3X.jpg" width="552"></media:content>
-      <media:credit>Peruvian National Forest and Wildlife Service, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>The spiders were seized at Jorge Chavéz International Airport in Lima, Peru, after receiving a tip, the authorities said.</media:description>
-    </item>
-    <item>
-      <title>Trains Collide Near Cairo, Killing 4</title>
-      <link>https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html" rel="standout"></atom:link>
-      <description>The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network.</description>
-      <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 23:03:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">al Ayyat (Egypt)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cairo (Egypt)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-egypt-traincrash-qztf/08int-egypt-traincrash-qztf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>At the site of a train collision south of Cairo on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh</title>
-      <link>https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html" rel="standout"></atom:link>
-      <description>The Saudi authorities said no one was hurt after “falling shrapnel” hit the building in Riyadh’s financial district — one of the highest-profile areas targeted by the Houthis.</description>
-      <dc:creator>Vivian Nereim</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 16:52:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/08/world/08int-saudi-attack-fna/08int-saudi-attack-fna-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fayez Nureldine/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Saudi Aramco’s tower in Riyadh, Saudi Arabia, in March.</media:description>
     </item>
   </channel>
 </rss>

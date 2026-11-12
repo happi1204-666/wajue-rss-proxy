@@ -7,10 +7,16 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-11T17:40:38Z</dc:date>
+  <dc:date>2026-11-12T00:02:26Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/nvidia-prepares-to-push-out-ceo-jensen-huang-reports/a-79925002?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/russian-foreign-ministry-says-its-ambassador-to-us-has-died/a-79924829?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/fears-of-rising-antisemitism-in-europe/a-79921783?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/vw-scraps-production-modernization-plan-citing-tough-financial-straits/a-79923597?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/democracy-study-one-quarter-of-germans-want-a-right-wing-authoritarian-dictatorship/a-79922718?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kenya-s-last-ebola-patient-leaves-hospital/a-79921240?maca=en-rss-en-all-1573-rdf"/>
@@ -21,16 +27,10 @@
     <rdf:li rdf:resource="https://www.dw.com/en/tundu-lissu-after-escaping-the-death-penalty-what-does-his-guilty-verdict-mean-for-tanzania-s-democracy/a-79908512?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-only-1-3-of-germans-satisfied-with-state-of-democracy/live-79915066?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/south-korea-bus-causes-large-crash-near-seoul-dozens-hurt/a-79914074?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf"/>
@@ -134,8 +134,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -145,10 +143,64 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/nvidia-prepares-to-push-out-ceo-jensen-huang-reports/a-79925002?maca=en-rss-en-all-1573-rdf">
+  <title>Nvidia prepares to push out CEO Jensen Huang, reports</title>
+  <link>https://www.dw.com/en/nvidia-prepares-to-push-out-ceo-jensen-huang-reports/a-79925002?maca=en-rss-en-all-1573-rdf</link>
+  <description>The board at chipmaker Nvidia is reportedly preparing to oust CEO Jensen Huang, according to US media reports. He has been accused of an affair with an alleged Chinese spy.</description>
+  <dc:date>2026-11-12T00:01:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79925002</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-rdf">
+  <title>Democrat Colom wins Mississippi Senate seat</title>
+  <link>https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-rdf</link>
+  <description>The southern US state of Mississippi has elected its first Black senator in more than 140 years. Democrat Scott Colom has won the seat in a historic upset, according to projections.</description>
+  <dc:date>2026-11-11T23:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79924938</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/russian-foreign-ministry-says-its-ambassador-to-us-has-died/a-79924829?maca=en-rss-en-all-1573-rdf">
+  <title>Russian Foreign Ministry says its ambassador to US has died</title>
+  <link>https://www.dw.com/en/russian-foreign-ministry-says-its-ambassador-to-us-has-died/a-79924829?maca=en-rss-en-all-1573-rdf</link>
+  <description>Russia&apos;s Foreign Ministry has said that Alexander Darchiev died from a chronic illness at the age of 66. The long-time diplomat had been in the Washington post since early 2025.</description>
+  <dc:date>2026-11-11T23:20:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79924829</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf">
+  <title>Spain: Housing crisis prompts general strike, mass nighttime protests</title>
+  <link>https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf</link>
+  <description>Hundreds of thousands of citizens have hit the streets to protest Spain&apos;s housing crisis after millions of union workers staged a general strike. The crisis has triggered snap elections to take place on November 29.</description>
+  <dc:date>2026-11-11T21:58:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79915208</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/fears-of-rising-antisemitism-in-europe/a-79921783?maca=en-rss-en-all-1573-rdf">
+  <title>Fears of rising antisemitism in Europe</title>
+  <link>https://www.dw.com/en/fears-of-rising-antisemitism-in-europe/a-79921783?maca=en-rss-en-all-1573-rdf</link>
+  <description>Holocaust survivor Regina Sluszny commemorates the victims of Auschwitz as Jewish communities across Europe face growing hostility. What does the promise of &quot;Never Again&quot; mean for Jewish life in Europe today?</description>
+  <dc:date>2026-11-11T20:37:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79921783</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/vw-scraps-production-modernization-plan-citing-tough-financial-straits/a-79923597?maca=en-rss-en-all-1573-rdf">
+  <title>VW scraps production modernization plan citing tough financial straits</title>
+  <link>https://www.dw.com/en/vw-scraps-production-modernization-plan-citing-tough-financial-straits/a-79923597?maca=en-rss-en-all-1573-rdf</link>
+  <description>VW has announced that it will scrap large-scale modernization in light of its current economic situation. Employee representatives accuse leadership of putting short-term profits before long-term company viability.</description>
+  <dc:date>2026-11-11T19:06:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79923597</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-rdf">
   <title>Integration of immigrants in Germany: Much has been accomplished but problems remain</title>
   <link>https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-rdf</link>
-  <description>Integration Report: While the integration of people with a migrant background is improving, violent youth remain a problem. This could soon spark political controversy.</description>
+  <description>The Federal office for Migration and Refugees has released a new Integration Report. It found that while the integration of people with a migrant history is improving, violent youth remain a problem.</description>
   <dc:date>2026-11-11T17:30:00Z</dc:date>
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
@@ -211,7 +263,7 @@
  <item rdf:about="https://www.dw.com/en/tundu-lissu-after-escaping-the-death-penalty-what-does-his-guilty-verdict-mean-for-tanzania-s-democracy/a-79908512?maca=en-rss-en-all-1573-rdf">
   <title>Tundu Lissu: After escaping the death penalty, what does his guilty verdict mean for Tanzania&apos;s democracy?</title>
   <link>https://www.dw.com/en/tundu-lissu-after-escaping-the-death-penalty-what-does-his-guilty-verdict-mean-for-tanzania-s-democracy/a-79908512?maca=en-rss-en-all-1573-rdf</link>
-  <description>A treason trial could have meant death by hanging for Tanzanian opposition leader Tundu Lissu. Instead, he now faces four years in prison for incitement to unrest. Ban dissident voices truly be heard in the country?</description>
+  <description>A treason trial could have meant death by hanging for Tanzanian opposition leader Tundu Lissu. Instead, he now faces four years in prison for incitement to unrest. Can voices of dissident truly be heard in the country?</description>
   <dc:date>2026-11-11T13:33:00Z</dc:date>
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
@@ -234,15 +286,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79916290</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf">
-  <title>Spain: Housing crisis prompts general strike</title>
-  <link>https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf</link>
-  <description>Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political debate ahead of Spain&apos;s November 29 elections.</description>
-  <dc:date>2026-11-11T09:11:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79915208</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-rdf">
   <title>DW Science explainer on the default mode network: what your brain does when you aren&apos;t focusing on anything, and why it&apos;s important.</title>
@@ -279,51 +322,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79912634</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/south-korea-bus-causes-large-crash-near-seoul-dozens-hurt/a-79914074?maca=en-rss-en-all-1573-rdf">
-  <title>South Korea bus causes large crash near Seoul, dozens hurt</title>
-  <link>https://www.dw.com/en/south-korea-bus-causes-large-crash-near-seoul-dozens-hurt/a-79914074?maca=en-rss-en-all-1573-rdf</link>
-  <description>The bus triggered a collision involving more than 30 vehicles, including other buses, during rush hour traffic in the South Korean city of Seongnam, just south of Seoul.</description>
-  <dc:date>2026-11-11T04:17:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79914074</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-rdf">
-  <title>Israel: Eisenkot proposes October 7 probe as new Knesset sworn in</title>
-  <link>https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ex-IDF chief Gadi Eisenkot has yet to forge a coalition that would allow him to replace Benjamin Netanyahu, despite the new Knesset being dominated by the critics of the current prime minister.</description>
-  <dc:date>2026-11-11T03:33:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79913636</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf">
-  <title>US Republicans derail push to impeach Defense Secretary Pete Hegseth</title>
-  <link>https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf</link>
-  <description>Pentagon chief Pete Hegseth seems set to survive the impeachment bid launched by maverick Republican lawmaker Thomas Massie, with President Donald Trump praising the outcome of the vote.</description>
-  <dc:date>2026-11-11T02:04:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79913761</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf">
-  <title>US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase</title>
-  <link>https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf</link>
-  <description>US prosecutors claim the three men were planning a &quot;campaign of terror&quot; against Jewish communities and a UK airbase. The Fairford incident prompted the US to pull out its bombers used for operations against Iran.</description>
-  <dc:date>2026-11-10T23:18:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79913543</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf">
-  <title>Former Malaysian leader Najib Razak returns home under royal pardon, but faces a separate 15-year prison sentence</title>
-  <link>https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf</link>
-  <description>Najib Razak has left prison under a royal pardon, prompting a minister to resign in protest. Malaysia&apos;s former leader still faces a separate 15-year sentence over the corruption scandal that brought him down.</description>
-  <dc:date>2026-11-10T20:39:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79913437</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf">
   <title>British counterterrorism police arrest US soldier accused of spying on behalf of Russia</title>
@@ -1251,23 +1249,5 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79649611</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf">
-  <title>Germany&apos;s China calculation shifts as import pressures eclipse export benefits</title>
-  <link>https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf</link>
-  <description>Germany has long resisted tougher action against China, fearing retaliation. But rising pressure on key industries has pushed Berlin to seek stronger EU trade-defense powers to protect its industrial base.</description>
-  <dc:date>2026-10-13T08:47:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79571852</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236?maca=en-rss-en-all-1573-rdf">
-  <title>125 years of Thomas Mann&apos;s &apos;Buddenbrooks&apos;</title>
-  <link>https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236?maca=en-rss-en-all-1573-rdf</link>
-  <description>This over 1,000-page masterpiece offers a panoramic view of society in the 19th century and exposes the collapse of a merchant family: unrecognized sons, disillusioned daughters and the loss of middle-class ideals.</description>
-  <dc:date>2026-10-13T08:09:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>44107236</dwsyn:contentID>
  </item>
 </rdf:RDF>
