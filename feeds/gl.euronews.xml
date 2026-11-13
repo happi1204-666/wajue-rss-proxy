@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Thu, 12 Nov 2026 22:30:30 +0100</lastBuildDate>
-  <pubDate>Thu, 12 Nov 2026 22:30:30 +0100</pubDate>
+  <lastBuildDate>Fri, 13 Nov 2026 00:08:05 +0100</lastBuildDate>
+  <pubDate>Fri, 13 Nov 2026 00:08:05 +0100</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>US: New Congress members pose for traditional photo at Capitol</title>
+   <link>https://www.euronews.com/video/2026/11/13/us-new-congress-members-pose-for-traditional-photo-at-capitol</link>
+   <guid>https://www.euronews.com/video/2026/11/13/us-new-congress-members-pose-for-traditional-photo-at-capitol</guid>
+   <pubDate>Fri, 13 Nov 2026 00:08:05 +0100</pubDate>
+   <description>Newly elected US lawmakers gathered on Capitol Hill on Thursday 12 November for a traditional group photograph ahead of the opening of the 120th Congress. The incoming House members are attending orientation following the November midterm elections.</description>
+  </item>
   <item>
    <title>Huang's exit, AI bubble and financial crisis fears in focus on Web Summit's last day</title>
    <link>https://www.euronews.com/2026/11/12/huangs-exit-ai-bubble-and-financial-crisis-fears-in-focus-on-web-summits-last-day</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/11/12/trumps-upgrade-of-us-led-ai-alliance-runs-into-european-resistance</guid>
    <pubDate>Thu, 12 Nov 2026 10:48:15 +0100</pubDate>
    <description>The US wants to turn Pax Silica, its AI supply chain alliance, into a wider economic security pact, to be endorsed in San Francisco on Sunday. EU countries have raised concerns, citing vague definitions, a terminology clash over superintelligence and risks to their regulatory autonomy.</description>
-  </item>
-  <item>
-   <title>‘New gateway to Antarctica’: World’s southernmost hotel opens in Chile</title>
-   <link>https://www.euronews.com/2026/11/12/new-gateway-to-antarctica-worlds-southernmost-hotel-opens-in-chile</link>
-   <guid>https://www.euronews.com/2026/11/12/new-gateway-to-antarctica-worlds-southernmost-hotel-opens-in-chile</guid>
-   <pubDate>Thu, 12 Nov 2026 10:19:04 +0100</pubDate>
-   <description>Luxury cruise line Silversea has opened The Cormorant at 55 South – a 150-room hotel in Puerto Williams, Chile, where passengers will stay on an Antarctica fly cruise itinerary.</description>
   </item>
  </channel>
 </rss>
