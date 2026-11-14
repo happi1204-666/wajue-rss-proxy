@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 18:57:18 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 18:44:13 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 22:54:08 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 20:36:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -48,7 +48,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html" rel="standout"></atom:link>
       <description>A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.</description>
       <dc:creator>Adam Goldman</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 20:10:37 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 19:23:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
@@ -546,11 +546,10 @@
       <pubDate>Fri, 13 Nov 2026 17:59:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intergovernmental Panel on Climate Change</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antalya (Turkey)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="">COP31</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chris McGrath/Getty Images</media:credit>
