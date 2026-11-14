@@ -7,10 +7,15 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-13T18:39:01Z</dc:date>
+  <dc:date>2026-11-14T00:08:40Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/pope-leo-celebrates-mass-in-his-former-diocese-of-chiclayo-peru/a-79944167?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-leaders-urged-to-act-now-to-stay-ai-competitive-with-us-china/a-79937463?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-s-going-on-with-the-polar-vortex/a-79943105?maca=en-rss-en-all-1573-rdf"/>
@@ -22,15 +27,12 @@
     <rdf:li rdf:resource="https://www.dw.com/en/indonesia-s-wiretapping-scandal-opens-a-political-fault-line/a-79939753?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-nmecha-won-t-repeat-controversial-goal-celebration/a-79937994?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-updates-russia-hit-with-second-car-bomb-attack-in-two-days/live-79937459?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-parliament-agrees-on-debt-laden-2027-budget/live-79936897?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/czechia-braces-for-massive-protest-against-public-media-reform-plans/a-79933533?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-lack-of-money-sink-tfff-rainforest-fund-before-it-even-launches/a-79878673?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-rdf"/>
@@ -136,8 +138,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -147,6 +147,51 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-rdf">
+  <title>FAA issues US national ground stop on all flights</title>
+  <link>https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US federal aviation regulator announced a nationwide ground stop for all airports. Federal officials blamed a communications outage and said technicians are investigating.</description>
+  <dc:date>2026-11-13T22:57:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79945062</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf">
+  <title>Tanker collides with cruise ship on Mississippi in New Orleans</title>
+  <link>https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf</link>
+  <description>A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.</description>
+  <dc:date>2026-11-13T21:31:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79945080</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine updates: EU to send united front to potential peace talks</title>
+  <link>https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.</description>
+  <dc:date>2026-11-13T19:39:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79937459</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf">
+  <title>David Walliams: UK police launch sex offense probe into comedian</title>
+  <link>https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf</link>
+  <description>The &quot;Little Britain&quot; star and &quot;Britain&apos;s Got Talent&quot; judge has been accused of engaging in sexual misconduct and inappropriate behavior towards young women and girls. Walliams denies the allegations.</description>
+  <dc:date>2026-11-13T19:25:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79944161</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/pope-leo-celebrates-mass-in-his-former-diocese-of-chiclayo-peru/a-79944167?maca=en-rss-en-all-1573-rdf">
+  <title>Pope Leo celebrates Mass in his former diocese of Chiclayo, Peru</title>
+  <link>https://www.dw.com/en/pope-leo-celebrates-mass-in-his-former-diocese-of-chiclayo-peru/a-79944167?maca=en-rss-en-all-1573-rdf</link>
+  <description>Over a million people have gathered for Mass with Pope Leo XIV on Friday. The event in northern Peru, where he served as bishop before becoming head of the Catholic Church, is the centerpiece of his South American tour.</description>
+  <dc:date>2026-11-13T18:58:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79944167</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-all-1573-rdf">
   <title>The dangers of revising Europe&apos;s security architecture</title>
   <link>https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-all-1573-rdf</link>
@@ -246,15 +291,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79937994</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/ukraine-updates-russia-hit-with-second-car-bomb-attack-in-two-days/live-79937459?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine updates: Russia hit with second car bomb attack in two days</title>
-  <link>https://www.dw.com/en/ukraine-updates-russia-hit-with-second-car-bomb-attack-in-two-days/live-79937459?maca=en-rss-en-all-1573-rdf</link>
-  <description>A second car bomb in two days exploded in Moscow, targeting an exiled Ukrainian political aide, according to Russian media. Meanwhile, Ukraine and Russia exchanged deadly strikes overnight. DW has more.</description>
-  <dc:date>2026-11-13T10:00:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79937459</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-all-1573-rdf">
   <title>Humanitarian situation in Gaza worsens amid political deadlock</title>
   <link>https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-all-1573-rdf</link>
@@ -300,15 +336,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79878673</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf">
-  <title>US Senate asks Huang, Lutnick to testify on Nvidia</title>
-  <link>https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf</link>
-  <description>Senate Banking Committee Chairman Tim Scott has asked Commerce Secretary Howard Lutnick and former Nvidia chief Jensen Huang to testify, as House Republicans demand closed-door interviews amid national security concerns.</description>
-  <dc:date>2026-11-13T08:02:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79936707</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-rdf">
   <title>Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir</title>
   <link>https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-rdf</link>
@@ -317,15 +344,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79868167</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf">
-  <title>Microsoft rules out &apos;malicious activity&apos; as cause for global outage</title>
-  <link>https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf</link>
-  <description>A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories. The software giant said that it was &quot;not aware&quot; of malicious activity that could have caused the outage.</description>
-  <dc:date>2026-11-13T07:46:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79935611</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf">
   <title>EU leaders tussle over whom to send to Ukraine, Russia peace talks</title>
@@ -1271,23 +1289,5 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79667770</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf">
-  <title>AI-assisted dying? Doris Dörrie&apos;s new film addresses prospect of care robots</title>
-  <link>https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf</link>
-  <description>While the world debates the dangers of artificial intelligence, filmmaker Doris Dörrie explores how humanoid robots could change the way we deal with aging, caregiving and how people choose to die.</description>
-  <dc:date>2026-10-15T13:24:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79659715</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf">
-  <title>Brazil&apos;s elections matter for the planet. This is why</title>
-  <link>https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-rdf</link>
-  <description>Brazil is heading back to the polls, but the impact could be felt worldwide. With the Amazon vital to the health of the planet, the election could help shape its future.</description>
-  <dc:date>2026-10-15T09:52:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79659928</dwsyn:contentID>
  </item>
 </rdf:RDF>

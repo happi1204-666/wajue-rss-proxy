@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 18:34:56 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 18:33:31 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:05:51 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 00:02:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html" rel="standout"></atom:link>
       <description>Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.</description>
       <dc:creator>Adam Rasgon</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 18:26:47 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 21:50:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
@@ -105,13 +105,13 @@
       <media:description>A Cockroach Janta Party protest at the New Delhi airport in June.</media:description>
     </item>
     <item>
-      <title>Europe Haggles Over Who Will Represent It in Talks With Russia</title>
+      <title>Europe Agrees on a Team to Represent It in Talks With Russia</title>
       <link>https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html" rel="standout"></atom:link>
-      <description>After coveting a seat in the Ukraine war discussions, Europe is poised to get one. Deciding who should speak for the continent is its own negotiation.</description>
+      <description>After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.</description>
       <dc:creator>Jeanna Smialek</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 12:33:19 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 22:47:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -330,6 +330,101 @@
       <media:credit>Matthew Abbott for The New York Times</media:credit>
     </item>
     <item>
+      <title>Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert</title>
+      <link>https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html" rel="standout"></atom:link>
+      <description>Leo XIV returned to the city in Peru where he served as bishop for eight years, drawing large crowds who remembered him before he was pope.</description>
+      <dc:creator>Motoko Rich and Mitra Taj</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 22:21:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <media:content height="1612" medium="image" url="https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-chiclayo-wvlk/13int-pope-chiclayo-wvlk-mediumSquareAt3X.jpg" width="1612"></media:content>
+      <media:credit>Pilar Olivares/Reuters</media:credit>
+      <media:description>Pope Leo XIV arriving to celebrate Mass on Friday near Chiclayo, Peru, where he served as a bishop. The stop was part of a 12-day tour of Uruguay, Argentina and Peru. </media:description>
+    </item>
+    <item>
+      <title>How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?</title>
+      <link>https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html" rel="standout"></atom:link>
+      <description>It involved a heating pad, animal fat and a bomb scare. The police are still looking for an Italian man facing extradition on 1970s-era terrorism charges.</description>
+      <dc:creator>Zane Irwin and Lucía Cholakian Herrera</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 23:26:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bertulazzi, Leonardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buenos Aires (Argentina)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moro, Aldo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Red Brigades</category>
+      <media:content height="1160" medium="image" url="https://static01.nyt.com/images/2026/11/13/multimedia/13int-Argentina-fugitive-fzvg/13int-Argentina-fugitive-fzvg-mediumSquareAt3X.jpg" width="1161"></media:content>
+      <media:credit>Natacha Pisarenko/Associated Press</media:credit>
+      <media:description>Leonardo Bertulazzi after being arrested in 2002 in Buenos Aires.</media:description>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa" rel="standout"></atom:link>
+      <description>Trump administration officials blamed a telecommunication outage but said they said did not know its cause.</description>
+      <dc:creator>Karoun Demirjian</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 00:02:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationwide Ground Stops (Aviation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>African Miss Universe Contestants Struggle to Get U.S. Visas</title>
+      <link>https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html" rel="standout"></atom:link>
+      <description>A crackdown on entry by some citizens of African countries by the U.S. immigration officials means that some contestants might not get visas in time to attend the pageant in Puerto Rico this month.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 21:01:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zimbabwe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miss Universe Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/13/multimedia/13int-missuniverse-africa-1-lfwp/13int-missuniverse-africa-1-lfwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chalinee Thirasupa/Reuters</media:credit>
+      <media:description>The Miss Universe organization lists 20 African countries among its contestants in this year’s pageant. At least two participants from the continent said they were struggling to get visas. </media:description>
+    </item>
+    <item>
+      <title>‘Get Focused on London’: How Iran’s Agents Attacked European Targets</title>
+      <link>https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html" rel="standout"></atom:link>
+      <description>A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.</description>
+      <dc:creator>Adam Goldman</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 20:10:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Toby Shepheard/Agence France-Presse — Getty Images</media:credit>
+      <media:description>An arson attempt at a synagogue in London was part of a wave of attempted attacks on Jewish targets in the West that the authorities blamed on Iran and its proxies.</media:description>
+    </item>
+    <item>
       <title>Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks</title>
       <link>https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html</guid>
@@ -356,7 +451,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html" rel="standout"></atom:link>
       <description>The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.</description>
       <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 17:52:16 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 22:30:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -441,16 +536,16 @@
       <atom:link href="https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html" rel="standout"></atom:link>
       <description>The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.</description>
       <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 22:54:20 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 21:04:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Anthony Wallace/Agence France-Presse — Getty Images</media:credit>
       <media:description>Jensen Huang resigned from the company he co-founded, the board announced on Thursday.</media:description>
@@ -540,8 +635,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antalya (Turkey)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Burak Kara/Getty Images</media:credit>
       <media:description>Demonstrators this week at the United Nations climate conference in Antalya, Turkey.</media:description>
@@ -1118,105 +1211,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10int-sonia-gandhi-01-gkwb/10int-sonia-gandhi-01-gkwb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saumya Khandelwal for The New York Times</media:credit>
       <media:description>Sonia Gandhi standing in front of the desk of her late husband and the former prime minister, Rajiv Gandhi, at their residence in New Delhi in November.</media:description>
-    </item>
-    <item>
-      <title>Syria Weighs Sending Troops to Aid Saudi War With Houthis</title>
-      <link>https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html" rel="standout"></atom:link>
-      <description>Syrian reconnaissance teams have visited Saudi Arabia and Yemen ahead of a potential deployment, but a final decision has not been made, officials said.</description>
-      <dc:creator>Raja Abdulrahim</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 16:43:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bakr Alkasem/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Syrian Army soldiers in Qarah, Syria, in August. Saudi Arabia has provided aid and investment as Syria has sought to rebuild from a devastating civil war. </media:description>
-    </item>
-    <item>
-      <title>Jemima Goldsmith, Russell Brand’s Ex-Partner, Accuses Him of Abuse</title>
-      <link>https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html" rel="standout"></atom:link>
-      <description>Ms. Goldsmith, a British TV producer, accused Mr. Brand of “violence” and “coercive control” during their relationship. She made the allegations publicly for the first time after his sentencing for rape and sexual assault.</description>
-      <dc:creator>Karla Adam</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 16:27:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brand, Russell</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Jemima</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10xp-Jemima-top/10xp-Jemima-top-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David M. Benett/Getty Images</media:credit>
-      <media:description>Jemima Goldsmith and Russell Brand in London in 2014, when they dated for about a year.</media:description>
-    </item>
-    <item>
-      <title>Gaza Floods Kill 4</title>
-      <link>https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html" rel="standout"></atom:link>
-      <description>At least four people from one family died and thousands lost their shelters when a storm battered overcrowded tent camps. Israel says Gaza will not be rebuilt until Hamas disarms.</description>
-      <dc:creator>Aaron Boxerman</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 19:24:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza City (Gaza Strip)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10int-gaza-floods-01-tgqc/10int-gaza-floods-01-tgqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Omar Al-Qattaa/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Displaced Palestinians outside their flooded tents in Gaza City on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Meghan Markle Makes First Public Appearance Since Her Father’s Arrest</title>
-      <link>https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html" rel="standout"></atom:link>
-      <description>The Duchess of Sussex accompanied her husband, Prince Harry, in Brussels at an event about online safety for children.</description>
-      <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 23:21:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Parliament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Thomas Wayne (1944- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10meghan-promo-wpgm/10meghan-promo-wpgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Nicolas Tucat</media:credit>
-    </item>
-    <item>
-      <title>What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth</title>
-      <link>https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html" rel="standout"></atom:link>
-      <description>Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.</description>
-      <dc:creator>Tim Balk</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 15:30:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Massie, Thomas H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10pol-massie-topart-pzkw/10pol-massie-topart-pzkw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Representative Thomas Massie, Republican of Kentucky, at the Capitol in September.</media:description>
     </item>
   </channel>
 </rss>
