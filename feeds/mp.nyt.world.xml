@@ -7,13 +7,130 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 06:50:00 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 06:26:20 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:51:41 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 13:36:33 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>A ‘Generational Clash’ Is Fueling Europe’s Protests</title>
+      <link>https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html" rel="standout"></atom:link>
+      <description>As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 05:01:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Julien De Rosa/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Students protesting last month in Paris. France is struggling to maintain both its education sector and its pension payments.</media:description>
+    </item>
+    <item>
+      <title>‘Get Focused on London’: How Iran’s Agents Attacked European Targets</title>
+      <link>https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html" rel="standout"></atom:link>
+      <description>A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.</description>
+      <dc:creator>Adam Goldman</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 20:10:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Toby Shepheard/Agence France-Presse — Getty Images</media:credit>
+      <media:description>An arson attempt at a synagogue in London was part of a wave of attempted attacks on Jewish targets in the West that the authorities blamed on Iran and its proxies.</media:description>
+    </item>
+    <item>
+      <title>Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says</title>
+      <link>https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html" rel="standout"></atom:link>
+      <description>President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.</description>
+      <dc:creator>Kim Barker</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 12:24:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14int-ukraine-starshield-wqlc/14int-ukraine-starshield-wqlc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>A Ukrainian soldier set up a Starlink satellite internet connection near the front line in the Donetsk region of Ukraine last month.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity</title>
+      <link>https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html" rel="standout"></atom:link>
+      <description>Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.</description>
+      <dc:creator>Simon Romero and Isayen Herrera</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 10:10:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Hugo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
+      <media:description>Sunrise over the Cardón Refinery in Punta Cardón, Venezuela. Oil has shaped Venezuela to an extent rare outside the Middle East, becoming a defining feature of the country’s social fabric.</media:description>
+    </item>
+    <item>
+      <title>Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders</title>
+      <link>https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html" rel="standout"></atom:link>
+      <description>Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 05:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guardian (British Newspaper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ITV PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sunday Mirror</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brand, Russell</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Jemima</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Savile, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Timothy, Nicholas (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walliams, David</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14britain-speech-01-mfpg/14britain-speech-01-mfpg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Henry Nicholls/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The British comedian and actor Russell Brand leaving a court in London earlier this month. </media:description>
+    </item>
     <item>
       <title>Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs</title>
       <link>https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html</link>
@@ -203,46 +320,6 @@
       <media:description>Teddy Riner, a judo champion, in 2025. Mr. Riner, one of France’s most popular athletes, announced on Monday that he would run for president. </media:description>
     </item>
     <item>
-      <title>In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks</title>
-      <link>https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html" rel="standout"></atom:link>
-      <description>In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.</description>
-      <dc:creator>Ivan Nechepurenko and Jeanna Smialek</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 07:58:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12int-russia-talks-qwhb/12int-russia-talks-qwhb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Vyacheslav Prokofyev</media:credit>
-      <media:description>In a photo released by Russian state media, President Vladimir V. Putin greeted Jared Kushner and Steve Witkoff in Moscow on Thursday.</media:description>
-    </item>
-    <item>
-      <title>A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.</title>
-      <link>https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html" rel="standout"></atom:link>
-      <description>The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 10:00:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12int-ukraine-avenger-labs-gftk/12int-ukraine-avenger-labs-gftk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mauricio Lima for The New York Times</media:credit>
-      <media:description>A drone strike crew in Ukraine’s Donetsk region last month.</media:description>
-    </item>
-    <item>
       <title>She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time</title>
       <link>https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html</guid>
@@ -265,126 +342,70 @@
       <media:description>Vivir Quintana in Oaxaca.</media:description>
     </item>
     <item>
-      <title>They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them</title>
-      <link>https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html" rel="standout"></atom:link>
-      <description>The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.</description>
-      <dc:creator>Yeganeh Torbati</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 09:45:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assets, Frozen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/00int-iran-confiscations-01-wftz/00int-iran-confiscations-01-wftz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vahid Salemi/Associated Press</media:credit>
-      <media:description>Apartment buildings in northern Tehran. In the wake of the U.S.-Israeli war on Iran, the Iranian government has seized homes and banking accounts connected to outspoken members of the diaspora.</media:description>
-    </item>
-    <item>
-      <title>Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns</title>
-      <link>https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html" rel="standout"></atom:link>
-      <description>Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.</description>
-      <dc:creator>Adam Rasgon and Natan Odenheimer</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 14:43:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jaffa (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shin Bet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abu Shehadeh, Abed</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jess Flom/JNA Press, via Shutterstock</media:credit>
-      <media:description>Abed Abu Shehadeh returns to Jaffa, Israel, after being released from custody on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck</title>
-      <link>https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html" rel="standout"></atom:link>
-      <description>Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.</description>
-      <dc:creator>Victoria Kim and Matthew Abbott</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 06:47:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <title>Geopolitics Looms Over Eurovision, but Not Its Asian Edition</title>
+      <link>https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html" rel="standout"></atom:link>
+      <description>So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.</description>
+      <dc:creator>Dan Watson</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 13:17:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eurovision Song Contest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bougainville (Papua New Guinea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Papua New Guinea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pearl Harbor (Hawaii)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/00int-yamamoto-plane-still-promo-hgkc/00int-yamamoto-plane-still-promo-hgkc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Matthew Abbott for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>A ‘Generational Clash’ Is Fueling Europe’s Protests</title>
-      <link>https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html" rel="standout"></atom:link>
-      <description>As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 05:01:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Julien De Rosa/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Students protesting last month in Paris. France is struggling to maintain both its education sector and its pension payments.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Broadcasting Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia (Georgian Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sarajevo (Bosnia and Herzegovina)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-geopolitics-tgzw/14asia-eurovision-geopolitics-tgzw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Max Slovencik/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A demonstration against Israel’s participation in the Eurovision Song Contest in Vienna, Austria, this year.</media:description>
     </item>
     <item>
-      <title>Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders</title>
-      <link>https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html" rel="standout"></atom:link>
-      <description>Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 05:01:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guardian (British Newspaper)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ITV PLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sunday Mirror</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brand, Russell</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Jemima</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Savile, Jimmy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Timothy, Nicholas (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walliams, David</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14britain-speech-01-mfpg/14britain-speech-01-mfpg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Henry Nicholls/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The British comedian and actor Russell Brand leaving a court in London earlier this month. </media:description>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Francesca Regalado</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 13:36:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Canada, Watching the N.H.L. Has Become Expensive and Cumbersome</title>
+      <link>https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html" rel="standout"></atom:link>
+      <description>Games behind paywalls and exorbitant costs forcing a drop in attendance — even to watch Connor McDavid in Edmonton — have only compounded the loss of a Saturday night ritual.</description>
+      <dc:creator>Shawna Richer</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 11:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hospital for Sick Children</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hockey League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sportsnet (Rogers Media Inc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hockey Night in Canada (TV Program)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14int-canada-letter-wtlb/14int-canada-letter-wtlb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Leila Devlin/Getty Images</media:credit>
+      <media:description>Connor McDavid, left, and Leon Draisaitl have led the Edmonton Oilers to one of the best records in the N.H.L. The Vancouver Canucks have the worst.</media:description>
     </item>
     <item>
       <title>Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert</title>
@@ -432,7 +453,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa" rel="standout"></atom:link>
       <description>Trump administration officials blamed a telecommunication outage but said they said did not know its cause.</description>
       <dc:creator>Karoun Demirjian</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 06:23:24 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:15:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationwide Ground Stops (Aviation)</category>
@@ -464,24 +485,6 @@
       <media:description>The Miss Universe organization lists 20 African countries among its contestants in this year’s pageant. At least two participants from the continent said they were struggling to get visas. </media:description>
     </item>
     <item>
-      <title>‘Get Focused on London’: How Iran’s Agents Attacked European Targets</title>
-      <link>https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html" rel="standout"></atom:link>
-      <description>A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.</description>
-      <dc:creator>Adam Goldman</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 20:10:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Toby Shepheard/Agence France-Presse — Getty Images</media:credit>
-      <media:description>An arson attempt at a synagogue in London was part of a wave of attempted attacks on Jewish targets in the West that the authorities blamed on Iran and its proxies.</media:description>
-    </item>
-    <item>
       <title>Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks</title>
       <link>https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html</guid>
@@ -506,9 +509,9 @@
       <link>https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html" rel="standout"></atom:link>
-      <description>The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.</description>
+      <description>Disruptions to the company’s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.</description>
       <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 22:30:40 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 13:15:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -517,7 +520,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gonzalo Fuentes/Reuters</media:credit>
-      <media:description>Microsoft said it was working to repair its services after a global outage that began on Thursday.</media:description>
+      <media:description>Microsoft on Saturday declared an end to one of its most extensive outages in recent times.</media:description>
     </item>
     <item>
       <title>Why Aid Isn’t Reaching Ebola’s Epicenter</title>
@@ -697,6 +700,89 @@
       <media:description>Demonstrators this week at the United Nations climate conference in Antalya, Turkey.</media:description>
     </item>
     <item>
+      <title>In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks</title>
+      <link>https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html" rel="standout"></atom:link>
+      <description>In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.</description>
+      <dc:creator>Ivan Nechepurenko and Jeanna Smialek</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 07:58:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12int-russia-talks-qwhb/12int-russia-talks-qwhb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Vyacheslav Prokofyev</media:credit>
+      <media:description>In a photo released by Russian state media, President Vladimir V. Putin greeted Jared Kushner and Steve Witkoff in Moscow on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns</title>
+      <link>https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html" rel="standout"></atom:link>
+      <description>Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.</description>
+      <dc:creator>Adam Rasgon and Natan Odenheimer</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 14:43:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jaffa (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shin Bet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abu Shehadeh, Abed</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jess Flom/JNA Press, via Shutterstock</media:credit>
+      <media:description>Abed Abu Shehadeh returns to Jaffa, Israel, after being released from custody on Sunday.</media:description>
+    </item>
+    <item>
+      <title>A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.</title>
+      <link>https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html" rel="standout"></atom:link>
+      <description>The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 10:00:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12int-ukraine-avenger-labs-gftk/12int-ukraine-avenger-labs-gftk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+      <media:description>A drone strike crew in Ukraine’s Donetsk region last month.</media:description>
+    </item>
+    <item>
+      <title>They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them</title>
+      <link>https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html" rel="standout"></atom:link>
+      <description>The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.</description>
+      <dc:creator>Yeganeh Torbati</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 09:45:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assets, Frozen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/00int-iran-confiscations-01-wftz/00int-iran-confiscations-01-wftz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vahid Salemi/Associated Press</media:credit>
+      <media:description>Apartment buildings in northern Tehran. In the wake of the U.S.-Israeli war on Iran, the Iranian government has seized homes and banking accounts connected to outspoken members of the diaspora.</media:description>
+    </item>
+    <item>
       <title>In China’s Spy Operations, Romance Can Be a Long Game</title>
       <link>https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html</guid>
@@ -744,6 +830,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12int-indonesia-vp-mgpj/12int-indonesia-vp-mgpj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bay Ismoyo/Agence France-Presse — Getty Images</media:credit>
       <media:description>Gibran Rakabuming Raka, seen in May in Jakarta, the capital of Indonesia, resigned as the country’s vice president.</media:description>
+    </item>
+    <item>
+      <title>Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck</title>
+      <link>https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html" rel="standout"></atom:link>
+      <description>Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.</description>
+      <dc:creator>Victoria Kim and Matthew Abbott</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 06:47:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bougainville (Papua New Guinea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Papua New Guinea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pearl Harbor (Hawaii)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/00int-yamamoto-plane-still-promo-hgkc/00int-yamamoto-plane-still-promo-hgkc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Matthew Abbott for The New York Times</media:credit>
     </item>
     <item>
       <title>Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say</title>
@@ -1154,73 +1262,6 @@
       <media:content height="1289" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10int-iran-1-bqkj/10int-iran-1-bqkj-mediumSquareAt3X.jpg" width="1289"></media:content>
       <media:credit>Yuki Iwamura/Associated Press</media:credit>
       <media:description>The Immigration and Customs Enforcement flight from Mesa, Ariz., is part of a larger effort to carry out mass deportations.</media:description>
-    </item>
-    <item>
-      <title>No Good Choices on Iran</title>
-      <link>https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html" rel="standout"></atom:link>
-      <description>As top Trump aides clash over a strategy to end the war, the administration is weighing escalation, narrower strikes and diplomacy.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 05:27:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/02/multimedia/11int-theworld-iran-options-01-promo/11int-theworld-iran-options-01-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>In Washington last week.</media:description>
-    </item>
-    <item>
-      <title>US Soldier Is Arrested in UK on Suspicion of Spying for Russia</title>
-      <link>https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html" rel="standout"></atom:link>
-      <description>The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 03:07:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gloucester (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Patel, Kashyap</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scotland Yard (Metropolitan Police Service)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10int-uk-soldier-1-qlpj/10int-uk-soldier-1-qlpj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>The F.B.I. director, Kash Patel, said in a statement, “This F.B.I. has no tolerance for anyone who breaks their oath to the United States and whose actions endanger our national security and that of our partners.”</media:description>
-    </item>
-    <item>
-      <title>Rubio Says ‘Major Combat Operations’ in Iran War Are No Longer Needed</title>
-      <link>https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html" rel="standout"></atom:link>
-      <description>The U.S. secretary of state said that American economic pressure is doing sufficient damage to the leadership in Tehran.</description>
-      <dc:creator>Michael Crowley</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 19:33:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10DC-RUBIO-bjgk/10DC-RUBIO-bjgk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Brendan Smialowski</media:credit>
-      <media:description>Secretary of State Marco Rubio speaking to the reporters at the G7 foreign ministers summit in Paris, on Tuesday.</media:description>
     </item>
   </channel>
 </rss>
