@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-14T13:55:18Z</dc:date>
+  <dc:date>2026-11-14T18:56:02Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-solar-power-production-approaches-record-high/live-79947500?maca=en-rss-en-all-1573-rdf"/>
@@ -20,7 +23,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/espionage-accusations-a-pressure-tactic-for-turkish-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/turkey-uses-espionage-accusations-to-pressure-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-delhi-surpasses-lahore-as-world-s-most-polluted-city/live-79946817?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-rdf"/>
@@ -28,13 +31,10 @@
     <rdf:li rdf:resource="https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/pope-leo-celebrates-mass-in-his-former-diocese-of-chiclayo-peru/a-79944167?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-s-going-on-with-the-polar-vortex/a-79943105?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ice-hockey-russia-threatens-against-canada-and-germany-over-exclusion-from-tournaments/a-79942676?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/cyber-attacks-and-hybrid-warfare-germany-gives-sweeping-powers-to-its-police-and-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ice-hockey-impasse-as-russia-threatens-sanctions-on-canada-germany/a-79942676?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-gives-sweeping-powers-to-police-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-nmecha-won-t-repeat-controversial-goal-celebration/a-79937994?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-parliament-agrees-on-debt-laden-2027-budget/live-79936897?maca=en-rss-en-all-1573-rdf"/>
@@ -148,6 +148,33 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf">
+  <title>Italy slaps Meta with €805mn fine over access to Android photos</title>
+  <link>https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf</link>
+  <description>Italian regulators say Meta accessed photos and multimedia content from Italian users via the Facebook application for Android devices. Meta has not yet commented on the fine or the allegations.</description>
+  <dc:date>2026-11-14T18:41:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79949032</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-rdf">
+  <title>COP31: Protesters, UN urge swift climate deal</title>
+  <link>https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-rdf</link>
+  <description>The UN climate chief has warned that &quot;tactical delays&quot; at the COP31 climate talks in Turkey could prevent a deal to slow global warming.</description>
+  <dc:date>2026-11-14T17:19:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79948501</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf">
+  <title>Werner Holzer Prize awarded to Katja Gloger and DW&apos;s Jaafar Abdul Karim</title>
+  <link>https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf</link>
+  <description>DW journalist Jaafar Abdul Karim and Russia correspondent Katja Gloger have been awarded the prestigious Werner Holzer Prize for international journalism.</description>
+  <dc:date>2026-11-14T15:24:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79946916</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine: Zelenskyy says security deal could go to referendum</title>
   <link>https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf</link>
@@ -169,7 +196,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-solar-power-production-approaches-record-high/live-79947500?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Solar power production approaches record high</title>
   <link>https://www.dw.com/en/germany-news-solar-power-production-approaches-record-high/live-79947500?maca=en-rss-en-all-1573-rdf</link>
-  <description>Solar power output in Germany in 2026 has already surpassed that in all of last year. Meanwhile, experts say the country is headed for a budget crisis. DW has more.</description>
+  <description>Solar power output in Germany in 2026 has already surpassed last year&apos;s total. Meanwhile, experts say the country is headed for a budget crisis. DW has more.</description>
   <dc:date>2026-11-14T11:22:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -229,10 +256,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79946897</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/espionage-accusations-a-pressure-tactic-for-turkish-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf">
-  <title>Espionage accusations: a pressure tactic for Turkish government critics</title>
-  <link>https://www.dw.com/en/espionage-accusations-a-pressure-tactic-for-turkish-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf</link>
-  <description>This week&apos;s arrest of an employee of a German foundation in Istanbul has put focus back on the Erdogan administration&apos;s pressure tactics. The arrest is far from the first of its kind.</description>
+ <item rdf:about="https://www.dw.com/en/turkey-uses-espionage-accusations-to-pressure-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf">
+  <title>Turkey uses espionage accusations to pressure government critics</title>
+  <link>https://www.dw.com/en/turkey-uses-espionage-accusations-to-pressure-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf</link>
+  <description>The arrest of a German foundation&apos;s employee in Istanbul this week has put the focus back on pressure tactics used by the Erdogan administration. The arrest is far from the first of its kind.</description>
   <dc:date>2026-11-14T07:31:00Z</dc:date>
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
@@ -301,33 +328,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79945080</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine updates: Europe to send united front to potential peace talks</title>
-  <link>https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf</link>
-  <description>Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow.</description>
-  <dc:date>2026-11-13T19:39:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79937459</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf">
-  <title>David Walliams: UK police launch sex offense probe into comedian</title>
-  <link>https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf</link>
-  <description>The &quot;Little Britain&quot; star and &quot;Britain&apos;s Got Talent&quot; judge has been accused of engaging in sexual misconduct and inappropriate behavior towards young women and girls. Walliams denies the allegations.</description>
-  <dc:date>2026-11-13T19:25:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79944161</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/pope-leo-celebrates-mass-in-his-former-diocese-of-chiclayo-peru/a-79944167?maca=en-rss-en-all-1573-rdf">
-  <title>Pope Leo celebrates Mass in his former diocese of Chiclayo, Peru</title>
-  <link>https://www.dw.com/en/pope-leo-celebrates-mass-in-his-former-diocese-of-chiclayo-peru/a-79944167?maca=en-rss-en-all-1573-rdf</link>
-  <description>Over a million people have gathered for Mass with Pope Leo XIV on Friday. The event in northern Peru, where he served as bishop before becoming head of the Catholic Church, is the centerpiece of his South American tour.</description>
-  <dc:date>2026-11-13T18:58:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79944167</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-all-1573-rdf">
   <title>The dangers of revising Europe&apos;s security architecture</title>
   <link>https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-all-1573-rdf</link>
@@ -346,18 +346,18 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79943105</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/ice-hockey-russia-threatens-against-canada-and-germany-over-exclusion-from-tournaments/a-79942676?maca=en-rss-en-all-1573-rdf">
-  <title>Ice hockey: Russia threatens against Canada and Germany over exclusion from tournaments</title>
-  <link>https://www.dw.com/en/ice-hockey-russia-threatens-against-canada-and-germany-over-exclusion-from-tournaments/a-79942676?maca=en-rss-en-all-1573-rdf</link>
-  <description>A fortnight after the CAS ordered ice hockey&apos;s governing body to reintegrate Russia into international play, a solution remains elusive. Now Russia has threatened to take legal action against two tournament hosts.</description>
+ <item rdf:about="https://www.dw.com/en/ice-hockey-impasse-as-russia-threatens-sanctions-on-canada-germany/a-79942676?maca=en-rss-en-all-1573-rdf">
+  <title>Ice hockey impasse as Russia threatens sanctions on Canada, Germany</title>
+  <link>https://www.dw.com/en/ice-hockey-impasse-as-russia-threatens-sanctions-on-canada-germany/a-79942676?maca=en-rss-en-all-1573-rdf</link>
+  <description>Two weeks after the CAS ordered ice hockey&apos;s governing body to reintegrate Russia into international play, a solution remains elusive. Now Russia has threatened to take legal action against two tournament hosts.</description>
   <dc:date>2026-11-13T16:02:00Z</dc:date>
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79942676</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/cyber-attacks-and-hybrid-warfare-germany-gives-sweeping-powers-to-its-police-and-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf">
-  <title>Cyber attacks and hybrid warfare: Germany gives sweeping powers to its police and intelligence services</title>
-  <link>https://www.dw.com/en/cyber-attacks-and-hybrid-warfare-germany-gives-sweeping-powers-to-its-police-and-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/germany-gives-sweeping-powers-to-police-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf">
+  <title>Germany gives sweeping powers to police, intelligence services</title>
+  <link>https://www.dw.com/en/germany-gives-sweeping-powers-to-police-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf</link>
   <description>Drone sightings and cyberattacks have heightened security concerns. How are the police preparing to meet these challenges? And how do intelligence services plan to counter threats from both domestic and foreign sources?</description>
   <dc:date>2026-11-13T15:26:00Z</dc:date>
   <dc:subject>Germany</dc:subject>
@@ -376,7 +376,7 @@
  <item rdf:about="https://www.dw.com/en/germany-s-nmecha-won-t-repeat-controversial-goal-celebration/a-79937994?maca=en-rss-en-all-1573-rdf">
   <title>Germany&apos;s Nmecha won&apos;t repeat controversial goal celebration</title>
   <link>https://www.dw.com/en/germany-s-nmecha-won-t-repeat-controversial-goal-celebration/a-79937994?maca=en-rss-en-all-1573-rdf</link>
-  <description>Germany head coach Jürgen Klopp says that midfielder Felix Nmecha will not repeat a goal celebration that sparked controversy over the past week. Germany are set to face Serbia and the Netherlands in the Nations League.</description>
+  <description>Germany head coach Jürgen Klopp has said midfielder Felix Nmecha will not repeat a goal celebration that sparked controversy over the past week. Germany are set to face Serbia and the Netherlands in the Nations League.</description>
   <dc:date>2026-11-13T11:04:00Z</dc:date>
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
