@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 16:43:40 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 16:32:31 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:25:27 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 21:04:21 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html" rel="standout"></atom:link>
       <description>Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.</description>
       <dc:creator>Adam Goldman, Ronen Bergman, Farnaz Fassihi and Hwaida Saad</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 16:32:31 +0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 18:47:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
@@ -48,15 +48,13 @@
       <atom:link href="https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html" rel="standout"></atom:link>
       <description>Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 05:01:10 +0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 17:07:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bears</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Banff National Park (Alberta, Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Banff (Alberta)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hibernation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
     </item>
     <item>
       <title>Iran Attacks Bahrain for the Second Time in Days</title>
@@ -67,29 +65,33 @@
       <dc:creator>Vivian Nereim and Aaron Boxerman</dc:creator>
       <pubDate>Sun, 15 Nov 2026 15:55:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
     </item>
     <item>
-      <title>Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance</title>
+      <title>Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control</title>
       <link>https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html" rel="standout"></atom:link>
-      <description>The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia.</description>
+      <description>It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.</description>
       <dc:creator>Vivian Nereim</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 15:42:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mokha (Yemen)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <pubDate>Sun, 15 Nov 2026 20:37:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiz (Yemen)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mokha (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiz (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ahmad Al-Basha/Agence France-Presse — Getty Images</media:credit>
       <media:description>Saudi-backed Yemeni government fighters during battles west of the city of Taiz, Yemen, last month.</media:description>
@@ -131,21 +133,17 @@
       <dc:creator>Michael D. Shear</dc:creator>
       <pubDate>Sun, 15 Nov 2026 05:01:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Saadi, Mohammad Baqer Saad Dawood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mildenhall Air Base (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Saadi, Mohammad Baqer Saad Dawood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mildenhall Air Base (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14int-uk-europe-security-new-jlpc/14int-uk-europe-security-new-jlpc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hannah McKay/Reuters</media:credit>
@@ -207,11 +205,14 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14int-ukraine-starshield-wqlc/14int-ukraine-starshield-wqlc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>A Ukrainian soldier set up a Starlink satellite internet connection near the front line in the Donetsk region of Ukraine last month.</media:description>
@@ -322,6 +323,29 @@
       <media:credit>Daniel Berehulak/The New York Times</media:credit>
     </item>
     <item>
+      <title>Too Many Chips in One Basket?</title>
+      <link>https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html" rel="standout"></atom:link>
+      <description>The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 20:48:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
+      <media:description>A tech conference in San Jose, Calif., in March.</media:description>
+    </item>
+    <item>
       <title>A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.</title>
       <link>https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html</guid>
@@ -351,10 +375,9 @@
       <pubDate>Sat, 14 Nov 2026 15:27:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eurovision Song Contest</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans Abroad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-fans-001-plbm/14asia-eurovision-fans-001-plbm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lauren DeCicca for The New York Times</media:credit>
       <media:description>Fans gathering ahead of the inaugural Eurovision Song Contest Asia finale on Saturday in Bangkok.</media:description>
@@ -386,13 +409,11 @@
       <atom:link href="https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs" rel="standout"></atom:link>
       <description>While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.</description>
       <dc:creator>Francesca Regalado</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 14:24:17 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 14:24:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eurovision Song Contest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-ballads-kgqm/14asia-eurovision-ballads-kgqm-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -406,30 +427,13 @@
       <atom:link href="https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html" rel="standout"></atom:link>
       <description>So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.</description>
       <dc:creator>Dan Watson</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 03:49:51 +0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 03:49:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eurovision Song Contest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Broadcasting Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia (Georgian Republic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sarajevo (Bosnia and Herzegovina)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-geopolitics-tgzw/14asia-eurovision-geopolitics-tgzw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Max Slovencik/Agence France-Presse — Getty Images</media:credit>
       <media:description>A demonstration against Israel’s participation in the Eurovision Song Contest in Vienna, Austria, this year.</media:description>
@@ -1232,28 +1236,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hussein Faleh/Agence France-Presse — Getty Images</media:credit>
       <media:description>Travelers and vehicles stranded at the Iraqi border with Iran, when the Shalamcheh crossing was temporarily closed in September.</media:description>
-    </item>
-    <item>
-      <title>Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe</title>
-      <link>https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html" rel="standout"></atom:link>
-      <description>As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.</description>
-      <dc:creator>Paul Sonne</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 17:40:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Altaf Qadri/Associated Press</media:credit>
-      <media:description>Jared Kushner speaking alongside diplomats from the United States and Ukraine on Wednesday in Abu Dhabi, United Arab Emirates.</media:description>
     </item>
   </channel>
 </rss>
