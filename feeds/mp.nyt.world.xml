@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 22:54:08 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 20:36:32 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:21:19 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 23:46:33 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -357,9 +357,9 @@
       <link>https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html" rel="standout"></atom:link>
-      <description>China, India, Pakistan, Indonesia and Japan aren’t joining the singing contest. That leave some of the region’s best-known musical cultures out of the mix.</description>
+      <description>China, India, Pakistan, Indonesia and Japan aren’t joining the singing contest. That leaves some of the region’s best-known musical cultures out of the mix.</description>
       <dc:creator>Alex Marshall and Francesca Regalado</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 15:06:40 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 23:46:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eurovision Song Contest</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
@@ -1248,30 +1248,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/09/multimedia/00int-ukraine-lima-zlbc/00int-ukraine-lima-zlbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jędrzej Nowicki for The New York Times</media:credit>
       <media:description>Kyiv, or Lima?</media:description>
-    </item>
-    <item>
-      <title>Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement</title>
-      <link>https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html" rel="standout"></atom:link>
-      <description>Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair.</description>
-      <dc:creator>Abdi Latif Dahir</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 09:31:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bekaa Valley (Lebanon)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salam, Nawaf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniel Berehulak/The New York Times</media:credit>
-      <media:description>A fruit vendor at a market in Tyre, Lebanon. Longstanding economic problems have been worsened by strife this year.</media:description>
     </item>
   </channel>
 </rss>
