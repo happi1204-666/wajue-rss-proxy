@@ -7,64 +7,39 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 09:44:10 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 09:39:53 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:43:40 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 16:32:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage</title>
+      <title>Israel Kidnapped Iranian Generals in Hunt for Ron Arad</title>
       <link>https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html" rel="standout"></atom:link>
-      <description>Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.</description>
+      <description>Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.</description>
       <dc:creator>Adam Goldman, Ronen Bergman, Farnaz Fassihi and Hwaida Saad</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 09:36:59 +0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 16:32:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisoners of War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arad, Ron (1958- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mossad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shin Bet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Quds Force</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ron Arad</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nabi Chit (Lebanon)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Itai Ron/Reuters</media:credit>
       <media:description>At a protest in 2025 in Tel Aviv, supporters of Israeli hostages held captive by Hamas held pictures of the hostages and of Ron Arad, who has been missing since 1986.</media:description>
-    </item>
-    <item>
-      <title>In Europe, an Emboldened Iran Contributes to a Sense of Anxiety</title>
-      <link>https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html" rel="standout"></atom:link>
-      <description>Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 05:01:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Saadi, Mohammad Baqer Saad Dawood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mildenhall Air Base (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14int-uk-europe-security-new-jlpc/14int-uk-europe-security-new-jlpc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hannah McKay/Reuters</media:credit>
-      <media:description>As many as a dozen U.S. military aircraft were evacuated from R.A.F. Mildenhall air base in England this week, with officials saying they had detected an Iran-backed drone plot.</media:description>
     </item>
     <item>
       <title>In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park</title>
@@ -82,6 +57,42 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hibernation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
+    </item>
+    <item>
+      <title>Iran Attacks Bahrain for the Second Time in Days</title>
+      <link>https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html" rel="standout"></atom:link>
+      <description>The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.</description>
+      <dc:creator>Vivian Nereim and Aaron Boxerman</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 15:55:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+    </item>
+    <item>
+      <title>Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance</title>
+      <link>https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html" rel="standout"></atom:link>
+      <description>The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia.</description>
+      <dc:creator>Vivian Nereim</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 15:42:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mokha (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiz (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ahmad Al-Basha/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Saudi-backed Yemeni government fighters during battles west of the city of Taiz, Yemen, last month.</media:description>
     </item>
     <item>
       <title>Is Italy the Model for Europe’s Future?</title>
@@ -112,13 +123,42 @@
       <media:description>Supporters of Giorgia Meloni’s Brothers of Italy party at a rally in Rome before general elections in 2023. Her victory was the first for a party with post-fascist roots since Mussolini.</media:description>
     </item>
     <item>
+      <title>In Europe, an Emboldened Iran Contributes to a Sense of Anxiety</title>
+      <link>https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html" rel="standout"></atom:link>
+      <description>Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 05:01:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Saadi, Mohammad Baqer Saad Dawood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mildenhall Air Base (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Royal Air Force Fairford (Gloucestershire, England, Air Base)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14int-uk-europe-security-new-jlpc/14int-uk-europe-security-new-jlpc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hannah McKay/Reuters</media:credit>
+      <media:description>As many as a dozen U.S. military aircraft were evacuated from R.A.F. Mildenhall air base in England this week, with officials saying they had detected an Iran-backed drone plot.</media:description>
+    </item>
+    <item>
       <title>A ‘Generational Clash’ Is Fueling Europe’s Protests</title>
       <link>https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html" rel="standout"></atom:link>
       <description>As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 18:39:59 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 18:40:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
@@ -282,74 +322,21 @@
       <media:credit>Daniel Berehulak/The New York Times</media:credit>
     </item>
     <item>
-      <title>The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.</title>
-      <link>https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html" rel="standout"></atom:link>
-      <description>Former Israeli and U.S. ambassadors, lawmakers and analysts largely agree on steps Gadi Eisenkot could take if he becomes prime minister. But they are risky.</description>
-      <dc:creator>David M. Halbfinger</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 09:45:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/13/multimedia/13int-Israel-US-Challenge-cfgw/13int-Israel-US-Challenge-cfgw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amir Levy/Getty Images</media:credit>
-      <media:description>Gadi Eisenkot in Jerusalem on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.</title>
-      <link>https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html" rel="standout"></atom:link>
-      <description>From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down.</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 03:16:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Serbia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/01int-Ideas-Meritocracy-01-kgfm/01int-Ideas-Meritocracy-01-kgfm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Atul Loke for The New York Times</media:credit>
-      <media:description>A Cockroach Janta Party protest at the New Delhi airport in June.</media:description>
-    </item>
-    <item>
       <title>A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.</title>
       <link>https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html" rel="standout"></atom:link>
       <description>A concert by the singer Gabito Ballesteros was suspended after he sang songs that supposedly glorify cartel culture. The action has renewed a debate over culture and free speech.</description>
       <dc:creator>James Wagner</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 04:18:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gabito Ballesteros</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <pubDate>Sun, 15 Nov 2026 04:18:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ballesteros, Gabito</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queretaro (Mexico)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Violence (Media and Entertainment)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/12/14/multimedia/14int-mexico-singer-tlfb/14int-mexico-singer-tlfb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fernando Llano/Associated Press</media:credit>
       <media:description>Gabito Ballesteros performing in Mexico City in September.</media:description>
@@ -466,11 +453,9 @@
       <pubDate>Sat, 14 Nov 2026 11:00:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Broadcasting Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hospital for Sick Children</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hockey League</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sportsnet (Rogers Media Inc)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hockey Night in Canada (TV Program)</category>
@@ -659,6 +644,40 @@
       <media:description>Zhang Shengmin, the vice chairman of the Central Military Commission, at a meeting in Beijing on Thursday. He was recently promoted to the Politburo, the Communist Party’s top leadership council.</media:description>
     </item>
     <item>
+      <title>Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.</title>
+      <link>https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html" rel="standout"></atom:link>
+      <description>From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 03:16:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Serbia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/01int-Ideas-Meritocracy-01-kgfm/01int-Ideas-Meritocracy-01-kgfm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Atul Loke for The New York Times</media:credit>
+      <media:description>A Cockroach Janta Party protest at the New Delhi airport in June.</media:description>
+    </item>
+    <item>
       <title>Border Crossings Have Plummeted. Stephen Miller Isn’t Satisfied.</title>
       <link>https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html</guid>
@@ -675,6 +694,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/XXint-mexico-immigration-vgph/XXint-mexico-immigration-vgph-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alejandro Cegarra for The New York Times</media:credit>
       <media:description>The San Ysidro Port of Entry in Tijuana last year, when unlawful border crossings dropped to as low as 150 to 200 per day.</media:description>
+    </item>
+    <item>
+      <title>The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.</title>
+      <link>https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html" rel="standout"></atom:link>
+      <description>Former Israeli and U.S. ambassadors, lawmakers and analysts largely agree on steps Gadi Eisenkot could take if he becomes prime minister. But they are risky.</description>
+      <dc:creator>David M. Halbfinger</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 09:45:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/13/multimedia/13int-Israel-US-Challenge-cfgw/13int-Israel-US-Challenge-cfgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amir Levy/Getty Images</media:credit>
+      <media:description>Gadi Eisenkot in Jerusalem on Tuesday.</media:description>
     </item>
     <item>
       <title>One of France’s Most Popular Athletes Is Running for President</title>
@@ -1217,53 +1254,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Altaf Qadri/Associated Press</media:credit>
       <media:description>Jared Kushner speaking alongside diplomats from the United States and Ukraine on Wednesday in Abu Dhabi, United Arab Emirates.</media:description>
-    </item>
-    <item>
-      <title>Protesters Throw Projectiles at Biden During Dublin Trip</title>
-      <link>https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html" rel="standout"></atom:link>
-      <description>Video showed demonstrators from a pro-Palestinian protest throwing projectiles at former President Joseph R. Biden Jr. after he attended an event at Trinity College Dublin on Tuesday.</description>
-      <dc:creator>Ali Watkins</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 19:34:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dublin (Ireland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Jill Tracy Jacobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Hunter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trinity College (Dublin, Ireland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11xp-biden-topart-01-qkbf/11xp-biden-topart-01-qkbf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Niall Carson/PA, via Associated Press</media:credit>
-      <media:description>Former President Joseph R. Biden Jr. in Dublin on Tuesday. </media:description>
-    </item>
-    <item>
-      <title>Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed</title>
-      <link>https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html" rel="standout"></atom:link>
-      <description>President Trump is seeking damages from the British broadcaster over a documentary it conceded was misleadingly edited.</description>
-      <dc:creator>Karla Adam</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 21:14:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Trump: A Second Chance? (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kuntz, Jeffrey T (1981- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11xp-BBC-jqlf/11xp-BBC-jqlf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joshua Bright for The New York Times</media:credit>
-      <media:description>BBC headquarters in London in 2024. President Trump sued the broadcaster over its documentary “Trump: A Second Chance?” which aired a week before the 2024 presidential election. </media:description>
     </item>
   </channel>
 </rss>
