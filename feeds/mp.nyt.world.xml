@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 21:25:27 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 21:04:21 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:15:16 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 22:43:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -57,6 +57,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
     </item>
     <item>
+      <title>Jordan Sentences 3 to Death Over Greek Orthodox Church Attack</title>
+      <link>https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html" rel="standout"></atom:link>
+      <description>The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 21:33:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Orthodox Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Karak (Jordan)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/15/multimedia/15int-jordan-execution-1-kwqf/15int-jordan-execution-1-kwqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A Jordanian police officer outside a Greek Orthodox church in Karak Province after an attack there last month.</media:description>
+    </item>
+    <item>
       <title>Iran Attacks Bahrain for the Second Time in Days</title>
       <link>https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html</guid>
@@ -78,7 +95,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html" rel="standout"></atom:link>
       <description>It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.</description>
       <dc:creator>Vivian Nereim</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 20:37:52 +0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 21:26:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
@@ -224,7 +241,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html" rel="standout"></atom:link>
       <description>Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.</description>
       <dc:creator>Simon Romero and Isayen Herrera</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 10:10:01 +0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 22:43:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -238,24 +255,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
       <media:description>Sunrise over the Cardón Refinery in Punta Cardón, Venezuela. Oil has shaped Venezuela to an extent rare outside the Middle East, becoming a defining feature of the country’s social fabric.</media:description>
-    </item>
-    <item>
-      <title>South Sudan’s National Election, Its First, Will Be Delayed</title>
-      <link>https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html" rel="standout"></atom:link>
-      <description>Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 16:51:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kiir Mayardit, Salva</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machar, Riek</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Juba (South Sudan)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ed Ram for The New York Times</media:credit>
-      <media:description>President Salva Kiir is the only leader of South Sudan since its independence 15 years ago. Critics say he has eliminated any credible challengers in upcoming elections.</media:description>
     </item>
     <item>
       <title>Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders</title>
@@ -364,6 +363,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/12/14/multimedia/14int-mexico-singer-tlfb/14int-mexico-singer-tlfb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fernando Llano/Associated Press</media:credit>
       <media:description>Gabito Ballesteros performing in Mexico City in September.</media:description>
+    </item>
+    <item>
+      <title>South Sudan’s National Election, Its First, Will Be Delayed</title>
+      <link>https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html" rel="standout"></atom:link>
+      <description>Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 16:51:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kiir Mayardit, Salva</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machar, Riek</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Juba (South Sudan)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ed Ram for The New York Times</media:credit>
+      <media:description>President Salva Kiir is the only leader of South Sudan since its independence 15 years ago. Critics say he has eliminated any credible challengers in upcoming elections.</media:description>
     </item>
     <item>
       <title>Meet the Fans Who Traveled to Bangkok for Eurovision Asia</title>
@@ -1213,29 +1230,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11int-kenya-ebola-tkpc/11int-kenya-ebola-tkpc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Luis Tato/Agence France-Presse — Getty Images</media:credit>
       <media:description>Nurses walk into an isolation facility in Nairobi, Kenya, in October.</media:description>
-    </item>
-    <item>
-      <title>U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors</title>
-      <link>https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html" rel="standout"></atom:link>
-      <description>Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.</description>
-      <dc:creator>Erika Solomon, Eric Schmitt and Tyler Pager</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 18:02:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caspian Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hussein Faleh/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Travelers and vehicles stranded at the Iraqi border with Iran, when the Shalamcheh crossing was temporarily closed in September.</media:description>
     </item>
   </channel>
 </rss>
