@@ -7,14 +7,19 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-16T01:18:52Z</dc:date>
+  <dc:date>2026-11-16T08:17:22Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/ai-in-german-classrooms-fighting-the-great-dumbing-down/a-79949229?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/mozambique-s-justice-under-scrutiny-as-venancio-mondlane-faces-trial/a-79949795?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/goodbye-overtourism-sustainable-travel-gains-ground/a-79934295?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/czechia-thousands-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nearly-1-600-migrants-arrive-on-spain-s-canary-islands-in-one-day/a-79952941?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cape-verde-election-jose-maria-neves-set-to-win-second-term/a-79952606?maca=en-rss-en-all-1573-rdf"/>
@@ -26,11 +31,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-ai-is-likely-to-change-germany-s-job-market/a-79941597?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/spacex-completes-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/wolf-biermann-at-90-the-singer-who-defied-east-germany/a-79915297?maca=en-rss-en-all-1573-rdf"/>
@@ -147,6 +148,51 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/ai-in-german-classrooms-fighting-the-great-dumbing-down/a-79949229?maca=en-rss-en-all-1573-rdf">
+  <title>AI in German classrooms: Fighting the great &apos;dumbing down&apos;</title>
+  <link>https://www.dw.com/en/ai-in-german-classrooms-fighting-the-great-dumbing-down/a-79949229?maca=en-rss-en-all-1573-rdf</link>
+  <description>The research points in one direction: If students aren&apos;t careful about how they use AI-enabled tools, then academic performance can plummet. It&apos;s a huge challenge for teachers.</description>
+  <dc:date>2026-11-16T07:46:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79949229</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/mozambique-s-justice-under-scrutiny-as-venancio-mondlane-faces-trial/a-79949795?maca=en-rss-en-all-1573-rdf">
+  <title>Mozambique&apos;s justice under scrutiny as Venancio Mondlane faces trial</title>
+  <link>https://www.dw.com/en/mozambique-s-justice-under-scrutiny-as-venancio-mondlane-faces-trial/a-79949795?maca=en-rss-en-all-1573-rdf</link>
+  <description>The trial of opposition politician Venancio Mondlane begins in Mozambique on Tuesday. The former presidential candidate is facing five charges, including incitement to terrorism.</description>
+  <dc:date>2026-11-16T07:38:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79949795</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Modi heads to ASEAN meet in Manila</title>
+  <link>https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596?maca=en-rss-en-all-1573-rdf</link>
+  <description>Modi is also likely to attend the Quad leaders&apos; summit involving the US, Japan and Australia on the sidelines of the ASEAN meet in Manila.</description>
+  <dc:date>2026-11-16T06:23:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79954596</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-rdf">
+  <title>Mexican drug lord Felix Gallardo dies at 80</title>
+  <link>https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-rdf</link>
+  <description>Felix Gallardo was considered to be the architect of Mexico&apos;s modern drug-trafficking trade. He died of multiple organ failure at the age of 80.</description>
+  <dc:date>2026-11-16T05:39:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79954351</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-all-1573-rdf">
+  <title>Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites</title>
+  <link>https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-all-1573-rdf</link>
+  <description>A Vulcan rocket suffered an anomaly about 10 minutes after liftoff from Florida, failing to deliver 40 Amazon Leo satellites to orbit. It was the first total mission failure in the company&apos;s history.</description>
+  <dc:date>2026-11-16T04:27:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79953931</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf">
   <title>Yemen: Anti-Houthi forces pull back as rebels advance</title>
   <link>https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf</link>
@@ -174,9 +220,9 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79953300</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf">
-  <title>Czechia: Scores protest against public media reform</title>
-  <link>https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/czechia-thousands-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf">
+  <title>Czechia: Thousands protest against public media reform</title>
+  <link>https://www.dw.com/en/czechia-thousands-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf</link>
   <description>Hundreds of thousands of people gathered to protest against the government&apos;s plan to abolish broadcasting fees. Critics say the nationalist coalition would like to secure control over the media.</description>
   <dc:date>2026-11-15T19:12:00Z</dc:date>
   <dc:subject>News</dc:subject>
@@ -186,7 +232,7 @@
  <item rdf:about="https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf">
   <title>Estonia closes border to Russia after suspected drone factory arson</title>
   <link>https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf</link>
-  <description>Estonia has accused Russia of conducting hybrid warfare after a drone factory was set alight in Viimsi. Now it will close its border crossings at the start of December.</description>
+  <description>Tallinn has accused Russia of conducting hybrid warfare after a drone factory was set alight in Viimsi. Now it will close its border crossings at the start of December.</description>
   <dc:date>2026-11-15T18:29:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -282,24 +328,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79950503</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf">
-  <title>Philippines wins first Eurovision Song Contest Asia</title>
-  <link>https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf</link>
-  <description>Eleven countries took part in the competition in Bangkok. Teenage winner Carmelle Collado&apos;s winning dance song is a tribute to Filipino women.</description>
-  <dc:date>2026-11-14T22:44:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79950050</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/spacex-completes-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf">
-  <title>SpaceX completes first-ever spaceship capture</title>
-  <link>https://www.dw.com/en/spacex-completes-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf</link>
-  <description>The successful recovery of SpaceX&apos;s Starship marks a breakthrough in founder Elon Musk&apos;s goal of developing a fully reusable rocket system.</description>
-  <dc:date>2026-11-14T21:35:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79950275</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf">
   <title>Germany&apos;s 2027 budget: A record €561 billion and a mountain of debt</title>
   <link>https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf</link>
@@ -308,24 +336,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79943216</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf">
-  <title>Nigeria&apos;s upcoming election marred by rising AI disinformation</title>
-  <link>https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf</link>
-  <description>As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?</description>
-  <dc:date>2026-11-14T21:05:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79946897</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf">
-  <title>South Sudan pushes back elections amid violent flare-ups</title>
-  <link>https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf</link>
-  <description>South Sudan has been independent from Sudan since 2011, and has not yet held national elections. Since then, the country faces cycles of violence after a civil war led to a tenuous peace deal.</description>
-  <dc:date>2026-11-14T20:53:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79949622</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf">
   <title>Werner Holzer Prize awarded to Katja Gloger and DW&apos;s Jaafar Abdul Karim</title>
