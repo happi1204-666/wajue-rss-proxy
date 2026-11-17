@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Mon, 16 Nov 2026 21:10:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Nov 2026 17:57:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,23 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Keeping America Out: Revisiting China’s Deterrence Strategy for Taiwan</title>
+		<link>https://warontherocks.com/keeping-america-out-revisiting-chinas-deterrence-strategy-for-taiwan/</link>
+		
+		<dc:creator><![CDATA[Joel Wuthnow]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 18:30:16 +0000</pubDate>
+				<category><![CDATA[Members]]></category>
+		<category><![CDATA[Rewind and Reconnoiter]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48656</guid>
+
+					<description><![CDATA[<p>In 2025, Joel Wuthnow wrote &#8220;How China Could Counter U.S. Intervention in War Over Taiwan,&#8221; arguing that Beijing&#8217;s best option might be to deter Washington from coming to Taiwan&#8217;s aid by raising the risks to the U.S. homeland. A year and a half later, we asked him to revisit that argument.Image: Lance Cpl. Victor GurrolaIn your 2025 article, you argued that debates over a Taiwan conflict focus too heavily on China striking U.S. forces first, when Beijing&#8217;s most attractive option may be keeping the United States out of the fight altogether by threatening the American homeland. From what&#8217;s publicly available</p>
+<p>The post <a href="https://warontherocks.com/keeping-america-out-revisiting-chinas-deterrence-strategy-for-taiwan/">Keeping America Out: Revisiting China’s Deterrence Strategy for Taiwan</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine</title>
 		<link>https://warontherocks.com/cogs-of-war/spending-isnt-deterrence-fixing-germanys-procurement-machine/</link>
 		
@@ -1937,26 +1954,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 		<dc:creator><![CDATA[Jesse Hamilton]]></dc:creator>
-	</item>
-		<item>
-		<title>Seoul Needs a Playbook for Hormuz, Ukraine, and What Comes Next</title>
-		<link>https://warontherocks.com/seoul-needs-a-playbook-for-hormuz-ukraine-and-what-comes-next/</link>
-		
-		<dc:creator><![CDATA[Jun-seok Lee]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 07:30:13 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Iran War 2026]]></category>
-		<category><![CDATA[Russo-Ukrainian War]]></category>
-		<category><![CDATA[South Korea]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=46965</guid>
-
-					<description><![CDATA[<p>Earlier this month, President Donald Trump shared a Washington Post opinion piece on his social media, arguing that South Korea should send its Cheongung-II air-defense system to Ukraine. Additionally, the Trump administration continues to pressure Seoul to send troops to the Strait of Hormuz. Neither the U.S.-Iranian conflict nor the Russo-Ukrainian War is new, yet the simultaneity of U.S. pressure on Seoul to help in its war with Iran and to support Ukraine is striking.While such diverging asks are indeed unprecedented, this is partly due to a lack of principles that stipulate a clear South Korean position. South Korea should</p>
-<p>The post <a href="https://warontherocks.com/seoul-needs-a-playbook-for-hormuz-ukraine-and-what-comes-next/">Seoul Needs a Playbook for Hormuz, Ukraine, and What Comes Next</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Donghyeon Kim]]></dc:creator>
 	</item>
 	</channel>
 </rss>
