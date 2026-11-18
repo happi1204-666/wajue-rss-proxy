@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-17T19:39:06Z</dc:date>
+  <dc:date>2026-11-18T02:05:51Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/deutsche-bank-under-fire-after-internal-documents-made-public/a-79974543?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773?maca=en-rss-en-all-1573-rdf"/>
@@ -29,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/could-the-airbus-€3-billion-loan-row-reignite-a-us-eu-trade-dispute/a-79943075?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/turkish-authorities-raid-opposition-sozcu-news-channel-appoint-new-management/a-79966297?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-plans-for-rwanda-migrant-hub-come-under-fire/live-79965639?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nasa-s-voyager-1-reaches-a-light-day-away-from-earth/a-79961817?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-all-1573-rdf"/>
@@ -97,7 +98,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/norway-s-ice-hockey-team-says-russia-replacing-it-at-world-juniors/a-79901844?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/37-years-after-fall-of-berlin-wall-how-divided-are-germans/a-79877461?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-cdu-names-ilse-aigner-as-candidate-for-president/a-79898143?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters-for-ai-race/a-79898338?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf"/>
@@ -144,7 +144,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -154,6 +153,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf">
+  <title>Nvidia beats Q3 expectations in first report post-Jensen Huang</title>
+  <link>https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf</link>
+  <description>The AI chipmaker said it doubled its third-quarter revenue and confirmed that Jensen Huang would not be reinstated as CEO after a Chinese spy scandal.</description>
+  <dc:date>2026-11-18T00:34:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79975683</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-all-1573-rdf">
+  <title>Hashim Thaci&apos;s second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers</title>
+  <link>https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-all-1573-rdf</link>
+  <description>Former President Hashim Thaci has been convicted of trying to influence witnesses in his war crimes trial. The conviction has reignited debate in Kosovo about the Kosovo Specialist Chambers, the court that convicted him.</description>
+  <dc:date>2026-11-17T20:40:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79975227</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-rdf">
   <title>EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers</title>
   <link>https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-rdf</link>
@@ -315,15 +332,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79965639</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf">
-  <title>What makes &apos;Grand Theft Auto VI&apos; more than just a game?</title>
-  <link>https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf</link>
-  <description>When &quot;GTA VI&quot; is released on November 19, millions of people worldwide will rush to their consoles to play it. How has this video game created such a cross-generational buzz?</description>
-  <dc:date>2026-11-17T10:09:00Z</dc:date>
-  <dc:subject>Technology</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79965822</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-rdf">
   <title>France&apos;s Philippe Diallo to challenge Infantino for FIFA presidency</title>
@@ -928,15 +936,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79877461</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/germany-cdu-names-ilse-aigner-as-candidate-for-president/a-79898143?maca=en-rss-en-all-1573-rdf">
-  <title>Germany: CDU names Ilse Aigner as candidate for president</title>
-  <link>https://www.dw.com/en/germany-cdu-names-ilse-aigner-as-candidate-for-president/a-79898143?maca=en-rss-en-all-1573-rdf</link>
-  <description>The steering committtee of the CDU have announced Bavarian politician Ilse Aigner as presidential candidate. This gives her a good chance of becoming the first woman to occupy the role.</description>
-  <dc:date>2026-11-09T12:11:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79898143</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters-for-ai-race/a-79898338?maca=en-rss-en-all-1573-rdf">
   <title>Why Nvidia CEO&apos;s affair with alleged Chinese spy matters for AI race</title>
   <link>https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters-for-ai-race/a-79898338?maca=en-rss-en-all-1573-rdf</link>
@@ -1350,14 +1349,5 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79697112</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf">
-  <title>The homeless man living in front of a London mega-mansion</title>
-  <link>https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf</link>
-  <description>Anders Fernstedt lives in London without any money. The Swedish native has built a most unusual home under the porch of a house worth over €200 million. How did that happen?</description>
-  <dc:date>2026-10-19T10:38:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79400925</dwsyn:contentID>
  </item>
 </rdf:RDF>

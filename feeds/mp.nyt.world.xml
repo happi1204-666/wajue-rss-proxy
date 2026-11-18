@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 19:39:05 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 19:16:41 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:03:49 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 01:53:51 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit" rel="standout"></atom:link>
       <description>President Trump’s 48-hour trip started with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 18:01:43 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 20:21:27 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-header-zjth/17trump-summits-header-zjth-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump arriving at Ninoy Aquino International Airport in Manila on Tuesday.</media:description>
@@ -102,7 +102,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html" rel="standout"></atom:link>
       <description>As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.</description>
       <dc:creator>Matthew Mpoke Bigg and Arlette Bashizi</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 10:07:56 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 20:44:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
@@ -118,13 +118,13 @@
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
     </item>
     <item>
-      <title>Tracking China’s War of Words Against Japan</title>
+      <title>Tracking China’s Intensifying War of Words Against Japan</title>
       <link>https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html" rel="standout"></atom:link>
       <description>Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.</description>
       <dc:creator>Javier C. Hernández and Gal Koplewitz</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 15:02:05 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 01:02:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
@@ -172,7 +172,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html" rel="standout"></atom:link>
       <description>Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.</description>
       <dc:creator>Marc Santora and James McManagan</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 17:11:53 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 19:41:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kerch Strait Bridge</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -209,7 +209,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html" rel="standout"></atom:link>
       <description>The agreement between Canada and China and the cordial relations on display by their leaders contrast with the current Canada-U.S. relationship.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 17:19:20 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 17:19:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
@@ -320,6 +320,112 @@
       <media:description>President Trump disembarking from Air Force One in Manila on Tuesday.</media:description>
     </item>
     <item>
+      <title>National Book Award Finalist May Be Ineligible for the Prize</title>
+      <link>https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html" rel="standout"></atom:link>
+      <description>The writer Abdelrahman ElGendy was blocked from visiting the United States to attend this year’s National Book Awards ceremony. Though his memoir is a finalist for the nonfiction award, it appears not to qualify.</description>
+      <dc:creator>Ronda Kaysen and Ash Wu</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 01:06:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Book Awards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Huna (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">ElGendy, Abdelrahman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Book Foundation</category>
+    </item>
+    <item>
+      <title>Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?</title>
+      <link>https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html" rel="standout"></atom:link>
+      <description>The leader wants the APEC summit to showcase China’s strengths, but he faces export worries and an unpredictable Trump, who has floated meeting Kim Jong-un.</description>
+      <dc:creator>David Pierson</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 00:12:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DJI Innovations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deng Xiaoping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18int-china-xi-apec-01-hbcz/18int-china-xi-apec-01-hbcz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Maxim Shemetov</media:credit>
+      <media:description>Xi Jinping, China’s leader, at a meeting in Shenzhen, China, on Tuesday. By hosting the APEC summit in the technology hub, Mr. Xi may be hoping to make the case that China’s growth can benefit the world.</media:description>
+    </item>
+    <item>
+      <title>Youssef M. Ibrahim, Who Covered Iran’s Revolution for The Times, Dies at 83</title>
+      <link>https://www.nytimes.com/2026/11/17/world/middleeast/youssef-ibrahim-correspondent-obituary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/middleeast/youssef-ibrahim-correspondent-obituary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/17/world/middleeast/youssef-ibrahim-correspondent-obituary.html" rel="standout"></atom:link>
+      <description>The Egyptian-born correspondent wrote about the Middle East during a time of dizzying transformation, and was expelled by Iran for his coverage.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 23:26:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ibrahim, Youssef M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wall Street Journal</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/17/multimedia/17int-iran-youssef-ibrahim-obit-1-whkt/17int-iran-youssef-ibrahim-obit-1-whkt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
+      <media:description>Youssef M. Ibrahim in 1978.</media:description>
+    </item>
+    <item>
+      <title>Matan Kahana Elected Speaker of Israel’s Parliament</title>
+      <link>https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html" rel="standout"></atom:link>
+      <description>Matan Kahana, a lawmaker from Gadi Eisenkot’s party, will take control of the legislative process as the opposition looks to press Prime Minister Benjamin Netanyahu on multiple fronts.</description>
+      <dc:creator>David M. Halbfinger</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 21:54:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/17/multimedia/17Israel-Knesset-vzcg/17Israel-Knesset-vzcg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
+      <media:description>Matan Kahana, an opposition lawmaker, was elected the speaker of Israel’s Parliament on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Big Money, Existential Risks</title>
+      <link>https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html" rel="standout"></atom:link>
+      <description>Anthropic’s prospectus for its blockbuster I.P.O. this week reads like dystopian science fiction.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 20:39:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18int-theworld-anthropic-ipo-01-pklv-promo/18int-theworld-anthropic-ipo-01-pklv-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Carlos Barria/Reuters</media:credit>
+      <media:description>A tech conference in San Francisco in September.</media:description>
+    </item>
+    <item>
       <title>A.I.’s People-Pleasing Problem</title>
       <link>https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html</guid>
@@ -343,7 +449,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html" rel="standout"></atom:link>
       <description>Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.</description>
       <dc:creator>Vivian Nereim and Nazeeha Saeed</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 18:49:31 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 21:22:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajab, Nabeel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
@@ -433,7 +539,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html" rel="standout"></atom:link>
       <description>Most demonstrators were students who said their government was more focused on its relationship with the United States than helping Filipinos.</description>
       <dc:creator>Jason Gutierrez</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 15:05:32 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 20:21:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manila (Philippines)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -1140,99 +1246,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Banff (Alberta)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-    </item>
-    <item>
-      <title>A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.</title>
-      <link>https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html" rel="standout"></atom:link>
-      <description>A concert by the singer Gabito Ballesteros was suspended after he sang songs that supposedly glorify cartel culture. The action has renewed a debate over culture and free speech.</description>
-      <dc:creator>James Wagner</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 04:18:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ballesteros, Gabito</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queretaro (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Violence (Media and Entertainment)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/12/14/multimedia/14int-mexico-singer-tlfb/14int-mexico-singer-tlfb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fernando Llano/Associated Press</media:credit>
-      <media:description>Gabito Ballesteros performing in Mexico City in September.</media:description>
-    </item>
-    <item>
-      <title>South Sudan’s National Election, Its First, Will Be Delayed</title>
-      <link>https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html" rel="standout"></atom:link>
-      <description>Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 16:51:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kiir Mayardit, Salva</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machar, Riek</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Juba (South Sudan)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ed Ram for The New York Times</media:credit>
-      <media:description>President Salva Kiir is the only leader of South Sudan since its independence 15 years ago. Critics say he has eliminated any credible challengers in upcoming elections.</media:description>
-    </item>
-    <item>
-      <title>Meet the Fans Who Traveled to Bangkok for Eurovision Asia</title>
-      <link>https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html" rel="standout"></atom:link>
-      <description>Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest.</description>
-      <dc:creator>Francesca Regalado</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 15:27:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eurovision Song Contest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-fans-001-plbm/14asia-eurovision-fans-001-plbm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lauren DeCicca for The New York Times</media:credit>
-      <media:description>Fans gathering ahead of the inaugural Eurovision Song Contest Asia finale on Saturday in Bangkok.</media:description>
-    </item>
-    <item>
-      <title>Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan</title>
-      <link>https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html" rel="standout"></atom:link>
-      <description>China, India, Pakistan, Indonesia and Japan didn’t join the singing contest in Bangkok. That left some of the region’s best-known musical cultures out of the mix.</description>
-      <dc:creator>Alex Marshall and Francesca Regalado</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 03:54:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eurovision Song Contest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-no-shows-01-cfgk/14asia-eurovision-no-shows-01-cfgk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lauren DeCicca for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Asian love ballads test Eurovision’s winning song formula.</title>
-      <link>https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs" rel="standout"></atom:link>
-      <description>While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.</description>
-      <dc:creator>Francesca Regalado</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 14:24:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eurovision Song Contest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-ballads-kgqm/14asia-eurovision-ballads-kgqm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chanakarn Laosarakham/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Malaysia’s contestant, Aina Abdul, performing during the preview show in Bangkok on Friday.</media:description>
     </item>
   </channel>
 </rss>
