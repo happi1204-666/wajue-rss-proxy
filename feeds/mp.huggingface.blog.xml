@@ -7,6 +7,30 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
+   <title>Why your fine-tuning job takes longer than the FLOPs say</title>
+   <pubDate>Wed, 18 Nov 2026 18:53:43 GMT</pubDate>
+   <link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
+  </item>
+  <item>
+   <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
+   <pubDate>Wed, 18 Nov 2026 15:00:23 GMT</pubDate>
+   <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
+  </item>
+  <item>
+   <title>180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers</title>
+   <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/moe-expert-streaming</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/moe-expert-streaming</guid>
+  </item>
+  <item>
+   <title>Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
+   <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/rumble-2-flash</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/rumble-2-flash</guid>
+  </item>
+  <item>
    <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
    <link>https://huggingface.co/blog/openrouter</link>
