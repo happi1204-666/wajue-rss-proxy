@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Nov 2026 21:07:54 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Nov 2026 01:27:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,25 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks</title>
+		<link>https://warontherocks.com/the-u-s-chinese-russian-summit-and-the-future-of-trilateral-nuclear-talks/</link>
+		
+		<dc:creator><![CDATA[Tong Zhao]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2026 08:30:27 +0000</pubDate>
+				<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Deterrence]]></category>
+		<category><![CDATA[Diplomacy]]></category>
+		<category><![CDATA[Nuclear Weapons]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48665</guid>
+
+					<description><![CDATA[<p>U.S. President Donald Trump, who has sought nuclear arms control with Russia and China since his first term, may finally have his chance. The first-ever U.S.-Chinese-Russian leaders&#8217; summit is set to take place in Shenzhen, with nuclear issues potentially on the agenda. Regardless of whether the summit yields substantive progress, it could make the prospect of trilateral nuclear arms control seem somewhat less remote than before.&#160;For Beijing, however, the summit&#8217;s symbolism matters most: Washington is finally treating its geopolitical and ideological adversaries as equals in addressing issues of global governance. Discussions among Chinese experts suggest a widespread belief that China&#8217;s</p>
+<p>The post <a href="https://warontherocks.com/the-u-s-chinese-russian-summit-and-the-future-of-trilateral-nuclear-talks/">The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Keeping America Out: Revisiting China’s Deterrence Strategy for Taiwan</title>
 		<link>https://warontherocks.com/keeping-america-out-revisiting-chinas-deterrence-strategy-for-taiwan/</link>
 		
@@ -1936,24 +1955,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 			</item>
-		<item>
-		<title>Winning by the Rules: Optimizing Weapons Reviews in the Age of Technological Innovation</title>
-		<link>https://warontherocks.com/cogs-of-war/winning-by-the-rules-optimizing-weapons-reviews-in-the-age-of-technological-innovation/</link>
-		
-		<dc:creator><![CDATA[Nathan Wood]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 08:00:48 +0000</pubDate>
-				<category><![CDATA[Cogs of War]]></category>
-		<category><![CDATA[Defense Industry]]></category>
-		<category><![CDATA[Defense Policy]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=47028</guid>
-
-					<description><![CDATA[<p>We spare the reader another detailed story from Ukraine to establish the now-familiar point that battlefield technology changes faster than militaries can acquire, review, and field it. The villain in this story is easy to identify: bureaucracy. The fashionable remedies are equally familiar &#8212; cut the red tape slowing procurement, or revise the policy review requirements for autonomous weapon systems. But bureaucratic reform, however necessary, cannot eliminate the fundamental challenges machine-learning-based systems pose for rapid testing, evaluation, validation, and verification. Moreover, legal and operational reasons make it unwise to cut corners on compliance with domestic and international law.Rather than relying</p>
-<p>The post <a href="https://warontherocks.com/cogs-of-war/winning-by-the-rules-optimizing-weapons-reviews-in-the-age-of-technological-innovation/">Winning by the Rules: Optimizing Weapons Reviews in the Age of Technological Innovation</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Jesse Hamilton]]></dc:creator>
-	</item>
 	</channel>
 </rss>
