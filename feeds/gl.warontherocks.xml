@@ -39,6 +39,25 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>The Ground Beneath the Cloud: Dispersion and Dependency in the Digital Age</title>
+		<link>https://warontherocks.com/the-ground-beneath-the-cloud-dispersion-and-dependency-in-the-digital-age/</link>
+		
+		<dc:creator><![CDATA[Alex Rough]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 08:30:45 +0000</pubDate>
+				<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Defense Industry]]></category>
+		<category><![CDATA[Defense Policy]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48661</guid>
+
+					<description><![CDATA[<p>Commercial cloud architecture has made digital infrastructure more resilient to localized disruption. Geographic dispersion, workload migration, and failover have allowed providers to preserve access in instances of degradation or even destruction. Yet, underpinning this resiliency are interlocking dependencies on access to energy, supply chains, and governing bodies that extend well beyond the data centers hosting the commercial cloud. The United States is building digital capacity &#8212; data centers and the underlying systems supporting them &#8212; faster than the governance frameworks needed to orchestrate the public agencies, private operators, and the physical infrastructure on which that capacity depends. These dependencies extend</p>
+<p>The post <a href="https://warontherocks.com/the-ground-beneath-the-cloud-dispersion-and-dependency-in-the-digital-age/">The Ground Beneath the Cloud: Dispersion and Dependency in the Digital Age</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Is Dollar Dominance in Decline?</title>
 		<link>https://warontherocks.com/is-dollar-dominance-in-decline/</link>
 		
@@ -1938,26 +1957,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		
 		
 			</item>
-		<item>
-		<title>The New Signature Wounds: How Drone Warfare Is Reshaping the Injuries Veterans Bring Home</title>
-		<link>https://warontherocks.com/the-new-signature-wounds-how-drone-warfare-is-reshaping-the-injuries-veterans-bring-home/</link>
-		
-		<dc:creator><![CDATA[Robert Chisholm]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 07:15:36 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Drones]]></category>
-		<category><![CDATA[Medicine]]></category>
-		<category><![CDATA[Veterans]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=47072</guid>
-
-					<description><![CDATA[<p>Traumatic brain injury became the signature wound of the post-9/11 wars because the battlefield changed. Improvised explosive devices changed the nature of American combat injuries. But the medical and legal systems that followed &#8212; including the Department of Veterans Affairs&#8217; own adjudication frameworks &#8212; took years to catch up.Drone warfare is doing it again. And the gap between battlefield reality and the systems meant to support veterans may be widening faster than the last time.As a veterans disability appellate law firm, Chisholm Chisholm &#38; Kilpatrick has represented tens of thousands of veterans in situations like this &#8212; instances where the</p>
-<p>The post <a href="https://warontherocks.com/the-new-signature-wounds-how-drone-warfare-is-reshaping-the-injuries-veterans-bring-home/">The New Signature Wounds: How Drone Warfare Is Reshaping the Injuries Veterans Bring Home</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-		<dc:creator><![CDATA[Zachary Stolz]]></dc:creator>
-<dc:creator><![CDATA[Brad Hennings]]></dc:creator>
-	</item>
 	</channel>
 </rss>
