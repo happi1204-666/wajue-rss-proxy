@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-20T08:04:08Z",
+  "updated": "2026-11-20T17:06:30Z",
   "status": {
     "gl.nhk": {
-      "ok": true,
+      "ok": false,
       "name": "NHK World (日本国际台·英文)",
-      "src": "https://news.google.com/rss/search?q=NHK%20World&hl=en-US&gl=US&ceid=US:en",
-      "error": null,
+      "src": null,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests",
       "tried": [
         {
           "url": "https://www3.nhk.or.jp/nhkworld/en/news/rss/news.xml",
@@ -34,8 +34,8 @@
         },
         {
           "url": "https://news.google.com/rss/search?q=NHK%20World&hl=en-US&gl=US&ceid=US:en",
-          "ok": true,
-          "err": null
+          "ok": false,
+          "err": "HTTPError: HTTP Error 429: Too Many Requests"
         }
       ],
       "tags": [
@@ -450,15 +450,20 @@
       ]
     },
     "gn.reuters": {
-      "ok": true,
+      "ok": false,
       "name": "Reuters (Google News 聚合兜底)",
-      "src": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-      "error": null,
+      "src": null,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests",
       "tried": [
         {
           "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-          "ok": true,
-          "err": null
+          "ok": false,
+          "err": "HTTPError: HTTP Error 429: Too Many Requests"
+        },
+        {
+          "url": "https://news.google.com/rss/search?q=Reuters&hl=en-US&gl=US&ceid=US:en",
+          "ok": false,
+          "err": "HTTPError: HTTP Error 429: Too Many Requests"
         }
       ],
       "tags": [
