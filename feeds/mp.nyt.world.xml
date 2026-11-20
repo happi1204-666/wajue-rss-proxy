@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 18:26:46 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 18:09:59 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:50:02 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 00:38:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide" rel="standout"></atom:link>
       <description>Myanmar became the first state held accountable for violating the 1948 Genocide Convention. The ruling by the International Court of Justice could have broad implications.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 17:57:09 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 21:38:11 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-hkzc/19myanmar-icj-hkzc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Lam Yik Fei for The New York Times</media:credit>
     </item>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec" rel="standout"></atom:link>
       <description>The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 18:06:02 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 22:04:42 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
     </item>
@@ -43,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html" rel="standout"></atom:link>
       <description>In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.</description>
       <dc:creator>Jeanna Smialek and Hannah Beech</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 18:09:59 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 18:27:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
@@ -81,13 +81,35 @@
       <media:description>President Vladimir V. Putin of Russia at a trilateral meeting with Xi Jinping, China’s leader, and President Trump in Shenzhen, China, on Thursday.</media:description>
     </item>
     <item>
+      <title>Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza</title>
+      <link>https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html" rel="standout"></atom:link>
+      <description>The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge.</description>
+      <dc:creator>Aaron Boxerman</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 21:17:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Court of Justice (UN)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19int-icj-gaza--qhlj/19int-icj-gaza--qhlj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A Palestinian family watching the International Court of Justice rendering an initial decision in 2024 in a case accusing Israel of genocide in the Gaza Strip. A final decision is still pending.</media:description>
+    </item>
+    <item>
       <title>Life in the Rohingya camps in Bangladesh is becoming more precarious.</title>
       <link>https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj</guid>
       <atom:link href="https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Hannah Beech</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 13:50:10 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 13:50:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Aid</category>
@@ -98,6 +120,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-rohingya-camps-bfcp/19myanmar-icj-rohingya-camps-bfcp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lam Yik Fei for The New York Times</media:credit>
       <media:description>Children on a path between shelters at a refugee camp in Cox’s Bazar, Bangladesh, on Tuesday.</media:description>
@@ -147,13 +170,13 @@
       <media:description>President Vladimir V. Putin of Russia, Xi Jinping, China’s leader, and President Trump held the first formal trilateral meeting of the leaders of the three nations in Shenzhen, China, on Thursday.</media:description>
     </item>
     <item>
-      <title>Drone Hits Dutch Embassy Compound in Kyiv, Ukrainian Officials Say</title>
+      <title>Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv</title>
       <link>https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html" rel="standout"></atom:link>
-      <description>Dutch officials said a projectile hit just behind the embassy compound, and that no one was harmed. Russia launched a wave of attacks into Ukraine’s capital on Thursday.</description>
-      <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 16:21:40 +0000</pubDate>
+      <description>Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head&#34; by her hotel.</description>
+      <dc:creator>Marc Santora and Maria Varenikova</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 18:47:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
@@ -193,7 +216,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html" rel="standout"></atom:link>
       <description>An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities.</description>
       <dc:creator>Vivian Nereim</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 16:17:54 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 18:55:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sovereign Wealth Funds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
@@ -247,26 +270,95 @@
       <media:description>President Abelardo De La Espriella during a military and police event in November in Cúcuta, Colombia.</media:description>
     </item>
     <item>
-      <title>Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests</title>
-      <link>https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html" rel="standout"></atom:link>
-      <description>After a historic result for Israel’s Arab-led parties, Prime Minister Benjamin Netanyahu said the vote was rigged, pointing to the detention of three opposition activists. His chief of staff has admitted being involved with the initial outreach to police.</description>
-      <dc:creator>Aaron Boxerman and Ronen Bergman</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 12:16:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18israel-steal-02-zfbq/18israel-steal-02-zfbq-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
-      <media:description>Prime Minister Benjamin Netanyahu of Israel at the country’s Parliament in Jerusalem on Tuesday. The election has left neither Mr. Netanyahu nor the opposition with a clear path to forming a government.</media:description>
+      <title>4 British Men Convicted of Sexually Assaulting Joanne Young</title>
+      <link>https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html" rel="standout"></atom:link>
+      <description>A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.</description>
+      <dc:creator>Pranav Baskar</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 00:38:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19int-uk-abuse-guilty-lbwt/19int-uk-abuse-guilty-lbwt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jack Taylor/Reuters</media:credit>
+      <media:description>“It’s a relief not just for me and my family — but a relief for what this means for other women in the future,” Joanne Young said after the verdict.</media:description>
+    </item>
+    <item>
+      <title>Unexpected Fallout From the Iran War</title>
+      <link>https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html" rel="standout"></atom:link>
+      <description>Global oil shocks are accelerating the shift to electric vehicles and renewable energy, a new report finds.</description>
+      <dc:creator>Claire Brown</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 21:40:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Grand Theft Auto VI (Video Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19cli-newsletter-energy-lzwh/19cli-newsletter-energy-lzwh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tingshu Wang/Reuters</media:credit>
+      <media:description>A charging station in Hebei Province, China.</media:description>
+    </item>
+    <item>
+      <title>Love and Carjackings in a Video Game</title>
+      <link>https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html" rel="standout"></atom:link>
+      <description>Grand Theft Auto once caused a moral panic. Now, it’s a “signature cultural event.”</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 20:57:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Grand Theft Auto VI (Video Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+    </item>
+    <item>
+      <title>U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company</title>
+      <link>https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html" rel="standout"></atom:link>
+      <description>The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.</description>
+      <dc:creator>Eric Niiler</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 21:05:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metals Company, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>NOAA Ocean Exploration</media:credit>
+      <media:description>A polymetallic nodule field on the abyssal plain off American Samoa, observed at a depth of 3.4 miles during a NOAA expedition in August.</media:description>
+    </item>
+    <item>
+      <title>Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It</title>
+      <link>https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html" rel="standout"></atom:link>
+      <description>President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.</description>
+      <dc:creator>Katie Rogers and David E. Sanger</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 00:14:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Vladimir V. Putin of Russia, President Xi Jinping of China and President Trump before their trilateral meeting in Shenzhen, China, on Thursday. </media:description>
     </item>
     <item>
       <title>At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home</title>
@@ -373,13 +465,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
     </item>
     <item>
-      <title>Some leaders flew private to the APEC summit in Manila, but not Mexico’s president.</title>
+      <title>Some leaders flew private to the APEC summit, but not Mexico’s president.</title>
       <link>https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec</guid>
       <atom:link href="https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec" rel="standout"></atom:link>
       <description>President Claudia Sheinbaum flew commercial, a journey that involved a 15-hour leg. It was a symbol of her government’s commitment to austerity.</description>
       <dc:creator>Yan Zhuang</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 13:37:50 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 18:48:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
@@ -420,7 +512,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/on-nukes-trump-says-its-very-hard-to-give-them-up-its-been-done-before" rel="standout"></atom:link>
       <description></description>
       <dc:creator>David E. Sanger</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 10:41:36 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 10:41:37 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nuclear-02-tpbq/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Vladimir V. Putin of Russia, President Xi Jinping of China and President Trump before their meeting on Thursday in Shenzhen, China.</media:description>
@@ -573,28 +665,53 @@
       <media:description>Emergency services at the scene of a train crash in southern Spain last month. Spaniards are questioning whether the rail network was serviced well enough.</media:description>
     </item>
     <item>
+      <title>Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests</title>
+      <link>https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html" rel="standout"></atom:link>
+      <description>After a historic result for Israel’s Arab-led parties, Prime Minister Benjamin Netanyahu said the vote was rigged, pointing to the detention of three opposition activists. His chief of staff has admitted being involved with the initial outreach to police.</description>
+      <dc:creator>Aaron Boxerman and Ronen Bergman</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 12:16:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18israel-steal-02-zfbq/18israel-steal-02-zfbq-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
+      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
+      <media:description>Prime Minister Benjamin Netanyahu of Israel at the country’s Parliament in Jerusalem on Tuesday. The election has left neither Mr. Netanyahu nor the opposition with a clear path to forming a government.</media:description>
+    </item>
+    <item>
       <title>How the War in Iran Will Remake the Global Energy Order</title>
       <link>https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html" rel="standout"></atom:link>
       <description>The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.</description>
       <dc:creator>Lisa Friedman</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 12:51:17 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 12:51:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Energy Agency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Birol, Fatih</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antalya (Turkey)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tim Gruber for The New York Times</media:credit>
       <media:description>Falling costs of solar panels and battery storage are expected to accelerate the shift to renewable energy, though rising fossil fuel use will offset some of the gains.</media:description>
@@ -700,7 +817,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Katie Rogers, Paul Sonne, David Pierson, Lily Kuo and Leo Sands</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 16:31:57 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 16:31:58 +0000</pubDate>
     </item>
     <item>
       <title>How We Broke Open the Nvidia Investigation</title>
@@ -734,11 +851,14 @@
       <atom:link href="https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html" rel="standout"></atom:link>
       <description>A group of 20 people emerged from the forest and asked for food, an Indigenous peoples’ rights group said, raising fears that environmental degradation had left them with no choice but to reach out.</description>
       <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 16:34:41 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 16:34:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maranhao (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Logging Industry</category>
       <media:content height="1333" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg" width="1333"></media:content>
       <media:credit>Guajajara Indigenous, via Associated Press</media:credit>
       <media:description>An image released by villagers in northeast Brazil purports to show members of the isolated Awá.</media:description>
@@ -895,6 +1015,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yalta (Crimea, Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1123" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18xp-yalta/18xp-yalta-mediumSquareAt3X.jpg" width="1123"></media:content>
       <media:credit>U.S. National Archives, via Reuters</media:credit>
       <media:description>Prime Minister Winston Churchill of Britain, President Franklin D. Roosevelt and the Soviet leader Joseph Stalin at Yalta in February 1945.</media:description>
@@ -907,8 +1028,8 @@
       <description>Young people are protesting for a better world in countries across the globe. Let’s talk about it.</description>
       <dc:creator>Amelia Nierenberg</dc:creator>
       <pubDate>Wed, 18 Nov 2026 14:22:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
@@ -974,126 +1095,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
-    </item>
-    <item>
-      <title>Leaders of China and Japan Meet Amid Political Feud</title>
-      <link>https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html" rel="standout"></atom:link>
-      <description>Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.</description>
-      <dc:creator>Javier C. Hernández and Kiuko Notoya</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 13:46:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18int-xi-takaichi-lcmk/18int-xi-takaichi-lcmk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Iori Sagisawa</media:credit>
-      <media:description>Prime Minister Sanae Takaichi of Japan, left, shakes hands with Xi Jinping, China’s leader, before the welcome banquet at the Asia-Pacific Economic Cooperation summit in Shenzhen, China, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Fried chicken and a chat with an old friend: How Marcos catered to Trump</title>
-      <link>https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump" rel="standout"></atom:link>
-      <description>President Ferdinand R. Marcos Jr. of the Philippines flattered President Trump during his brief visit to Manila. It is unclear what dividends the strategy will yield.</description>
-      <dc:creator>Verena Hölzl, Aie Balagtas See and Jason Gutierrez</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 13:17:06 +0000</pubDate>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/11/18/world/asia/18vid-trump-jollibee-COVER/18vid-trump-jollibee-COVER-mediumSquareAt3X.jpg" width="1080"></media:content>
-      <media:credit>RTVM, via Associated Press</media:credit>
-    </item>
-    <item>
-      <title>Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit</title>
-      <link>https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html" rel="standout"></atom:link>
-      <description>The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 03:58:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18int-canada-carney-wrap-mjhp/18int-canada-carney-wrap-mjhp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ian Austen/The New York Times</media:credit>
-      <media:description>Prime Minister Mark Carney of Canada at a news conference on the sidelines of the APEC summit in Shenzhen, China, on Wednesday,</media:description>
-    </item>
-    <item>
-      <title>Xi Greets Trump on the Tarmac as He Lands in China for APEC Summit</title>
-      <link>https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html" rel="standout"></atom:link>
-      <description>The appearance was the first time Xi Jinping had personally received a foreign dignitary at an airport during more than a decade as China’s leader.</description>
-      <dc:creator>Lily Kuo</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 11:14:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-carousel-zzz-qglk/18trump-summits-carousel-zzz-qglk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump and China’s leader, Xi Jinping, embraced as they met at Shenzhen Bao’an International Airport in Shenzhen, China, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Putin Arrives in Asia With a Show of Force: Nuclear Bombers</title>
-      <link>https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html" rel="standout"></atom:link>
-      <description>Russian military planes flew through the region, prompting Japan and South Korea to scramble jets in response, and drawing complaints from Taiwan.</description>
-      <dc:creator>Paul Sonne and Damien Cave</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 11:08:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cam Ranh Bay (Vietnam)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-    </item>
-    <item>
-      <title>Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says</title>
-      <link>https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html" rel="standout"></atom:link>
-      <description>President Trump plans to discuss Ukraine with the leaders of Russia and China. He has halted some sanctions on Russia and announced that the United States will buy Russian diesel.</description>
-      <dc:creator>Edward Wong, Julian E. Barnes and Jeanna Smialek</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 10:03:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/18dc-trump-putin/28int-ukraine-pipes-grid-hp-02-mgvl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>Ukrainian forces near frontline positions in Ukraine’s eastern Kharkiv region last month.</media:description>
     </item>
   </channel>
 </rss>

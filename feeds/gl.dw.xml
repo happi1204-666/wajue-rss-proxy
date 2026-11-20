@@ -7,12 +7,18 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-19T18:27:53Z</dc:date>
+  <dc:date>2026-11-20T00:50:45Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-pistorius-to-visit-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/price-tag-for-us-war-in-iran-barrels-past-48-billion/a-79998255?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-pistorius-visits-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/no-mention-of-fossil-fuels-in-latest-cop31-draft-deal/a-79992394?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/alexander-zverev-faces-fresh-lawsuit-from-ex-girlfriend/a-79990005?maca=en-rss-en-all-1573-rdf"/>
@@ -25,12 +31,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/south-korea-s-top-court-overturns-jail-term-for-former-pm-han/a-79987912?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-balances-ties-with-china-and-russia-as-trump-ramps-up-pressure/a-79979920?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-nearly-50-000-evacuated-as-cyclone-akvan-nears-the-coast/live-79987334?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-s-allies-attend-coalition-of-the-willing-summit-in-berlin/live-79986520?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/grand-theft-auto-vi-launches-to-global-fanfare/a-79986461?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/borussia-dortmund-bows-to-fan-pressure-and-end-rheinmetall-deal/a-79980121?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/coalition-of-the-willing-meets-in-berlin-europe-remains-committed-to-ukraine/a-79974996?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/has-the-parthenon-puzzle-been-solved-the-long-quest-to-reassemble-lost-eastern-pediment/a-79982098?maca=en-rss-en-all-1573-rdf"/>
@@ -144,8 +145,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/can-germany-revive-its-economy-before-the-far-right-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -155,19 +154,73 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
- <item rdf:about="https://www.dw.com/en/germany-news-pistorius-to-visit-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Pistorius to visit Auschwitz memorial in Poland trip</title>
-  <link>https://www.dw.com/en/germany-news-pistorius-to-visit-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-rdf</link>
-  <description>Germany&apos;s defense minister&apos;s first stop in Poland will be at the memorial site of the former Nazi extermination camp Auschwitz-Birkenau. Follow DW for more.</description>
-  <dc:date>2026-11-19T18:01:00Z</dc:date>
+ <item rdf:about="https://www.dw.com/en/price-tag-for-us-war-in-iran-barrels-past-48-billion/a-79998255?maca=en-rss-en-all-1573-rdf">
+  <title>Price tag for US war in Iran barrels past $48 billion</title>
+  <link>https://www.dw.com/en/price-tag-for-us-war-in-iran-barrels-past-48-billion/a-79998255?maca=en-rss-en-all-1573-rdf</link>
+  <description>A Pentagon budget officer has said the price of the Iran war surpassed $48.3 billion last week. That does not include costs sustained in Iranian attacks on US bases — lawmakers want details the Pentagon is loath to give.</description>
+  <dc:date>2026-11-19T23:22:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79998255</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-all-1573-rdf">
+  <title>New Ukraine talks including Europe to be held &apos;soon&apos; — Merz</title>
+  <link>https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany&apos;s Chancellor Friedrich Merz says European leaders could take part in fresh Ukraine talks on &quot;neutral ground.&quot; The UK and EU countries have urged a seat at the table in meetings between the US, Russia and Ukraine.</description>
+  <dc:date>2026-11-19T23:19:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79997961</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-all-1573-rdf">
+  <title>&apos;Humanitarian mission&apos; for Kostiantynivka: Is it a trap?</title>
+  <link>https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-all-1573-rdf</link>
+  <description>Russian President Putin has proposed an evacuation of the Ukrainian city of Kostiantynivka, like the recent operation in Oleshky. Experts warn this could serve military, not humanitarian, aims. What should Kyiv do?</description>
+  <dc:date>2026-11-19T20:53:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79996772</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-rdf">
+  <title>Uganda minister at COP31: &apos;We need a just transition&apos;</title>
+  <link>https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-rdf</link>
+  <description>Funding from wealthy countries to help deal with the impacts of climate change hasn&apos;t materialized, says Uganda&apos;s environment minister. The East African country is hoping oil and carbon credits will help boost finances.</description>
+  <dc:date>2026-11-19T19:31:00Z</dc:date>
+  <dc:subject>Climate</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79997209</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-news-pistorius-visits-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Pistorius visits Auschwitz memorial in Poland trip</title>
+  <link>https://www.dw.com/en/germany-news-pistorius-visits-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany&apos;s defense minister&apos;s first stop in Poland was the memorial site of the former Nazi extermination camp Auschwitz-Birkenau. Follow DW for more.</description>
+  <dc:date>2026-11-19T18:59:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79987991</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668?maca=en-rss-en-all-1573-rdf">
-  <title>Xi-Trump-Putin summit: What did it achieve?</title>
-  <link>https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668?maca=en-rss-en-all-1573-rdf</link>
-  <description>The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were &quot;making history,&quot; Xi described the talks as &quot;fruitful,&quot; and Putin called them &quot;open and candid.&quot;</description>
+ <item rdf:about="https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-all-1573-rdf">
+  <title>Iraq&apos;s risky standoff: The state vs. Iran-allied militias</title>
+  <link>https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-all-1573-rdf</link>
+  <description>This week, Iraqi security forces surrounded an area run by the Kataib Hezbollah militia. Onlookers describe it as the most dangerous confrontation between the Iraqi state and Iran-allied militias in decades.</description>
+  <dc:date>2026-11-19T18:59:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79995757</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520?maca=en-rss-en-all-1573-rdf">
+  <title>European leaders present united front in push for peace in Ukraine</title>
+  <link>https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520?maca=en-rss-en-all-1573-rdf</link>
+  <description>Talks in Berlin end with reaffirmed support for Kyiv and a concerted push for European representation at future peace talks to end Russia&apos;s invasion of Ukraine.</description>
+  <dc:date>2026-11-19T18:44:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79986520</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-all-1573-rdf">
+  <title>Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?</title>
+  <link>https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-all-1573-rdf</link>
+  <description>The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were &quot;making history,&quot; Xi described the talks as &quot;fruitful&quot; and Putin called them &quot;open and candid.&quot;</description>
   <dc:date>2026-11-19T17:52:00Z</dc:date>
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
@@ -185,7 +238,7 @@
  <item rdf:about="https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-rdf">
   <title>Anthropic trading tests investors&apos; appetite for AI</title>
   <link>https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-rdf</link>
-  <description>Shares in Anthropic have started trading on the Nasdaq after its record $81 billion IPO. Its performance will put investor confidence in AI and the Claude maker&apos;s $1.5 trillion valuation to the test.</description>
+  <description>Anthropic was valued at $2 trillion after shares started trading on the Nasdaq following a record $81 billion IPO. Its performance will put investor confidence in AI to the test.</description>
   <dc:date>2026-11-19T15:52:00Z</dc:date>
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
@@ -281,15 +334,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79987334</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf">
-  <title>What makes &apos;Grand Theft Auto VI&apos; more than just a game?</title>
-  <link>https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf</link>
-  <description>When &quot;GTA VI&quot; is released on November 19, millions of people worldwide will rush to their consoles to play it. How has this video game created such a cross-generational buzz?</description>
-  <dc:date>2026-11-19T07:21:00Z</dc:date>
-  <dc:subject>Technology</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79965822</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf">
   <title>Is the AI bubble bursting just as Anthropic goes public?</title>
   <link>https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf</link>
@@ -298,42 +342,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79896537</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf">
-  <title>Crimean Bridge has been attacked again, Russian official says</title>
-  <link>https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Crimean Bridge has been attacked again, Crimea&apos;s Russian-installed governor said. The attack comes as Vladimir Putin prepares to sit down with Donald Trump and Xi Jinping for joint talks in China.</description>
-  <dc:date>2026-11-19T03:43:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79986700</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ukraine-s-allies-attend-coalition-of-the-willing-summit-in-berlin/live-79986520?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine&apos;s allies attend &apos;Coalition of the Willing&apos; summit in Berlin</title>
-  <link>https://www.dw.com/en/ukraine-s-allies-attend-coalition-of-the-willing-summit-in-berlin/live-79986520?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ukraine&apos;s European backers are convening in Berlin, with US envoys Steve Witkoff and Jared Kushner also set to attend the meeting. Follow the latest.</description>
-  <dc:date>2026-11-19T02:46:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79986520</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-all-1573-rdf">
-  <title>Almost 1 in 4 children live in conflict zones — report</title>
-  <link>https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-all-1573-rdf</link>
-  <description>Denial of humanitarian access, abductions and sexual violence are among several violations against children that have increased dramtically over the past year, according to a new report by Save the Children.</description>
-  <dc:date>2026-11-19T00:34:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79979203</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/grand-theft-auto-vi-launches-to-global-fanfare/a-79986461?maca=en-rss-en-all-1573-rdf">
-  <title>Grand Theft Auto VI launches to global fanfare</title>
-  <link>https://www.dw.com/en/grand-theft-auto-vi-launches-to-global-fanfare/a-79986461?maca=en-rss-en-all-1573-rdf</link>
-  <description>After 13 years of waiting, fans around the world will get to play the latest installment in the blockbuster video game series. In focus: A tale of crime and violence in a fictionalized version of Miami.</description>
-  <dc:date>2026-11-18T23:58:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79986461</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/borussia-dortmund-bows-to-fan-pressure-and-end-rheinmetall-deal/a-79980121?maca=en-rss-en-all-1573-rdf">
   <title>Borussia Dortmund bows to fan pressure and end Rheinmetall deal</title>
@@ -1351,23 +1359,5 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79646422</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/can-germany-revive-its-economy-before-the-far-right-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-rdf">
-  <title>Can Germany revive its economy before the far-right AfD gains ground?</title>
-  <link>https://www.dw.com/en/can-germany-revive-its-economy-before-the-far-right-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-rdf</link>
-  <description>Conflicts, rising costs and Chinese competition are testing Germany&apos;s economic model like never before. Can new growth sectors create jobs and ease voters&apos; economic fears, thereby helping contain the far-right AfD?</description>
-  <dc:date>2026-10-22T09:10:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79696102</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf">
-  <title>Rising emissions and temperatures: The cost of Trump&apos;s climate retreat is now clear</title>
-  <link>https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf</link>
-  <description>The world is set to breach the critical 1.5-degree temperature limit, with Donald Trump&apos;s US withdrawal from climate action worsening the outlook, according to a UN report. But there is a small silver lining.</description>
-  <dc:date>2026-10-21T05:00:00Z</dc:date>
-  <dc:subject>Climate</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79714915</dwsyn:contentID>
  </item>
 </rdf:RDF>
