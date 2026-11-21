@@ -7,34 +7,13 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 12:53:27 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Nov 2026 12:53:05 +0000</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:54:05 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 19:30:17 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
-    <item>
-      <title>On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win</title>
-      <link>https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html" rel="standout"></atom:link>
-      <description>Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 05:01:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abascal, Santiago</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spanish Socialist Workers&#39; Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vox (Spanish Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Popular Party (Spain)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-spain-sanchez-01-clpt/21int-spain-sanchez-01-clpt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Manaure Quintero/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The polls suggest that Prime Minister Pedro Sánchez of Spain, shown at a rally in Tarragona, will lose the election on Nov. 29 after eight years of leading the country.</media:description>
-    </item>
     <item>
       <title>Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts</title>
       <link>https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html</link>
@@ -42,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html" rel="standout"></atom:link>
       <description>The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.</description>
       <dc:creator>Paulina Villegas</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 12:33:33 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 18:57:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -65,13 +44,95 @@
       <media:description>Members of the Mexican Army this year on the outskirts of Culiacán, in the Mexican state of Sinaloa.</media:description>
     </item>
     <item>
+      <title>Catherine, Princess of Wales, Documents Life With Cancer in BBC Film</title>
+      <link>https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html" rel="standout"></atom:link>
+      <description>“Cancer does change you,” Catherine, who is in remission, says in a trailer for the film. It will be released this month.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 14:09:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine, Princess of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Samir Hussein</media:credit>
+      <media:description>Catherine, Princess of Wales, this week in Mumbai, India.</media:description>
+    </item>
+    <item>
+      <title>Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military</title>
+      <link>https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html" rel="standout"></atom:link>
+      <description>The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.</description>
+      <dc:creator>Matina Stevis-Gridneff and Robert Jimison</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 18:53:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGuinty, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rounds, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coons, Christopher A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaine, Timothy M</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gleb Garanich/Reuters</media:credit>
+      <media:description>U.S. and Canadian soldiers during a multinational military exercise in 2019.</media:description>
+    </item>
+    <item>
+      <title>Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?</title>
+      <link>https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html" rel="standout"></atom:link>
+      <description>The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 16:30:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sinaloa (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beltran Leyva</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Drug Enforcement Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-wtk-cjwm/21int-cartel-arrest-wtk-cjwm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yohari Leon/UGC, via Reuters</media:credit>
+      <media:description>Vehicles burning on Friday near Los Mochis, Sinaloa, Mexico, after the announcement of the arrest of a drug lord known as El Chapo Isidro, in a still image from a video on social media.</media:description>
+    </item>
+    <item>
+      <title>On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win</title>
+      <link>https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html" rel="standout"></atom:link>
+      <description>Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 12:54:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spanish Socialist Workers&#39; Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vox (Spanish Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Popular Party (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-spain-sanchez-01-clpt/21int-spain-sanchez-01-clpt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Manaure Quintero/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The polls suggest that Prime Minister Pedro Sánchez of Spain, shown at a rally in Tarragona, will lose the election on Nov. 29 after eight years of leading the country.</media:description>
+    </item>
+    <item>
       <title>In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot</title>
-      <link>https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html" rel="standout"></atom:link>
       <description>Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 05:01:07 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 17:14:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BFM-TV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNews (Canal Plus Sa)</category>
@@ -82,6 +143,23 @@
       <media:description>Viewership for France’s 24-hour television news channels has risen over the two months of dramatic student-led protests.</media:description>
     </item>
     <item>
+      <title>U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again</title>
+      <link>https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html" rel="standout"></atom:link>
+      <description>Major military powers like the United States and Russia expressed strong resistance to binding restrictions.</description>
+      <dc:creator>Nick Cumming-Bruce</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 13:35:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-autonomous-weapons-01-wqzt/21int-autonomous-weapons-01-wqzt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Delegates attending a conference to discuss lethal autonomous weapons at the United Nations in Geneva on Monday.</media:description>
+    </item>
+    <item>
       <title>Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?</title>
       <link>https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html</guid>
@@ -90,19 +168,15 @@
       <dc:creator>Michael D. Shear and Jeanna Smialek</dc:creator>
       <pubDate>Fri, 20 Nov 2026 20:22:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lammy, David</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brussels (Belgium)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-assess-photo1-hwjg/20int-eu-uk-assess-photo1-hwjg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yves Herman/Agence France-Presse — Getty Images</media:credit>
       <media:description>European Commission President Ursula von der Leyen, Prime Minister Andy Burnham of Britain and European Council President António Costa in a show of unity at the EU-UK Summit in Brussels.</media:description>
@@ -228,65 +302,6 @@
       <media:description>Presidents Vladimir V. Putin, Xi Jinping, and Trump in Shenzhen, China, on Thursday, in the first meeting ever held between the three countries’ leaders.</media:description>
     </item>
     <item>
-      <title>Britain Announces Brexit Reset Deal at E.U. Summit: What to Know</title>
-      <link>https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html" rel="standout"></atom:link>
-      <description>Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.</description>
-      <dc:creator>Jeanna Smialek and Michael D. Shear</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 16:50:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sean Gallup/Getty Images</media:credit>
-      <media:description>British Prime Minister Andy Burnham, center, with President of the European Commission Ursula von der Leyen, left, and President of the European Council Antonio Costa, right, at the EU-UK Summit in Brussels on Friday.</media:description>
-    </item>
-    <item>
-      <title>Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank</title>
-      <link>https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html" rel="standout"></atom:link>
-      <description>The wooden gunboat Spitfire was entombed in waters near the Great Barrier Reef after it went down in a cyclone in 1898.</description>
-      <dc:creator>Victoria Kim</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 08:13:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queensland (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Barrier Reef (Australia)</category>
-    </item>
-    <item>
-      <title>Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds</title>
-      <link>https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html" rel="standout"></atom:link>
-      <description>In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.</description>
-      <dc:creator>Jeanna Smialek and Hannah Beech</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 01:37:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Court of Justice (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adam Dean for The New York Times</media:credit>
-      <media:description>Rohingya refugees flee from Myanmar to Bangladesh as villages burn in the background, in 2017.</media:description>
-    </item>
-    <item>
       <title>A Chinese Tech Hub Offers a Peek at the Electric Cars Headed for Canada</title>
       <link>https://www.nytimes.com/2026/11/21/world/canada/carney-china-electric-vehicles-tariffs.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/canada/carney-china-electric-vehicles-tariffs.html</guid>
@@ -322,7 +337,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html" rel="standout"></atom:link>
       <description>The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 11:04:53 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 14:01:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Salt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rock and Stone</category>
@@ -341,7 +356,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html" rel="standout"></atom:link>
       <description>An academy in the Netherlands offers an eight-week, $14,000 program for entry into a gilded world of service. What’s the appeal?</description>
       <dc:creator>Claire Moses and Ilvy Njiokiktjien</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 10:00:53 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 14:17:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
@@ -358,12 +373,13 @@
       <pubDate>Fri, 20 Nov 2026 23:21:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zecler, Michel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/20france-police-01-wclq/20france-police-01-wclq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Benoit Tessier/Reuters</media:credit>
       <media:description>Michel Zecler, a music producer, after the final day of trial of three police officers accused of beating him in 2020, at the Paris criminal court, on Friday.</media:description>
@@ -414,7 +430,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html" rel="standout"></atom:link>
       <description>After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.</description>
       <dc:creator>Mark Colley</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 23:29:24 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 23:29:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Santa Claus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Christmas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
@@ -442,6 +458,43 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Rena Effendi for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank</title>
+      <link>https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html" rel="standout"></atom:link>
+      <description>The wooden gunboat Spitfire was entombed in waters near the Great Barrier Reef after it went down in a cyclone in 1898.</description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 08:13:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queensland (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Barrier Reef (Australia)</category>
+    </item>
+    <item>
+      <title>Britain Announces Brexit Reset Deal at E.U. Summit: What to Know</title>
+      <link>https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html" rel="standout"></atom:link>
+      <description>Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.</description>
+      <dc:creator>Jeanna Smialek and Michael D. Shear</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 16:50:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sean Gallup/Getty Images</media:credit>
+      <media:description>British Prime Minister Andy Burnham, center, with President of the European Commission Ursula von der Leyen, left, and President of the European Council Antonio Costa, right, at the EU-UK Summit in Brussels on Friday.</media:description>
     </item>
     <item>
       <title>4 British Men Convicted of Sexually Assaulting Joanne Young</title>
@@ -569,6 +622,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Vladimir V. Putin of Russia, President Xi Jinping of China and President Trump before their trilateral meeting in Shenzhen, China, on Thursday. </media:description>
+    </item>
+    <item>
+      <title>Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds</title>
+      <link>https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html" rel="standout"></atom:link>
+      <description>In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.</description>
+      <dc:creator>Jeanna Smialek and Hannah Beech</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 01:37:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Court of Justice (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <media:description>Rohingya refugees flee from Myanmar to Bangladesh as villages burn in the background, in 2017.</media:description>
     </item>
     <item>
       <title>At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home</title>
@@ -967,84 +1042,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-preruling-reax-htvm/19myanmar-icj-preruling-reax-htvm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lam Yik Fei for The New York Times</media:credit>
       <media:description>A refugees camp in Cox’s Bazar, Bangladesh, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Jeanna Smialek and Hannah Beech</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 14:09:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Villa Where Trump, Xi and Putin Met Once Hosted Kim Jong-il</title>
-      <link>https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html" rel="standout"></atom:link>
-      <description>The secluded Kylin Villa resort in the Chinese city of Shenzhen once hosted the North Korean dictator, Xi Jinping’s father and envoys of the Dalai Lama.</description>
-      <dc:creator>Lily Kuo</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 10:58:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dalai Lama</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong Il</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lam Wing-kee</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-villa/19trump-summits-villa-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Philippe Lopez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The entrance to Shenzhen’s Kylin Villa resort, in 2008.</media:description>
-    </item>
-    <item>
-      <title>Putin Returns to APEC ‘Family Photo,’ Testing Western Leaders</title>
-      <link>https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html" rel="standout"></atom:link>
-      <description>The leaders of Australia and Canada defended their decision to join the APEC group portrait as a courtesy to the host, China, despite criticism at home.</description>
-      <dc:creator>Victoria Kim</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 06:46:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Albanese, Anthony (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-family-photo-lqjb/19trump-summits-family-photo-lqjb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Greg Baker</media:credit>
-      <media:description>APEC leaders posing for a “family photo” in Shenzhen, China, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>After Deadly Train Crash, Spain Asks: Did It Grow Too Much, Too Quickly?</title>
-      <link>https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html" rel="standout"></atom:link>
-      <description>As an election nears, a railway disaster in Spain has set off debate over whether maintenance of its infrastructure kept pace with its booming population.</description>
-      <dc:creator>Jason Horowitz and Carlos Barragán</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 16:56:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High-Speed Rail Projects</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19int-spain-trains-01-pvbh/19int-spain-trains-01-pvbh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manu Fernandez/Associated Press</media:credit>
-      <media:description>Emergency services at the scene of a train crash in southern Spain last month. Spaniards are questioning whether the rail network was serviced well enough.</media:description>
     </item>
   </channel>
 </rss>
