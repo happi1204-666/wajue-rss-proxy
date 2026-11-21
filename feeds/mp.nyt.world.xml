@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 23:12:14 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 23:05:46 +0000</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2026 04:07:45 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 02:50:14 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -279,6 +279,26 @@
       <media:description>A Palestinian family watching the International Court of Justice rendering an initial decision in 2024 in a case accusing Israel of genocide in the Gaza Strip. A final decision is still pending.</media:description>
     </item>
     <item>
+      <title>White Police Officers Are Convicted of Beating a Black Man in France</title>
+      <link>https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html" rel="standout"></atom:link>
+      <description>The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash.</description>
+      <dc:creator>Ségolène Le Stradic</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 23:21:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zecler, Michel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/20france-police-01-wclq/20france-police-01-wclq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Benoit Tessier/Reuters</media:credit>
+      <media:description>Michel Zecler, a music producer, after the final day of trial of three police officers accused of beating him in 2020, at the Paris criminal court, on Friday.</media:description>
+    </item>
+    <item>
       <title>Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit</title>
       <link>https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html</guid>
@@ -324,7 +344,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html" rel="standout"></atom:link>
       <description>After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.</description>
       <dc:creator>Mark Colley</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 19:23:31 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 23:29:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Santa Claus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Christmas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
@@ -1052,27 +1072,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18int-skorea-exam-klmw/18int-skorea-exam-klmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Kim Hong-Ji</media:credit>
       <media:description>Students had to let proctors inspect their eyeglasses for hidden cameras at an exam hall in Seoul on Thursday.</media:description>
-    </item>
-    <item>
-      <title>India is not in the room in Shenzhen, but it’s watching closely.</title>
-      <link>https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Somini Sengupta</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 01:47:16 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-india-zmwc/18trump-summits-india-zmwc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Prime Minister Narendra Modi of India at the ASEAN-U.S. Summit, in Manila on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Katie Rogers, Paul Sonne, David Pierson, Lily Kuo and Leo Sands</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 16:31:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 23:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 04:08:38 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Can AI really help spot Black Friday deals? We put it to the test]]></title>
+            <description><![CDATA[We put four AI models to the test to see if they could save us money on a new TV.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o#0</guid>
+            <pubDate>Sat, 21 Nov 2026 00:06:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg"/>
+        </item>
         <item>
             <title><![CDATA[In a year of AI solving maths problems, Anthropic may have just solved the biggest]]></title>
             <description><![CDATA[A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time. ]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The seven Anthropic founders who are about to become multi-billionaires]]></title>
-            <description><![CDATA[The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd7159vlr85o#0</guid>
-            <pubDate>Wed, 18 Nov 2026 23:42:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[Video gaming is huge - it's more lucrative than the movies and music combined.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,6 +152,14 @@
         </item>
         <item>
             <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0034tjc#3</guid>
+            <pubDate>Sat, 21 Nov 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
             <description><![CDATA[Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.]]></description>
             <link>https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0034hf1#3</guid>
@@ -173,14 +181,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032n6v#3</guid>
             <pubDate>Sat, 03 Oct 2026 01:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pdn4dw.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech Now]]></title>
-            <description><![CDATA[Ammie Sekhon explores tech used to identify and remove counterfeit products online.]]></description>
-            <link>https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032d9k#3</guid>
-            <pubDate>Sat, 26 Sep 2026 01:00:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg"/>
         </item>
     </channel>
 </rss>
