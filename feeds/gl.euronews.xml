@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Sat, 21 Nov 2026 20:43:32 +0100</lastBuildDate>
-  <pubDate>Sat, 21 Nov 2026 20:43:32 +0100</pubDate>
+  <lastBuildDate>Sun, 22 Nov 2026 00:05:47 +0100</lastBuildDate>
+  <pubDate>Sun, 22 Nov 2026 00:05:47 +0100</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,34 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Ukraine: Dashcam captures massive explosion on Lviv street</title>
+   <link>https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street</link>
+   <guid>https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street</guid>
+   <pubDate>Sun, 22 Nov 2026 00:05:47 +0100</pubDate>
+   <description>A dashcam captured the moment a Russian projectile struck a building directly ahead of a car in Lviv, forcing the driver to reverse. The attack killed two people and injured at least 10 others.</description>
+  </item>
+  <item>
+   <title>Salvage operation under way after cargo ship runs aground off French coast</title>
+   <link>https://www.euronews.com/2026/11/21/salvage-operation-under-way-after-cargo-ship-runs-aground-off-french-coast</link>
+   <guid>https://www.euronews.com/2026/11/21/salvage-operation-under-way-after-cargo-ship-runs-aground-off-french-coast</guid>
+   <pubDate>Sat, 21 Nov 2026 22:55:38 +0100</pubDate>
+   <description>French authorities are racing to prevent a stranded cargo ship from capsizing after it ran aground off the south-western coast. The Maltese-flagged vessel, which is carrying more than 100 tonnes of fuel, poses a potential pollution threat as salvage teams prepare to refloat it.</description>
+  </item>
+  <item>
+   <title>Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade</title>
+   <link>https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade</link>
+   <guid>https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade</guid>
+   <pubDate>Sat, 21 Nov 2026 22:32:51 +0100</pubDate>
+   <description>The “no war, no peace” US-Iran confrontation appears to be moving towards a possible breaking point as Iran increases its military actions in the Gulf and the Strait of Hormuz, while its critical attempt to break the US military naval blockade in the Persian Gulf appears to be imminent.</description>
+  </item>
+  <item>
+   <title>Video shows Mexican forces capturing 'El Chapo Isidro', FBI most-wanted cartel boss</title>
+   <link>https://www.euronews.com/video/2026/11/21/video-shows-mexican-forces-capturing-el-chapo-isidro-fbi-most-wanted-cartel-boss</link>
+   <guid>https://www.euronews.com/video/2026/11/21/video-shows-mexican-forces-capturing-el-chapo-isidro-fbi-most-wanted-cartel-boss</guid>
+   <pubDate>Sat, 21 Nov 2026 21:24:17 +0100</pubDate>
+   <description>Mexican special forces captured drug kingpin Fausto Isidro Meza Flores, known as “Chapo Isidro”, during a raid in Sinaloa, with footage showing soldiers escorting him into an army vehicle.</description>
+  </item>
   <item>
    <title>Thousands take to streets in Portugal, France and Spain over rising living costs</title>
    <link>https://www.euronews.com/2026/11/21/thousands-take-to-streets-in-portugal-france-and-spain-over-rising-living-costs</link>
@@ -72,7 +100,7 @@
    <description>A chef from Thuringia serves the furry pest with red cabbage and dumplings, praising its tender meat. Could it become the new Christmas favourite?</description>
   </item>
   <item>
-   <title>Jair Bolsonaro hospitalised with abdominal pain while under house arrest</title>
+   <title>Brazil ex-president Bolsonaro in intensive care over intestinal problem</title>
    <link>https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest</link>
    <guid>https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest</guid>
    <pubDate>Sat, 21 Nov 2026 15:35:56 +0100</pubDate>
@@ -83,7 +111,7 @@
    <link>https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence</link>
    <guid>https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence</guid>
    <pubDate>Sat, 21 Nov 2026 15:20:35 +0100</pubDate>
-   <description>Fausto Isidro Meza Flores, one of the FBI’s ten most-wanted fugitives, was arrested in a military operation involving US intelligence cooperation. Gunfire, burning vehicles and panic among civilians followed the raid in northern Mexico.</description>
+   <description>Fausto Isidro Meza Flores, one of the FBI’s ten most-wanted fugitives, was arrested in a military operation involving US intelligence cooperation. Gunfire, burning vehicles and panic among civilians followed the raid in northern Mexico. 11 people were killed.</description>
   </item>
   <item>
    <title>Russian cargo ship struck by drones in Gulf of Finland</title>
@@ -336,34 +364,6 @@
    <guid>https://www.euronews.com/video/2026/11/20/italy-workers-and-students-stage-nationwide-strike-over-living-costs</guid>
    <pubDate>Fri, 20 Nov 2026 17:02:20 +0100</pubDate>
    <description>Workers and students marched through Rome, on Friday 20 November 2026, joining a nationwide strike over stagnant wages, rising living costs and government spending priorities. Protesters also demanded more funding for education and criticised military spending.</description>
-  </item>
-  <item>
-   <title>UAE's Lana Nusseibeh pledges ‘relentless diplomacy’ in bid to lead the UN</title>
-   <link>https://www.euronews.com/2026/11/20/uaes-lana-nusseibeh-pledges-relentless-diplomacy-in-bid-to-lead-the-un</link>
-   <guid>https://www.euronews.com/2026/11/20/uaes-lana-nusseibeh-pledges-relentless-diplomacy-in-bid-to-lead-the-un</guid>
-   <pubDate>Fri, 20 Nov 2026 16:43:24 +0100</pubDate>
-   <description>Lana Nusseibeh, the Emirati star diplomat running to succeed António Guterres, told Euronews the UN must return to its core purpose of peace, development, and prosperity. She has pledged relentless diplomacy, a leaner UN judged on results, and early action on wars from Ukraine to Gaza if chosen.</description>
-  </item>
-  <item>
-   <title>From Tashkent to Amman: Books and Universities Bring Uzbekistan and Jordan Closer Together</title>
-   <link>https://www.euronews.com/2026/11/20/from-tashkent-to-amman-books-and-universities-bring-uzbekistan-and-jordan-closer-together</link>
-   <guid>https://www.euronews.com/2026/11/20/from-tashkent-to-amman-books-and-universities-bring-uzbekistan-and-jordan-closer-together</guid>
-   <pubDate>Fri, 20 Nov 2026 16:40:50 +0100</pubDate>
-   <description>Uzbekistan and Jordan deepen ties through book launches, academic conferences and university partnerships, highlighting reforms and shared cultural heritage.</description>
-  </item>
-  <item>
-   <title>EU Commission partially clears Hungary’s €10bn recovery fund payment after rule of law reforms</title>
-   <link>https://www.euronews.com/2026/11/20/eu-commission-partially-clears-hungarys-10bn-recovery-fund-payment-after-rule-of-law-refor</link>
-   <guid>https://www.euronews.com/2026/11/20/eu-commission-partially-clears-hungarys-10bn-recovery-fund-payment-after-rule-of-law-refor</guid>
-   <pubDate>Fri, 20 Nov 2026 16:20:09 +0100</pubDate>
-   <description>The European Commission says Budapest has met all but one of the conditions for the full €10bn payment. The financial penalty for the missing milestone is expected to be “minimal”, sources told Euronews.</description>
-  </item>
-  <item>
-   <title>Ukraine: Rescue teams search wreckage after deadly Russian strike on Kyiv</title>
-   <link>https://www.euronews.com/video/2026/11/20/ukraine-rescue-teams-search-wreckage-after-deadly-russian-strike-on-kyiv</link>
-   <guid>https://www.euronews.com/video/2026/11/20/ukraine-rescue-teams-search-wreckage-after-deadly-russian-strike-on-kyiv</guid>
-   <pubDate>Fri, 20 Nov 2026 16:12:40 +0100</pubDate>
-   <description>A Russian overnight attack on Kyiv, Ukraine, killed eight people on Friday 20 November 2026, according to Associated Press, leaving buildings and warehouses damaged across the capital. Firefighters battled blazes as emergency crews searched the wreckage and police collected evidence.</description>
   </item>
  </channel>
 </rss>
