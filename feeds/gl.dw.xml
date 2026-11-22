@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-22T00:05:25Z</dc:date>
+  <dc:date>2026-11-22T07:14:12Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/getting-rid-of-antibiotic-resistance-challenges-and-possible-solutions/a-80010693?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf"/>
@@ -19,18 +21,16 @@
     <rdf:li rdf:resource="https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-nepal-pm-balendra-shah-to-arrive-in-delhi-for-first-visit/live-80008104?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-anti-migrant-activist-jailed-for-slashing-channel-dinghy/a-80007576?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cop31-no-agreement-on-climate-science-disinformation-spreading/a-80004894?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/has-the-parthenon-puzzle-been-solved-the-long-quest-to-reassemble-lost-eastern-pediment/a-79982098?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/better-educated-than-ever-yet-germany-s-gen-z-is-being-shut-out-of-its-own-future/a-80005823?maca=en-rss-en-all-1573-rdf"/>
@@ -160,6 +160,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-rdf">
+  <title>Dozens missing as deadly fire hits Indonesian candy factory</title>
+  <link>https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-rdf</link>
+  <description>A fire at a confectionery factory in Indonesia&apos;s Banten province has killed at least three people. Dozens are also unaccounted for after the blaze, which destroyed large parts of the facility.</description>
+  <dc:date>2026-11-22T06:14:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>80012342</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-rdf">
+  <title>COP31: Fossil fuels still missing from draft deal at UN climate summit</title>
+  <link>https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-rdf</link>
+  <description>The climate summit is in its second day of overtime, despite weeks of negotiations. Nations are now mulling over a new draft text that still doesn&apos;t mention fossil fuels, the main cause of global warming. DW has more.</description>
+  <dc:date>2026-11-22T05:50:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>79999516</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-rdf">
   <title>Nigeria: At least 24 dead after boat capsizes</title>
   <link>https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-rdf</link>
@@ -181,7 +199,7 @@
  <item rdf:about="https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf">
   <title>Mexican special forces arrest drug kingpin &apos;Chapo Isidro&apos;</title>
   <link>https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf</link>
-  <description>The alleged leader of the Beltran Leyva gang and one of the FBI&apos;s most wanted fugitives, known as &apos;Chapo Isidro,&apos; was captured by the Mexican military following a raid and a shootout in the coastal Sinaloa state.</description>
+  <description>The alleged leader of the Beltran Leyva gang and one of the FBI&apos;s most wanted fugitives, known as &quot;Chapo Isidro,&quot; was captured by the Mexican military following a raid and a shootout in the coastal state of Sinaloa.</description>
   <dc:date>2026-11-21T18:30:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -232,15 +250,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>79995216</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-rdf">
-  <title>COP31: UN Climate summit runs into overtime as deal remains elusive</title>
-  <link>https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-rdf</link>
-  <description>After nearly two weeks of negotiations, countries remain divided on how to fight global warming. Nations are now eyeing a third and final draft text. DW has more.</description>
-  <dc:date>2026-11-21T10:52:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79999516</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-rdf">
   <title>Anthropic researcher uses AI to solve math&apos;s greatest riddle</title>
   <link>https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-rdf</link>
@@ -268,10 +277,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>80008584</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-rdf">
-  <title>US judge jails Indian national in foiled Sikh separatist murder plot</title>
-  <link>https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-rdf</link>
-  <description>New Delhi has denied any role in the plot to kill Sikh separatist Gurpatwant Singh Pannun in New York. Meanwhile, over 200 people have been hospitalized after consuming spurious liquor in Manipur state. DW has more.</description>
+ <item rdf:about="https://www.dw.com/en/india-nepal-pm-balendra-shah-to-arrive-in-delhi-for-first-visit/live-80008104?maca=en-rss-en-all-1573-rdf">
+  <title>India: Nepal PM Balendra Shah to arrive in Delhi for first visit</title>
+  <link>https://www.dw.com/en/india-nepal-pm-balendra-shah-to-arrive-in-delhi-for-first-visit/live-80008104?maca=en-rss-en-all-1573-rdf</link>
+  <description>Nepal&apos;s rapper-turned-prime minister Balendra Shah is in New Delhi for his first bilateral visit since taking office, with talks with Modi expected to focus on flood reconstruction aid, trade and energy. DW has more.</description>
   <dc:date>2026-11-21T07:53:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -330,15 +339,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>80005505</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-all-1573-rdf">
-  <title>Repression against Iranian lawyers increases</title>
-  <link>https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-all-1573-rdf</link>
-  <description>At least 135 lawyers in Iran have been subjected to repressive measures over the past year. UN experts warn that this seriously jeopardizes the right of those accused to trial in a constitutional court.</description>
-  <dc:date>2026-11-20T20:36:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>80006742</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/cop31-no-agreement-on-climate-science-disinformation-spreading/a-80004894?maca=en-rss-en-all-1573-rdf">
   <title>COP31: No agreement on climate science, disinformation spreading</title>

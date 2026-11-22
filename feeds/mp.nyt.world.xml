@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 00:05:50 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Nov 2026 00:01:08 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:12:10 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 07:04:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html" rel="standout"></atom:link>
       <description>The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.</description>
       <dc:creator>Paulina Villegas</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 21:12:23 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 21:12:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -244,7 +244,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html" rel="standout"></atom:link>
       <description>As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.</description>
       <dc:creator>Motoko Rich, Julie Turkewitz and Mitra Taj</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 10:38:19 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 10:38:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
@@ -301,13 +301,126 @@
       <media:description>Presidents Vladimir V. Putin, Xi Jinping, and Trump in Shenzhen, China, on Thursday, in the first meeting ever held between the three countries’ leaders.</media:description>
     </item>
     <item>
+      <title>How Stringent Anti-A.I. Cheating Rules Brought Down an Education Minister</title>
+      <link>https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html" rel="standout"></atom:link>
+      <description>Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.</description>
+      <dc:creator>Jin Yu Young</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 07:04:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Seo Dae-Yeon/Yonhap, via Associated Press</media:credit>
+      <media:description>Choi Kyo-jin, center, South Korea’s education minister, facing questions about cheating with A.I. in college entrance exams, in Seoul last week.</media:description>
+    </item>
+    <item>
+      <title>American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy</title>
+      <link>https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html" rel="standout"></atom:link>
+      <description>American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.</description>
+      <dc:creator>Amy Qin</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 05:01:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mah-Jongg (Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/00nat-mahjong-promo-qhpv/00nat-mahjong-promo-qhpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds</title>
+      <link>https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html" rel="standout"></atom:link>
+      <description>“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.</description>
+      <dc:creator>Lily Kuo and Pei-Lin Wu</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 06:58:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen Shui-Bian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taipei (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang Yi-hao</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>Huang Yi-hao performing this month at Two Three Comedy Club in Taipei, Taiwan.</media:description>
+    </item>
+    <item>
+      <title>China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal</title>
+      <link>https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html" rel="standout"></atom:link>
+      <description>China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.</description>
+      <dc:creator>Chris Buckley and Julian E. Barnes</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 04:28:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politburo Standing Committee of the Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of State Security of the People&#39;s Republic of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen Yixin (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mao Zedong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Florence Lo/Reuters</media:credit>
+      <media:description>The campaign, details of which have not been previously reported, has been underway for at least two years.</media:description>
+    </item>
+    <item>
+      <title>Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.</title>
+      <link>https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html" rel="standout"></atom:link>
+      <description>Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.</description>
+      <dc:creator>Jeremy W. Peters and Saif Hasnat</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 03:44:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wazed, Hasina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rahman, Tarique</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bangladesh Awami League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bangladesh Nationalist Party</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>Supporters of former Bangladeshi Prime Minister Sheikh Hasina march during a nationwide shutdown called for by her supporters in Gopalganj, Bangladesh, on Thursday.</media:description>
+    </item>
+    <item>
       <title>Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man</title>
       <link>https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html" rel="standout"></atom:link>
-      <description>U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader the F.B.I. had sought for years.</description>
+      <description>U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.</description>
       <dc:creator>Steve Fisher, Paulina Villegas and Alan Feuer</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 00:01:08 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 01:56:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meza Flores, Fausto Isidro</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
@@ -522,7 +635,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html" rel="standout"></atom:link>
       <description>A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.</description>
       <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 09:17:27 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 09:17:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
@@ -972,75 +1085,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nuclear-02-tpbq/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Vladimir V. Putin of Russia, President Xi Jinping of China and President Trump before their meeting on Thursday in Shenzhen, China.</media:description>
-    </item>
-    <item>
-      <title>A village was burned, its people killed or exiled. Was it part of a genocide?</title>
-      <link>https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Hannah Beech and Lam Yik Fei</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 10:17:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Court of Justice (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-version-grid/19int-rohingya-camps-version-grid-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>Lam Yik Fei for The New York Times</media:credit>
-      <media:description>Exiled residents of Zammona, Myanmar, in a refugee camp in Cox’s Bazar, in Bangladesh, in November. Clockwise from top left: Rehana Bibi; Mustafa Kamal and Toyuba Khatun; Morijan with her children; Sukura Begum; Mohammed Yunus; and Abdul Rohim.</media:description>
-    </item>
-    <item>
-      <title>Colombia’s President Is Acquiring a Reputation for Courting Controversy</title>
-      <link>https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html" rel="standout"></atom:link>
-      <description>Colombia’s new leader, Abelardo De La Espriella, presents himself as a warrior against criminal groups and woke culture, and courts controversy at every turn.</description>
-      <dc:creator>Annie Correal</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 10:03:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19int-colombia-president-pjvz/19int-colombia-president-pjvz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lucas Molet/Reuters</media:credit>
-      <media:description>President Abelardo De La Espriella during a military and police event in November in Cúcuta, Colombia.</media:description>
-    </item>
-    <item>
-      <title>Inside COP31: Part Trade Show, Part Climate Therapy Session</title>
-      <link>https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html" rel="standout"></atom:link>
-      <description>A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.</description>
-      <dc:creator>Chico Harlan</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 15:20:14 +0000</pubDate>
-      <category domain="">COP31</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antalya (Turkey)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Khalil Hamra/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>Aung San Suu Kyi did not condemn the pogroms against the Rohingya.</title>
-      <link>https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/aung-san-suu-kyi-did-not-condemn-the-pogroms-against-the-rohingya</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/aung-san-suu-kyi-did-not-condemn-the-pogroms-against-the-rohingya</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/aung-san-suu-kyi-did-not-condemn-the-pogroms-against-the-rohingya" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Hannah Beech</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 09:07:24 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-assk-kbzv/19myanmar-icj-assk-kbzv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Peter Dejong/Associated Press</media:credit>
-      <media:description>Aung San Suu Kyi addressed the judges of the International Court of Justice in The Hague in 2019.</media:description>
     </item>
   </channel>
 </rss>
