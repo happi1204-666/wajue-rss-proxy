@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 15:26:53 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Nov 2026 14:59:36 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:27:59 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 21:08:08 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,28 +22,25 @@
       <description>China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.</description>
       <dc:creator>Chris Buckley and Julian E. Barnes</dc:creator>
       <pubDate>Sun, 22 Nov 2026 11:03:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politburo Standing Committee of the Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of State Security of the People&#39;s Republic of China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen Yixin (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politburo Standing Committee of the Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mao Zedong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Florence Lo/Reuters</media:credit>
       <media:description>The campaign, details of which have not been previously reported, has been underway for at least two years.</media:description>
@@ -55,7 +52,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html" rel="standout"></atom:link>
       <description>Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.</description>
       <dc:creator>Vjosa Isai, Ian Austen and Ian Willms</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 12:29:33 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 12:29:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
@@ -115,17 +112,18 @@
       <atom:link href="https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html" rel="standout"></atom:link>
       <description>“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.</description>
       <dc:creator>Lily Kuo and Pei-Lin Wu</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 06:58:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <pubDate>Sun, 22 Nov 2026 06:58:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang Yi-hao (Comedian)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen Shui-Bian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taipei (Taiwan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang Yi-hao</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lam Yik Fei for The New York Times</media:credit>
       <media:description>Huang Yi-hao performing this month at Two Three Comedy Club in Taipei, Taiwan.</media:description>
@@ -160,23 +158,17 @@
       <description>The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.</description>
       <dc:creator>Paulina Villegas</dc:creator>
       <pubDate>Sat, 21 Nov 2026 21:12:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fentanyl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meza Flores, Fausto Isidro</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sinaloa (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="720" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo2-gblm/22int-cartel-ticktock-photo2-gblm-mediumSquareAt3X.jpg" width="720"></media:content>
       <media:credit>Mauricio Valenzuela/Agence France-Presse — Getty Images</media:credit>
       <media:description>A damaged car on a highway, underneath a sign that reads “Welcome to Guasave,” after the raid that captured Mr. Meza Flores.</media:description>
@@ -189,11 +181,13 @@
       <description>“Cancer does change you,” Catherine, who is in remission, says in a trailer for the film. It will be released this month.</description>
       <dc:creator>Michael D. Shear</dc:creator>
       <pubDate>Sat, 21 Nov 2026 14:09:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine, Princess of Wales</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Samir Hussein</media:credit>
       <media:description>Catherine, Princess of Wales, this week in Mumbai, India.</media:description>
@@ -229,14 +223,13 @@
       <description>The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.</description>
       <dc:creator>Lynsey Chutel</dc:creator>
       <pubDate>Sun, 22 Nov 2026 10:16:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meza Flores, Fausto Isidro</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sinaloa (Mexico)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beltran Leyva</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Drug Enforcement Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beltran Leyva</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
       <media:description>Members of the Mexican Army this year on the outskirts of Culiacán, in the Mexican state of Sinaloa.</media:description>
@@ -308,31 +301,86 @@
       <dc:creator>Mark Landler</dc:creator>
       <pubDate>Sat, 21 Nov 2026 17:14:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BFM-TV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNews (Canal Plus Sa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Martin/Agence France-Presse — Getty Images</media:credit>
       <media:description>Viewership for France’s 24-hour television news channels has risen over the two months of dramatic student-led protests.</media:description>
     </item>
     <item>
-      <title>U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels</title>
+      <title>A Landmark Genocide Ruling</title>
+      <link>https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html" rel="standout"></atom:link>
+      <description>A U.N. court’s decision against Myanmar sets a precedent in international law with important implications for a similar case over Israel’s actions in Gaza.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 20:35:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-theworld-rohingya-01-twpg-promo/23int-theworld-rohingya-01-twpg-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <media:description>Rohingya refugees fleeing Myanmar in 2017.</media:description>
+    </item>
+    <item>
+      <title>How Melania Trump Found a Diplomatic Opening in the War in Ukraine</title>
+      <link>https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html" rel="standout"></atom:link>
+      <description>The first lady, who has little experience in international affairs, developed back channels to key figures on both sides of the conflict through her longtime agent.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 18:12:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Ladies (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oleshky (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dmitriev, Kirill A (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22dc-melania-ukraine-topart-fkgj/22dc-melania-ukraine-topart-fkgj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>Melania Trump, the first lady, hosted a White House event this month celebrating a partial cease-fire between Ukraine and Russia she helped negotiate.</media:description>
+    </item>
+    <item>
+      <title>COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels</title>
       <link>https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html" rel="standout"></atom:link>
       <description>European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.</description>
       <dc:creator>Chico Harlan and Lisa Friedman</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 14:59:36 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 18:20:39 +0000</pubDate>
+      <category domain="">COP31</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antalya (Turkey)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="">COP31</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop-final2-bpvk/22cli-cop-final2-bpvk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Khalil Hamra/Associated Press</media:credit>
-      <media:description>Darragh O’Brien, Ireland’s climate, environment and energy minister, speaking at COP31 in Antalya, Turkey, on Sunday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Chris McGrath/Getty Images</media:credit>
+      <media:description>Saudi delegates onscreen at COP31 on Sunday.</media:description>
     </item>
     <item>
       <title>American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy</title>
@@ -342,11 +390,11 @@
       <description>American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.</description>
       <dc:creator>Amy Qin</dc:creator>
       <pubDate>Sun, 22 Nov 2026 12:32:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mah-Jongg (Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese-Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian-Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mah-Jongg (Game)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/00nat-mahjong-promo-qhpv/00nat-mahjong-promo-qhpv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
@@ -387,10 +435,9 @@
       <atom:link href="https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html" rel="standout"></atom:link>
       <description>The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 14:01:15 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 14:01:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Salt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rock and Stone</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">K+S AG</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
@@ -407,6 +454,7 @@
       <description>An academy in the Netherlands offers an eight-week, $14,000 program for entry into a gilded world of service. What’s the appeal?</description>
       <dc:creator>Claire Moses and Ilvy Njiokiktjien</dc:creator>
       <pubDate>Sat, 21 Nov 2026 14:17:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Butler Academy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
@@ -1053,30 +1101,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Ng Han Guan</media:credit>
       <media:description>President Claudia Sheinbaum of Mexico during an APEC meeting in Shenzhen, China, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power</title>
-      <link>https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html" rel="standout"></atom:link>
-      <description>President Trump joined the Chinese and Russian leaders for a summit in Shenzhen, even though the two autocrats are trying to reverse America’s victory in the Cold War.</description>
-      <dc:creator>Edward Wong</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 12:41:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burns, R Nicholas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19int-xi-putin-kzfw/19int-xi-putin-kzfw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Vladimir V. Putin of Russia, Xi Jinping, China’s leader, and President Trump held the first formal trilateral meeting of the leaders of the three nations in Shenzhen, China, on Thursday.</media:description>
     </item>
   </channel>
 </rss>

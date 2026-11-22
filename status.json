@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T15:31:44Z",
+  "updated": "2026-11-22T21:31:13Z",
   "status": {
     "gl.nhk": {
       "ok": true,
@@ -471,11 +471,16 @@
     "gn.ft": {
       "ok": true,
       "name": "Financial Times (Google News 聚合兜底)",
-      "src": "https://news.google.com/rss/search?q=site:ft.com&hl=en-US&gl=US&ceid=US:en",
+      "src": "https://news.google.com/rss/search?q=Financial%20Times&hl=en-US&gl=US&ceid=US:en",
       "error": null,
       "tried": [
         {
           "url": "https://news.google.com/rss/search?q=site:ft.com&hl=en-US&gl=US&ceid=US:en",
+          "ok": false,
+          "err": "HTTPError: HTTP Error 429: Too Many Requests"
+        },
+        {
+          "url": "https://news.google.com/rss/search?q=Financial%20Times&hl=en-US&gl=US&ceid=US:en",
           "ok": true,
           "err": null
         }
