@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 21:27:59 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Nov 2026 21:08:08 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:10:03 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 02:04:41 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -315,6 +315,46 @@
       <media:description>Viewership for France’s 24-hour television news channels has risen over the two months of dramatic student-led protests.</media:description>
     </item>
     <item>
+      <title>Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks</title>
+      <link>https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html" rel="standout"></atom:link>
+      <description>Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 01:32:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Zain Jaafar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Palestinians inspecting destroyed vehicles near Ramallah in the West Bank on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Is Mexico Stepping Up in the War on Drugs?</title>
+      <link>https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html" rel="standout"></atom:link>
+      <description>With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.</description>
+      <dc:creator>Maria Abi-Habib</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 01:26:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jose Betanzos/Reuters</media:credit>
+      <media:description>Mexican soldiers in Sinaloa state on Saturday, a day after the capture of Fausto Isidro Meza Flores.</media:description>
+    </item>
+    <item>
       <title>A Landmark Genocide Ruling</title>
       <link>https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html</guid>
@@ -368,7 +408,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html" rel="standout"></atom:link>
       <description>European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.</description>
       <dc:creator>Chico Harlan and Lisa Friedman</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 18:20:39 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 02:01:42 +0000</pubDate>
       <category domain="">COP31</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -1055,52 +1095,6 @@
       <pubDate>Thu, 19 Nov 2026 16:10:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
-    </item>
-    <item>
-      <title>Life in the Rohingya camps in Bangladesh is becoming more precarious.</title>
-      <link>https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Hannah Beech</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 13:50:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Court of Justice (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-rohingya-camps-bfcp/19myanmar-icj-rohingya-camps-bfcp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lam Yik Fei for The New York Times</media:credit>
-      <media:description>Children on a path between shelters at a refugee camp in Cox’s Bazar, Bangladesh, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Some leaders flew private to the APEC summit, but not Mexico’s president.</title>
-      <link>https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec" rel="standout"></atom:link>
-      <description>President Claudia Sheinbaum flew commercial, a journey that involved a 15-hour leg. It was a symbol of her government’s commitment to austerity.</description>
-      <dc:creator>Yan Zhuang</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 18:48:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Twenty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Calderon, Felipe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pena Nieto, Enrique</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Ng Han Guan</media:credit>
-      <media:description>President Claudia Sheinbaum of Mexico during an APEC meeting in Shenzhen, China, on Thursday.</media:description>
     </item>
   </channel>
 </rss>

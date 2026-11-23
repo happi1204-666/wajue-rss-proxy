@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Sun, 22 Nov 2026 22:29:39 +0100</lastBuildDate>
-  <pubDate>Sun, 22 Nov 2026 22:29:39 +0100</pubDate>
+  <lastBuildDate>Sun, 22 Nov 2026 23:40:41 +0100</lastBuildDate>
+  <pubDate>Sun, 22 Nov 2026 23:40:41 +0100</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>Morocco: A surreal sculpture park turns the world upside down</title>
+   <link>https://www.euronews.com/video/2026/11/22/morocco-a-surreal-sculpture-park-turns-the-world-upside-down</link>
+   <guid>https://www.euronews.com/video/2026/11/22/morocco-a-surreal-sculpture-park-turns-the-world-upside-down</guid>
+   <pubDate>Sun, 22 Nov 2026 23:33:48 +0100</pubDate>
+   <description>An upside-down house, giant furniture and vegetable-headed figures await visitors at Ramakech, an 11-hectare sculpture park near Marrakech, where French artist Jean-François Fourtou brings childhood memories to life through extraordinary, larger-than-life installations.</description>
+  </item>
   <item>
    <title>Midterms: US Democrats secure biggest House majority in decades </title>
    <link>https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-kills-two-people</guid>
    <pubDate>Sat, 21 Nov 2026 14:57:15 +0100</pubDate>
    <description>The strike mainly targeted civilian infrastructure, Zelenskyy wrote on X. The attack comes after Russia vowed a 'painful' response to Ukraine's strike on the Crimean bridge.</description>
-  </item>
-  <item>
-   <title>EU budget: Costa pitches more cuts, Big Tech tax to break deadlock</title>
-   <link>https://www.euronews.com/2026/11/21/eu-budget-costa-pitches-more-cuts-big-tech-tax-to-break-deadlock</link>
-   <guid>https://www.euronews.com/2026/11/21/eu-budget-costa-pitches-more-cuts-big-tech-tax-to-break-deadlock</guid>
-   <pubDate>Sat, 21 Nov 2026 13:29:23 +0100</pubDate>
-   <description>European Council President António Costa proposes cutting the EU's 2028-2034 budget by nearly €200bn, a 10% reduction, to win over frugal countries. Cohesion funding is cut for the first time. A 3% digital services levy replaces a controversial corporate tax, and debt repayment is slowed down.</description>
   </item>
  </channel>
 </rss>
