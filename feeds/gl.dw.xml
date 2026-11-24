@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-23T22:48:23Z</dc:date>
+  <dc:date>2026-11-24T06:44:22Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/denmark-top-court-backs-hardline-immigration-ghetto-law/a-80026478?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-all-1573-rdf"/>
@@ -29,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/rembrandt-s-the-night-watch-is-more-alive-than-you-d-expect/a-79972540?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-early-start-pension-can-child-investment-accounts-help/a-79852185?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nato-parliamentary-assembly-convenes-amid-russian-airspace-violations/live-80016415?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-metalworkers-go-on-strike-as-pay-dispute-heats-up/live-80015633?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rule-breaking-is-contagious-and-good-examples-barely-help/a-79980025?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf"/>
@@ -102,7 +103,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-are-fossil-fuels/a-67970540?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-aiib-s-complaint-mechanism-failing-affected-communities/a-79919917?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-global-leaders-put-their-money-where-their-mouth-is-on-climate/a-79918744?maca=en-rss-en-all-1573-rdf"/>
@@ -160,6 +160,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-rdf">
+  <title>Weapons, war and wavering trust: Germans want to see more restraint in foreign policy</title>
+  <link>https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-rdf</link>
+  <description>According to a study by the Körber Foundation, a growing number of Germans now oppose providing military aid to Ukraine. The majority also believes that Germany should take a neutral position between the US and China.</description>
+  <dc:date>2026-11-24T05:59:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>80026254</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405?maca=en-rss-en-all-1573-rdf">
+  <title>India: Report warns of deepening authoritarianism under Modi</title>
+  <link>https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405?maca=en-rss-en-all-1573-rdf</link>
+  <description>A Human Rights Watch report found that Modi&apos;s rule in India has eroded the rule of law and &quot;systematically weakened institutions&quot; meant to protect freedoms. Also, in Delhi a man injured nine police with a knife.</description>
+  <dc:date>2026-11-24T04:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>80027405</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf">
   <title>US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist</title>
   <link>https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf</link>
@@ -322,19 +340,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>80016415</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine updates: Kyiv claims strike that sank Russian ship off Libya</title>
-  <link>https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-rdf</link>
-  <description>President Volodymyr Zelenskyy said the attack was carried out with Ukrainian-made naval drones. Meanwhile, NATO members are meeting to discuss an alleged Russian violation of Polish airspace. DW has more.</description>
-  <dc:date>2026-11-23T07:42:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>80015859</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/germany-news-metalworkers-go-on-strike-as-pay-dispute-heats-up/live-80015633?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Metalworkers go on strike as pay dispute heats up</title>
   <link>https://www.dw.com/en/germany-news-metalworkers-go-on-strike-as-pay-dispute-heats-up/live-80015633?maca=en-rss-en-all-1573-rdf</link>
-  <description>Germany&apos;s biggest union is calling for more strikes over heated pay disputes with car makers like Mercedes and shipyards among the companies impacted. Meanwhile, a Berlin hospital fire leaves many injured. Follow DW.</description>
+  <description>Germany&apos;s biggest union is calling for more strikes over heated pay disputes with car makers like Mercedes and shipyards among the companies impacted. Meanwhile, a Berlin hospital fire leaves many injured.</description>
   <dc:date>2026-11-23T07:11:00Z</dc:date>
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
@@ -978,15 +987,6 @@
   <dc:subject>Climate</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>67970540</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Police raid chapters of Gremium MC biker gang</title>
-  <link>https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-rdf</link>
-  <description>Police in southwestern Germany launched major early-morning operations against a biker gang. The state of Baden-Württemberg is outlawing three of its chapters. Meanwhile, unions are planning more strikes.</description>
-  <dc:date>2026-11-12T09:54:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79926275</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881?maca=en-rss-en-all-1573-rdf">
   <title>Intelligent women get less help at work, study finds</title>
