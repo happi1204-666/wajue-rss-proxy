@@ -7,26 +7,53 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 18:33:49 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 18:25:38 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 02:54:39 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 01:33:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Iranian Singer Receives 74 Lashes for Performing With No Hijab</title>
-      <link>https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html" rel="standout"></atom:link>
-      <description>Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.</description>
-      <dc:creator>Ephrat Livni and Leily Nikounazar</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 12:34:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporal Punishment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmadi, Parastoo</category>
+      <title>Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region</title>
+      <link>https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html" rel="standout"></atom:link>
+      <description>Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.</description>
+      <dc:creator>Erika Solomon and Falih Hassan</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 00:38:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kurdistan Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriotic Union of Kurdistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Zaidi, Ali (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrack, Thomas J Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>Prime Minister Ali al-Zaidi of Iraq speaking at the United Nations General Assembly in New York in September.</media:description>
+    </item>
+    <item>
+      <title>Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say</title>
+      <link>https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html" rel="standout"></atom:link>
+      <description>The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.</description>
+      <dc:creator>Zane Irwin and Vivian Nereim</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 19:18:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Investment Fund (Saudi Arabia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <media:content height="1304" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24Saudi-tower-qhtf/24Saudi-tower-qhtf-mediumSquareAt3X.jpg" width="1304"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>The financial district in Riyadh, Saudi Arabia, last month.</media:description>
     </item>
     <item>
       <title>For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing</title>
@@ -53,22 +80,57 @@
       <media:description>Nvidia posted a photograph of its reinstated CEO, Jensen Huang, on its official X account on Monday. </media:description>
     </item>
     <item>
+      <title>Iranian Singer Receives 74 Lashes for Performing With No Hijab</title>
+      <link>https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html" rel="standout"></atom:link>
+      <description>Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.</description>
+      <dc:creator>Ephrat Livni and Leily Nikounazar</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 12:34:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporal Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmadi, Parastoo</category>
+    </item>
+    <item>
+      <title>Murder Charge Reinstated for French Police Officer in Teen’s Shooting</title>
+      <link>https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html" rel="standout"></atom:link>
+      <description>The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.</description>
+      <dc:creator>Giulia Imbert</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 14:13:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Constitutional Council (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merzouk, Nahel (d 2023)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nanterre (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/24/world/24int-france-trial-aaa/24int-france-trial-aaa-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bastien Ohier/Hans Lucas, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>The death of Nahel Merzouk, 17, resulted in unrest across France. This protest was in Nanterre last year.</media:description>
+    </item>
+    <item>
       <title>Japan’s Leader, in Break with U.S., Defends International Criminal Court</title>
       <link>https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html" rel="standout"></atom:link>
       <description>Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.</description>
       <dc:creator>Javier C. Hernández</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 10:35:29 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 10:35:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Akane, Tomoko</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tomoko Akane</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-japan-icc-qkgc/24int-japan-icc-qkgc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Yuichi Yamazaki</media:credit>
       <media:description>Tomoko Akane, left, president of the International Criminal Court, meeting with Prime Minister Sanae Takaichi of Japan in Tokyo on Tuesday.</media:description>
@@ -81,23 +143,34 @@
       <description>The men were arrested near Anmer Hall, the couple’s country retreat in Norfolk, on Monday night.</description>
       <dc:creator>Stephen Castle</dc:creator>
       <pubDate>Tue, 24 Nov 2026 16:31:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trespassing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">William, Prince of Wales</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine, Princess of Wales</category>
-      <category domain="">Anmer Hall</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trespassing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="">Anmer Hall</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norfolk (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/24/world/24int-UK-ROYALS-BREAK-IN-bbbb/24int-UK-ROYALS-BREAK-IN-bbbb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Max Mumby/Indigo, via Getty Images</media:credit>
       <media:description>Anmer Hall on the Sandringham Estate in Norfolk, England, in 2013. The 10-bedroom house was given to William and Catherine as a wedding present by Queen Elizabeth II.</media:description>
+    </item>
+    <item>
+      <title>A Lion on the Loose Near Istanbul? Not So Fast.</title>
+      <link>https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html" rel="standout"></atom:link>
+      <description>Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.</description>
+      <dc:creator>Safak Timur</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 18:25:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-istanbul-lion-bmfp/24int-istanbul-lion-bmfp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ahmet Faruk Sarikoc/IHA, via Associated Press</media:credit>
+      <media:description>Members of the Turkish gendarmerie blocking a road, as police and animal welfare teams searched for a reported lion roaming an area north of Istanbul on Monday.</media:description>
     </item>
     <item>
       <title>Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for</title>
@@ -122,13 +195,14 @@
       <atom:link href="https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html" rel="standout"></atom:link>
       <description>Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.</description>
       <dc:creator>Christopher Buckley</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 14:42:30 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 14:42:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen Jining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen Jining (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Carl Court</media:credit>
       <media:description>Chen Jining, the Communist Party leader of Shanghai. He has a scientific education that was seen as fitting the priorities of China’s top leader, Xi Jinping.</media:description>
@@ -206,7 +280,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html" rel="standout"></atom:link>
       <description>Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.</description>
       <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 06:00:06 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 22:03:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diaries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fernandez, Victor Manuel (1962- )</category>
@@ -219,102 +293,66 @@
       <media:description>Pope Francis in Rio de Janeiro in 2013.</media:description>
     </item>
     <item>
-      <title>Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?</title>
-      <link>https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html" rel="standout"></atom:link>
-      <description>The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.</description>
-      <dc:creator>David M. Halbfinger and Ronen Bergman</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 18:54:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <title>Trump Administration Pauses Joint Operations With Ecuador</title>
+      <link>https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html" rel="standout"></atom:link>
+      <description>The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.</description>
+      <dc:creator>Annie Correal and Eric Schmitt</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 00:42:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beyachad (Israeli Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu (Israeli Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ronen Zvulun/Reuters</media:credit>
-      <media:description>Prime Minister Benjamin Netanyahu of Israel, center, with his rivals Gadi Eisenkot, Avigdor Liberman and Naftali Bennett nearby, at Parliament this month.</media:description>
-    </item>
-    <item>
-      <title>Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict</title>
-      <link>https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html" rel="standout"></atom:link>
-      <description>At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.</description>
-      <dc:creator>Julie Turkewitz</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 18:05:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Liberation Army (Colombia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Choneros (Gang)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cucuta (Colombia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>Drones dropped explosives that destroyed a house and damaged more than 60 buildings during an attack on a police station on Monday in Cúcuta, Colombia.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <media:description>President Daniel Noboa of Ecuador and his wife, Lavinia Valbonesi, at President Trump’s inauguration last year in Washington.</media:description>
     </item>
     <item>
-      <title>They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.</title>
-      <link>https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html" rel="standout"></atom:link>
-      <description>When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia.</description>
-      <dc:creator>Alla Didur, Cassandra Vinograd, Oleksandr Chubko and Laetitia Vançon</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 13:53:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grandparents</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volunteers and Community Service</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-grandpas-01-jqbt/23int-ukraine-grandpas-01-jqbt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Members of the Steppe Wolves military unit working on a missile in Zaporizhzhia, Ukraine, earlier this year.</media:description>
+      <title>‘Saturday Night Live’ Is Coming to France</title>
+      <link>https://www.nytimes.com/2026/11/24/arts/television/snl-france.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/arts/television/snl-france.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/arts/television/snl-france.html" rel="standout"></atom:link>
+      <description>A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.</description>
+      <dc:creator>Amanda Holpuch</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 21:13:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">French Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CANAL +</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Payet, Manu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Saturday Night Live (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Saturday Night Live UK (TV Program)</category>
+      <media:content height="1400" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24xp-snl-france/24xp-snl-france-mediumSquareAt3X.jpg" width="1400"></media:content>
+      <media:credit>Audoin Desforges/CANAL+</media:credit>
+      <media:description>The cast of the French edition of “Saturday Night Live,” which premieres on Dec. 19 on the Canal+.</media:description>
     </item>
     <item>
-      <title>Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates</title>
-      <link>https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html" rel="standout"></atom:link>
-      <description>Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.</description>
-      <dc:creator>Paul Sonne</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 19:19:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mediazona (Web Site)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nanna Heitmann for The New York Times</media:credit>
-      <media:description>A billboard in Moscow in September from the ministry of defense reads, “Thank you, soldier.”</media:description>
-    </item>
-    <item>
-      <title>A Lion on the Loose Near Istanbul? Not So Fast.</title>
-      <link>https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html" rel="standout"></atom:link>
-      <description>Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.</description>
-      <dc:creator>Safak Timur</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 18:25:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-istanbul-lion-bmfp/24int-istanbul-lion-bmfp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ahmet Faruk Sarikoc/IHA, via Associated Press</media:credit>
-      <media:description>Members of the Turkish gendarmerie blocking a road, as police and animal welfare teams searched for a reported lion roaming an area north of Istanbul on Monday.</media:description>
+      <title>National Security vs. the Stock Market</title>
+      <link>https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html" rel="standout"></atom:link>
+      <description>President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 20:56:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+      <media:description>In Washington, last month.</media:description>
     </item>
     <item>
       <title>Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War</title>
@@ -323,7 +361,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html" rel="standout"></atom:link>
       <description>Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.</description>
       <dc:creator>Patricia Cohen</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 18:11:56 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 19:54:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
@@ -338,35 +376,13 @@
       <media:description>Jensen Huang in Las Vegas in January. He was reinstalled as chief executive of Nvidia, less than two weeks after resigning.</media:description>
     </item>
     <item>
-      <title>Murder Charge Reinstated for French Police Officer in Teen’s Shooting</title>
-      <link>https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html" rel="standout"></atom:link>
-      <description>The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.</description>
-      <dc:creator>Giulia Imbert</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 14:13:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Constitutional Council (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merzouk, Nahel (d 2023)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nanterre (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/24/world/24int-france-trial-aaa/24int-france-trial-aaa-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bastien Ohier/Hans Lucas, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>The death of Nahel Merzouk, 17, resulted in unrest across France. This protest was in Nanterre last year.</media:description>
-    </item>
-    <item>
       <title>Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally</title>
       <link>https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html" rel="standout"></atom:link>
       <description>Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.</description>
       <dc:creator>Aruni Soni and Jason Karaian</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 17:51:26 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 21:12:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
@@ -387,14 +403,13 @@
       <atom:link href="https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html" rel="standout"></atom:link>
       <description>Nneka Henry works for the United Nations to help develop solutions to the chaos and calamity caused by cars, motorcycles and scooters, and help drum up the resources to improve safety.</description>
       <dc:creator>Tanya Mohn</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 10:01:44 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 10:01:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nneka Henry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henry, Nneka</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25sp-women-safety-inyt-fbhm/25sp-women-safety-inyt-fbhm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Aurelien Bergot for The New York Times</media:credit>
       <media:description>Nneka Henry, head of the U.N. Road Safety Fund, in Geneva. “Road safety,” she said, “is a topic that is so unwieldy, so complex, that you really need a pooling of resources to effectively tackle it long term.”</media:description>
@@ -412,16 +427,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Handicrafts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ceramics and Pottery</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Knitting and Knit Goods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Textiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quilts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weaving</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wool and Woolen Goods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cooperstown (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Archbold (Ohio)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fogo Island (Newfoundland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oaxaca (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Landrum (SC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paducah (Ky)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Landrum, S.C.</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Archbold, Ohio</category>
     </item>
     <item>
       <title>The Woman Who Took Canada to Court Over Genocide</title>
@@ -431,10 +448,11 @@
       <description>Na’kuset is a longtime champion for Indigenous communities across Canada using her experiences to fuel her advocacy.</description>
       <dc:creator>Vivian Morelli</dc:creator>
       <pubDate>Mon, 23 Nov 2026 21:21:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nakuset</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Na&#39;kuset (1970- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25sp-women-indigenous-inyt-01-thzm/25sp-women-indigenous-inyt-01-thzm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hubert Hayaud for The New York Times</media:credit>
       <media:description>Na’kuset, the executive director of the Native Women’s Shelter of Montreal. She had spent years asking lawyers and institutions how to put Canada’s treatment of Indigenous children before justice. “We have to show the world, ‘This is what happened,’” she said.</media:description>
@@ -465,19 +483,61 @@
       <atom:link href="https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html" rel="standout"></atom:link>
       <description>The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 05:44:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <pubDate>Tue, 24 Nov 2026 05:44:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-theworld-nl-top-fkgc/24int-theworld-nl-top-fkgc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates</title>
+      <link>https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html" rel="standout"></atom:link>
+      <description>Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.</description>
+      <dc:creator>Paul Sonne</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 19:19:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mediazona (Web Site)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nanna Heitmann for The New York Times</media:credit>
+      <media:description>A billboard in Moscow in September from the ministry of defense reads, “Thank you, soldier.”</media:description>
+    </item>
+    <item>
+      <title>Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict</title>
+      <link>https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html" rel="standout"></atom:link>
+      <description>At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.</description>
+      <dc:creator>Julie Turkewitz</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 18:05:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Liberation Army (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cucuta (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>Drones dropped explosives that destroyed a house and damaged more than 60 buildings during an attack on a police station on Monday in Cúcuta, Colombia.</media:description>
     </item>
     <item>
       <title>COP31 Climate Talks Broke Down. Now What?</title>
@@ -520,6 +580,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LVMH Moet Hennessy Louis Vuitton SA</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23xp-bulgar-top-1/23xp-bulgar-top-1-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pascal Le Segretain/Getty Images</media:credit>
       <media:description>Paolo Bulgari attending the Cannes Film Festival in Cannes, France, in 2017. He became the chairman of Bulgari in 1984 and helped push the brand onto the world stage. </media:description>
@@ -537,9 +598,36 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Toliver, Don (1994- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/23xp-manchester-01-tfcg/23xp-manchester-01-tfcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ryan Jenkinson/Getty Images</media:credit>
       <media:description>People wrapped in emergency blankets outside the Co-op Live venue in Manchester, England, on Sunday as the authorities responded to an emergency incident during a Don Toliver concert.</media:description>
+    </item>
+    <item>
+      <title>Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?</title>
+      <link>https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html" rel="standout"></atom:link>
+      <description>The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.</description>
+      <dc:creator>David M. Halbfinger and Ronen Bergman</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 18:54:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beyachad (Israeli Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu (Israeli Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ronen Zvulun/Reuters</media:credit>
+      <media:description>Prime Minister Benjamin Netanyahu of Israel, center, with his rivals Gadi Eisenkot, Avigdor Liberman and Naftali Bennett nearby, at Parliament this month.</media:description>
     </item>
     <item>
       <title>24 Killed After Fire Rips Through Candy Factory in Indonesia</title>
@@ -558,6 +646,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-indonesia-fire-02-gqcm/23int-indonesia-fire-02-gqcm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ajeng Dinar Ulfiana/Reuters</media:credit>
       <media:description>A burned bus near the Fonusa Agung Mulia candy factory in Serang, Indonesia, on Monday, two days after a fire started there.</media:description>
+    </item>
+    <item>
+      <title>They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.</title>
+      <link>https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html" rel="standout"></atom:link>
+      <description>When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia.</description>
+      <dc:creator>Alla Didur, Cassandra Vinograd, Oleksandr Chubko and Laetitia Vançon</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 13:53:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grandparents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volunteers and Community Service</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-grandpas-01-jqbt/23int-ukraine-grandpas-01-jqbt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Members of the Steppe Wolves military unit working on a missile in Zaporizhzhia, Ukraine, earlier this year.</media:description>
     </item>
     <item>
       <title>Colombia Marks 10 Years Since FARC Peace Deal: In Photos</title>
@@ -1039,6 +1145,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">K+S AG</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Maldon Salt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21xp-salt/21xp-salt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>The New York Times</media:credit>
       <media:description>Maldon Sea Salt, a cult-favorite brand among cooks, has come under scrutiny this week.</media:description>
@@ -1055,6 +1162,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/00xp-butlerschool-promo-jvwm/00xp-butlerschool-promo-jvwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ilvy Njiokiktjien for The New York Times</media:credit>
     </item>
@@ -1078,88 +1186,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-spain-sanchez-01-clpt/21int-spain-sanchez-01-clpt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Manaure Quintero/Agence France-Presse — Getty Images</media:credit>
       <media:description>The polls suggest that Prime Minister Pedro Sánchez of Spain, shown at a rally in Tarragona, will lose the election on Nov. 29 after eight years of leading the country.</media:description>
-    </item>
-    <item>
-      <title>In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot</title>
-      <link>https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html" rel="standout"></atom:link>
-      <description>Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 17:14:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BFM-TV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNews (Canal Plus Sa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Martin/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Viewership for France’s 24-hour television news channels has risen over the two months of dramatic student-led protests.</media:description>
-    </item>
-    <item>
-      <title>White Police Officers Are Convicted of Beating a Black Man in France</title>
-      <link>https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html" rel="standout"></atom:link>
-      <description>The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash.</description>
-      <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 23:21:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zecler, Michel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/20france-police-01-wclq/20france-police-01-wclq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Benoit Tessier/Reuters</media:credit>
-      <media:description>Michel Zecler, a music producer, after the final day of trial of three police officers accused of beating him in 2020, at the Paris criminal court, on Friday.</media:description>
-    </item>
-    <item>
-      <title>Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit</title>
-      <link>https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html" rel="standout"></atom:link>
-      <description>Danish officials say Russian intelligence services recruited members of a violent gang to try to assassinate a Ukrainian rapper at a concert outside Copenhagen.</description>
-      <dc:creator>Maya Tekeli</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 22:15:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Copenhagen (Denmark)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Albert Vasiliev</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/20int-denmark-ukraine-rapper-photo-pqwv/20int-denmark-ukraine-rapper-photo-pqwv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emil Nicolai Helms/Ritzau Scanpix, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>Denmark’s foreign minister, Lars Løkke Rasmussen, left, and the justice minister, Nicolai Wammen, announced the expulsion of Russia’s defense attaché on Friday.</media:description>
-    </item>
-    <item>
-      <title>Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference</title>
-      <link>https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html" rel="standout"></atom:link>
-      <description>Eva Yi Xie was detained on her way back to New Jersey from a neuroscience conference in Washington this week, the latest in a string of researcher arrests.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 12:53:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xie, Eva Yi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Princeton University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Graduate Schools and Students</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/20/science/20SCI-RESEARCHER-ARREST/20SCI-RESEARCHER-ARREST-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>EQRoy/Alamy</media:credit>
-      <media:description>The Princeton Neuroscience Institute at Princeton University.</media:description>
     </item>
   </channel>
 </rss>
