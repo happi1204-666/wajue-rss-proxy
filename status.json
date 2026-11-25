@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:08:39Z",
+  "updated": "2026-11-25T21:54:39Z",
   "status": {
     "gl.nhk": {
       "ok": true,
@@ -202,10 +202,10 @@
       ]
     },
     "gl.thehindu": {
-      "ok": false,
+      "ok": true,
       "name": "The Hindu (印度英文大报)",
-      "src": null,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests",
+      "src": "https://news.google.com/rss/search?q=site:thehindu.com&hl=en-IN&gl=IN&ceid=IN:en",
+      "error": null,
       "tried": [
         {
           "url": "https://www.thehindu.com/news/national/feeds/",
@@ -239,8 +239,8 @@
         },
         {
           "url": "https://news.google.com/rss/search?q=site:thehindu.com&hl=en-IN&gl=IN&ceid=IN:en",
-          "ok": false,
-          "err": "HTTPError: HTTP Error 429: Too Many Requests"
+          "ok": true,
+          "err": null
         }
       ],
       "tags": [

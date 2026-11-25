@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://warontherocks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warontherocks.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 24 Nov 2026 20:51:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Nov 2026 21:07:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,23 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<rawvoice:subscribe feed="https://warontherocks.com/feed/" itunes="https://itunes.apple.com/us/podcast/war-on-the-rocks/id682478916?mt=2#"></rawvoice:subscribe>
 	<item>
+		<title>Britain’s Balancing Act Between Washington and Brussels</title>
+		<link>https://warontherocks.com/britains-balancing-act-between-washington-and-brussels/</link>
+		
+		<dc:creator><![CDATA[Emma Salisbury]]></dc:creator>
+		<pubDate>Wed, 25 Nov 2026 18:30:58 +0000</pubDate>
+				<category><![CDATA[Members]]></category>
+		<category><![CDATA[Rewind and Reconnoiter]]></category>
+		<guid isPermaLink="false">https://warontherocks.com/?p=48808</guid>
+
+					<description><![CDATA[<p>In 2025, Emma Salisbury wrote, &#8220;British Grand Strategy Without America,&#8221; where she explained the United Kingdom&#8217;s strategic calculus in aligning itself closer with the United States or Europe. A year later, we asked her to revisit her arguments.Image: Number 10 via Wikimedia CommonsIn your 2025 article, you argued that the pressure for the United Kingdom to choose a closer strategic partnership with either the United States or Europe was becoming structural rather than hypothetical. A year and a half later, has that trajectory continued, or does the United Kingdom have more breathing room in determining its strategic partnerships?&#160;Even though Britain</p>
+<p>The post <a href="https://warontherocks.com/britains-balancing-act-between-washington-and-brussels/">Britain’s Balancing Act Between Washington and Brussels</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Contract Was the Easy Part: How Accelerator Day Put the Pentagon on the Clock</title>
 		<link>https://warontherocks.com/cogs-of-war/the-contract-was-the-easy-part-how-accelerator-day-put-the-pentagon-on-the-clock/</link>
 		
@@ -1945,24 +1962,5 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <dc:creator><![CDATA[Susan Thornton]]></dc:creator>
 <dc:creator><![CDATA[Eyck Freymann]]></dc:creator>
 	</item>
-		<item>
-		<title>Rated Ready is Not Ready: What America’s Korea Exercises Actually Measure</title>
-		<link>https://warontherocks.com/rated-ready-is-not-ready-what-americas-korea-exercises-actually-measure/</link>
-		
-		<dc:creator><![CDATA[Alexei Hoffman]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 07:30:47 +0000</pubDate>
-				<category><![CDATA[Commentary]]></category>
-		<category><![CDATA[Alliances]]></category>
-		<category><![CDATA[Readiness and Training]]></category>
-		<category><![CDATA[South Korea]]></category>
-		<guid isPermaLink="false">https://warontherocks.com/?p=47056</guid>
-
-					<description><![CDATA[<p>&#8220;We want to stop the North Koreans as far from Pusan as we can. Block the main road as far north as possible. Contact General Church. If you can&#8217;t locate him, go to Taejon and beyond if you can. Sorry I can&#8217;t give you more information. That&#8217;s all I&#8217;ve got. Good luck to you, and God bless you and your men.&#8221; -Maj. Gen. William F. Dean, orders to Lt. Col. Charles B. Smith, July 1, 1950, four days before Task Force Smith was overrun at Osan.The battery I served in at Camp Casey, South Korea, the 333rd Field Artillery Target</p>
-<p>The post <a href="https://warontherocks.com/rated-ready-is-not-ready-what-americas-korea-exercises-actually-measure/">Rated Ready is Not Ready: What America’s Korea Exercises Actually Measure</a> appeared first on <a href="https://warontherocks.com">War on the Rocks</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
