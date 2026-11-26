@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 13:34:33 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Nov 2026 12:45:14 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 22:46:19 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 21:50:07 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html" rel="standout"></atom:link>
       <description>Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.</description>
       <dc:creator>Ana Ionova, Leonardo Coelho and Lis Moriconi</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 10:00:12 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:01:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html" rel="standout"></atom:link>
       <description>More governments in Europe are telling citizens to prepare for emergencies. After unexpected disruptions, many are listening.</description>
       <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 10:02:53 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 18:23:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Communications and Media Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
@@ -65,8 +65,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html" rel="standout"></atom:link>
       <description>The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 12:45:14 +0000</pubDate>
+      <dc:creator>Stephen Castle and Jeanna Smialek</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 18:52:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
@@ -77,6 +77,59 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Isabel Infantes/Reuters</media:credit>
       <media:description>International arrivals at Gatwick Airport in Crawley, England.</media:description>
+    </item>
+    <item>
+      <title>U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein</title>
+      <link>https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html" rel="standout"></atom:link>
+      <description>Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 21:40:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mandelson, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/world/26int-uk-mandelson-apabut/26int-uk-mandelson-apabut-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Carl Court</media:credit>
+      <media:description>Peter Mandelson, then the British ambassador to the United States, at his official residence in Washington last year.</media:description>
+    </item>
+    <item>
+      <title>Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say</title>
+      <link>https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html" rel="standout"></atom:link>
+      <description>The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall.</description>
+      <dc:creator>Zane Irwin</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 19:33:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuwait</category>
+    </item>
+    <item>
+      <title>Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation</title>
+      <link>https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html" rel="standout"></atom:link>
+      <description>The actress Charlotte Arnould has accused the French movie star of raping her in 2018. He has denied any wrongdoing in the case.</description>
+      <dc:creator>Catherine Porter</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 14:17:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Depardieu, Gerard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/26france-depardieu-02-blqg/26france-depardieu-02-blqg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Aurelien Morissard/Associated Press</media:credit>
+      <media:description>Gérard Depardieu in Paris in 2025. He has faced a series of accusations of sexual abuse in recent years, tarnishing a legacy as one of France’s most renowned actors.</media:description>
     </item>
     <item>
       <title>El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs</title>
@@ -104,7 +157,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html" rel="standout"></atom:link>
       <description>Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.</description>
       <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 10:00:09 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 15:27:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
@@ -138,12 +191,12 @@
     </item>
     <item>
       <title>The Unbearable Heat of Delhi’s Summer Nights</title>
-      <link>https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html" rel="standout"></atom:link>
       <description>Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work.</description>
       <dc:creator>Anupreeta Das and Anindito Mukherjee</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 08:47:33 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 18:16:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
@@ -174,7 +227,7 @@
       <media:description>Syrian security forces in Hasakah, Syria, in August.</media:description>
     </item>
     <item>
-      <title>They Bought Their Dream Home. Their Neighbors Want to Evict Them.</title>
+      <title>An Italian Couple Bought a House Built by Pier Paolo Pasolini. Local Villagers Want to Evict Them.</title>
       <link>https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html" rel="standout"></atom:link>
@@ -208,13 +261,14 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-24-apec-greeting-index/2026-11-24-apec-greeting-index-mediumSquareAt3X.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-24-apec-greeting-index/2026-11-24-apec-greeting-index-mediumSquareAt3X-v5.jpg" width="1000"></media:content>
+      <media:credit>Pablo Robles/The New York Times; Photos via Reuters</media:credit>
     </item>
     <item>
       <title>Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs</title>
-      <link>https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/11/25/world/africa/mauritius-stray-dogs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/25/world/africa/mauritius-stray-dogs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/25/world/africa/mauritius-stray-dogs.html" rel="standout"></atom:link>
       <description>Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.</description>
       <dc:creator>John Eligon and Joao Silva</dc:creator>
       <pubDate>Wed, 25 Nov 2026 20:40:27 +0000</pubDate>
@@ -229,65 +283,37 @@
       <media:credit>Joao Silva/The New York Times</media:credit>
     </item>
     <item>
-      <title>Can Roof Tiles Reduce Indoor Heat? India Is Finding Out.</title>
-      <link>https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html" rel="standout"></atom:link>
-      <description>As temperatures soar, researchers are experimenting with ways to make life more comfortable for the most vulnerable.</description>
-      <dc:creator>Anupreeta Das</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 08:45:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brick and Tile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Habitat for Humanity</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/INDIA-WARM-NIGHTS-SOLUTIONS-01-bthv/INDIA-WARM-NIGHTS-SOLUTIONS-01-bthv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anindito Mukherjee for The New York Times</media:credit>
-      <media:description>Workers installing heat-reflective tiles on a house in the Kanchipuram district on the outskirts of Chennai, Tamil Nadu, India.</media:description>
+      <title>Doug Ford Says He’d Use a Gun to Protect His Family</title>
+      <link>https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html" rel="standout"></atom:link>
+      <description>Recent home invasions have stirred unease in Toronto. On Thursday, the premier of Ontario said he would fire a gun in self-defense ‘in a heartbeat.’</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 21:36:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Self-Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/26int-canada-ford-mlwc/26int-canada-ford-mlwc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chris Young/The Canadian Press, via Associated Press</media:credit>
+      <media:description>Doug Ford, the premier of Ontario, said he would shoot intruders at his home to protect his family.</media:description>
     </item>
     <item>
-      <title>Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu</title>
-      <link>https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html" rel="standout"></atom:link>
-      <description>Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing.</description>
-      <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 20:45:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baharav-Miara, Gali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-Israel-Courts-vkbc/25int-Israel-Courts-vkbc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ilia Yefimovich/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Benjamin Netanyahu arrives at Israel’s Parliament, the Knesset, in Jerusalem on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.</title>
-      <link>https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html" rel="standout"></atom:link>
-      <description>The communist-era files have exposed the vast network of informants that kept Hungary in the Soviet orbit. But how reliable are they?</description>
-      <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 05:01:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Informers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Communism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fidesz Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Germany</category>
+      <title>In Praise of My Typewriter</title>
+      <link>https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html" rel="standout"></atom:link>
+      <description>The A.I. projects editor at The New York Times uses chatbots every day. But when it’s time to write, he reaches for an Olivetti Lettera 22 from the 1950s.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 20:43:17 +0000</pubDate>
+      <category domain="">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typewriters and Typewriting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thanksgiving Day</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Magyar, Peter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">former Soviet bloc</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-hungary-files-01-khpb/25int-hungary-files-01-khpb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Akos Stiller for The New York Times</media:credit>
-      <media:description>An employee in Hungary’s Historical Archive of State Security Services, in Budapest last week. The archive unveiled a searchable online database this month.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
     </item>
     <item>
       <title>The E.R. Closed at 5 P.M. A Dying Woman Showed Up 11 Minutes Too Late.</title>
@@ -348,12 +374,30 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Price Gouging</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25xp-pedicab/25xp-pedicab-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Carl Court/Getty Images</media:credit>
       <media:description>London’s transit authority is introducing rules to regulate pedicabs.</media:description>
+    </item>
+    <item>
+      <title>Can Roof Tiles Reduce Indoor Heat? India Is Finding Out.</title>
+      <link>https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html" rel="standout"></atom:link>
+      <description>As temperatures soar, researchers are experimenting with ways to make life more comfortable for the most vulnerable.</description>
+      <dc:creator>Anupreeta Das</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 08:45:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brick and Tile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Habitat for Humanity</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/INDIA-WARM-NIGHTS-SOLUTIONS-01-bthv/INDIA-WARM-NIGHTS-SOLUTIONS-01-bthv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anindito Mukherjee for The New York Times</media:credit>
+      <media:description>Workers installing heat-reflective tiles on a house in the Kanchipuram district on the outskirts of Chennai, Tamil Nadu, India.</media:description>
     </item>
     <item>
       <title>Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis</title>
@@ -362,7 +406,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html" rel="standout"></atom:link>
       <description>Scrutiny has fallen on Dr. Jean Kaseya, the director general of the Africa Centers for Disease Control and Prevention, after reports of staff intimidation and mismanagement of funds.</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 00:11:25 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 00:11:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaseya, Jean</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
@@ -373,6 +417,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-africa-ebola-cdc-gklf/25int-africa-ebola-cdc-gklf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>Dr. Jean Kaseya in Kinshasa, Democratic Republic of Congo, earlier this year.</media:description>
@@ -436,6 +481,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/26int-theworld-students-02-hlqk-promo/26int-theworld-students-02-hlqk-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Juliette Pavy for The New York Times</media:credit>
       <media:description>Philosophy exams in Paris in June.</media:description>
+    </item>
+    <item>
+      <title>Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu</title>
+      <link>https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html" rel="standout"></atom:link>
+      <description>Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 21:23:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baharav-Miara, Gali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-Israel-Courts-vkbc/25int-Israel-Courts-vkbc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ilia Yefimovich/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Benjamin Netanyahu arrives at Israel’s Parliament, the Knesset, in Jerusalem on Wednesday.</media:description>
     </item>
     <item>
       <title>Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates</title>
@@ -583,9 +644,9 @@
       <link>https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html" rel="standout"></atom:link>
-      <description>Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shaft flooded.</description>
+      <description>Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shafts flooded. Rescuers said they were losing hope that those still inside would be found alive.</description>
       <dc:creator>Verena Hölzl and Rin Hindryati</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 06:30:00 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:52:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
@@ -680,6 +741,32 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Korean Central News Agency, via Associated Press</media:credit>
       <media:description>A photograph provided by North Korean state media showed Foreign Minister Ignazio Cassis of Switzerland holding talks with his North Korean counterpart, Choe Son-hui, at the Pyongyang Assembly Hall in October.</media:description>
+    </item>
+    <item>
+      <title>Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.</title>
+      <link>https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html" rel="standout"></atom:link>
+      <description>The communist-era files have exposed the vast network of informants that kept Hungary in the Soviet orbit. But how reliable are they?</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 05:01:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Informers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Communism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fidesz Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Magyar, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">former Soviet bloc</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-hungary-files-01-khpb/25int-hungary-files-01-khpb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Akos Stiller for The New York Times</media:credit>
+      <media:description>An employee in Hungary’s Historical Archive of State Security Services, in Budapest last week. The archive unveiled a searchable online database this month.</media:description>
     </item>
     <item>
       <title>Solomon Islands Enters Security Treaty With Australia, in a Blow to China</title>
@@ -1141,128 +1228,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-pope-diary01-photo-vhtj/24int-pope-diary01-photo-vhtj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Buda Mendes/Getty Images</media:credit>
       <media:description>Pope Francis in Rio de Janeiro in 2013.</media:description>
-    </item>
-    <item>
-      <title>Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender</title>
-      <link>https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html" rel="standout"></atom:link>
-      <description>What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.</description>
-      <dc:creator>Oleksandr Chubko and Cassandra Vinograd</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 16:27:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgorod (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aquarium (Music Group)</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-psyops-radio-mhzl/19int-ukraine-psyops-radio-mhzl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>Driving in the Kharkiv region of Ukraine in May.</media:description>
-    </item>
-    <item>
-      <title>The Woman Who Took Canada to Court Over Genocide</title>
-      <link>https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html" rel="standout"></atom:link>
-      <description>Na’kuset is a longtime champion for Indigenous communities across Canada using her experiences to fuel her advocacy.</description>
-      <dc:creator>Vivian Morelli</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 21:21:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Na&#39;kuset (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25sp-women-indigenous-inyt-01-thzm/25sp-women-indigenous-inyt-01-thzm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hubert Hayaud for The New York Times</media:credit>
-      <media:description>Na’kuset, the executive director of the Native Women’s Shelter of Montreal. She had spent years asking lawyers and institutions how to put Canada’s treatment of Indigenous children before justice. “We have to show the world, ‘This is what happened,’” she said.</media:description>
-    </item>
-    <item>
-      <title>Phumzile Mlambo-Ngcuka, South Africa’s First Female Deputy President, Has Died</title>
-      <link>https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html" rel="standout"></atom:link>
-      <description>A champion of women’s rights and education, she led the U.N.’s gender equality and empowerment organization after leaving political office. She died at 71.</description>
-      <dc:creator>John Eligon</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 21:12:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mlambo-Ngcuka, Phumzile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mbeki, Thabo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuma, Jacob G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Entity for Gender Equality and the Empowerment of Women</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/23Phumzile-Mlambo-Ngcuka-vblz-print1/23Phumzile-Mlambo-Ngcuka-vblz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kemal Softic/Associated Press</media:credit>
-      <media:description>Phumzile Mlambo-Ngcuka in 2019.</media:description>
-    </item>
-    <item>
-      <title>The Return of Jensen Huang</title>
-      <link>https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html" rel="standout"></atom:link>
-      <description>The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 05:44:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-theworld-nl-top-fkgc/24int-theworld-nl-top-fkgc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Lee for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates</title>
-      <link>https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html" rel="standout"></atom:link>
-      <description>Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.</description>
-      <dc:creator>Paul Sonne</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 19:19:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mediazona (Web Site)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nanna Heitmann for The New York Times</media:credit>
-      <media:description>A billboard in Moscow in September from the ministry of defense reads, “Thank you, soldier.”</media:description>
-    </item>
-    <item>
-      <title>Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict</title>
-      <link>https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html" rel="standout"></atom:link>
-      <description>At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.</description>
-      <dc:creator>Julie Turkewitz</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 18:05:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Liberation Army (Colombia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cucuta (Colombia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>Drones dropped explosives that destroyed a house and damaged more than 60 buildings during an attack on a police station on Monday in Cúcuta, Colombia.</media:description>
     </item>
   </channel>
 </rss>
