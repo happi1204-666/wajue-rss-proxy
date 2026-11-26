@@ -7,6 +7,24 @@
   <description>The Hugging Face blog</description>
   <language>en-US</language>
   <item>
+   <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
+   <pubDate>Thu, 26 Nov 2026 11:37:17 GMT</pubDate>
+   <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
+  </item>
+  <item>
+   <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+   <pubDate>Thu, 26 Nov 2026 05:05:36 GMT</pubDate>
+   <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
+  </item>
+  <item>
+   <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
+   <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/training-swarms</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/training-swarms</guid>
+  </item>
+  <item>
    <title>Where scientists draw the line on AI agents</title>
    <pubDate>Wed, 25 Nov 2026 18:52:55 GMT</pubDate>
    <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
@@ -23,12 +41,6 @@
    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
    <link>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</link>
    <guid isPermaLink="true">https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</guid>
-  </item>
-  <item>
-   <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
-   <pubDate>Tue, 24 Nov 2026 16:34:13 GMT</pubDate>
-   <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
-   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
   </item>
   <item>
    <title>How to build and maintain an agentic evaluation</title>
@@ -77,12 +89,6 @@
    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
    <link>https://huggingface.co/blog/openrouter</link>
    <guid isPermaLink="true">https://huggingface.co/blog/openrouter</guid>
-  </item>
-  <item>
-   <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-   <pubDate>Fri, 13 Nov 2026 14:05:22 GMT</pubDate>
-   <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-   <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
   </item>
   <item>
    <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
