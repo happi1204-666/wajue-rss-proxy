@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-25T21:52:45Z</dc:date>
+  <dc:date>2026-11-26T03:55:49Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nigeria-detains-5-mexicans-confiscates-over-220-million-of-meth/a-80054606?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/spain-catalan-separatist-puigdemont-sets-date-for-return/a-80045846?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/climate-loss-and-damage-fund-exists-but-the-money-doesn-t/a-80035620?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-women-s-football-team-take-stand-against-domestic-violence/a-70907974?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-auto-workers-on-back-foot-as-costs-competition-bite/a-80036111?maca=en-rss-en-all-1573-rdf"/>
@@ -164,10 +164,28 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf">
+  <title>Extreme weather threatens Thanksgiving festivities in US</title>
+  <link>https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf</link>
+  <description>A major storm is forecast to move up the US East Coast and is likely to cause travel delays. Weather warnings were enough to postpone Macy&apos;s Thanksgiving Day Parade for the first time in its 100 years.</description>
+  <dc:date>2026-11-26T02:47:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>80055880</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf">
+  <title>Duran Duran guitarist Andy Taylor dies at 65</title>
+  <link>https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf</link>
+  <description>Andy Taylor first revealed he was battling cancer in 2022 when Duran Duran was inducted into the Rock &amp;amp; Roll Hall of Fame. The band had numerous hits in the 1980s, including &quot;Girls on Film&quot; and &quot;Hungry Like The Wolf.&quot;</description>
+  <dc:date>2026-11-25T22:53:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>80055654</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf">
   <title>Egypt: At least 31 dead after fuel truck overturns on highway</title>
   <link>https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf</link>
-  <description>The accident occurred on the packed Ring Road in Giza near Cairo. Dozens of ambulances are responding to the crash, and Egyptian health authorities say the death toll could rise.</description>
+  <description>The accident occurred on the packed Ring Road in Giza near Cairo. Dozens of ambulances responded to the crash, and Egyptian health authorities say the death toll could rise.</description>
   <dc:date>2026-11-25T21:37:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -325,24 +343,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>80043646</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-all-1573-rdf">
-  <title>Fact check: Deepfakes and &apos;US abandons Taiwan&apos; claims spread ahead of vote</title>
-  <link>https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ahead of local elections, Taiwan is seeing a surge in AI-generated attacks on mayoral candidate Puma Shen, alongside disinformation portraying the US as abandoning the island.</description>
-  <dc:date>2026-11-25T10:35:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>80004834</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-rdf">
-  <title>Houthis claim attacks on Saudi refinery, financial district</title>
-  <link>https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-rdf</link>
-  <description>Iran-backed Yemeni Houthis say they carried out fresh retaliatory attacks in Saudi Arabia. A fire was reported at Ras Tanura oil refinery and Riyadh&apos;s financial district was attacked for the second time in a week.</description>
-  <dc:date>2026-11-25T10:35:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>80043632</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/climate-loss-and-damage-fund-exists-but-the-money-doesn-t/a-80035620?maca=en-rss-en-all-1573-rdf">
   <title>Climate loss and damage fund exists, but the money doesn&apos;t</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 21:52:52 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 21:52:41 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:55:40 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 02:24:04 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -135,7 +135,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html" rel="standout"></atom:link>
       <description>The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.</description>
       <dc:creator>Lynsey Chutel, Maria Varenikova and Islam Al-Atrash</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 19:02:50 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 19:02:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
@@ -160,7 +160,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html" rel="standout"></atom:link>
       <description>The prosecutor recently fled to the United States after Mexico issued a warrant over his involvement with the C.I.A. Now authorities are investigating him for suspected cartel collusion.</description>
       <dc:creator>Steve Fisher</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 13:34:43 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 22:30:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
@@ -200,16 +200,17 @@
       <atom:link href="https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html" rel="standout"></atom:link>
       <description>The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.</description>
       <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 17:00:24 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 17:00:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pyongyang (North Korea)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forced Assimilation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Korean Central News Agency, via Associated Press</media:credit>
       <media:description>A photograph provided by North Korean state media showed Foreign Minister Ignazio Cassis of Switzerland holding talks with his North Korean counterpart, Choe Son-hui, at the Pyongyang Assembly Hall in October.</media:description>
@@ -232,7 +233,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Islands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sogavare, Manasseh</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-Oz-Solomons-01-gzjw/25int-Oz-Solomons-01-gzjw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hilary Wardhaugh/Getty Images</media:credit>
@@ -301,6 +301,49 @@
       <media:description>Driving in the Kharkiv region of Ukraine in May.</media:description>
     </item>
     <item>
+      <title>Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis</title>
+      <link>https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html" rel="standout"></atom:link>
+      <description>Scrutiny has fallen on Dr. Jean Kaseya, the director general of the Africa Centers for Disease Control and Prevention, after reports of staff intimidation and mismanagement of funds.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 00:11:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaseya, Jean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25int-africa-ebola-cdc-gklf/25int-africa-ebola-cdc-gklf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Dr. Jean Kaseya in Kinshasa, Democratic Republic of Congo, earlier this year.</media:description>
+    </item>
+    <item>
+      <title>Gordon Ramsay to Host Revival of BBC’s ‘Top Gear’</title>
+      <link>https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html" rel="standout"></atom:link>
+      <description>The British car show “Top Gear” paused production three years ago and is returning with a new host in 2028, the BBC said.</description>
+      <dc:creator>Amanda Holpuch</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 22:23:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clarkson, Jeremy (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramsay, Gordon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Surrey (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="1688" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25xp-top-gear/25xp-top-gear-mediumSquareAt3X-v2.jpg" width="1688"></media:content>
+      <media:credit>Top Gear</media:credit>
+      <media:description>Gordon Ramsay, standing on the left of The Stig, will be the new host for a revived ‘Top Gear’ on BBC.</media:description>
+    </item>
+    <item>
       <title>Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes</title>
       <link>https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html</guid>
@@ -346,7 +389,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html" rel="standout"></atom:link>
       <description>Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.</description>
       <dc:creator>Eric Lipton and Anton Troianovski</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 21:52:41 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 22:16:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
@@ -396,7 +439,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/25/world/asia/friendsgiving-thanksgiving-expats.html" rel="standout"></atom:link>
       <description>From turkeys delivered on motorbikes to foie gras on the table, many American expatriates have adapted the traditional meal to their environs.</description>
       <dc:creator>Francesca Regalado</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 15:53:44 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 01:25:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Thanksgiving Day</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Turkeys</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
@@ -521,7 +564,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html" rel="standout"></atom:link>
       <description>The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.</description>
       <dc:creator>Zane Irwin and Vivian Nereim</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 19:18:15 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 19:18:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
@@ -873,7 +916,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Entity for Gender Equality and the Empowerment of Women</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23Phumzile-Mlambo-Ngcuka-vblz/23Phumzile-Mlambo-Ngcuka-vblz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/23Phumzile-Mlambo-Ngcuka-vblz-print1/23Phumzile-Mlambo-Ngcuka-vblz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kemal Softic/Associated Press</media:credit>
       <media:description>Phumzile Mlambo-Ngcuka in 2019.</media:description>
     </item>
@@ -1159,45 +1202,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Zain Jaafar/Agence France-Presse — Getty Images</media:credit>
       <media:description>Palestinians inspecting destroyed vehicles near Ramallah in the West Bank on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Is Mexico Stepping Up in the War on Drugs?</title>
-      <link>https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html" rel="standout"></atom:link>
-      <description>With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.</description>
-      <dc:creator>Maria Abi-Habib</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 19:15:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jose Betanzos/Reuters</media:credit>
-      <media:description>Mexican soldiers in Sinaloa state on Saturday, a day after the capture of Fausto Isidro Meza Flores.</media:description>
-    </item>
-    <item>
-      <title>A Landmark Genocide Ruling</title>
-      <link>https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html" rel="standout"></atom:link>
-      <description>A U.N. court’s decision against Myanmar sets a precedent in international law with important implications for a similar case over Israel’s actions in Gaza.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 05:40:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Court of Justice (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-theworld-rohingya-01-twpg-promo/23int-theworld-rohingya-01-twpg-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adam Dean for The New York Times</media:credit>
-      <media:description>Rohingya refugees fleeing Myanmar in 2017.</media:description>
     </item>
   </channel>
 </rss>
