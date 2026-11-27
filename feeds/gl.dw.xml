@@ -7,11 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-11-26T22:46:58Z</dc:date>
+  <dc:date>2026-11-27T04:44:54Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short/live-80056415?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/albania-s-youth-are-protesting-in-flamingo-revolution-not-leaving-the-country-anymore/a-80068939?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gerard-depardieu-to-stand-trial-in-france-for-rape-and-sexual-assault/a-80069424?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910?maca=en-rss-en-all-1573-rdf"/>
@@ -110,7 +111,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merz-söder-aim-to-revisit-electricity-tax-cut/live-79954869?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-a-coalition-of-the-willing-create-momentum-for-a-fossil-fuel-phaseout/a-79926748?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ai-in-classrooms-fighting-the-great-dumbing-down/a-79949229?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/wolf-biermann-at-90-the-singer-who-defied-east-germany/a-79915297?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-s-going-on-with-the-polar-vortex/a-79943105?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ice-hockey-impasse-as-russia-threatens-sanctions-on-canada-germany/a-79942676?maca=en-rss-en-all-1573-rdf"/>
@@ -164,9 +164,18 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
- <item rdf:about="https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-all-1573-rdf">
-  <title>At odds over the EU budget, European leaders cut summit short - DW has more</title>
-  <link>https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-rdf">
+  <title>New Zealand election ends in hung parliament</title>
+  <link>https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-rdf</link>
+  <description>A final vote count showed that neither the center-right bloc nor the opposition left bloc was able to secure a majority.</description>
+  <dc:date>2026-11-27T03:13:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>80070240</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short/live-80056415?maca=en-rss-en-all-1573-rdf">
+  <title>At odds over the EU budget, European leaders cut summit short</title>
+  <link>https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short/live-80056415?maca=en-rss-en-all-1573-rdf</link>
   <description>Even before they met, it was clear the gap between European leaders&apos; demands for the EU budget would make negotiations difficult. They ended a summit meeting early and aim to agree on EU funding in December. DW has more.</description>
   <dc:date>2026-11-26T21:47:00Z</dc:date>
   <dc:subject>News</dc:subject>
@@ -338,7 +347,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-cologne-court-awards-record-damages-in-catholic-sex-abuse-case/live-80056746?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Cologne court awards record damages in Catholic sex abuse case</title>
   <link>https://www.dw.com/en/germany-news-cologne-court-awards-record-damages-in-catholic-sex-abuse-case/live-80056746?maca=en-rss-en-all-1573-rdf</link>
-  <description>A court has awarded the highest damages ever in Germany to a victim of sexual abuse linked with the Catholic Church. An alleged spy and suspected terrorists are also making headlines in Germany on Thursday. DW has more.</description>
+  <description>A court has awarded the highest damages ever in Germany to a victim of sexual abuse linked to the Catholic Church. An alleged spy and suspected terrorists are also making headlines in Germany on Thursday.</description>
   <dc:date>2026-11-26T09:49:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -1054,15 +1063,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>79949229</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-all-1573-rdf">
-  <title>German economy returns to growth, so why is the country still worried?</title>
-  <link>https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-all-1573-rdf</link>
-  <description>The German economy is growing again, albeit slightly. However, economists warn that without reforms, higher productivity and solid public finances, a loss of prosperity and growing debt threaten future generations.</description>
-  <dc:date>2026-11-15T16:12:00Z</dc:date>
-  <dc:subject>Germany</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>79932220</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/wolf-biermann-at-90-the-singer-who-defied-east-germany/a-79915297?maca=en-rss-en-all-1573-rdf">
   <title>Wolf Biermann at 90: The singer who defied East Germany</title>

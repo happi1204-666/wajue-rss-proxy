@@ -6,8 +6,8 @@
   <language>en</language>
   <description>Latest news from Euronews</description>
   <copyright>Euronews 2026</copyright>
-  <lastBuildDate>Thu, 26 Nov 2026 23:05:21 +0100</lastBuildDate>
-  <pubDate>Thu, 26 Nov 2026 23:05:21 +0100</pubDate>
+  <lastBuildDate>Fri, 27 Nov 2026 01:29:26 +0100</lastBuildDate>
+  <pubDate>Fri, 27 Nov 2026 01:29:26 +0100</pubDate>
   <ttl>30</ttl>
   <atom:link href="https://www.euronews.com/rss" rel="self" type="application/rss+xml"/>
   <image>
@@ -15,6 +15,13 @@
    <title>Latest News From Euronews | Euronews RSS</title>
    <link>https://www.euronews.com</link>
   </image>
+  <item>
+   <title>'A lot of political theatre': EU summit ends in disarray as leaders cling to red lines</title>
+   <link>https://www.euronews.com/2026/11/27/a-lot-of-political-theatre-eu-summit-ends-in-disarray-as-leaders-cling-to-red-lines</link>
+   <guid>https://www.euronews.com/2026/11/27/a-lot-of-political-theatre-eu-summit-ends-in-disarray-as-leaders-cling-to-red-lines</guid>
+   <pubDate>Fri, 27 Nov 2026 01:16:05 +0100</pubDate>
+   <description>António Costa's attempt to prod EU leaders into ditching their red lines on the budget fell flat on Thursday as talks turned messy and bitter.</description>
+  </item>
   <item>
    <title>Germany: Christmas markets open across the country amid tight security</title>
    <link>https://www.euronews.com/video/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security</link>
@@ -357,13 +364,6 @@
    <guid>https://www.euronews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says</guid>
    <pubDate>Thu, 26 Nov 2026 11:10:16 +0100</pubDate>
    <description>The United Kingdom reportedly sent a Sri Lankan refugee who had been convicted of sexual assault to Eswatini, where he committed suicide, as part of a secret deal, according to an investigation by the BBC.</description>
-  </item>
-  <item>
-   <title>Cheaper, generic HIV prevention drug arrives in Zambia</title>
-   <link>https://www.euronews.com/2026/11/26/cheaper-generic-hiv-prevention-drug-arrives-in-zambia</link>
-   <guid>https://www.euronews.com/2026/11/26/cheaper-generic-hiv-prevention-drug-arrives-in-zambia</guid>
-   <pubDate>Thu, 26 Nov 2026 10:58:25 +0100</pubDate>
-   <description>The rollout in Zambia is part of a plan to ensure people in lower-income countries can access the breakthrough HIV prevention drug.</description>
   </item>
  </channel>
 </rss>

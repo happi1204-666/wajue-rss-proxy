@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 22:46:19 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Nov 2026 21:50:07 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:42:19 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 04:21:50 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,8 +43,8 @@
       <description>More governments in Europe are telling citizens to prepare for emergencies. After unexpected disruptions, many are listening.</description>
       <dc:creator>Lynsey Chutel</dc:creator>
       <pubDate>Thu, 26 Nov 2026 18:23:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doomsday</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Communications and Media Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
@@ -174,7 +174,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html" rel="standout"></atom:link>
       <description>The city’s residents quietly mourned the 168 lives lost in a high-rise complex blaze a year ago, as officials warned against using the disaster to sow division.</description>
       <dc:creator>Anjali Tsui</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 09:06:03 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 09:06:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Apartment Complex Fire (Nov 2025)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -252,7 +252,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html" rel="standout"></atom:link>
       <description>Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.</description>
       <dc:creator>Javier C. Hernández and Pablo Robles</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 09:14:29 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 09:14:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
@@ -283,13 +283,13 @@
       <media:credit>Joao Silva/The New York Times</media:credit>
     </item>
     <item>
-      <title>Doug Ford Says He’d Use a Gun to Protect His Family</title>
+      <title>Ontario Premier Says He’d Use a Gun to Protect His Family</title>
       <link>https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html" rel="standout"></atom:link>
       <description>Recent home invasions have stirred unease in Toronto. On Thursday, the premier of Ontario said he would fire a gun in self-defense ‘in a heartbeat.’</description>
       <dc:creator>Vjosa Isai</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 21:36:15 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 21:36:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Self-Defense</category>
@@ -325,10 +325,13 @@
       <pubDate>Thu, 26 Nov 2026 10:04:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Courtney McCowan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Port Hardy (British Columbia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <media:content height="1191" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25xp-bc-er-03/25xp-bc-er-03-mediumSquareAt3X.jpg" width="1191"></media:content>
       <media:credit>Hailey Schubert</media:credit>
       <media:description>Courtney McCowan died after arriving at an emergency room in Port Hardy, British Columbia, minutes after it closed.</media:description>
@@ -340,7 +343,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/26/climate/seabirds-tracking-hidden-fishing-boats.html" rel="standout"></atom:link>
       <description>Researchers are using seabirds equipped with GPS and audio gear to detect vessels that operate with no tracking signals and to assess the environmental hazards they pose.</description>
       <dc:creator>Ryan Green</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 10:04:04 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 10:04:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fishing, Commercial</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
