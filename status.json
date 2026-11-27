@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T04:46:42Z",
+  "updated": "2026-11-27T14:41:37Z",
   "status": {
     "gl.nhk": {
       "ok": true,
@@ -388,10 +388,10 @@
       ]
     },
     "mp.bloomberg": {
-      "ok": true,
+      "ok": false,
       "name": "Bloomberg (arc RSS)",
-      "src": "https://news.google.com/rss/search?q=bloomberg&hl=en-US&gl=US&ceid=US:en",
-      "error": null,
+      "src": null,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests",
       "tried": [
         {
           "url": "https://www.bloomberg.com/arc/outboundfeeds/rss/",
@@ -405,8 +405,8 @@
         },
         {
           "url": "https://news.google.com/rss/search?q=bloomberg&hl=en-US&gl=US&ceid=US:en",
-          "ok": true,
-          "err": null
+          "ok": false,
+          "err": "HTTPError: HTTP Error 429: Too Many Requests"
         }
       ],
       "tags": [
