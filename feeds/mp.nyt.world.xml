@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 23:08:01 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Nov 2026 22:46:55 +0000</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:51:25 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 03:10:24 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -67,7 +67,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html" rel="standout"></atom:link>
       <description>If the polls are right, Santiago Abascal’s Vox party could become the first far-right group to join a Spanish government since the days of Franco.</description>
       <dc:creator>Jason Horowitz and Carlos Barragán</dc:creator>
-      <pubDate>Fri, 27 Nov 2026 14:45:20 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 14:45:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abascal, Santiago</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
@@ -109,9 +109,9 @@
       <link>https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html" rel="standout"></atom:link>
-      <description>The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen a test of whether the country’s independent press can survive.</description>
+      <description>The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen as a test of whether the country’s independent press can survive.</description>
       <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Fri, 27 Nov 2026 10:02:40 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 00:21:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
@@ -158,7 +158,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html" rel="standout"></atom:link>
       <description>In a landmark decision, the Supreme Court backed the province’s use of a constitutional override while leaving the door open to future legal scrutiny.</description>
       <dc:creator>Norimitsu Onishi</dc:creator>
-      <pubDate>Fri, 27 Nov 2026 21:17:11 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 21:17:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
@@ -183,9 +183,9 @@
       <link>https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html" rel="standout"></atom:link>
-      <description>Caught between by rising costs and price regulations, French booksellers are closing at a record pace, depriving new authors of vital shelf space.</description>
+      <description>Caught between rising costs and price regulations, French booksellers are closing at a record pace, depriving new authors of vital shelf space.</description>
       <dc:creator>Giulia Imbert</dc:creator>
-      <pubDate>Fri, 27 Nov 2026 15:26:55 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 23:11:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
@@ -308,7 +308,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html" rel="standout"></atom:link>
       <description>Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 21:40:09 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 21:40:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mandelson, Peter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
@@ -322,13 +322,32 @@
       <media:description>Peter Mandelson, then the British ambassador to the United States, at his official residence in Washington last year.</media:description>
     </item>
     <item>
+      <title>Police Link Release of Substance at Don Toliver Concert to Robbery Attempts</title>
+      <link>https://www.nytimes.com/2026/11/27/world/europe/don-toliver-manchester-substance-robberies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/27/world/europe/don-toliver-manchester-substance-robberies.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/27/world/europe/don-toliver-manchester-substance-robberies.html" rel="standout"></atom:link>
+      <description>The police in Manchester, England, said they believed “organized criminals targeted people in the crowd to commit a series of robberies” during the concert on Sunday night.</description>
+      <dc:creator>Amanda Holpuch</dc:creator>
+      <pubDate>Fri, 27 Nov 2026 23:24:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Manchester Arena Bombing (May, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Toliver, Don (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manchester (England)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/27/multimedia/27xp-manchester-fkzm/27xp-manchester-fkzm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ryan Jenkinson/Getty Images</media:credit>
+      <media:description>A concert in Manchester, England, by the rapper Don Toliver was canceled mid-performance on Sunday after some in the crowd began feeling the effects of what the police called “an unknown substance.”</media:description>
+    </item>
+    <item>
       <title>Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways</title>
       <link>https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html" rel="standout"></atom:link>
       <description>‘Heal,’ a 30-minute authorized documentary released this week, offers glimpses into Catherine’s recovery since her 2024 cancer diagnosis and treatment.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Fri, 27 Nov 2026 22:46:55 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 01:35:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
@@ -1198,25 +1217,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Prime Minister Ali al-Zaidi of Iraq speaking at the United Nations General Assembly in New York in September.</media:description>
-    </item>
-    <item>
-      <title>Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say</title>
-      <link>https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html" rel="standout"></atom:link>
-      <description>The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.</description>
-      <dc:creator>Zane Irwin and Vivian Nereim</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 19:18:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Investment Fund (Saudi Arabia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <media:content height="1304" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24Saudi-tower-qhtf/24Saudi-tower-qhtf-mediumSquareAt3X.jpg" width="1304"></media:content>
-      <media:credit>Reuters</media:credit>
-      <media:description>The financial district in Riyadh, Saudi Arabia, last month.</media:description>
     </item>
   </channel>
 </rss>
